@@ -3,9 +3,8 @@ languageCode = "fr-FR"
 title = "Devfest Toulouse 2019"
 
 # Theme
-theme = "test-theme-hugo"
-# theme = "ananke"
-
+#theme = "test-theme-hugo"
+theme = "ga-hugo-theme"
 
 # Params
 

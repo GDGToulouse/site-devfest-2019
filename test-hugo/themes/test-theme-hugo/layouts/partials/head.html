@@ -15,8 +15,8 @@
     <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
     {{ end }}
 
-    {{ block "favicon" . }}
-    {{ partial "site-favicon.html" . }}
+    {{ if .Site.Params.favicon }}
+    <link rel="shortcut icon" href="/{{ .Site.Params.favicon }}" type="image/x-icon" />
     {{ end }}
 
     {{ if .RSSLink }}
