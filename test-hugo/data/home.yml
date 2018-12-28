@@ -1,0 +1,25 @@
+info: >-
+  Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles.
+what:
+  - label: Participants
+    value: 700
+  - label: Journée
+    value: 1
+  - label: Sessions
+    value: 36
+  - label: Tracks en parallèle
+    value: 4
+
+speakers:
+  top:
+    - laurent_victorino
+    - quentin_adam
+    - jimenez_raul
+    - estelle_landry
+    - laurent_wroblewski
+    - hubert_sablonniere
+    - david_gageot
+    - sylvain_wallez
+    - philippe_charriere
+    - horacio_gonzalez
+  otherspeakers: true

@@ -1,0 +1,19 @@
+body > main {
+
+  & > section {
+    padding: 2rem;
+
+    &.primary {
+      background-color: var(--primary);
+      color: var(--primary-txt);
+    }
+
+    & > h2 {
+      margin-bottom: 1.5rem;
+      padding: 0;
+      font-size: 2rem;
+      line-height: 1.875rem;
+      font-weight: 300;
+    }
+  }
+}

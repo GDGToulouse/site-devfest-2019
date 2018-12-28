@@ -1,0 +1,10 @@
+<section class="partners-group {{ .style }}">
+	<h3 class="fancy">
+		<span>{{ .title }}</span>
+	</h3>
+	<ul>
+		{{ range .logos }}
+		<li>{{ partial "partner.html" . }}</li>
+		{{ end }}
+	</ul>
+</section>

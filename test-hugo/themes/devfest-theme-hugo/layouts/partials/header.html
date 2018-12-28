@@ -1,0 +1,19 @@
+<header>
+	<div class="logo">
+		<a href="/">
+			<img src="{{ .Site.Params.logos.header }}" alt="logo {{ .Site.Title }}">
+		</a>
+	</div>
+
+	<nav>
+		{{ $url := .URL }}
+		{{ range .Site.Data.toolbar.menus }}
+		{{ if (hasPrefix .url "http") }}
+		<a class="external" href="{{ .url }}" target="_blank" >{{ .name }}</a>
+		{{ else }}
+		<a class="{{ if (eq .url $url) }}active{{ end }}" href="{{ .url }}">{{ .name }}</a>
+		{{ end }}
+		{{ end }}
+	</nav>
+
+</header>

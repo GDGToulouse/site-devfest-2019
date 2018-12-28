@@ -1,0 +1,26 @@
+button, a.btn, span.btn {
+  border: thin solid var(--darken-2);
+  background: var(--darken-1);
+  padding: var(--space-3);
+  color: inherit;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: .875rem;
+  font-weight: 100;
+  cursor: pointer;
+
+  &.primary {
+    background-color: var(--primary);
+    color: var(--primary-txt);
+    text-shadow: var(--extruded);
+  }
+
+}
+
+form:invalid button,
+button[aria-disabled],
+a.btn[aria-disabled],
+span.btn[aria-disabled] {
+  opacity: .5;
+  cursor: not-allowed;
+}

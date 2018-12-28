@@ -1,0 +1,15 @@
+menus:
+  - name: Accueil
+    url: /
+  - name: Progamme
+    url: /schedule/
+  - name: Speakers
+    url: /speakers/
+  - name: Équipe
+    url: /team/
+  - name: Blog
+    url: /blog/
+  - name: FAQ
+    url: /faq/
+  - name: Jobs
+    url: https://jobs.devfesttoulouse.fr/

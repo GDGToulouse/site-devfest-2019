@@ -1,0 +1,52 @@
+.home {
+  section.info > div {
+    display: flex;
+
+    .numbers {
+      margin: 0 2rem;
+      min-width: 33vw;
+      justify-content: center;
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      grid-column-gap: 2rem;
+    }
+
+    .number {
+      strong {
+        font-size: 3.5rem;
+        font-weight: 100;
+
+        &::after {
+          content: '';
+          display: block;
+          height: .125rem;
+          width: 2rem;
+          background-color: var(--primary);
+        }
+      }
+
+      div {
+        margin: var(--space-1) 0;
+      }
+    }
+  }
+
+  section.speakers {
+    // Keep only 4 first speakers
+    ul li:nth-child(n+5) {
+      display: none;
+    }
+  }
+
+  section.subscribe {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  section.tickets {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}

@@ -1,0 +1,16 @@
+#TableOfContents ul li {
+  list-style: none;
+  font-size: 1rem;
+  margin: var(--space-1) 0;
+  padding: var(--space-1) 0;
+
+  a {
+    color: var(--primary);
+    text-decoration: none;
+
+    &:focus, &:hover {
+      text-decoration: underline;
+
+    }
+  }
+}

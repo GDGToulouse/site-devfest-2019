@@ -1,0 +1,20 @@
+.page.code-of-conduct .content {
+  margin: 2rem 4rem;
+
+  p {
+    margin-left: 1rem;
+    line-height: 1.25;
+
+    &::first-letter {
+      margin-left: 1rem;
+    }
+  }
+
+  ul {
+    margin-left: 2rem;
+
+    li {
+      line-height: 1.25;
+    }
+  }
+}

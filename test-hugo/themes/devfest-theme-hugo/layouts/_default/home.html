@@ -1,0 +1,100 @@
+{{ define "main" }}
+
+{{ .Content }}
+
+{{ if .Params.info }}
+<section class="info">
+	<h2>Le DevFest Toulouse, c'est quoi ?</h2>
+	<div>
+		<p>{{ .Site.Data.home.info }}</p>
+		{{ if .Site.Data.home.what }}
+		<div class="numbers">
+			{{range .Site.Data.home.what }}
+			<div class="number">
+				<strong>{{ .value }}</strong>
+				<div>{{ .label }}</div>
+			</div>
+			{{ end }}
+		</div>
+		{{ end }}
+	</div>
+</section>
+{{ end }}
+
+
+{{ if .Params.speakers }}
+<section class="speakers">
+	<h2>Rockstar speakers</h2>
+	{{ if .Site.Data.home.speakers.top }}
+	<ul class="shuffle">
+		{{ $speakers := .Site.Data.speakers }}
+		{{ range .Site.Data.home.speakers.top }}
+		{{ range where $speakers "id" . }}
+		<li>
+			{{ partial "speaker.html" . }}
+		</li>
+		{{ end }}
+		{{ end }}
+	</ul>
+	{{ end }}
+	{{ if .Site.Data.home.speakers.otherspeakers }}
+	<a class="btn primary" href="/speakers/">Voir tous les speakers</a>
+	{{ end }}
+</section>
+{{ end }}
+
+
+{{ if .Params.subscribe }}
+<section class="subscribe primary">
+	<h2>Soyez notifié des dernières informations !</h2>
+	<button class="inverse" id="btnSubscribe">Souscrire</button>
+</section>
+{{ end }}
+
+{{ if .Params.tickets }}
+<section class="tickets">
+	<h2>Billets</h2>
+	<a class="btn primary" target="_blank" href="https://www.billetweb.fr/devfest-toulouse-2019">Billeterie</a>
+
+	<ul>
+		{{range .Site.Data.tickets }}
+		<li>{{ partial "ticket.html" . }}</li>
+		{{ end }}
+	</ul>
+
+	<p>
+		<small>
+			* Votre billet vous donne accès à toutes les conférences, aux pauses café, et au repas. L'hébergement n'est PAS
+			inclus dans ce prix.
+		</small>
+	</p>
+</section>
+{{ end }}
+
+
+{{ if .Params.location }}
+<section class="location primary">
+	<h2>Le lieu</h2>
+	<h3>{{ .Site.Data.location.name }}</h3>
+	<p>{{ .Site.Data.location.description }}</p>
+	<p>
+		{{ .Site.Data.location.address }}
+		{{ if .Site.Data.location.pointer }}
+		<a class="btn btn-icon-only icon-direction"
+		   href="https://www.google.com/maps/dir/?api=1&destination={{ .Site.Data.location.pointer.latitude }},{{ .Site.Data.location.pointer.longitude }}">Itinéraire</a>
+		{{ end }}
+	</p>
+</section>
+{{ end }}
+
+
+{{ if .Params.partners }}
+<section class="partners">
+	<h2>Partenaires</h2>
+	{{ range .Site.Data.partners }}
+	{{partial "partnersgroup.html" . }}
+	{{ end }}
+</section>
+{{ end }}
+
+{{ end }}

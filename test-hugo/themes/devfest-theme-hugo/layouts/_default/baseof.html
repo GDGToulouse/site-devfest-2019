@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.LanguageCode | default " en" }}">
+{{ partial "head.html" . }}
+
+<body class="{{ .Kind }} {{ anchorize .URL }}">
+
+{{ block "header" . }}
+	{{ partial "header.html" . }}
+{{ end }}
+
+<main>
+	{{ block "main" . }}
+	{{ end }}
+</main>
+
+{{ block "footer.html" . }}
+	{{ partial "footer.html" . }}
+{{ end }}
+
+
+{{ block "scripts" . }}
+{{ $base := resources.Get "script/base.js" }}
+{{ $subscription := resources.Get "script/subscription.js" }}
+{{ $shuffle := resources.Get "script/shuffle.js" }}
+
+{{ $js := slice $base $subscription $shuffle | resources.Concat "script/main.js" }}
+<script src="{{ $js.Permalink }}"></script>
+{{ end }}
+</body>
+
+</html>

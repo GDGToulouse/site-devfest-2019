@@ -29,6 +29,6 @@
   available: true
   inDemand: false
   regular: true
-  soldOut: true
+  soldOut: false
   url: 'https://www.billetweb.fr/devfest-toulouse-2018'
   primary: true

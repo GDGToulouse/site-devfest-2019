@@ -1,0 +1,51 @@
+
+.tickets ul {
+  list-style: none;
+  display: grid;
+  grid-auto-columns: 1fr;
+  grid-gap: 1rem;
+  grid-auto-flow: column;
+
+
+  li .ticket {
+    padding: 2rem var(--space-3);
+    border: thin solid var(--darken-1);
+    box-shadow: var(--space-1) var(--space-1) var(--space-2) var(--darken-2);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+    color: inherit;
+
+    &[aria-disabled] {
+      opacity: .5;
+      filter: grayscale(1);
+      cursor: not-allowed;
+    }
+
+
+    .ticket-name {
+      font-size: 1rem;
+    }
+
+    .ticket-price {
+      font-size: 3.5rem;
+      color: var(--primary);
+      font-weight: 200;
+    }
+
+    .ticket-date, .ticket-info {
+      font-size: .75rem;
+      color: var(--darken-3);
+    }
+
+    .btn {
+      margin: 1rem;
+    }
+  }
+}
+
+
+
+
+

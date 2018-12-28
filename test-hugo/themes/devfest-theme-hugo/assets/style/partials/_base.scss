@@ -1,0 +1,37 @@
+html {
+  box-sizing: border-box;
+  font-family: var(--font-family);
+  background: var(--darken-1);
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+*:focus {
+  outline: thin dotted var(--darken-3);
+  outline-offset: var(--space-1);
+}
+
+body {
+  background: var(--base);
+  color: var(--base-text);
+  margin: var(--toolbar-height) 0 0;
+  display: flex;
+  flex-direction: column;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  font-weight: normal;
+}
+
+
+.content {
+  a, a:visited {
+    color: var(--primary);
+  }
+
+}
