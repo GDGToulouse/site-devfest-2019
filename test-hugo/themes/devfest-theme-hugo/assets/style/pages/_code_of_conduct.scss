@@ -1,12 +1,14 @@
 .page.code-of-conduct .content {
-  margin: 2rem 4rem;
+  margin: 2rem var(--container-margin);
+  padding-left: 0;
+  padding-right: 0;
 
   p {
-    margin-left: 1rem;
-    line-height: 1.25;
+    margin-left: var(--space-4);
+    text-align: justify;
 
     &::first-letter {
-      margin-left: 1rem;
+      margin-left: var(--space-4);
     }
   }
 

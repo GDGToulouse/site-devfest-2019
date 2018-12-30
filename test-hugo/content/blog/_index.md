@@ -1,1 +1,3 @@
-# Blogs
+---
+title: Blog
+---

@@ -1,4 +1,14 @@
 .home {
+
+
+  section > h2 {
+    margin-bottom: 1.5rem;
+    padding: 0;
+    font-size: 2rem;
+    line-height: 1.875rem;
+    font-weight: 300;
+  }
+
   section.info > div {
     display: flex;
 
@@ -32,9 +42,18 @@
   }
 
   section.speakers {
-    // Keep only 4 first speakers
-    ul li:nth-child(n+5) {
-      display: none;
+
+    ul {
+      list-style: none;
+      display: flex;
+      justify-content: space-around;
+      align-items: flex-start;
+      flex-wrap: wrap;
+
+      // Keep only 4 first speakers
+      li:nth-child(n+5) {
+        display: none;
+      }
     }
   }
 

@@ -3,9 +3,8 @@
   list-style: none;
   display: grid;
   grid-auto-columns: 1fr;
-  grid-gap: 1rem;
-  grid-auto-flow: column;
-
+  grid-gap: var(--space-4);
+  grid-auto-flow: column; // FIXME responsive
 
   li .ticket {
     padding: 2rem var(--space-3);
@@ -40,7 +39,7 @@
     }
 
     .btn {
-      margin: 1rem;
+      margin: var(--space-4);
     }
   }
 }

@@ -2,7 +2,7 @@
 <html lang="{{ $.Site.LanguageCode | default " en" }}">
 {{ partial "head.html" . }}
 
-<body class="{{ .Kind }} {{ anchorize .URL }}">
+<body class="{{ .Kind }} {{ anchorize .URL }} {{ .Section }}">
 
 {{ block "header" . }}
 	{{ partial "header.html" . }}

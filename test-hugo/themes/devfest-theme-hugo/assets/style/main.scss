@@ -20,10 +20,10 @@
 	--color-gold: #b7935b;
 	--color-error: firebrick;
 
-
 	--space-1: .125rem;
 	--space-2: .25rem;
 	--space-3: .5rem;
+	--space-4: 1rem;
 
 	--container-margin: 10vw;
 	--toolbar-height: 3rem;
@@ -31,8 +31,6 @@
 	--font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
 	Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 	/*--font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
-
-	--extruded: 1px 0 0 var(--darken-3);
 
 	/* Tags */
 	/*from https://github.com/d3/d3-scale-chromatic#schemePastel2*/
@@ -53,18 +51,18 @@
 
 	--animation: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 
+	--extruded: 1px 0 0 var(--darken-3);
+
 	--box-shadow-1: 0 0 2px 0 rgba(0, 0, 0, 0.07), 0 2px 2px 0 rgba(0, 0, 0, 0.15);
 	--box-shadow-2: 0 3px 3px -2px rgba(0, 0, 0, 0.2), 0 3px 4px 0 rgba(0, 0, 0, 0.14), 0 1px 8px 0 rgba(0, 0, 0, 0.12);
 }
-
-/* base */
-
 
 @import "partials/base";
 @import "partials/header";
 @import "partials/main";
 @import "partials/footer";
 @import "partials/buttons";
+@import "partials/socials";
 @import "partials/jumbo";
 @import "partials/hero";
 @import "partials/table_of_contents";
@@ -73,7 +71,12 @@
 @import "partials/partners";
 
 @import "pages/home";
+@import "pages/sessions";
+@import "pages/session";
 @import "pages/speakers";
+@import "pages/speaker";
+@import "pages/blogs";
+@import "pages/blog";
 @import "pages/team";
 @import "pages/faq";
 @import "pages/code_of_conduct";

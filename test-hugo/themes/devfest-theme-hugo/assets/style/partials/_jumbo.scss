@@ -7,7 +7,7 @@
   align-items: center;
 
   .inner {
-    padding: 1rem;
+    padding: var(--space-4);
     color: var(--primary-txt);
     background: var(--darken-2);
     border-radius: var(--space-3);

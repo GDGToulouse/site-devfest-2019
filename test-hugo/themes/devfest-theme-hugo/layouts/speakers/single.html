@@ -1,0 +1,48 @@
+{{ define "main" }}
+
+<div class="hero">
+
+	<header>
+		<div class="speaker-img" style="background-image: url({{ .Page.Params.photo }});"></div>
+		<div>
+			<h1>{{ .Page.Params.name }}</h1>
+
+			<ul class="socials">
+				{{ range .Page.Params.socials }}
+				<li>
+					<a class="social-{{ .icon }}" href="{{ .link }}" target="_blank">{{ .name }}</a>
+				</li>
+				{{ end }}
+			</ul>
+		</div>
+	</header>
+
+	<div class="description">
+		<ul>
+			{{ range sort (where .Site.Data.sessions "speakers" "intersect" (slice .Page.Params.id)) "id" "desc" }}
+			<li><a href="/sessions/{{ .id }}">
+				{{ .title }}
+			</a></li>
+			{{ end }}
+		</ul>
+	</div>
+</div>
+
+<section class="speaker">
+
+	<header>
+		<figure class="speaker-company">
+			<img src="{{ .Page.Params.companyLogo }}" alt="{{ .Page.Params.company }}">
+			<figcaption>{{ .Page.Params.company }}</figcaption>
+		</figure>
+		<h2>{{ .Page.Params.country }}</h2>
+	</header>
+
+	<div class="bio">
+		{{ .Content }}
+	</div>
+
+</section>
+
+
+{{ end }}

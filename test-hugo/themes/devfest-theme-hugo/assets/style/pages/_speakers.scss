@@ -1,6 +1,7 @@
 .section.speakers {
 
   ul.speakers {
+    list-style: none;
     padding: 0;
     margin: 0;
     display: grid;
@@ -8,14 +9,17 @@
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 
     li a.speaker {
-      padding: 1rem;
+      padding: var(--space-4);
       border: thin solid var(--darken-1);
       box-shadow: var(--space-1) var(--space-1) var(--space-2) var(--darken-2);
+      transition: box-shadow var(--animation);
+      border-radius: var(--space-2);
       display: flex;
       flex-direction: row;
+      height: 100%;
 
       .speaker-img {
-        margin-right: 1rem;
+        margin-right: var(--space-4);
       }
 
       .speaker-company {
@@ -28,9 +32,8 @@
         }
       }
 
-
       &:hover, &:focus {
-        box-shadow: var(--box-shadow-2);
+        box-shadow: var(--space-2) var(--space-2) var(--space-2) var(--darken-3);
       }
     }
   }
