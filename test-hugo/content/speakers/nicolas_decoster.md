@@ -2,13 +2,19 @@
 id: nicolas_decoster
 name: Nicolas Decoster
 company: Magellium
-companyLogo: /images/speakers/company/magellium.jpg
-country: 'Toulouse, France'
+featured: false
 photo: /images/speakers/nicolas_decoster.jpg
+photoUrl: /images/speakers/nicolas_decoster.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/nnodot'
     name: '@nnodot'
+shortBio: >-
+  Developer for science and other stuff, work for Magellium, co-founder of
+  @CompagnieDuCode
+companyLogo: /images/speakers/company/magellium.jpg
+companyLogoUrl: /images/speakers/company/magellium.jpg
+country: 'Toulouse, France'
 
 ---
 

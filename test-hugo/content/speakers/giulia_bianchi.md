@@ -2,9 +2,9 @@
 id: giulia_bianchi
 name: Giulia Bianchi
 company: Xebia
-companyLogo: /images/speakers/company/xebia.jpg
-country: 'Paris, France'
+featured: false
 photo: /images/speakers/giulia_bianchi.jpg
+photoUrl: /images/speakers/giulia_bianchi.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/Giuliabianchl'
@@ -12,6 +12,13 @@ socials:
   - icon: github
     link: 'https://github.com/giulbia'
     name: giulbia
+shortBio: >-
+  Data scientist @XebiaFr, organising http://dataxday.fr/ , writing
+  https://blog.xebia.fr , coding https://github.com/giulbia . Doing a lot of
+  other stuff
+companyLogo: /images/speakers/company/xebia.jpg
+companyLogoUrl: /images/speakers/company/xebia.jpg
+country: 'Paris, France'
 
 ---
 

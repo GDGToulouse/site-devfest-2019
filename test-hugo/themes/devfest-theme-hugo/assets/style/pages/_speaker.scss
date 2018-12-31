@@ -29,16 +29,43 @@
         list-style: none;
         padding: 0;
         margin: 0;
+        font-size: 1.25em;
+
         li {
           padding-right: var(--space-4);
         }
       }
     }
 
+
+    .description {
+      .talks {
+        padding-left: 0;
+        list-style: none;
+
+        .talk {
+          border: thin solid var(--darken-1);
+          display: inline-flex;
+          padding: var(--space-2);
+          border-radius: var(--space-1);
+
+          .tags, .language {
+            margin-right: 1ch;
+          }
+          .tags {
+            white-space: nowrap;
+            align-self: center;
+          }
+
+          &.tag- {
+            display: none;
+          }
+        }
+      }
     }
+  }
 
   section.speaker {
-    padding: var(--space-4) var(--container-margin);
 
     header {
       display: flex;

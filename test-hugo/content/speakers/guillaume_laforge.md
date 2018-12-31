@@ -2,9 +2,9 @@
 id: guillaume_laforge
 name: Guillaume Laforge
 company: Google
-companyLogo: /images/speakers/company/google.jpg
-country: 'Paris, France'
+featured: false
 photo: /images/speakers/guillaume_laforge.jpeg
+photoUrl: /images/speakers/guillaume_laforge.jpeg
 socials:
   - icon: twitter
     link: 'https://twitter.com/glaforge'
@@ -12,6 +12,13 @@ socials:
   - icon: github
     link: 'https://github.com/glaforge'
     name: glaforge
+shortBio: >-
+  Developer Advocate at @Google for @GoogleCloud during the day, and
+  @ApacheGroovy programming language project PMC Chair & @java_champions at
+  night
+companyLogo: /images/speakers/company/google.jpg
+companyLogoUrl: /images/speakers/company/google.jpg
+country: 'Paris, France'
 
 ---
 

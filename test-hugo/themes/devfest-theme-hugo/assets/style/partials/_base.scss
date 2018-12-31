@@ -29,14 +29,26 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
 }
 
+hr {
+  border-color: var(--darken-1);
+  opacity: .25;
+}
+
 p {
   line-height: 1.25;
 }
 
+a, a:visited {
+  color: inherit;
+  text-decoration: none;
+}
 
-.content {
+.content {🇬🇧
   a, a:visited {
     color: var(--primary);
   }
+}
 
+.language.english::before {
+  content: '🇬🇧';
 }

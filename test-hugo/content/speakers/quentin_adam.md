@@ -1,10 +1,14 @@
 ---
 id: quentin_adam
 name: Quentin Adam
+shortBio: CEO @ Clever Cloud
 company: Clever Cloud
 companyLogo: /images/speakers/company/clever_cloud.png
+companyLogoUrl: /images/speakers/company/clever_cloud.png
 country: 'Nantes, France'
+featured: true
 photo: /images/speakers/quentin_adam.jpg
+photoUrl: /images/speakers/quentin_adam.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/waxzce'
@@ -12,6 +16,7 @@ socials:
   - icon: github
     link: 'https://github.com/waxzce'
     name: waxzce
+title: CEO
 
 ---
 

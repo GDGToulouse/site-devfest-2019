@@ -2,13 +2,17 @@
 id: alexandre_delattre
 name: Alexandre Delattre
 company: MonkeyPatch
-companyLogo: /images/speakers/company/monkeypatch.jpg
-country: 'Toulouse, France'
+featured: false
 photo: /images/speakers/alexandre_delattre.jpg
+photoUrl: /images/speakers/alexandre_delattre.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/alexandre_del31'
     name: '@alexandre_del31'
+shortBio: Software engineer at @MonkeyPatch. Functional programming enthusiast
+companyLogo: /images/speakers/company/monkeypatch.jpg
+companyLogoUrl: /images/speakers/company/monkeypatch.jpg
+country: 'Toulouse, France'
 
 ---
 

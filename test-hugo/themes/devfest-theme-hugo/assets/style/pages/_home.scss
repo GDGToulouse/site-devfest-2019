@@ -1,5 +1,9 @@
 .home {
 
+  main > section {
+    margin: 0;
+    padding: 2rem;
+  }
 
   section > h2 {
     margin-bottom: 1.5rem;
@@ -67,5 +71,27 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+  }
+
+  section.location {
+    position: relative;
+    background: var(--darken-1);
+    font-weight: 300;
+
+    .description {
+      display: inline-block;
+      padding: var(--space-4);
+      width: 400px;
+      position: absolute;
+      bottom: -2rem;
+      right: 2rem;
+      background-color: var(--primary);
+      color: var(--primary-txt);
+
+      .direction {
+        display: flex;
+        align-items: center;
+      }
+    }
   }
 }

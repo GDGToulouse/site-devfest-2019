@@ -2,9 +2,9 @@
 id: david_pilato
 name: David Pilato
 company: elastic
-companyLogo: /images/speakers/company/elastic.jpg
-country: France
+featured: false
 photo: /images/speakers/david_pilato.jpg
+photoUrl: /images/speakers/david_pilato.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/dadoonet'
@@ -12,6 +12,12 @@ socials:
   - icon: github
     link: 'https://github.com/dadoonet'
     name: dadoonet
+shortBio: >-
+  developer | evangelist @ elastic Enjoying NoSQL world, DeeJay 4 times a year,
+  just for fun ! http://bit.ly/IixwIh
+companyLogo: /images/speakers/company/elastic.jpg
+companyLogoUrl: /images/speakers/company/elastic.jpg
+country: France
 
 ---
 

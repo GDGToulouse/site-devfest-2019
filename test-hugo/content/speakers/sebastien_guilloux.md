@@ -2,9 +2,9 @@
 id: sebastien_guilloux
 name: Sébastien Guilloux
 company: Elastic
-companyLogo: /images/speakers/company/elastic.jpg
-country: 'Toulouse, France'
+featured: false
 photo: /images/speakers/sebastien_guilloux.jpg
+photoUrl: /images/speakers/sebastien_guilloux.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/_sebgl'
@@ -12,6 +12,10 @@ socials:
   - icon: github
     link: 'https://github.com/sebgl'
     name: sebgl
+shortBio: Software developer. Music lover. I do french puns
+companyLogo: /images/speakers/company/elastic.jpg
+companyLogoUrl: /images/speakers/company/elastic.jpg
+country: 'Toulouse, France'
 
 ---
 

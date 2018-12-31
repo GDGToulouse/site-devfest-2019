@@ -2,9 +2,9 @@
 id: ane_diaz_de_tuesta
 name: Ane DIAZ DE TUESTA
 company: Lectra
-companyLogo: /images/speakers/company/lectra.jpg
-country: 'Bordeaux, France'
+featured: false
 photo: /images/speakers/ane_diaz_de_tuesta.jpg
+photoUrl: /images/speakers/ane_diaz_de_tuesta.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/ane_naiz'
@@ -17,6 +17,12 @@ socials:
       https://www.linkedin.com/in/ane-diaz-de-tuesta-37785252,
       http://anediaz.com/
     name: LinkedIn
+shortBio: >-
+  #OpenMinded #travelling #Agile #Sport . @LectraFashion Web Developer
+  http://www.anediaz.com 
+companyLogo: /images/speakers/company/lectra.jpg
+companyLogoUrl: /images/speakers/company/lectra.jpg
+country: 'Bordeaux, France'
 
 ---
 

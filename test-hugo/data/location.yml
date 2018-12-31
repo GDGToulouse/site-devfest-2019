@@ -6,6 +6,4 @@ pointer:
   latitude: 43.6110956
   longitude: 1.4332799
   zoom: 5
-mapCenter:
-  latitude: 48,
-  longitude: 8
+mapCenter: 48,8

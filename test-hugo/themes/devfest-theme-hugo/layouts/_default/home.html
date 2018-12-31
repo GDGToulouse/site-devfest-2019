@@ -27,13 +27,10 @@
 	<h2>Rockstar speakers</h2>
 	{{ if .Site.Data.home.speakers.top }}
 	<ul class="shuffle">
-		{{ $speakers := .Site.Data.speakers }}
-		{{ range .Site.Data.home.speakers.top }}
-		{{ range where $speakers "id" . }}
+		{{ range where .Site.RegularPages "Params.id" "in" .Site.Data.home.speakers.top }}
 		<li>
 			{{ partial "speaker.html" . }}
 		</li>
-		{{ end }}
 		{{ end }}
 	</ul>
 	{{ end }}
@@ -73,17 +70,30 @@
 
 
 {{ if .Params.location }}
-<section class="location primary">
-	<h2>Le lieu</h2>
-	<h3>{{ .Site.Data.location.name }}</h3>
-	<p>{{ .Site.Data.location.description }}</p>
-	<p>
-		{{ .Site.Data.location.address }}
-		{{ if .Site.Data.location.pointer }}
-		<a class="btn btn-icon-only icon-direction"
-		   href="https://www.google.com/maps/dir/?api=1&destination={{ .Site.Data.location.pointer.latitude }},{{ .Site.Data.location.pointer.longitude }}">Itinéraire</a>
-		{{ end }}
-	</p>
+<section class="location">
+		<iframe
+				src='https://www.google.com/maps/embed/v1/view?key={{ .Site.Params.googleMapsAPIKey }}&zoom={{ .Site.Data.location.pointer.zoom }}&center={{ .Site.Data.location.mapCenter }}'
+				frameborder="0"
+				scrolling="no"
+				width="100%"
+				height="400">
+		</iframe>
+
+
+	<div class="description">
+		<h2>Le lieu</h2>
+		<h3>{{ .Site.Data.location.name }}</h3>
+		<p>{{ .Site.Data.location.description }}</p>
+		<div class="direction">
+			{{ .Site.Data.location.address }}
+			{{ if .Site.Data.location.pointer }}
+			<a class="btn btn-icon-only icon-direction"
+			   target="_blank"
+			   aria-label="Itinéraire"
+			   href="https://www.google.com/maps/dir/?api=1&destination={{ .Site.Data.location.pointer.latitude }},{{ .Site.Data.location.pointer.longitude }}"></a>
+			{{ end }}
+		</div>
+	</div>
 </section>
 {{ end }}
 

@@ -43,6 +43,15 @@
 	--tag7: #f1e2cc;
 	--tag8: #cccccc;
 
+	--native-mobile-apps: var(--tag2);
+	--web: var(--tag6);
+	--method-tools: var(--tag5);
+	--big-data-ml-ai: var(--tag3);
+	--iot: var(--tag7);
+	--cloud: var(--tag4);
+	--languages: var(--tag1);
+	--wtf: var(--tag7);
+	--general: var(--tag8);
 
 	/* Partners */
 	--partner-support-height: 60px;
@@ -51,7 +60,8 @@
 
 	--animation: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 
-	--extruded: 1px 0 0 var(--darken-3);
+	--extruded-dark: 1px 0 0 var(--darken-3);
+	--extruded-light: 1px 0 0 var(--lighten-3);
 
 	--box-shadow-1: 0 0 2px 0 rgba(0, 0, 0, 0.07), 0 2px 2px 0 rgba(0, 0, 0, 0.15);
 	--box-shadow-2: 0 3px 3px -2px rgba(0, 0, 0, 0.2), 0 3px 4px 0 rgba(0, 0, 0, 0.14), 0 1px 8px 0 rgba(0, 0, 0, 0.12);
@@ -69,6 +79,8 @@
 @import "partials/speakers";
 @import "partials/tickets";
 @import "partials/partners";
+@import "partials/tags";
+@import "partials/type";
 
 @import "pages/home";
 @import "pages/sessions";

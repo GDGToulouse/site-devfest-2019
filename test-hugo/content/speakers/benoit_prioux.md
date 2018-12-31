@@ -2,9 +2,9 @@
 id: benoit_prioux
 name: Benoit PRIOUX
 company: Lectra
-companyLogo: /images/speakers/company/lectra.jpg
-country: 'Bordeaux, France'
+featured: false
 photo: /images/speakers/benoit_prioux.png
+photoUrl: /images/speakers/benoit_prioux.png
 socials:
   - icon: twitter
     link: 'https://twitter.com/binout'
@@ -12,6 +12,11 @@ socials:
   - icon: github
     link: 'https://github.com/binout'
     name: binout
+shortBio: 'Enthusiast Software Developer #java #kotlin #tdd #ddd #lectra'
+companyLogo: /images/speakers/company/lectra.jpg
+companyLogoUrl: /images/speakers/company/lectra.jpg
+country: 'Bordeaux, France'
+title: ''
 
 ---
 

@@ -18,24 +18,34 @@
 	</header>
 
 	<div class="description">
-		<ul>
-			{{ range sort (where .Site.Data.sessions "speakers" "intersect" (slice .Page.Params.id)) "id" "desc" }}
-			<li><a href="/sessions/{{ .id }}">
-				{{ .title }}
-			</a></li>
+
+		<ul class="talks">
+			{{ range where .Site.RegularPages "Params.speakers" "intersect" (slice .Page.Params.id) }}
+			<li>
+				<a href="{{ .URL }}" class="talk tag-{{ anchorize (delimit .Params.tags "" ) }}">
+				<div class="tags">
+					{{ range .Params.tags }}
+					<span>{{ . }}</span>
+					{{ end }}
+				</div>
+				<span class="language {{ anchorize .Params.language }}"></span>
+				<h3 class="text">{{ .Title }}</h3>
+				</a>
+			</li>
 			{{ end }}
 		</ul>
+
 	</div>
 </div>
 
 <section class="speaker">
 
 	<header>
+		<h2>{{ .Page.Params.country }}</h2>
 		<figure class="speaker-company">
 			<img src="{{ .Page.Params.companyLogo }}" alt="{{ .Page.Params.company }}">
 			<figcaption>{{ .Page.Params.company }}</figcaption>
 		</figure>
-		<h2>{{ .Page.Params.country }}</h2>
 	</header>
 
 	<div class="bio">

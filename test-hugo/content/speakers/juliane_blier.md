@@ -2,9 +2,9 @@
 id: juliane_blier
 name: Juliane Blier
 company: SchoolMouv
-companyLogo: /images/speakers/company/schoolmouv.jpg
-country: 'Toulouse, France'
+featured: false
 photo: /images/speakers/juliane_blier.jpg
+photoUrl: /images/speakers/juliane_blier.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/tactless7'
@@ -12,6 +12,13 @@ socials:
   - icon: github
     link: 'https://github.com/Tactless7'
     name: Tactless7
+shortBio: >-
+  Développeuse Web, Amoureuse de Vuejs, Node et PHP, Curieuse de nouvelles
+  découvertes
+companyLogo: /images/speakers/company/schoolmouv.jpg
+companyLogoUrl: /images/speakers/company/schoolmouv.jpg
+country: 'Toulouse, France'
+title: ''
 
 ---
 

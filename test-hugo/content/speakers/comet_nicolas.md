@@ -2,9 +2,9 @@
 id: comet_nicolas
 name: Nicolas Comet
 company: Lectra
-companyLogo: /images/speakers/company/lectra.jpg
-country: 'Bordeaux, France'
+featured: false
 photo: /images/speakers/comet_nicolas.jpg
+photoUrl: /images/speakers/comet_nicolas.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/NicolasComet'
@@ -15,6 +15,12 @@ socials:
   - icon: linkedin
     link: 'https://www.linkedin.com/in/nicolascomet/'
     name: LinkedIn
+shortBio: >-
+  Software #developer @LectraOfficial Conference #speaker, All opinions are
+  eventually someone’s
+companyLogo: /images/speakers/company/lectra.jpg
+companyLogoUrl: /images/speakers/company/lectra.jpg
+country: 'Bordeaux, France'
 
 ---
 

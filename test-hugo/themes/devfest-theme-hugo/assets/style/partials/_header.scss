@@ -36,7 +36,7 @@ body > header {
       border-radius: 5%;
 
       &:focus, &:hover {
-        text-shadow: var(--extruded);
+        text-shadow: var(--extruded-dark);
         opacity: .75;
       }
 

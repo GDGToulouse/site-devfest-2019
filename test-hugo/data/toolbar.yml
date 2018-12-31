@@ -1,8 +1,10 @@
 menus:
   - name: Accueil
     url: /
-  - name: Progamme
-    url: /schedule/
+#  - name: Progamme
+#    url: /schedule/
+  - name: Sessions
+    url: /talks/
   - name: Speakers
     url: /speakers/
   - name: Équipe

@@ -1,10 +1,16 @@
 ---
 id: jimenez_raul
 name: Raúl Jiménez
+shortBio: >-
+  Software Engineer @toptalllc / #Angular @Google Developer Expert / Creator of
+  Videogular
 company: Google Developer Expert
 companyLogo: /images/speakers/company/gde.jpg
+companyLogoUrl: /images/speakers/company/gde.jpg
 country: 'Barcelona, Spain'
+featured: true
 photo: /images/speakers/raul_jimenez.png
+photoUrl: /images/speakers/raul_jimenez.png
 socials:
   - icon: twitter
     link: 'https://twitter.com/elecash'
@@ -12,6 +18,7 @@ socials:
   - icon: github
     link: 'https://github.com/elecash'
     name: elecash
+title: GDE
 
 ---
 

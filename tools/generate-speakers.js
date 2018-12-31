@@ -10,13 +10,13 @@ const writeOption = {
 const firebaseData = require('../test-hugo/data/firebase-data.json');
 
 const generateSpeakerData = (id, speaker) => {
-    const {name, bio, company, companyLogo, country, photo, socials} = speaker;
-    const frontMatter = {id, name, company, companyLogo, country, photo, socials};
+    const frontMatter = {id, ...speaker};
+    delete frontMatter.bio;
     return `---
 ${yaml.safeDump(frontMatter, {skipInvalid: true})}
 ---
 
-${bio}
+${speaker.bio}
 `;
 };
 

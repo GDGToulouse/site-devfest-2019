@@ -1,10 +1,16 @@
 ---
 id: horacio_gonzalez
 name: Horacio Gonzalez
+shortBio: >-
+  Spaniard lost in Brittany, coder, dreamer and all-around geek - #DevRel @ovh
+  -@Warp10io contributor - #Polymer & #Flutter @GoogleDevExpert - @FinistDevs
 company: OVH
 companyLogo: /images/speakers/company/ovh.jpg
+companyLogoUrl: /images/speakers/company/ovh.jpg
 country: 'Brittany, France'
+featured: true
 photo: /images/speakers/horacio_gonzalez.jpg
+photoUrl: /images/speakers/horacio_gonzalez.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/LostInBrittany'
@@ -12,6 +18,7 @@ socials:
   - icon: github
     link: 'https://github.com/LostInBrittany'
     name: LostInBrittany
+title: DevRel @ovh
 
 ---
 

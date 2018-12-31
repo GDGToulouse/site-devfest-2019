@@ -41,6 +41,7 @@ Bon, on ne va pas vous mentir, il est possible que cette liste évolue légèrem
 Nous vous en informerons aussi sur notre compte Twitter @DevFestToulouse .
  
 Pour les sujets, allez, on est sympa, on vous dit tout :
+
 * Ceinture noire Karate en tests d’API REST
 * Premiers pas avec Capacitor... dans le monde réel
 * Votre mission ? Découvrir Haskell et le mettre en prod

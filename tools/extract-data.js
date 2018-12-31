@@ -14,25 +14,10 @@ const writeToYml = (list, dest) => {
 };
 
 const firebaseData = require('../test-hugo/data/firebase-data.json');
-const identity = obj => obj;
-const idValue = obj =>
-    Object.entries(obj)
-        .map(([key, elt]) => ({
-            ...elt,
-            id: key
-        }));
 
-const dataExtractor = {
-    sessions: idValue,
-    speakers: idValue,
-    partners: identity,
-    team: identity,
-    tickets: identity,
-};
-
-Object.entries(dataExtractor)
-    .forEach(([key, value]) => {
+['partners', 'team', 'tickets']
+    .forEach(key => {
         const dest = path.join(__dirname, `../test-hugo/data/${key}.yml`);
-        const data = value(firebaseData[key]);
+        const data = firebaseData[key];
         writeToYml(data, dest);
     });

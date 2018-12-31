@@ -2,9 +2,9 @@
 id: robert_firek
 name: Robert Firek
 company: Codurance
-companyLogo: /images/speakers/company/codurance.jpg
-country: 'London, Royaume-Uni'
+featured: false
 photo: /images/speakers/robert_firek.jpg
+photoUrl: /images/speakers/robert_firek.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/RobertFirek'
@@ -12,6 +12,10 @@ socials:
   - icon: github
     link: 'https://github.com/robertfirek'
     name: robertfirek
+shortBio: Member of the London Java Community and Wrocław Java User Group.
+companyLogo: /images/speakers/company/codurance.jpg
+companyLogoUrl: /images/speakers/company/codurance.jpg
+country: 'London, Royaume-Uni'
 
 ---
 

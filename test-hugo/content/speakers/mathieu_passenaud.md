@@ -1,10 +1,14 @@
 ---
 id: mathieu_passenaud
 name: Mathieu Passenaud
+shortBio: Fondateur please-open.it
 company: please-open.it
 companyLogo: /images/speakers/company/please-open.png
+companyLogoUrl: /images/speakers/company/please-open.png
 country: 'Toulouse, France'
+featured: true
 photo: /images/speakers/mathieu_passenaud.png
+photoUrl: /images/speakers/mathieu_passenaud.png
 socials:
   - icon: twitter
     link: 'https://twitter.com/mathieupassenau'
@@ -12,6 +16,7 @@ socials:
   - icon: github
     link: 'https://github.com/mathieupassenaud'
     name: mathieupassenaud
+title: Fondateur
 
 ---
 

@@ -7,7 +7,8 @@
   "scripts": {
     "extract-data": "node tools/extract-data.js",
     "speakers": "node tools/generate-speakers.js",
-    "publish": "echo 'TODO: firebase deploy'",
+    "sessions": "node tools/generate-sessions.js",
+    "publish": "firebase deploy",
     "publish:prod": "echo 'TODO: firebase deploy -P devfest-prod'"
   },
   "devDependencies": {

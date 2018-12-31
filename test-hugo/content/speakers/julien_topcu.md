@@ -2,9 +2,9 @@
 id: julien_topcu
 name: Julien Topçu
 company: Société Générale & OWASP fundation
-companyLogo: /images/speakers/company/societe_generale.png
-country: 'Île-de-France, France'
+featured: false
 photo: /images/speakers/julien_topcu.jpeg
+photoUrl: /images/speakers/julien_topcu.jpeg
 socials:
   - icon: twitter
     link: 'https://twitter.com/JulienTopcu'
@@ -14,6 +14,10 @@ socials:
       https://www.linkedin.com/in/julien-top%C3%A7u/,
       https://beyondxscratch.wordpress.com/
     name: LinkedIn
+shortBio: Catalyst @SociétéGénérale OWASP Fundation member
+companyLogo: /images/speakers/company/societe_generale.png
+companyLogoUrl: /images/speakers/company/societe_generale.png
+country: 'Île-de-France, France'
 
 ---
 

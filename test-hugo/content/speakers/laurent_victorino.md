@@ -1,10 +1,14 @@
 ---
 id: laurent_victorino
 name: Laurent Victorino
+shortBio: Curious Video Game Developer
 company: Monkey Moon
 companyLogo: /images/speakers/company/monkey_moon.png
+companyLogoUrl: /images/speakers/company/monkey_moon.png
 country: 'Lyon, France'
+featured: true
 photo: /images/speakers/laurent_victorino.jpg
+photoUrl: /images/speakers/laurent_victorino.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/on_code'
@@ -12,6 +16,7 @@ socials:
   - icon: github
     link: 'https://github.com/lvictorino'
     name: lvictorino
+title: Video Game Developer
 
 ---
 

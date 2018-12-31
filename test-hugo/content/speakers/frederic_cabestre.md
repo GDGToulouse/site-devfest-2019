@@ -2,9 +2,9 @@
 id: frederic_cabestre
 name: Frédéric Cabestre
 company: Easy Mile
-companyLogo: /images/speakers/company/easy_mile.jpg
-country: 'Toulouse, France'
+featured: false
 photo: /images/speakers/frederic_cabestre.png
+photoUrl: /images/speakers/frederic_cabestre.png
 socials:
   - icon: twitter
     link: 'https://twitter.com/fcabestre'
@@ -12,6 +12,12 @@ socials:
   - icon: github
     link: 'https://github.com/fcabestre'
     name: fcabestre
+shortBio: >-
+  NaN, craftsman of code, nomad of knowledge and λ juggler. I work at
+  @Easy_Mile.
+companyLogo: /images/speakers/company/easy_mile.jpg
+companyLogoUrl: /images/speakers/company/easy_mile.jpg
+country: 'Toulouse, France'
 
 ---
 

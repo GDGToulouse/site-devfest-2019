@@ -2,9 +2,9 @@
 id: francois_teychene
 name: Francois Teychene
 company: Saagie
-companyLogo: /images/speakers/company/saagie.jpg
-country: 'Montpellier, France'
+featured: false
 photo: /images/speakers/francois_teychene.jpg
+photoUrl: /images/speakers/francois_teychene.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/fteychene'
@@ -12,6 +12,13 @@ socials:
   - icon: github
     link: 'https://github.com/fteychene'
     name: fteychene
+shortBio: >-
+  Cloud dev @saagie_io, @MtpTechHub President, @SunnyTech_MTP organiser,
+  Speaker, Teacher... #Devops #Rust #Scala enthusiast. Opinions are mine not of
+  my employer
+companyLogo: /images/speakers/company/saagie.jpg
+companyLogoUrl: /images/speakers/company/saagie.jpg
+country: 'Montpellier, France'
 
 ---
 

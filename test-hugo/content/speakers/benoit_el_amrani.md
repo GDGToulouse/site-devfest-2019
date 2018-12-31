@@ -2,9 +2,9 @@
 id: benoit_el_amrani
 name: Benoit El Amrani
 company: Informatique Banque Populaire
-companyLogo: /images/speakers/company/i-bp.png
-country: 'Toulouse, France'
+featured: false
 photo: /images/speakers/benoit_el_amrani.jpg
+photoUrl: /images/speakers/benoit_el_amrani.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/bentah31'
@@ -12,6 +12,10 @@ socials:
   - icon: github
     link: 'https://github.com/belamrani'
     name: belamrani
+shortBio: Mobile & Web Developer
+companyLogo: /images/speakers/company/i-bp.png
+companyLogoUrl: /images/speakers/company/i-bp.png
+country: 'Toulouse, France'
 
 ---
 

@@ -2,9 +2,9 @@
 id: miro_miro_cupak
 name: Miro Cupak
 company: DNAstack
-companyLogo: /images/speakers/company/dnastack.jpg
-country: 'Toronto, Ontario'
+featured: false
 photo: /images/speakers/miro_miro_cupak.jpg
+photoUrl: /images/speakers/miro_miro_cupak.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/mirocupak'
@@ -15,6 +15,12 @@ socials:
   - icon: linkedin
     link: 'https://mirocupak.com, https://www.linkedin.com/in/mirocupak'
     name: LinkedIn
+shortBio: >-
+  Software developer with passion for genetics and building meaningful things.
+  Java, open source, and distributed systems enthusiast.
+companyLogo: /images/speakers/company/dnastack.jpg
+companyLogoUrl: /images/speakers/company/dnastack.jpg
+country: 'Toronto, Ontario'
 
 ---
 

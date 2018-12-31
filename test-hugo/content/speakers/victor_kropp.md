@@ -2,9 +2,9 @@
 id: victor_kropp
 name: Victor Kropp
 company: JetBrains
-companyLogo: /images/speakers/company/jetbrains.jpg
-country: 'München, Deutschland'
+featured: false
 photo: /images/speakers/victor_kropp.jpg
+photoUrl: /images/speakers/victor_kropp.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/kropp'
@@ -12,6 +12,10 @@ socials:
   - icon: github
     link: 'https://github.com/kropp'
     name: kropp
+shortBio: Software Engineer at @JetBrains. Father. 2×IRONMAN. English/Русский/Deutsch
+companyLogo: /images/speakers/company/jetbrains.jpg
+companyLogoUrl: /images/speakers/company/jetbrains.jpg
+country: 'München, Deutschland'
 
 ---
 

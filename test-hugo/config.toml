@@ -1,4 +1,4 @@
-baseURL = "http://devfesttoulouse.fr/"
+baseURL = "https://sandbox-devfesttoulouse.firebaseapp.com/"
 languageCode = "fr-FR"
 title = "Devfest Toulouse 2019"
 
@@ -23,6 +23,7 @@ googleAnalytics = "UA-37717223-7"
     images = ["/images/logo.svg", "/images/logo-monochrome.svg"]
     email = "contact@devfesttoulouse.fr"
     keywords = "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev"
+    googleMapsAPIKey = "AIzaSyAsYarycfx4sV9QhauT5li-63snSTqoJ3g"
 
 [params.logos]
     header = "/images/logo.svg"
@@ -30,11 +31,6 @@ googleAnalytics = "UA-37717223-7"
 
 [taxonomies]
   tag = "tags"
-  category = "categories"
-  type = "types"
-  complexity = "complexities"
-  language = "languages"
-
 
 [privacy]
   [privacy.disqus]

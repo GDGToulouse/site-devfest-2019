@@ -2,9 +2,9 @@
 id: guillaume_membre
 name: Guillaume Membré
 company: Zenika
-companyLogo: /images/speakers/company/zenika.jpg
-country: 'Nantes, France'
+featured: false
 photo: /images/speakers/guillaume_membre.jpg
+photoUrl: /images/speakers/guillaume_membre.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/GuillaumeMembre'
@@ -12,6 +12,10 @@ socials:
   - icon: github
     link: 'https://github.com/gmembre-zenika'
     name: gmembre-zenika
+shortBio: Codeur à ses heures perdues
+companyLogo: /images/speakers/company/zenika.jpg
+companyLogoUrl: /images/speakers/company/zenika.jpg
+country: 'Nantes, France'
 
 ---
 

@@ -1,10 +1,14 @@
 ---
 id: laurent_wroblewski
 name: Laurent Wroblewski
+shortBio: Ingénieur développement full stack depuis maintenant près de 9 ans
 company: Davidson Consulting
 companyLogo: /images/speakers/company/davidson_consulting.jpg
+companyLogoUrl: /images/speakers/company/davidson_consulting.jpg
 country: 'Toulouse, France'
+featured: true
 photo: /images/speakers/laurent_wroblewski.jpg
+photoUrl: /images/speakers/laurent_wroblewski.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/@LaurentWrob'
@@ -12,6 +16,7 @@ socials:
   - icon: github
     link: 'https://github.com/LWroblewski'
     name: LWroblewski
+title: Ingénieur développement full stack
 
 ---
 

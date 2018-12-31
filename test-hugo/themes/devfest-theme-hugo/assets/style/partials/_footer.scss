@@ -4,17 +4,8 @@ body > footer {
   padding: var(--space-4) var(--container-margin);
   font-weight: 200;
 
-  a {
-    color: inherit;
-    text-decoration: none;
-
-    &:hover {
-      text-decoration: underline;
-    }
-  }
-
-  hr {
-    opacity: .25;
+  a:hover {
+    text-decoration: underline;
   }
 
   // Header
@@ -51,6 +42,11 @@ body > footer {
 
     .follow a[class*='social-'] {
       filter: grayscale(1);
+      transition: filter var(--animation);
+
+      &:hover, &:focus {
+        filter: grayscale(0);
+      }
     }
 
     .blog a {

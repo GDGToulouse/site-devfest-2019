@@ -2,13 +2,17 @@
 id: piotr_przybyl
 name: Piotr Przybyl
 company: Remote Freelance Software Gardener
-companyLogo: ''
-country: 'Wroclaw, Poland'
+featured: false
 photo: /images/speakers/piotr_przybyl.jpg
+photoUrl: /images/speakers/piotr_przybyl.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/piotrprz'
     name: '@piotrprz'
+shortBio: Remote Freelance Software Gardener
+companyLogo: ''
+companyLogoUrl: ''
+country: 'Wroclaw, Poland'
 
 ---
 

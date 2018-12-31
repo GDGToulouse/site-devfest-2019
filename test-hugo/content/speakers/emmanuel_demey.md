@@ -2,9 +2,9 @@
 id: emmanuel_demey
 name: Emmanuel DEMEY
 company: Zenika
-companyLogo: /images/speakers/company/zenika.jpg
-country: 'Lille, France'
+featured: false
 photo: /images/speakers/emmanuel_demey.jpg
+photoUrl: /images/speakers/emmanuel_demey.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/EmmanuelDemey'
@@ -12,6 +12,13 @@ socials:
   - icon: github
     link: 'https://github.com/Gillespie59'
     name: Gillespie59
+shortBio: >-
+  CTO at @ZenikaLille - Google Developer Expert @GoogleDevExpert - Web
+  Specialist - Speaker and Trainer, Organizer of #DevFestLille - @GDGLille -
+  Lille
+companyLogo: /images/speakers/company/zenika.jpg
+companyLogoUrl: /images/speakers/company/zenika.jpg
+country: 'Lille, France'
 
 ---
 

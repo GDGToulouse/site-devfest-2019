@@ -3,13 +3,13 @@
 <div class="hero">
 	<h1>{{ $.Page.Params.Title }}</h1>
 	<div class="description">
-		{{ .Content }}
+		TODO: filter and search
 	</div>
 </div>
 
 <section>
 	<ul class="speakers shuffle">
-		{{ range .Site.Data.speakers }}
+		{{ range .Pages }}
 		<li>{{ partial "speaker.html" . }}</li>
 		{{ end }}
 	</ul>

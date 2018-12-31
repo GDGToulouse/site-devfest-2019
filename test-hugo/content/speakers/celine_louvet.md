@@ -2,9 +2,9 @@
 id: celine_louvet
 name: Céline LOUVET
 company: Fairvioo
-companyLogo: /images/speakers/company/fairvioo.jpg
-country: Île-de-France
+featured: false
 photo: /images/speakers/celine_louvet.jpg
+photoUrl: /images/speakers/celine_louvet.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/celine_louvet'
@@ -15,6 +15,10 @@ socials:
   - icon: linkedin
     link: 'https://www.linkedin.com/in/celinelouvet/'
     name: LinkedIn
+shortBio: CTO @Fairvioo. Ex-CTO @CaptainContrat & Ex-@Sfeir
+companyLogo: /images/speakers/company/fairvioo.jpg
+companyLogoUrl: /images/speakers/company/fairvioo.jpg
+country: Île-de-France
 
 ---
 

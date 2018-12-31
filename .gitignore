@@ -2,4 +2,4 @@ _gen/
 test-hugo/themes/ananke/
 test-hugo/public/
 node_modules/
-
+.firebase/

@@ -2,9 +2,9 @@
 id: tugdual_grall
 name: Tugdual Grall
 company: MapR
-companyLogo: /images/speakers/company/mapr.MapR
-country: It depends!
+featured: false
 photo: /images/speakers/tugdual_grall.jpg
+photoUrl: /images/speakers/tugdual_grall.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/tgrall'
@@ -12,6 +12,12 @@ socials:
   - icon: github
     link: 'https://github.com/tgrall'
     name: tgrall
+shortBio: >-
+  Technical Evangelist @MapR Big Data / NoSQL / Streaming | @nantesjug leader |
+  Slow Triathlete @resultri | Windsurfer
+companyLogo: /images/speakers/company/mapr.MapR
+companyLogoUrl: /images/speakers/company/mapr.MapR
+country: It depends!
 
 ---
 

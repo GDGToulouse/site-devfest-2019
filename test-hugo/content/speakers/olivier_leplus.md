@@ -2,9 +2,9 @@
 id: olivier_leplus
 name: Olivier Leplus
 company: Botfuel
-companyLogo: /images/speakers/company/botfuel.jpg
-country: 'Paris, France'
+featured: false
 photo: /images/speakers/olivier_leplus.jpg
+photoUrl: /images/speakers/olivier_leplus.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/olivierleplus'
@@ -15,6 +15,12 @@ socials:
   - icon: linkedin
     link: 'https://www.linkedin.com/in/olivierleplus/, https://tagazok.github.io/'
     name: LinkedIn
+shortBio: >-
+  Speaker, Conference organiser, Community obsessed developer, Traveler -
+  Developer Advocate @botfuel - Google Developer Expert in web tech
+companyLogo: /images/speakers/company/botfuel.jpg
+companyLogoUrl: /images/speakers/company/botfuel.jpg
+country: 'Paris, France'
 
 ---
 

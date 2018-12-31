@@ -2,9 +2,9 @@
 id: arnaud_bos
 name: Arnaud BOS
 company: MonkeyPatch
-companyLogo: /images/speakers/company/monkeypatch.jpg
-country: 'Toulouse, France'
+featured: false
 photo: /images/speakers/arnaud_bos.jpg
+photoUrl: /images/speakers/arnaud_bos.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/arnaud_bos'
@@ -12,6 +12,10 @@ socials:
   - icon: github
     link: 'https://github.com/arnaudbos'
     name: arnaudbos
+shortBio: "Clojure as heck. Distributed systems. Podcasts. Can write backwards \U0001F643"
+companyLogo: /images/speakers/company/monkeypatch.jpg
+companyLogoUrl: /images/speakers/company/monkeypatch.jpg
+country: 'Toulouse, France'
 
 ---
 
