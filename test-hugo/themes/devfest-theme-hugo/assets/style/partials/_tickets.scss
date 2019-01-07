@@ -1,12 +1,18 @@
 
 .tickets ul {
   list-style: none;
-  display: grid;
-  grid-auto-columns: 1fr;
-  grid-gap: var(--space-4);
-  grid-auto-flow: column; // FIXME responsive
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+
+  li {
+    flex-basis: 15rem;
+  }
 
   li .ticket {
+    margin: var(--space-4);
     padding: 2rem var(--space-3);
     border: thin solid var(--darken-1);
     box-shadow: var(--space-1) var(--space-1) var(--space-2) var(--darken-2);

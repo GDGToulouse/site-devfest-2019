@@ -23,6 +23,7 @@
       display: grid;
       grid-template-columns: repeat(2, 1fr);
       grid-column-gap: 2rem;
+      width: 100%;
     }
 
     .number {
@@ -46,13 +47,16 @@
   }
 
   section.speakers {
-
     ul {
       list-style: none;
       display: flex;
       justify-content: space-around;
       align-items: flex-start;
       flex-wrap: wrap;
+
+      li {
+        margin: var(--space-4);
+      }
 
       // Keep only 4 first speakers
       li:nth-child(n+5) {
@@ -98,6 +102,30 @@
         display: flex;
         align-items: center;
       }
+    }
+  }
+}
+
+@media (max-width: 60rem) {
+
+  .home {
+    .jumbo .inner h1 {
+      img {
+        max-width: 100%;
+      }
+      font-size: 1.5rem;
+    }
+
+    section.info>div  {
+      flex-direction: column;
+    }
+
+    section.location .description {
+      position: relative;
+      top: unset;
+      bottom: unset;
+      right: unset;
+      width: 100%;
     }
   }
 }
