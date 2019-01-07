@@ -10,16 +10,16 @@ draft: true
 Après plusieurs heures de délibération, de nombreux post it et moult crackers et pizza, nous avons enfin réussi à nous mettre d’accord sur l’ensemble des talks de l’édition 2018 du DevFest Toulouse ! 
  💪
 Le travail fut fastidieux, vous avez été nombreux à nous proposer des talks de très bonne qualité. 302 talks soumis soit 146 talks et 65 speakers de plus qu’en 2017 !
- 
+
 Merci à tous ! Merci de nous avoir titillé les neurones, d’avoir excité notre curiosité et de nous avoir permis de débattre de longs moments.
- 
+
 Nous espérons que la sélection sera à la hauteur de vos attentes.
- 
+
 Avant tout, nous souhaitons remercier les 221 speakers qui ont proposé des sujets jusqu’au dernier moment.
 Nous voulons aussi remercier les quelques uns qui n’ont pas pu proposer leur sujet à temps mais qui ont quand même tenu à essayer ;-)
- 
+
 Et maintenant quelques chiffres dont nous sommes fiers :
- 
+
 ![](nombre-proposition.png)
 
 Sur les 302 talks proposés nous avons été obligé d’en retenir seulement 41 ! (Quand on vous dit que cela n’a pas été facile !)
@@ -36,10 +36,10 @@ Les propositions de sujets ont été assez variées avec une nette domination po
 
 ![](graph-theme.png)
 
-La liste complète des speakers est disponible sur le site : https://devfesttoulouse.fr/speakers/
-Bon, on ne va pas vous mentir, il est possible que cette liste évolue légèrement selon les disponibilités et les contretemps de chacun(e). Nous la mettons à jour dès que possible donc n’hésitez pas à y jeter un coup d’oeil de temps en temps ou vous inscrire à la newsletter pour rester informés (par ici : https://devfesttoulouse.fr/).
+La liste complète des speakers est disponible sur le site : <https://devfesttoulouse.fr/speakers/>
+Bon, on ne va pas vous mentir, il est possible que cette liste évolue légèrement selon les disponibilités et les contretemps de chacun(e). Nous la mettons à jour dès que possible donc n’hésitez pas à y jeter un coup d’oeil de temps en temps ou vous inscrire à la newsletter pour rester informés (par ici : <https://devfesttoulouse.fr/>).
 Nous vous en informerons aussi sur notre compte Twitter @DevFestToulouse .
- 
+
 Pour les sujets, allez, on est sympa, on vous dit tout :
 
 * Ceinture noire Karate en tests d’API REST

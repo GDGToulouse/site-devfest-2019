@@ -13,7 +13,7 @@ const writeToYml = (list, dest) => {
     fs.writeFileSync(dest, data, writeOption);
 };
 
-const firebaseData = require('../test-hugo/data/firebase-data.json');
+const firebaseData = require('./firebase-data.json');
 
 ['partners', 'team', 'tickets']
     .forEach(key => {

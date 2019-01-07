@@ -7,7 +7,7 @@ const writeOption = {
     flag: 'w'
 };
 
-const firebaseData = require('../test-hugo/data/firebase-data.json');
+const firebaseData = require('./firebase-data.json');
 
 const generateSpeakerData = (id, speaker) => {
     const frontMatter = {id, ...speaker};

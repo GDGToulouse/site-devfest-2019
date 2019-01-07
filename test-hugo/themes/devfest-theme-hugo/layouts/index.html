@@ -68,29 +68,20 @@
 </section>
 {{ end }}
 
-
 {{ if .Params.location }}
 <section class="location">
-		<iframe
-				src='https://www.google.com/maps/embed/v1/view?key={{ .Site.Params.googleMapsAPIKey }}&zoom={{ .Site.Data.location.pointer.zoom }}&center={{ .Site.Data.location.mapCenter }}'
-				frameborder="0"
-				scrolling="no"
-				width="100%"
-				height="400">
-		</iframe>
-
+	<good-map id="map" api-key="{{ .Site.Params.map.googleMapsAPIKey }}" latitude="{{ .Site.Params.map.latitude }}"
+	 longitude="{{ .Site.Params.map.longitude }}" zoom="{{ .Site.Params.map.zoom }}" map-options="{{ replace .Site.Params.map.options "\n" ""}}">
+	</good-map>
 
 	<div class="description">
 		<h2>Le lieu</h2>
-		<h3>{{ .Site.Data.location.name }}</h3>
-		<p>{{ .Site.Data.location.description }}</p>
+		<h3>{{ .Site.Params.location.name }}</h3>
+		<p>{{ .Site.Params.location.description }}</p>
 		<div class="direction">
-			{{ .Site.Data.location.address }}
-			{{ if .Site.Data.location.pointer }}
-			<a class="btn btn-icon-only icon-direction"
-			   target="_blank"
-			   aria-label="Itinéraire"
-			   href="https://www.google.com/maps/dir/?api=1&destination={{ .Site.Data.location.pointer.latitude }},{{ .Site.Data.location.pointer.longitude }}"></a>
+			{{ .Site.Params.location.address }}
+			{{ if .Site.Params.location.pointer }}
+			<a class="btn btn-icon-only icon-direction" target="_blank" aria-label="Itinéraire" href="https://www.google.com/maps/dir/?api=1&destination={{ .Site.Params.location.pointer.latitude }},{{ .Site.Params.location.pointer.longitude }}"></a>
 			{{ end }}
 		</div>
 	</div>
@@ -107,4 +98,27 @@
 </section>
 {{ end }}
 
+{{ end }}
+
+
+{{ define "scripts"}}
+<script>
+document.querySelector('#map')
+	.addEventListener('google-map-ready', (e) => {
+		new google.maps.Marker({
+			position: {
+				lat: parseFloat('{{ .Site.Params.location.pointer.latitude }}'),
+				lng: parseFloat('{{ .Site.Params.location.pointer.longitude }}'),
+			},
+			icon: {
+				url: 'images/map-marker.svg',
+				anchor: new google.maps.Point(25, 50),
+				scaledSize: new google.maps.Size(50, 50),
+			},
+			map: e.detail,
+		});
+	}, {
+		once: true
+	});
+</script>
 {{ end }}

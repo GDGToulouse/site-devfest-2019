@@ -22,12 +22,61 @@ googleAnalytics = "UA-37717223-7"
     description = "Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles."
     images = ["/images/logo.svg", "/images/logo-monochrome.svg"]
     email = "contact@devfesttoulouse.fr"
-    keywords = "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev"
-    googleMapsAPIKey = "AIzaSyAsYarycfx4sV9QhauT5li-63snSTqoJ3g"
+    keywords = "event, gdg, gde, devfest, google, programming, android, chrome, developers, web, cloud, androiddev"
 
 [params.logos]
     header = "/images/logo.svg"
     footer = "/images/logo-monochrome.svg"
+
+[params.location]
+  name = "Centre de Congrès Pierre Baudis"
+  description = "Le Centre de Congrès Pierre Baudis est un lieu d'échanges moderne, situé sur un emplacement privilégié, à proximité immédiate du centre de Toulouse et dans un environnement verdoyant."
+  address = "11 Espl. Compans Caffarelli, 31000 Toulouse"
+[params.location.pointer ]
+  latitude = 43.6110956
+  longitude = 1.4332799
+
+[params.map]
+    googleMapsAPIKey = "AIzaSyAsYarycfx4sV9QhauT5li-63snSTqoJ3g"
+    latitude = 48
+    longitude = 8
+    zoom = 5
+    options = '''{
+  "disableDefaultUI": true,
+  "disableDoubleClickZoom": true,
+  "scrollwheel": false,
+  "draggable": false,
+  "styles": [{
+    "stylers": [{
+        "lightness": 40
+      },
+      {
+        "visibility": "on"
+      },
+      {
+        "gamma": 0.9
+      },
+      {
+        "weight": 0.4
+      }
+    ]
+  }, {
+    "elementType": "labels",
+    "stylers": [{
+      "visibility": "on"
+    }]
+  }, {
+    "featureType": "water",
+    "stylers": [{
+      "color": "#5dc7ff"
+    }]
+  }, {
+    "featureType": "road",
+    "stylers": [{
+      "visibility": "off"
+    }]
+  }]
+}'''
 
 [taxonomies]
   tag = "tags"

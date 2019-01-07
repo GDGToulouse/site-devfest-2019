@@ -9,6 +9,7 @@
   regular: true
   soldOut: true
   url: 'https://www.billetweb.fr/devfest-toulouse-2018'
+
 - currency: €
   starts: 06 Juin
   ends: 08 Novembre
@@ -20,6 +21,7 @@
   regular: true
   soldOut: true
   url: 'https://www.billetweb.fr/devfest-toulouse-2018'
+
 - currency: €
   starts: 01 Août
   ends: 08 Novembre

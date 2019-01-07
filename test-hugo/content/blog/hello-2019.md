@@ -19,9 +19,7 @@ Situé en plein coeur de Toulouse, dans le quartier de Compans Cafarelli, access
 
 Et… roulement de tambour, petite **nouveauté 2019**, il y aura un thème :
 
-
 **LE FROMAGE :cheese:**
-
 
 Ce thème sera décliné sur l’ensemble de la journée avec des **goodies**, une **décoration au top** et si vous voulez vous déguiser en Camenbert ou en Roquefort,
 faites vous plaisir !
@@ -42,8 +40,7 @@ Nous invitons également nos partenaires à jouer le jeu ;-).
 - XX conférences,
 - XXX speakers d’exception,
 - XXX 20 partenaires,
-- et pas mal de nuits courtes, de midis et de week-end bien chargés pour
-les XX bénévoles.
+- et pas mal de nuits courtes, de midis et de week-end bien chargés pour les XX bénévoles.
 
 <!-- ![](/images/posts/2018-03-27-lancement-devfest-toulouse-2018/lancement-1.jpg) -->
 

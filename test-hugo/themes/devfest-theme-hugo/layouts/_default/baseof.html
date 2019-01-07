@@ -18,13 +18,15 @@
 {{ end }}
 
 
-{{ block "scripts" . }}
 {{ $base := resources.Get "script/base.js" }}
 {{ $subscription := resources.Get "script/subscription.js" }}
 {{ $shuffle := resources.Get "script/shuffle.js" }}
+{{ $map := resources.Get "script/good-map.js" }}
 
-{{ $js := slice $base $subscription $shuffle | resources.Concat "script/main.js" }}
+{{ $js := slice $base $subscription $shuffle $map | resources.Concat "script/main.js" }}
 <script src="{{ $js.Permalink }}"></script>
+{{ block "scripts" . }}
+<!-- No extra scripts -->
 {{ end }}
 </body>
 

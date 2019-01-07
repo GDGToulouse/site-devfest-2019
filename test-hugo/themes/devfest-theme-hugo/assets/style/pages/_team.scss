@@ -32,11 +32,16 @@
         display: flex;
         margin: 0;
         padding: 0;
-        filter: grayscale(1);
-        transition: filter var(--animation);
+        font-size: 1.5em;
 
-        &:hover, &:focus {
-          filter: grayscale(0);
+        li {
+          filter: grayscale(1);
+          transition: filter var(--animation);
+
+          &:hover,
+          &:focus {
+            filter: grayscale(0);
+          }
         }
       }
 

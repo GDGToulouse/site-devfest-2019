@@ -16,6 +16,7 @@ En attendant, le jour J, le [CFP](https://devfest-toulouse.cfp.io/) (Call For Pa
 ## Les formats
 
 Nouveauté cette année, vous vous proposons deux types de talks :
+
 - le format **lightning talk**/quickie, d’une durée de **15 minutes**, comme l’an dernier
 - le format **conférence** qui passe de 45 à **40 minutes** SANS QUESTION!
 
@@ -46,11 +47,7 @@ Vous pouvez soumettre un talk en Français ou en Anglais.
 
 Comme dit ci-dessus, les soumissions sont ouvertes **jusqu’au 1er Juillet 2018**. L’année dernière nous avons reçu plus de 150 soumissions ! N’attendez pas le dernier moment, soumettez un talk dès à présent !
 
-<div layout horizontal center-justified>
-<a href="https://devfest-toulouse.cfp.io/#/dashboard" rel="noopener noreferrer">
-  <paper-button primary>Je soumets !</paper-button>
-</a>
-</div>
+[Je soumets !](https://devfest-toulouse.cfp.io/#/dashboard)
 
-Vous avez des questions ? Vous pouvez écrire un message à l’équipe à [contact@devfesttoulouse.fr](contact@devfesttoulouse.fr
-) ou bien sur notre compte Twitter [@DevFestToulouse](https://devfesttoulouse.fr).
+
+Vous avez des questions ? Vous pouvez écrire un message à l’équipe à [contact@devfesttoulouse.fr](contact@devfesttoulouse.fr) ou bien sur notre compte Twitter [@DevFestToulouse](https://devfesttoulouse.fr).
