@@ -2,7 +2,6 @@
 title: Hello 2019
 brief: Lancement du DevFest Toulouse 2018
 image: launch2018.jpg
-color: #fff
 date: 2018-03-27T12:47:57+01:00
 draft: true
 ---

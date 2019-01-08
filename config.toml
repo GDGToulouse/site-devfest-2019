@@ -19,6 +19,7 @@ googleAnalytics = "UA-37717223-7"
     favicon = "/images/favicon.ico"
     themeColor = "#673ab7"
     title = "DevFest Toulouse 2019"
+    date = "2019-10-03"
     description = "Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles."
     images = ["/images/logo.svg", "/images/logo-monochrome.svg"]
     email = "contact@devfesttoulouse.fr"

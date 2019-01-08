@@ -39,7 +39,7 @@ Object.entries(firebaseData.sessions)
         generateSessionName(id, session.title),
         generateSessionData(parseInt(id, 10), session)]))
     .forEach(([filename, data]) => {
-        const dest = path.join(__dirname, `../test-hugo/content/talks/${filename}`);
+        const dest = path.join(__dirname, `../content/talks/${filename}`);
         console.log('Write to', dest);
         fs.writeFileSync(dest, data, writeOption);
     });

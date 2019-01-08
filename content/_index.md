@@ -13,7 +13,7 @@ partners: true
 
 <h1>
     <img src="/images/logo.svg" alt="">
-    <div>Jeudi 8 Novembre, 2019</div>
+    <div>10 Octobre, 2019</div>
     <div>Centre de Congrès Pierre Baudis</div>
     
 </h1>

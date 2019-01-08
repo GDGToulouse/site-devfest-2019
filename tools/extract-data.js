@@ -17,7 +17,7 @@ const firebaseData = require('./firebase-data.json');
 
 ['partners', 'team', 'tickets']
     .forEach(key => {
-        const dest = path.join(__dirname, `../test-hugo/data/${key}.yml`);
+        const dest = path.join(__dirname, `../data/${key}.yml`);
         const data = firebaseData[key];
         writeToYml(data, dest);
     });

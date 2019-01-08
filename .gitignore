@@ -1,5 +1,4 @@
-_gen/
-test-hugo/themes/ananke/
-test-hugo/public/
+/resources/
+public/
 node_modules/
 .firebase/

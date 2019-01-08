@@ -1,6 +1,0 @@
-[submodule "themes/ga-hugo-theme"]
-	path = themes/ga-hugo-theme
-	url = https://github.com/giraffeacademy/ga-hugo-theme
-[submodule "test-hugo/themes/ga-hugo-theme"]
-	path = test-hugo/themes/ga-hugo-theme
-	url = https://github.com/giraffeacademy/ga-hugo-theme

@@ -2,7 +2,6 @@
 title: Retrouvez la liste complète des talks !
 brief: Compte rendu CFP
 image: cover.jpg
-color: #fff
 date: 2018-08-02T12:47:57+01:00
 draft: true
 ---

@@ -2,7 +2,6 @@
 title: Appel à orateurs
 brief: Ouverture du Call for Papers
 image: speakers.jpg
-color: #fff
 date: 2018-04-03T12:47:57+01:00
 draft: true
 ---
