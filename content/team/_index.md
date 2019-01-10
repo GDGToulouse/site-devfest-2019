@@ -1,10 +1,11 @@
 ---
 title: Équipe
 type: team
+
 members:
 - name: Julien Del Rio
   title: GDG Toulouse
-  photoUrl: /images/people/julien_delrio.jpg
+  photoUrl: /images/team/julien_delrio.jpg
   socials:
     - icon: twitter
       link: 'https://twitter.com/JulienDelRio'
@@ -12,7 +13,7 @@ members:
 
 - name: Julien Renaux
   title: GDG Toulouse
-  photoUrl: /images/people/julien_renaux.jpg
+  photoUrl: /images/team/julien_renaux.jpg
   socials:
     - icon: twitter
       link: 'https://twitter.com/julienrenaux'
@@ -40,7 +41,7 @@ members:
 
 - name: Kevin Davin
   title: GDG Toulouse & Toulouse JUG
-  photoUrl: /images/people/kevin_davin.png
+  photoUrl: /images/team/kevin_davin.png
   socials:
     - icon: gplus
       link: 'https://plus.google.com/+KevinDavin'
@@ -57,7 +58,7 @@ members:
 
 - name: Aurélie Vache
   title: Duchess France / Toulouse Data Science
-  photoUrl: /images/people/aurelie_vache.png
+  photoUrl: /images/team/aurelie_vache.png
   socials:
     - icon: twitter
       link: 'https://www.twitter.com/aurelievache'
@@ -74,7 +75,7 @@ members:
 
 - name: Maxime Pawlak
   title: GDG Toulouse
-  photoUrl: /images/people/maxime_pawlak.jpg
+  photoUrl: /images/team/maxime_pawlak.jpg
   socials:
     - icon: twitter
       link: 'https://twitter.com/Maxime_Pawlak'
@@ -82,7 +83,7 @@ members:
 
 - name: Michaël Bitard
   title: Electron liiiibre
-  photoUrl: /images/people/michael_bitard.jpg
+  photoUrl: /images/team/michael_bitard.jpg
   socials:
     - icon: twitter
       link: 'https://twitter.com/bitardmichael'
@@ -90,7 +91,7 @@ members:
 
 - name: Didier Plaindoux
   title: Toulouse JUG
-  photoUrl: /images/people/didier_plaindoux.jpeg
+  photoUrl: /images/team/didier_plaindoux.jpeg
   socials:
     - icon: twitter
       link: 'https://twitter.com/dplaindoux'
@@ -119,7 +120,7 @@ members:
 
 - name: Emmanuel Vinas
   title: GDG Toulouse
-  photoUrl: /images/people/emmanuel_vinas.jpeg
+  photoUrl: /images/team/emmanuel_vinas.jpeg
   socials:
     - icon: twitter
       link: 'https://twitter.com/EmmanuelVinas'
@@ -127,7 +128,7 @@ members:
 
 - name: Lionel Porcheron
   title: Toulouse DevOps
-  photoUrl: /images/people/lionel_porcheron.jpg
+  photoUrl: /images/team/lionel_porcheron.jpg
   socials:
     - icon: twitter
       link: 'https://twitter.com/lporcheron'
