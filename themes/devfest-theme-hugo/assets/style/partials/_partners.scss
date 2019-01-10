@@ -37,12 +37,12 @@
   }
 }
 
-.partners-group.partner-pt ul li {
+.partners-group.partner-platinium ul li {
   height: var(--partner-platinum-height);
   flex-basis: 320px;
 }
 
-.partners-group.partner-au ul li {
+.partners-group.partner-gold ul li {
   height: var(--partner-gold-height);
   flex-basis: 200px;
 }
@@ -58,6 +58,7 @@
   span {
     display: inline-block;
     position: relative;
+    text-transform: capitalize;
 
     &:before, &:after {
       top: 40%;
@@ -81,7 +82,7 @@
 }
 
 
-.partners-group.partner-pt .fancy {
+.partners-group.partner-platinium .fancy {
   font-size: 1.5em;
   color: var(--color-platium);
 
@@ -91,7 +92,7 @@
   }
 }
 
-.partners-group.partner-au .fancy {
+.partners-group.partner-gold .fancy {
   font-size: 1.33em;
   color: var(--color-gold);
 

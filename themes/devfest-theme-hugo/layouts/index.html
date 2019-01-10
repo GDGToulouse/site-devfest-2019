@@ -90,7 +90,7 @@
 <section class="partners">
 	<h2>Partenaires</h2>
 	{{ $site := .Site }}
-	{{ range .Params.partners.categories }}
+	{{ range .Site.Params.partners.categories }}
 	<section class="partners-group partner-{{ . }}">
 		<h3 class="fancy">
 			<span>{{ . }}</span>
