@@ -4,7 +4,7 @@
 		<div class="share">
 			<header>Partager</header>
 			<ul>
-				{{ range .Site.Data.socials.share }}
+				{{ range .Site.Data.footer.share }}
 				<li><a class="social-{{ .name }}" href="{{ .url }}" target="_blank"></a></li>
 				{{ end }}
 			</ul>
@@ -17,7 +17,7 @@
 		<div class="follow">
 			<header>Suivez nous sur</header>
 			<ul>
-				{{ range .Site.Data.socials.follow }}
+				{{ range .Site.Data.footer.follow }}
 				<li><a class="social-{{ .name }}" href="{{ .url }}" target="_blank"></a></li>
 				{{ end }}
 			</ul>
@@ -31,7 +31,7 @@
 	<hr>
 
 	<div class="footer-content">
-		{{ range .Site.Data.footer }}
+		{{ range .Site.Data.footer.content }}
 		<section>
 			<header>{{ .title }}</header>
 			{{ if .links }}
@@ -55,9 +55,7 @@
 			<img src="{{ .Site.Params.logos.footer }}" alt="{{ .Site.Title }}">
 			{{ end }}
 		</div>
-		<div>
-			We ❤️ chocolatines
-		</div>
+		<div>We ❤️ chocolatines</div>
 	</div>
 
 </footer>

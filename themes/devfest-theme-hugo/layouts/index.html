@@ -2,14 +2,14 @@
 
 {{ .Content }}
 
-{{ if .Params.info }}
+{{ if .Params.info.show }}
 <section class="info">
 	<h2>Le DevFest Toulouse, c'est quoi ?</h2>
 	<div>
-		<p>{{ .Site.Data.home.info }}</p>
-		{{ if .Site.Data.home.what }}
+		<p>{{ .Params.info.label }}</p>
+		{{ if .Params.info.what }}
 		<div class="numbers">
-			{{range .Site.Data.home.what }}
+			{{range .Params.info.what }}
 			<div class="number">
 				<strong>{{ .value }}</strong>
 				<div>{{ .label }}</div>
@@ -22,39 +22,39 @@
 {{ end }}
 
 
-{{ if .Params.speakers }}
+{{ if .Params.speakers.show }}
 <section class="speakers">
 	<h2>Rockstar speakers</h2>
-	{{ if .Site.Data.home.speakers.top }}
+	{{ if .Params.speakers.top }}
 	<ul class="shuffle">
-		{{ range where .Site.RegularPages "Params.id" "in" .Site.Data.home.speakers.top }}
+		{{ range where .Site.RegularPages "Params.id" "in" .Params.speakers.top }}
 		<li>
 			{{ partial "speaker.html" . }}
 		</li>
 		{{ end }}
 	</ul>
 	{{ end }}
-	{{ if .Site.Data.home.speakers.otherspeakers }}
+	{{ if .Params.speakers.otherspeakers }}
 	<a class="btn primary" href="/speakers/">Voir tous les speakers</a>
 	{{ end }}
 </section>
 {{ end }}
 
 
-{{ if .Params.subscribe }}
+{{ if .Params.subscribe.show }}
 <section class="subscribe primary">
 	<h2>Soyez notifié des dernières informations !</h2>
 	<button class="inverse" id="btnSubscribe">Souscrire</button>
 </section>
 {{ end }}
 
-{{ if .Params.tickets }}
+{{ if .Params.tickets.show }}
 <section class="tickets">
 	<h2>Billets</h2>
 	<a class="btn primary" target="_blank" href="https://www.billetweb.fr/devfest-toulouse-2019">Billeterie</a>
 
 	<ul>
-		{{range .Site.Data.tickets }}
+		{{range .Params.tickets.values }}
 		<li>{{ partial "ticket.html" . }}</li>
 		{{ end }}
 	</ul>
@@ -68,19 +68,16 @@
 </section>
 {{ end }}
 
-{{ if .Params.location }}
+{{ if .Params.location.show }}
 <section class="location">
-	<good-map id="map" api-key="{{ .Site.Params.map.googleMapsAPIKey }}" latitude="{{ .Site.Params.map.latitude }}"
-	 longitude="{{ .Site.Params.map.longitude }}" zoom="{{ .Site.Params.map.zoom }}" map-options="{{ replace .Site.Params.map.options "\n" ""}}">
-	</good-map>
-
+	<div class="map" style="background-image: url('{{ .Params.location.image }}');"></div>
 	<div class="description">
 		<h2>Le lieu</h2>
-		<h3>{{ .Site.Params.location.name }}</h3>
-		<p>{{ .Site.Params.location.description }}</p>
+		<h3>{{ .Params.location.name }}</h3>
+		<p>{{ .Params.location.description }}</p>
 		<div class="direction">
-			{{ .Site.Params.location.address }}
-			{{ if .Site.Params.location.pointer }}
+			{{ .Params.location.address }}
+			{{ if .Params.location.pointer }}
 			<a class="btn btn-icon-only icon-direction" target="_blank" aria-label="Itinéraire" href="https://www.google.com/maps/dir/?api=1&destination={{ .Site.Params.location.pointer.latitude }},{{ .Site.Params.location.pointer.longitude }}"></a>
 			{{ end }}
 		</div>
@@ -89,36 +86,24 @@
 {{ end }}
 
 
-{{ if .Params.partners }}
+{{ if .Params.partners.show }}
 <section class="partners">
 	<h2>Partenaires</h2>
-	{{ range .Site.Data.partners }}
-	{{partial "partnersgroup.html" . }}
+	{{ $site := .Site }}
+	{{ range .Params.partners.categories }}
+	<section class="partners-group partner-{{ . }}">
+		<h3 class="fancy">
+			<span>{{ . }}</span>
+		</h3>
+		<ul>
+			{{ range where $site.Pages "Params.category" . }}
+			<li>{{ partial "partner.html" . }}</li>
+			{{ end }}
+		</ul>
+	</section>
 	{{ end }}
 </section>
 {{ end }}
 
 {{ end }}
 
-
-{{ define "scripts"}}
-<script>
-document.querySelector('#map')
-	.addEventListener('google-map-ready', (e) => {
-		new google.maps.Marker({
-			position: {
-				lat: parseFloat('{{ .Site.Params.location.pointer.latitude }}'),
-				lng: parseFloat('{{ .Site.Params.location.pointer.longitude }}'),
-			},
-			icon: {
-				url: 'images/map-marker.svg',
-				anchor: new google.maps.Point(25, 50),
-				scaledSize: new google.maps.Size(50, 50),
-			},
-			map: e.detail,
-		});
-	}, {
-		once: true
-	});
-</script>
-{{ end }}

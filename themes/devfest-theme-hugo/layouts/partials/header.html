@@ -11,7 +11,7 @@
 
 	<nav>
 		{{ $url := .URL }}
-		{{ range .Site.Data.toolbar.menus }}
+		{{ range .Site.Params.menus }}
 		{{ if (hasPrefix .url "http") }}
 		<a class="external" href="{{ .url }}" target="_blank" >{{ .name }}</a>
 		{{ else }}

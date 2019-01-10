@@ -1,29 +1,46 @@
-- title: A propos
-  links:
-    - name: GDG Toulouse
-      url: http://gdgtoulouse.fr/
-      newTab: true
-    - name: Google Developers Group
-      url: https://developers.google.com/
-      newTab: true
-    - name: Code de conduite
-      url: /code-of-conduct/
-      newTab: false
+share:
+  - name: facebook
+    url: https://www.facebook.com/sharer.php?u=
+  - name: twitter
+    url: https://twitter.com/intent/tweet?text=
 
-- title: Précédentes éditions
-  links:
-    - name: DevFest Toulouse 2018
-      url: https://2018.devfesttoulouse.fr/
-      newTab: true
-    - name: DevFest Toulouse 2017
-      url: https://2017.devfesttoulouse.fr/
-      newTab: true
-    - name: DevFest Toulouse 2016
-      url: https://2016.devfesttoulouse.fr/
-      newTab: true
+follow:
+  - name: facebook
+    url: https://www.facebook.com/GDGToulouse/
+  - name: twitter
+    url: https://twitter.com/devfesttoulouse
+  - name: linkedin
+    url: https://www.linkedin.com/company/10254434
+  - name: youtube
+    url: https://www.youtube.com/watch?v=_3YTO4vL0OY&list=PLuZ_sYdawLiWkhvpCuWV01mr1TO5etnvD
 
-- title: Devenir partenaire
-  links:
-    - name: Proposition de partenariat
-      url: https://docs.google.com/presentation/d/e/2PACX-1vR9oEvhN0eKW6KeMqJzYZt1AtwiO5eyRhWcy6cXfE63vtZzX8U9B8_r2LpO6WIwDWjOoLkf10G7tFGO/pub?start=false&loop=true&delayms=0&slide=id.g376bab0a27_1_7
-      newTab: true
+content:
+  - title: A propos
+    links:
+      - name: GDG Toulouse
+        url: http://gdgtoulouse.fr/
+        newTab: true
+      - name: Google Developers Group
+        url: https://developers.google.com/
+        newTab: true
+      - name: Code de conduite
+        url: /code-of-conduct/
+        newTab: false
+
+  - title: Précédentes éditions
+    links:
+      - name: DevFest Toulouse 2018
+        url: https://2018.devfesttoulouse.fr/
+        newTab: true
+      - name: DevFest Toulouse 2017
+        url: https://2017.devfesttoulouse.fr/
+        newTab: true
+      - name: DevFest Toulouse 2016
+        url: https://2016.devfesttoulouse.fr/
+        newTab: true
+
+  - title: Devenir partenaire
+    links:
+      - name: Proposition de partenariat
+        url: https://docs.google.com/presentation/d/e/2PACX-1vR9oEvhN0eKW6KeMqJzYZt1AtwiO5eyRhWcy6cXfE63vtZzX8U9B8_r2LpO6WIwDWjOoLkf10G7tFGO/pub?start=false&loop=true&delayms=0&slide=id.g376bab0a27_1_7
+        newTab: true

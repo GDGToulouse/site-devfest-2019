@@ -7,7 +7,8 @@ draft: true
 ---
 
 Après plusieurs heures de délibération, de nombreux post it et moult crackers et pizza, nous avons enfin réussi à nous mettre d’accord sur l’ensemble des talks de l’édition 2018 du DevFest Toulouse ! 
- 💪
+ :strong:
+ 
 Le travail fut fastidieux, vous avez été nombreux à nous proposer des talks de très bonne qualité. 302 talks soumis soit 146 talks et 65 speakers de plus qu’en 2017 !
 
 Merci à tous ! Merci de nous avoir titillé les neurones, d’avoir excité notre curiosité et de nous avoir permis de débattre de longs moments.

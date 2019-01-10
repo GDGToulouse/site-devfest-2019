@@ -69,3 +69,5 @@ TODO...
 * [] a11y
 * [] optimizations
 * [] more tooling
+* [] last tweet
+* [] add the author for the blog

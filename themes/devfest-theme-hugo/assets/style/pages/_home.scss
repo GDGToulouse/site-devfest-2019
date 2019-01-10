@@ -84,9 +84,11 @@
     background: var(--darken-1);
     font-weight: 300;
 
-    #map {
+    .map {
       display: block;
       height: 664px;
+      background-position: center center;
+      background-size: cover;
     }
 
     .description {

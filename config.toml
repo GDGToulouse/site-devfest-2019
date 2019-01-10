@@ -29,55 +29,39 @@ googleAnalytics = "UA-37717223-7"
     header = "/images/logo.svg"
     footer = "/images/logo-monochrome.svg"
 
-[params.location]
-  name = "Centre de Congrès Pierre Baudis"
-  description = "Le Centre de Congrès Pierre Baudis est un lieu d'échanges moderne, situé sur un emplacement privilégié, à proximité immédiate du centre de Toulouse et dans un environnement verdoyant."
-  address = "11 Espl. Compans Caffarelli, 31000 Toulouse"
-[params.location.pointer ]
-  latitude = 43.6110956
-  longitude = 1.4332799
 
-[params.map]
-    googleMapsAPIKey = "AIzaSyAsYarycfx4sV9QhauT5li-63snSTqoJ3g"
-    latitude = 48
-    longitude = 8
-    zoom = 5
-    options = '''{
-  "disableDefaultUI": true,
-  "disableDoubleClickZoom": true,
-  "scrollwheel": false,
-  "draggable": false,
-  "styles": [{
-    "stylers": [{
-        "lightness": 40
-      },
-      {
-        "visibility": "on"
-      },
-      {
-        "gamma": 0.9
-      },
-      {
-        "weight": 0.4
-      }
-    ]
-  }, {
-    "elementType": "labels",
-    "stylers": [{
-      "visibility": "on"
-    }]
-  }, {
-    "featureType": "water",
-    "stylers": [{
-      "color": "#5dc7ff"
-    }]
-  }, {
-    "featureType": "road",
-    "stylers": [{
-      "visibility": "off"
-    }]
-  }]
-}'''
+[[params.menus]]
+    name = "Accueil"
+    url = "/"
+
+[[params.menus]]
+    name = "Partners"
+    url = "/partners"
+
+[[params.menus]]
+    name = "Sessions"
+    url = "/talks/"
+
+[[params.menus]]
+    name = "Speakers"
+    url = "/speakers/"
+
+[[params.menus]]
+    name = "Équipe"
+    url = "/team/"
+
+[[params.menus]]
+    name = "Blog"
+    url = "/blog/"
+
+[[params.menus]]
+    name = "FAQ"
+    url = "/faq/"
+
+[[params.menus]]
+    name = "Jobs"
+    url = "https://jobs.devfesttoulouse.fr/"
+
 
 [taxonomies]
   tag = "tags"

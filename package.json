@@ -8,11 +8,13 @@
     "extract-data": "node tools/extract-data.js",
     "speakers": "node tools/generate-speakers.js",
     "sessions": "node tools/generate-sessions.js",
+    "partners": "node tools/generate-partners.js",
     "publish": "firebase deploy",
     "publish:prod": "echo 'TODO: firebase deploy -P devfest-prod'"
   },
   "devDependencies": {
     "firebase-tools": "^6.2.2",
-    "js-yaml": "^3.12.0"
+    "js-yaml": "^3.12.0",
+    "slugify": "^1.3.4"
   }
 }
