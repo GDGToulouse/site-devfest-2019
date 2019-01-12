@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Accueil
 
 menu:
   main:
@@ -7,34 +7,32 @@ menu:
 
 ---
 
-
 {{% jumbo img="/images/backgrounds/home.jpg" %}}
 # ![](/images/logo.svg)
 
-3rd October, 2019
+le 3 Octobre, 2019
 
 Centre de Congrès Pierre Baudis
 {{% /jumbo %}}
 
 <!-- ... -->
 
-{{% home-info what="Participants:700,Day:1,Sessions:36,Parallel Tracks:4" %}}
-## What is DevFest Toulouse?
+{{% home-info what="Participants:700,Journée:1,Conférences:36,Tracks en parallèle:4" %}}
+## Le DevFest Toulouse, c'est quoi ?
 
-The DevFest, or 'Developers Festival', is a technical conference for developers. 
-It is aimed at students, professionals or simply curious technophiles.
+Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles.
 {{% /home-info %}}
 
 <!-- ... -->
 
 {{% home-speakers %}}
-## Featured Speakers
+## Conférenciers en vedette
 
-{{< button-link label="Submit a presentation"
+{{< button-link label="Proposer une présentation"
                 url="http://www.conference-hall.io"
                 icon="cfp" >}}
 
-{{< button-link label="See all speakers"
+{{< button-link label="Voir tous les conférenciers"
                 url="./speakers"
                 icon="right" >}}
 
@@ -44,40 +42,40 @@ It is aimed at students, professionals or simply curious technophiles.
 
 {{% home-subscribe %}}
 
-## Get notified about the important conference updates
+## Soyez notifié des dernières informations !
 
 {{% /home-subscribe %}}
 
 <!-- ... -->
 
 {{% home-tickets %}}
-# Tickets
+# Billets
 
 <ul>  
 <li>{{< ticket name="Blind Birds"
            starts="2019-04-04"
            ends="2019-11-08"
            price="40 €"
-           info="50 first places"
+           info="50 premières places"
            soldOut="true"
            url="https://www.billetweb.fr/devfest-toulouse-2018" >}}</li>
 <li>{{< ticket name="Early Birds"
            starts="2019-04-04"
            ends="2019-11-08"
            price="60 €"
-           info="70 first places"
+           info="70 premières places"
            soldOut="true"
            url="https://www.billetweb.fr/devfest-toulouse-2018" >}}</li>
 <li>{{< ticket name="Normal"
            starts="2019-04-04"
            ends="2019-11-08"
            price="80 €"
-           info="250 last places"
+           info="250 places restantes"
            soldOut=""
            url="https://www.billetweb.fr/devfest-toulouse-2018" >}}</li>
 </ul>
 
-\* Your ticket gives you access to all conferences, coffee breaks, and lunch. Accommodation is NOT included in this price.
+\* Votre billet vous donne accès à toutes les conférences, aux pauses café, et au repas. L'hébergement n'est PAS inclus dans ce prix.
 
 {{% /home-tickets %}}
 
@@ -89,13 +87,13 @@ It is aimed at students, professionals or simply curious technophiles.
     latitude="43.6110956"
     longitude="1.4332799" %}}
 
-## The venue
+## Le lieu
 
 ### Centre de Congrès Pierre Baudis
 
-The Centre de Congrès Pierre Baudis is a modern place of exchange,
-located on a privileged location,
-in the immediate vicinity of the centre of Toulouse and in a green environment.
+Le Centre de Congrès Pierre Baudis est un lieu d'échanges moderne,
+situé sur un emplacement privilégié,
+à proximité immédiate du centre de Toulouse et dans un environnement verdoyant.
 
 {{% /home-location %}}
 
@@ -103,5 +101,5 @@ in the immediate vicinity of the centre of Toulouse and in a green environment.
 
 
 {{% partners categories="platinium,gold,soutien,media,communautes" %}}
-# Partners
+# Partenaires
 {{% /partners %}}

@@ -1,14 +1,12 @@
 ---
-title: Speakers
+title: Présentateurs
 menu:
   main:
     weight: 40
-
-draft: true
+  
+draft: true      
 ---
 
 {{% hero %}}
 <!-- TODO: filter and search -->
 {{% /hero %}}
-
-

@@ -1,12 +1,15 @@
 ---
-title: Schedule
+title: Sessions
 menu:
   main:
-    weight: 10
+    weight: 30
 
-draft: true
+draft: true    
 ---
 
 {{% hero %}}
+
 <!-- TODO: filter and search -->
+
 {{% /hero %}}
+

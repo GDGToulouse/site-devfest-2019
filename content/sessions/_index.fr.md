@@ -1,12 +1,14 @@
 ---
-title: Schedule
+title: Présentations
 menu:
   main:
-    weight: 10
+    weight: 30
 
 draft: true
 ---
 
 {{% hero %}}
+
 <!-- TODO: filter and search -->
+
 {{% /hero %}}

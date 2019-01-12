@@ -1,124 +1,121 @@
 ---
 title: FAQs
+menu:
+  faq:
+    weight: 80
+    
+draft: false
 ---
 
-## Général
+## General
 
-### Qu'est ce que le DevFest Toulouse ?
+### What is DevFest Toulouse?
 
-Le DevFest, ou “Developers Festival”, est une conférence technique destinée aux développeur·se·s.
-Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles.
-Durant toute la journée, des orateurs reconnus viendront présenter des sujets variés : autour du développement mobile, du web, de la data, des objets connectés, du cloud, du DevOps, etc... ainsi que des bonnes pratiques de développement.
-Des pauses permettent d'engager le dialogue et d'approfondir les sujets présentés.
+The DevFest, or "Developers Festival", is a technical conference for developers.
+It is aimed at students, professionals or simply curious technophiles.
+Throughout the day, renowned speakers will present a variety of topics: around mobile development, the web, data, connected objects, the cloud, DevOps, etc... as well as good development practices.
+Pauses are used to engage in dialogue and deepen the topics presented.
 
-Le développement logiciel est un sujet très vaste et notre comité de sélection a à cœur de proposer un programme varié et intéressant.
-Cette journée sera l'occasion de rencontrer des orateurs de renommée internationale mais également nationale, en effet nous avons aussi pour objectif de faire une place importante aux conférenciers locaux.
+Software development is a very broad subject and our selection committee is committed to providing a varied and interesting program.
+This day will be an opportunity to meet speakers of international but also national renown, indeed we also aim to make an important place for local speakers.
 
-Le DevFest s'inscrit dans un [cadre international](https://developers.google.com/events/devfest/) et est organisé en partenariat avec Google.
-
-### Les communautés organisatrices
-
-Le DevFest Toulouse est un événement organisé par les communautés de développeurs de Toulouse, et porté administrativement par le GDG Toulouse (ex TAUG).
-Vous retrouverez la liste des communautés en bas de page principale.
-
-Pour rendre tout cela possible, une équipe de bénévoles sur-vitaminée s’active en coulisse.
+DevFest is part of an [international event](https://developers.google.com/events/devfest/) and is organised in partnership with Google.
 
 
-## Conférence
+### Organizing communities
 
-### Où et quand aura lieu le DevFest ?
+DevFest Toulouse is an event organized by the developer communities of Toulouse, and administratively supported by GDG Toulouse (ex TAUG).
+You will find the list of communities at the bottom of the main page.
 
-Le DevFest Toulouse 2017 a lieu le jeudi 8 novembre au Centre de Congrés Pierre Baudis.
+To make all this possible, an over-vitaminated team of volunteers is working behind the scenes.
 
-### Comment s'y rendre ?
+## Conference
 
-Le centre de congrés est idéalement situé en centre ville.
+### Where and when will DevFest take place?
 
-EN AVION :
-Depuis l'aéroport Blagnac, le plus simple est de prendre la navette aéroport pour descendre à Compans-Cafarelli. Vous pouvez aussi prendre le tramway jusqu'à la station Arènes puis la ligne A du métro jusqu'à Jean Jaurès, enfin la ligne B pour descendre à Compans-Cafarelli.
+Le DevFest Toulouse 2019 a lieu le jeudi 3 octobre au Centre de Congrés Pierre Baudis.
 
-EN VOITURE :
-Un parking (payant) est situé à deux pas de la conférence.
+### How to get there?
 
-EN TRAIN :
-Depuis la gare Matabiau, prenez simplement le métro ligne A jusqu'à Jean Jaurès, puis la ligne B pour descendre à Compans-Cafarelli.
+The congress centre is ideally located in the city centre.
 
-EN METRO :
-Ligne B, descendez station Compans-Cafarelli.
+:airplane: BY PLANE :
+From Blagnac airport, the easiest way is to take the airport shuttle to get off at Compans-Cafarelli. You can also take the tramway to the Arena station, then line A of the metro to Jean Jaurès, and finally line B to get off at Compans-Cafarelli.
 
-### Comment devenir sponsor/partenaire ?
+:car: BY CAR:
+A parking lot (subject to charge) is located a stone's throw from the conference.
 
-Le dossier de partenariat est en cours de finalisation.
+:train: BY TRAIN :
+From Matabiau station, simply take the metro line A to Jean Jaurès, then line B to get off at Compans-Cafarelli.
 
-## CFP
-
-### Quel est le format des conférences ?
-
-Deux types de conférences sont proposées :
-
-- Les **lightning talks**, d’une durée de **15 minutes**, sans question.
-- Les **conférences**, d’une durée de **40 minutes**, sans question dans la salle.
-
-Les orateur·rice·s sont invités à rejoindre le speaker booth après leur conférence, où ils pourront interagir avec les spectateurs désireux de poursuivre le dialogue.
-Pour les conférences données en toute fin de de journée, 10 minutes de questions/réponses sont prévues dans le même auditoire à l’issue des 40 minutes de conférence.
+:metro: IN METRO :
+Line B, get off at Compans-Cafarelli station.
 
 
-### Comment devenir orateur/oratrice ?
+### How to become a sponsor/partner?
 
-Le CFP est ouvert, il ferme le 1 Juillet 2018.
+The partnership file is currently being finalized.
 
-Il vous suffit de soumettre un ou plusieurs sujets sur notre [CFP](https://devfest-toulouse.cfp.io).
+## CFP: Call for Paper
 
-Si votre sujet a été pré-sélectionné, nous vous offrons une place à la conférence, vous n'avez donc pas à acheter votre place à l'avance.
-Que vous présentiez un talk seul ou en duo, chaque conférencier a son entrée offerte.
+### What is the format of the conferences?
 
-### Est-ce que l'on peut soumettre un talk a plusieurs ?
+Two types of conferences are available:
 
-Oui, sur le site du CFP, si vous n'êtes pas seul lors de la présentation, renseignez l'e-mail des autres conférenciers, ceux-ci doivent s'être préalablement inscrits sur le CFP avec cette même adresse.
-Pour des raisons pratiques, nous n’acceptons pas les sujets impliquant plus de trois orateur·rice·s. 
-
-
-### J’ai proposé une conférence. Dois-je acheter mon entrée ?
-
-Si votre sujet (conférence ou lightning talk) a été sélectionné, nous vous offrons votre entrée au DevFest, vous n'avez donc pas à acheter votre place à l'avance.
-Si vous présentez un talk à plusieurs, deux entrées vous seront offertes par conférence, les autres intervenants devront acheter leur propre place (en l’absence d’autres conférences acceptées.)
-
-Au cas où votre sujet ne serait pas accepté, il vous sera encore possible d’acheter votre place après la notification, au tarif early-bird.
-
-### Prenez-vous en charge les frais de déplacement et d’hébergement?
-
-Les speakers présentant une conférence complète (40 minutes) peuvent demander un remboursement de leurs frais (transport et hébergement) sur présentation des factures, et dans une limite de 250€ par conférence (et non pas par speaker).
-Pour les lightning talks, les frais de déplacement ne sont pas remboursés.
-
-### Quels lieux recommandez-vous pour loger ?
-
-Le centre de congrès Pierre Baudis est situé à 15 minutes à pied de l’hyper-centre de Toulouse, ou 5 minutes en métro (arrêt Compans-Caffarelli).
-De nombreux hôtels et chambres d’hôtes sont disponibles à proximité.
-
-### Quel est le format attendu pour les slides ?
-
-Vous pouvez présenter votre conférence à partir de votre propre ordinateur, ou nous fournir au préalable les slides au format PDF.
-Le thème des slides est entièrement libre, et les présentations seront diffusées ensuite sur la chaîne YouTube GDG France, qui héberge déjà les présentations des années précédentes.
+- The **lightning talks**, lasting **15 minutes**, no questions asked.
+- The **conferences**, lasting **40 minutes**, no questions asked in the room.
 
 
-## Billetterie
+### How to become a speaker?
 
-### Quelles sont les conditions de remboursements de votre billet ?
+The CFP is not yet open.
 
-Nous permettons un remboursement jusqu'à 15 jours avant l'événement hors frais de traitement de notre partenaire billetterie.
+### Can we submit a talk to several people?
 
-### Faut-il se munir d'une pièce d'identité ou y-a-t-il un âge minimum pour entrer à l'événement ?
+Yes, on the CFP website, if you are not alone during the presentation, fill in the e-mail of the other speakers, they must have previously registered on the CFP with the same address.
+For practical reasons, we do not accept topics involving more than three speakers.
 
-Votre billet suffit, il n'y a pas d'âge minimum.
+### I proposed a conference. Do I have to buy my ticket?
 
-### Puis-je mettre à jour les informations de mon inscription ?
+If your subject (conference or lightning talk) has been selected, we offer you your entry to DevFest, so you do not have to buy your ticket in advance.
+If you are presenting a multi-party talk, two tickets will be offered per conference, other speakers will have to buy their own seats (in the absence of other accepted conferences.)
 
-Oui, vous pouvez modifier les informations de votre commande sur le site de notre partenaire billetterie.
+In case your subject is not accepted, you will still be able to buy your ticket after the notification, at the early-bird rate.
 
-### Est-ce un problème si le nom indiqué sur mon billet ou mon inscription ne correspond pas à celui du participant ?
+### Do you cover travel and accommodation costs?
 
-Oui. Merci de nous contacter en cas de question précise.
+Speakers presenting a full conference (40 minutes) may request reimbursement of their expenses (travel and accommodation) upon presentation of invoices, and up to a maximum of 250€ per conference (and not per speaker).
+For lightning talks, travel expenses are not reimbursed.
 
-### J'aimerais une facture, comment l'obtenir ?
+### What places do you recommend for accommodation?
 
-Notre association est désormais soumise à TVA. Il vous est donc possible d'obtenir une facture auprès de notre partenaire billetterie.
+The Pierre Baudis Congress Centre is located 15 minutes walk from the hyper-centre of Toulouse, or 5 minutes by metro (Compans-Caffarelli stop).
+Many hotels and guest rooms are available nearby.
+
+### What is the expected format for slides?
+
+You can present your conference from your own computer, or provide us with the slides in PDF format in advance.
+The slides theme is entirely free, and the presentations will then be broadcast on the YouTube channel GDG France, which already hosts the presentations of previous years.
+
+
+## Ticketing
+
+### What are the conditions for refunding your ticket?
+
+We allow a refund up to 15 days before the event excluding the processing fee of our ticketing partner.
+
+### Is it necessary to bring an identity document or is there a minimum age to enter the event?
+
+Your ticket is enough, there is no minimum age.
+
+### Can I update my registration information?
+
+Yes, you can change your order information on our ticketing partner's website.
+
+### Is it a problem if the name on my ticket or registration does not match the name of the participant?
+
+Yes, please contact us if you have any specific questions.
+
+### I would like an invoice, how do I get it?
+
+Our association is now subject to VAT. It is therefore possible to obtain an invoice from our ticketing partner.

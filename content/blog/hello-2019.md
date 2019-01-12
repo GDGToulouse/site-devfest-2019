@@ -1,52 +1,33 @@
 ---
 title: Hello 2019
-brief: Lancement du DevFest Toulouse 2018
-image: launch2018.jpg
-date: 2018-03-27T12:47:57+01:00
-draft: true
+brief: Launch of DevFest Toulouse 2019
+image: /images/blog/launch2019.jpg
+date: 2019-01-20
+draft: false
 ---
+
+## How to decipher ?
+
+Easy: 
+
+1. Download
+2. Recognize that it is a JWT and decode it with <http://jwt.io> for example
+3. Extract the data field, and do `base64 -d ...`
+4. a `files` on the result says that is a jpeg
+5. open it with <https://hexed.it/> or a simple `more` can do the job.
+
 
 ## Tada :tada:
 
-Aujourd’hui, nous avons le plaisir de vous annoncer que la 4e édition se déroulera :
+Today, we are pleased to announce that the 4th edition will take place:
 
-**Le jeudi XX novembre,au Centre des Congrès Pierre Baudis.**
+**Thursday, the 3rd October, 2010**
 
-Situé en plein coeur de Toulouse, dans le quartier de Compans Cafarelli, accessible en transport en commun et en voiture, nous aurons l’occasion d’accueillir **plus de conférences**, **plus de partenaires** et surtout **plus de participants**.
+
+This year we will stay at the Centre des Congrès Pierre Baudis.
 
 ![baudis](./baudis.jpg)
 
-Et… roulement de tambour, petite **nouveauté 2019**, il y aura un thème :
+We will also use more space, so we will be able to accommodate more people.
 
-**LE FROMAGE :cheese:**
-
-Ce thème sera décliné sur l’ensemble de la journée avec des **goodies**, une **décoration au top** et si vous voulez vous déguiser en Camenbert ou en Roquefort,
-faites vous plaisir !
-
-Nous invitons également nos partenaires à jouer le jeu ;-).
-
-## La suite des réjouissances
-
-- Ouverture du CFP : **début Avril**
-- Ouverture de la billetterie (environ 700 places disponibles) : **en Avril**.
-
-## En attendant, vous pouvez voir ou revivre le **DevFest** !
-
-2018, le DevFest c'était :
-
-- 700 participants,
-- XX cafés,
-- XX conférences,
-- XXX speakers d’exception,
-- XXX 20 partenaires,
-- et pas mal de nuits courtes, de midis et de week-end bien chargés pour les XX bénévoles.
-
-<!-- ![](/images/posts/2018-03-27-lancement-devfest-toulouse-2018/lancement-1.jpg) -->
-
-## Vous en voulez encore ?
-
-- Retrouvez toutes les conférences de l’édition 2018
-- Revivez l’édition 2018 en photos
-- [Le programme et toutes les infos : sur le site Edition 2018](https://2018.devfesttoulouse.fr/)
-
-<!-- ![](images/posts/2018-03-27-lancement-devfest-toulouse-2018/lancement-3.jpg) -->
+As last year, we will choose a theme, stay tune.
