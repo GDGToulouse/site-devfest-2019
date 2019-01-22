@@ -25,8 +25,8 @@ googleAnalytics = "UA-37717223-7"
     copyright = "We :heart:️ chocolatines"
 
 [params.logos]
-    header = "/images/logo.svg"
-    footer = "/images/logo-monochrome.svg"
+    header = "/images/logos/devfest_color_text.png"
+    footer = "/images/logos/devfest_gray_text.png"
 
 [params.firebase]
     version = "5.5.5"

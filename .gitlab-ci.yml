@@ -1,0 +1,31 @@
+image: ilaborie/hugonode
+
+variables:
+  GIT_SUBMODULE_STRATEGY : recursive
+
+before_script:
+  - hugo version
+  - echo node `node --version`
+  - echo yarn `yarn --version`
+
+sandbox:
+  script:
+    - hugo
+    - firebase use default
+    - firebase deploy --token "$FIREBASE_SANDBOX_TOKEN"
+  artifacts:
+    paths:
+      - public
+  only:
+    - develop
+
+prod:
+  script:
+    - hugo
+    - firebase use prod
+    - firebase deploy --token "$FIREBASE_PROD_TOKEN"
+  artifacts:
+    paths:
+      - public
+  only:
+    - master

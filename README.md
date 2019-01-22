@@ -1,4 +1,6 @@
-# Proto Site DevFest 2019
+# Site DevFest 2019
+
+[![pipeline status](https://gitlab.com/devfest-toulouse/site-devfest-2019/badges/develop/pipeline.svg)](https://gitlab.com/devfest-toulouse/site-devfest-2019/commits/develop)
 
 ## Requirement
 

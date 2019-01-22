@@ -1,7 +1,7 @@
 ---
 title: Hello 2019
 brief: Lancement du DevFest Toulouse 2019
-image: /images/blog/launch2019.jpg
+image: /images/blog/hello-2019.png
 date: 2019-01-20
 draft: false
 ---

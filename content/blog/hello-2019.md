@@ -1,7 +1,7 @@
 ---
 title: Hello 2019
 brief: Launch of DevFest Toulouse 2019
-image: /images/blog/launch2019.jpg
+image: /images/blog/hello-2019.png
 date: 2019-01-20
 draft: false
 ---
@@ -26,7 +26,7 @@ Today, we are pleased to announce that the 4th edition will take place:
 
 This year we will stay at the Centre des Congrès Pierre Baudis.
 
-![baudis](./baudis.jpg)
+![baudis](/images/blog/baudis.jpg)
 
 We will also use more space, so we will be able to accommodate more people.
 

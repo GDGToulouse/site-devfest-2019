@@ -8,7 +8,7 @@ menu:
 ---
 
 {{% jumbo img="/images/backgrounds/home.jpg" %}}
-# ![](/images/logo.svg)
+# ![](/images/logos/devfest_color_text.png)
 
 le 3 Octobre, 2019
 
