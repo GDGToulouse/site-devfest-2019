@@ -17,7 +17,7 @@ Centre de Congrès Pierre Baudis
 
 <!-- ... -->
 
-{{% home-info what="Participants:700,Journée:1,Conférences:36,Tracks en parallèle:4" %}}
+{{% home-info what="Participants:900,Journée:1,Conférences:36,Tracks en parallèle:4" %}}
 ## Le DevFest Toulouse, c'est quoi ?
 
 Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles.
