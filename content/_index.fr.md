@@ -23,7 +23,7 @@ Centre de Congrès Pierre Baudis
 Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles.
 {{% /home-info %}}
 
-<!-- ... -->
+<!-- ... 
 
 {{% home-speakers %}}
 ## Conférenciers en vedette
@@ -38,15 +38,18 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
 
 {{% /home-speakers %}}
 
-<!-- ... -->
+-->
+
+<!-- ... 
 
 {{% home-subscribe %}}
 
 ## Soyez notifié des dernières informations !
 
 {{% /home-subscribe %}}
+-->
 
-<!-- ... -->
+<!-- ... 
 
 {{% home-tickets %}}
 # Billets
@@ -78,6 +81,7 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
 \* Votre billet vous donne accès à toutes les conférences, aux pauses café, et au repas. L'hébergement n'est PAS inclus dans ce prix.
 
 {{% /home-tickets %}}
+-->
 
 <!-- ... -->
 
@@ -97,9 +101,11 @@ situé sur un emplacement privilégié,
 
 {{% /home-location %}}
 
-<!-- ... -->
+<!-- ...
 
 
 {{% partners categories="platinium,gold,soutien,media,communautes" %}}
 # Partenaires
 {{% /partners %}}
+
+-->
