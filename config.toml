@@ -23,16 +23,11 @@ googleAnalytics = "UA-37717223-7"
     email = "contact@devfesttoulouse.fr"
     keywords = "event, gdg, gde, devfest, google, programming, android, chrome, developers, web, cloud, androiddev"
     copyright = "We :heart:️ chocolatines"
+    subscriptionUrl = "http://eepurl.com/dps1j5"
 
 [params.logos]
     header = "/images/logos/devfest_color_text.png"
     footer = "/images/logos/devfest_gray_text.png"
-
-[params.firebase]
-    version = "5.5.5"
-    apiKey = "AIzaSyAMHUXSkZB-pjbj3E76leob2qgMjeqqYY0"
-    authDomain = "sandbox-devfesttoulouse.firebaseapp.com"
-    projectId = "sandbox-devfesttoulouse"
 
 #[menu]
 #[[menu.main]]

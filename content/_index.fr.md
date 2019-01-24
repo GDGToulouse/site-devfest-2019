@@ -40,14 +40,13 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
 
 -->
 
-<!-- ... 
+<!-- ... -->
 
 {{% home-subscribe %}}
 
 ## Soyez notifié des dernières informations !
 
 {{% /home-subscribe %}}
--->
 
 <!-- ... 
 
