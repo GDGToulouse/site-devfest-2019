@@ -7,7 +7,7 @@ menu:
 
 ---
 
-{{% jumbo img="/images/backgrounds/back-0.jpg" %}}
+{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="DevFest Toulouse 2019" %}}
 # ![](/images/logos/devfest_color_text.png)
 
 le 3 Octobre, 2019
