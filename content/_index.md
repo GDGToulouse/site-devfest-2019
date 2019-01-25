@@ -42,15 +42,13 @@ It is aimed at students, professionals or simply curious technophiles.
 
 -->
 
-<!-- ... 
+<!-- ... -->
 
 {{% home-subscribe %}}
 
 ## Get notified about the important conference updates
 
 {{% /home-subscribe %}}
-
--->
 
 <!-- ... 
 
