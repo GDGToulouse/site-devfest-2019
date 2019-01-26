@@ -1,16 +1,20 @@
-image: ilaborie/hugonode
+image: ilaborie/hugonode:1
 
 variables:
-  GIT_SUBMODULE_STRATEGY : recursive
+  GIT_SUBMODULE_STRATEGY: recursive
 
 before_script:
   - hugo version
   - echo node `node --version`
   - echo yarn `yarn --version`
+  - pushd themes/devfest-theme-hugo
+  - yarn
+  - popd
 
 sandbox:
   script:
     - hugo
+    - node themes/devfest-theme-hugo/minify.js
     - firebase use default
     - firebase deploy --token "$FIREBASE_SANDBOX_TOKEN"
   artifacts:
@@ -22,6 +26,7 @@ sandbox:
 prod:
   script:
     - hugo
+    - node themes/devfest-theme-hugo/minify.js
     - firebase use prod
     - firebase deploy --token "$FIREBASE_PROD_TOKEN"
   artifacts:

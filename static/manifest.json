@@ -1,6 +1,6 @@
 {
   "name": "DevFest Toulouse 2019",
-  "short_name": "DevFest TLS 19",
+  "short_name": "DevFest TLS",
   "icons": [
     { "src": "/images/logos/devfest_color48.png", "sizes": "48x48", "type": "image/png" },
     { "src": "/images/logos/devfest_color72.png", "sizes": "72x72", "type": "image/png" },

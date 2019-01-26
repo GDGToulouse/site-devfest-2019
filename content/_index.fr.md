@@ -104,9 +104,7 @@ situé sur un emplacement privilégié,
 
 {{% album images="/images/album/2018/_25A9313.jpg,/images/album/2018/_25A9386.jpg,/images/album/2018/_25A9671.jpg,/images/album/2018/_25A9334.jpg,/images/album/2018/_25A9282.jpg,/images/album/2018/_25A9612.jpg,/images/album/2018/_25A9452.jpg,/images/album/2018/_25A9628.jpg" %}}
 
-## Devfest 2018
-
-👾 retro-gaming 
+### Quelques photos du **DevFest Toulouse 2018** avec le thème 👾 _retro-gaming_. 
 
 {{% /album  %}}
 

@@ -107,9 +107,8 @@ in the immediate vicinity of the centre of Toulouse and in a green environment.
 
 {{% album images="/images/album/2018/_25A9313.jpg,/images/album/2018/_25A9386.jpg,/images/album/2018/_25A9671.jpg,/images/album/2018/_25A9334.jpg,/images/album/2018/_25A9282.jpg,/images/album/2018/_25A9612.jpg,/images/album/2018/_25A9452.jpg,/images/album/2018/_25A9628.jpg" %}}
 
-## Devfest 2018
+### Some pictures of the **DevFest Toulouse 2018** with the 👾 _retro-gaming_ theme. 
 
-👾 retro-gaming 
 
 {{% /album  %}}
 
