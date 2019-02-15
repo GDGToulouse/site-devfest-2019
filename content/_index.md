@@ -113,6 +113,10 @@ in the immediate vicinity of the centre of Toulouse and in a green environment.
     See all photos
 </a>
 
+<a class="btn inverse icon-right" target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=ZQGRMJzi6yU">
+    See the best moments of 2018!
+</a>
+
 {{% /album  %}}
 
 <!-- ... 

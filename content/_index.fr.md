@@ -110,6 +110,12 @@ situé sur un emplacement privilégié,
     Voir toutes les photos
 </a>
 
+<a class="btn inverse icon-right" target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=ZQGRMJzi6yU">
+    Voir les meilleurs moments 2018!
+</a>
+
+
+
 {{% /album  %}}
 
 

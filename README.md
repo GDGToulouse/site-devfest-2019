@@ -9,6 +9,13 @@
 
 * If you need to use tools, or deploy, you also need [NodeJS](https://nodejs.org/en/) and [Yarn](https://yarnpkg.com/lang/en/docs/install).
 
+## Install Theme
+
+```bash
+git submodule init
+git submodule update themes/devfest-theme-hugo
+```
+
 ## Run Local site
 
 Just run
