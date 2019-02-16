@@ -1,6 +1,6 @@
 {
   "projects": {
     "default": "sandbox-devfesttoulouse",
-    "prod": "devfesttoulouse"
+    "prod": "2019-devfesttoulouse"
   }
 }
