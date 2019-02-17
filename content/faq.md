@@ -24,7 +24,7 @@ DevFest is part of an [international event](https://developers.google.com/events
 
 ### Organizing communities
 
-DevFest Toulouse is an event organized by the developer communities of Toulouse, and administratively supported by GDG Toulouse (ex TAUG).
+DevFest Toulouse is an event organized by the developer communities of Toulouse, and administratively supported by GDG Toulouse.
 You will find the list of communities at the bottom of the main page.
 
 To make all this possible, an over-vitaminated team of volunteers is working behind the scenes.

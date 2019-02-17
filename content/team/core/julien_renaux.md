@@ -8,8 +8,6 @@ socials:
     name: Twitter
   - link: 'https://github.com/shprink'
     name: Github
-  - link: 'https://www.linkedin.com/in/julienrenaux/'
-    name: LinkedIn
 
 ---
 

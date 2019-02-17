@@ -9,7 +9,7 @@ draft: false
 ---
 
 {{% hero %}}
-Le DevFest Toulouse est un événement organisé par les communautés de développeurs de Toulouse, et porté administrativement par le GDG Toulouse (ex TAUG).
+Le DevFest Toulouse est un événement organisé par les communautés de développeurs de Toulouse, et porté administrativement par le GDG Toulouse.
 
 Pour rendre tout cela possible, une équipe de bénévoles sur-vitaminée s’active en coulisse.
 {{% /hero %}}

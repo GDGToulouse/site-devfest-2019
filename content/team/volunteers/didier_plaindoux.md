@@ -1,6 +1,6 @@
 ---
 title: Didier Plaindoux
-type: core
+type: volunteers
 subtitle: Toulouse JUG
 photo: didier_plaindoux.jpeg
 socials:

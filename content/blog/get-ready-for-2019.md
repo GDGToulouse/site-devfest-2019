@@ -2,7 +2,7 @@
 title: Get ready for DevFest Toulouse 2019!
 brief: DevFest season is back
 image: /images/blog/hello-2019.png
-date: 2019-01-21
+date: 2019-01-28
 draft: false
 ---
 

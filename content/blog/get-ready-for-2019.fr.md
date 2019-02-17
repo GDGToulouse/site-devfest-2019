@@ -2,7 +2,7 @@
 title: Lancement du DevFest Toulouse édition 2019
 brief: Soyez prêt!
 image: /images/blog/hello-2019.png
-date: 2019-01-21
+date: 2019-01-28
 draft: false
 ---
 
