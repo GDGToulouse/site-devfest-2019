@@ -9,21 +9,27 @@ menu:
 
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="DevFest Toulouse 2019" %}}
-# ![](/images/logos/devfest_color_text.png)
 
-3rd October, 2019
+![](/images/logos/devfest_color_text.png)
 
-Centre de Congrès Pierre Baudis
+## October 3rd, 2019
+### Pierre Baudis congress center
+
 {{% /jumbo %}}
 
-<!-- ... -->
 
-{{% home-info what="Participants:900,Day:1,Sessions:36,Parallel Tracks:4" %}}
+
+{{% home-info what="Participants:900,Day:1,Sessions:36,Parallel Tracks:4" class="primary" %}}
 ## What is DevFest Toulouse?
 
 The DevFest, or 'Developers Festival', is a technical conference for developers. 
 It is aimed at students, professionals or simply curious technophiles.
 {{% /home-info %}}
+
+
+{{< youtube-section link="ZQGRMJzi6yU" title="Watch 2018 best moments" class="" >}}
+
+<!-- ... -->
 
 <!-- ... 
 
@@ -44,7 +50,7 @@ It is aimed at students, professionals or simply curious technophiles.
 
 <!-- ... -->
 
-{{% home-subscribe %}}
+{{% home-subscribe  class="primary" %}}
 
 ## Get notified about the important conference updates
 
@@ -88,7 +94,7 @@ It is aimed at students, professionals or simply curious technophiles.
 <!-- ... -->
 
 {{% home-location
-    image="/images/map.png"
+    image="/images/map.jpg"
     address="11 Espl. Compans Caffarelli, 31000 Toulouse"
     latitude="43.6110956"
     longitude="1.4332799" %}}
@@ -111,10 +117,6 @@ in the immediate vicinity of the centre of Toulouse and in a green environment.
 
 <a class="btn inverse icon-right" target="_blank" rel="noopener" href="https://photos.app.goo.gl/nJYFVReFUk9mnXbv9">
     See all photos
-</a>
-
-<a class="btn inverse icon-right" target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=ZQGRMJzi6yU">
-    See the best moments of 2018!
 </a>
 
 {{% /album  %}}

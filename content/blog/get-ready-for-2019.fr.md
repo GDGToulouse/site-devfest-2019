@@ -1,7 +1,7 @@
 ---
 title: Lancement du DevFest Toulouse édition 2019
 brief: Soyez prêt!
-image: /images/blog/hello-2019.png
+image: /images/blog/hello-2019.jpg
 date: 2019-01-28
 draft: false
 ---
@@ -10,7 +10,7 @@ Aujourd’hui, nous avons le plaisir de vous annoncer que la 4ème édition du D
 
 Tout comme l’année dernière, la journée se déroulera en plein coeur de Toulouse, dans le quartier de Compans Cafarelli. Le Centre de Congrès est accessible en transport en commun et en voiture. Nous aurons l’occasion d’accueillir **plus de conférences**, **plus de partenaires** et surtout **plus de participants**.
 
-![baudis](/images/blog/baudis.jpg)
+{{< centered-img src="/images/blog/baudis.jpg" alt="Pierre Baudis" width="800" >}}
 
 ## La suite des réjouissances:
 
