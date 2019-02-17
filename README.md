@@ -16,6 +16,14 @@ git submodule init
 git submodule update themes/devfest-theme-hugo
 ```
 
+## Commit theme update
+
+When you have made changes on the theme, you need to add the
+
+```
+git add themes/devfest-theme-hugo
+```
+
 ## Run Local site
 
 Just run

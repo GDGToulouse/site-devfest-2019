@@ -1,7 +1,7 @@
 ---
 title: Get ready for DevFest Toulouse 2019!
 brief: DevFest season is back
-image: /images/blog/hello-2019.png
+image: /images/blog/hello-2019.jpg
 date: 2019-01-28
 draft: false
 ---
@@ -10,7 +10,7 @@ Today it is with great pleasure that we announce you that the 4th edition of Dev
 
 As last year, the event will be right in the city center, in the Compans Cafarelli neighborhood. The center of congress Pierre Baudis is acecssible by the subway, bus or even by car. This year we will have **more space**, **more sponsors** and **more attendees**
 
-![baudis](/images/blog/baudis.jpg)
+{{< centered-img src="/images/blog/baudis.jpg" alt="Pierre Baudis" width="800" >}}
 
 ## What's next?
 

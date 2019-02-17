@@ -8,20 +8,22 @@ menu:
 ---
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="DevFest Toulouse 2019" %}}
-# ![](/images/logos/devfest_color_text.png)
+![](/images/logos/devfest_color_text.png)
 
-le 3 Octobre, 2019
+## 3 Octobre, 2019
+### Centre de Congrès Pierre Baudis
 
-Centre de Congrès Pierre Baudis
 {{% /jumbo %}}
 
 <!-- ... -->
 
-{{% home-info what="Participants:900,Journée:1,Conférences:36,Tracks en parallèle:4" %}}
+{{% home-info what="Participants:900,Journée:1,Conférences:36,Tracks en parallèle:4" class="primary" %}}
 ## Le DevFest Toulouse, c'est quoi ?
 
 Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles.
 {{% /home-info %}}
+
+{{< youtube-section link="ZQGRMJzi6yU" title="Les meilleurs moments 2018" class="" >}}
 
 <!-- ... 
 
@@ -42,7 +44,7 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
 
 <!-- ... -->
 
-{{% home-subscribe %}}
+{{% home-subscribe class="primary" %}}
 
 ## Soyez notifié des dernières informations !
 
@@ -85,7 +87,7 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
 <!-- ... -->
 
 {{% home-location
-    image="/images/map.png"
+    image="/images/map.jpg"
     address="11 Espl. Compans Caffarelli, 31000 Toulouse"
     latitude="43.6110956"
     longitude="1.4332799" %}}
@@ -109,12 +111,6 @@ situé sur un emplacement privilégié,
 <a class="btn inverse icon-right" target="_blank" rel="noopener" href="https://photos.app.goo.gl/nJYFVReFUk9mnXbv9">
     Voir toutes les photos
 </a>
-
-<a class="btn inverse icon-right" target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=ZQGRMJzi6yU">
-    Voir les meilleurs moments 2018!
-</a>
-
-
 
 {{% /album  %}}
 
