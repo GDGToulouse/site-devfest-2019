@@ -1,6 +1,6 @@
 ---
 title: Lancement du DevFest Toulouse édition 2019
-brief: Soyez prêt!
+brief: Soyez prêt !
 image: /images/blog/hello-2019.jpg
 date: 2019-01-28
 draft: false
@@ -12,12 +12,12 @@ Tout comme l’année dernière, la journée se déroulera en plein coeur de Tou
 
 {{< centered-img src="/images/blog/baudis.jpg" alt="Pierre Baudis" width="800" >}}
 
-## La suite des réjouissances:
+## La suite des réjouissances :
 
 * Ouverture du [CFP](https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi) : 1er Avril
 * Ouverture de la billetterie (environ 900 places disponibles) : en Avril.
 
-Dans les jours/semaines à venir nous communiquerons sur le thème de l'édition 2019. Suivez-nous sur Twitter, LinkedIn ou sur ce site afin de rester informés ! :-)
+Dans les jours/semaines à venir nous communiquerons sur le thème de l'édition 2019. Suivez-nous sur [Twitter](https://twitter.com/devfesttoulouse), [LinkedIn](https://www.linkedin.com/company/devfesttoulouse/) ou sur ce site afin de rester informés ! :-)
 
 ## Vous en voulez encore ?
 
@@ -25,3 +25,5 @@ Dans les jours/semaines à venir nous communiquerons sur le thème de l'édition
 * [Retrouvez toutes les conférences de l’édition 2018](https://www.youtube.com/watch?v=ZQGRMJzi6yU&list=PLuZ_sYdawLiXmCwIYJs7AcBaXmUsVgPMU)
 * [Revivez l’édition 2018 avec les photos officielles](https://photos.google.com/share/AF1QipNXrf4emzX-sHvtCLQ6oJOHoTKs-JpNS34QLOQ3J_vQPIwAOS6mA1svo_-EUsLAdA?key=TVY3dlFTMHBkX2tYazR0U0lBTGhJMEpHZWE4UHR3)
 * [Le programme et toutes les infos : sur le site Edition 2018](https://2018.devfesttoulouse.fr/)
+
+On vous attends le 3 Octobre 2019 ! :-)
