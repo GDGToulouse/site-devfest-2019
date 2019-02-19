@@ -24,8 +24,10 @@ sandbox:
     - develop
 
 prod:
+  variables:
+    HUGO_ENV: production
   script:
-    - HUGO_ENV=production; hugo --baseURL https://2019.devfesttoulouse.fr/
+    - hugo --baseURL https://2019.devfesttoulouse.fr/
     - node themes/devfest-theme-hugo/minify.js
     - firebase use prod
     - firebase deploy --token "$FIREBASE_PROD_TOKEN"
