@@ -11,7 +11,7 @@ enableEmoji = true
 enableRobotsTXT = true
 enableMissingTranslationPlaceholders = true
 
-googleAnalytics = "UA-37717223-7"
+googleAnalytics = "UA-37717223-8"
 
 [params]
     favicon = "/images/favicon.ico"
