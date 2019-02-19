@@ -14,8 +14,6 @@ enableMissingTranslationPlaceholders = true
 googleAnalytics = "UA-37717223-8"
 
 [params]
-    favicon = "/images/favicon.ico"
-    themeColor = "#673ab7"
     title = "DevFest Toulouse 2019"
     date = "2019-10-03"
     description = "The DevFest, or 'Developers Festival', is a technical conference for developers. It is aimed at students, professionals or simply curious technophiles."
@@ -24,6 +22,12 @@ googleAnalytics = "UA-37717223-8"
     keywords = "event, gdg, gde, devfest, google, programming, android, chrome, developers, web, cloud, androiddev"
     copyright = "We :heart:️ chocolatines"
     subscriptionUrl = "http://eepurl.com/dps1j5"
+    appleTouchIcon = "/apple-touch-icon.png"
+    favicon32 = "/favicon-32x32.png"
+    favicon16 = "/favicon-16x16.png"
+    manifest = "/manifest.json"
+    safariPinnedTab = "/safari-pinned-tab.svg"
+    themeColor = "#673ab7"
 
 [params.logos]
     header = "/images/logos/devfest_color_text.png"
