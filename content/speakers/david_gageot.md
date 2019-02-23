@@ -5,8 +5,8 @@ shortBio: >-
   Developer Advocate @Google Cloud. I run Docker in Docker in Docker...
   recursively
 company: Google
-companyLogo: /images/speakers/company/google.svg
-companyLogoUrl: /images/speakers/company/google.svg
+companyLogo: /images/speakers/company/google.jpg
+companyLogoUrl: /images/speakers/company/google.jpg
 country: 'Paris, France'
 featured: true
 photo: /images/speakers/david_gageot.jpg
