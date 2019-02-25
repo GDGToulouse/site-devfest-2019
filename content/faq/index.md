@@ -1,10 +1,10 @@
 ---
 title: FAQs
 menu:
-  faq:
+  main:
     weight: 80
     
-draft: false
+draft: true
 ---
 
 ## General
