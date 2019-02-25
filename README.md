@@ -72,12 +72,3 @@ Note that you need to authenticate once with `firebase login`
 ### Extract data from CFP
 
 TODO...
-
-## TODO
-
-* [] i18n
-* [] a11y
-* [] optimizations
-* [] more tooling
-* [] last tweet
-* [] add the author for the blog
