@@ -8,7 +8,13 @@ menu:
 ---
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="DevFest Toulouse 2019" %}}
-![](/images/logos/devfest_color_text.png)
+
+{{< responsive-img
+  src="/images/logos/devfest_color_text.png"
+  alt="Lighthouse Wordpress"
+  width="400"
+  height="filter: drop-shadow(0px 1px 1px var(--darken-3)); margin-bottom: 2rem;"
+>}}
 
 ## 3 Octobre, 2019
 ### Centre de Congrès Pierre Baudis
