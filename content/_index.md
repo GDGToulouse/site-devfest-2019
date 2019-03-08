@@ -13,6 +13,9 @@ menu:
 ## October 3rd, 2019
 ### Pierre Baudis congress center
 
+<a class="btn primary btn-lg" style="margin-top: 20px;" href="https://docs.google.com/presentation/d/1BjPEcuE2U1wBUv-eYxIUjq_v5ZE1CHEY4mZWEDzQjOA/edit?usp=sharing" target="_blank">Become a sponsor (🇫🇷 for now)</a>
+
+
 {{% /jumbo %}}
 
 

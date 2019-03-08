@@ -12,6 +12,8 @@ menu:
 ## 3 Octobre, 2019
 ### Centre de Congrès Pierre Baudis
 
+<a class="btn primary btn-lg" style="margin-top: 20px;" href="https://docs.google.com/presentation/d/1BjPEcuE2U1wBUv-eYxIUjq_v5ZE1CHEY4mZWEDzQjOA/edit?usp=sharing" target="_blank">Devenez Partenaire 🇫🇷</a>
+
 {{% /jumbo %}}
 
 <!-- ... -->
