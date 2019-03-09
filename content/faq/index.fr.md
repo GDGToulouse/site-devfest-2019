@@ -71,7 +71,7 @@ Deux types de conférences sont proposés :
 - Les **conférences**, d’une durée de **40 minutes**, sans question.
 
 
-Les orateur·rice·s sont invités à rejoindre le speaker booth après leur conférence : ils pourront y interagir avec les spectateurs désireux de poursuivre le dialogue.
+Les orateur·rice·s sont invité·e·s à rejoindre le speaker booth après leur conférence : il·elle·s pourront y interagir avec les spectateurs désireux de poursuivre le dialogue.
 Pour les conférences données en toute fin de de journée, 10 minutes de questions/réponses sont prévues dans le même auditoire, à l’issue des 40 minutes de conférence.
 
 
