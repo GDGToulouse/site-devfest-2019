@@ -4,7 +4,7 @@ menu:
   main:
     weight: 80
 
-draft: true
+draft: false
 ---
 
 ## Général
@@ -33,27 +33,29 @@ Pour rendre tout cela possible, une équipe de bénévoles sur-vitaminée s’ac
 
 ### Où et quand aura lieu le DevFest ?
 
-Le DevFest Toulouse 2017 a lieu le jeudi 8 novembre au Centre de Congrés Pierre Baudis.
+Le DevFest Toulouse 2019 a lieu le jeudi 03 octobre au [Centre de Congrés Pierre Baudis](https://goo.gl/maps/vDmHc8mFQtD2).
 
 ### Comment s'y rendre ?
 
 Le centre de congrés est idéalement situé en centre ville.
 
-EN AVION :
+:airplane: EN AVION :
 Depuis l'aéroport Blagnac, le plus simple est de prendre la navette aéroport pour descendre à Compans-Cafarelli. Vous pouvez aussi prendre le tramway jusqu'à la station Arènes puis la ligne A du métro jusqu'à Jean Jaurès, enfin la ligne B pour descendre à Compans-Cafarelli.
 
-EN VOITURE :
+:car: EN VOITURE :
 Un parking (payant) est situé à deux pas de la conférence.
 
-EN TRAIN :
+:train: EN TRAIN :
 Depuis la gare Matabiau, prenez simplement le métro ligne A jusqu'à Jean Jaurès, puis la ligne B pour descendre à Compans-Cafarelli.
 
-EN METRO :
+:metro: IEN METRO :
 Ligne B, descendez station Compans-Cafarelli.
+
+## Sponsor / Partenaire ?
 
 ### Comment devenir sponsor/partenaire ?
 
-Le dossier de partenariat est en cours de finalisation.
+Le [dossier de partenariat est disponible](https://drive.google.com/open?id=1Uo1V4v3SHjl2q27SNkOyHkcuagKJmTU4).
 
 ## CFP
 
@@ -64,18 +66,17 @@ Deux types de conférences sont proposées :
 - Les **lightning talks**, d’une durée de **15 minutes**, sans question.
 - Les **conférences**, d’une durée de **40 minutes**, sans question dans la salle.
 
+
 Les orateur·rice·s sont invités à rejoindre le speaker booth après leur conférence, où ils pourront interagir avec les spectateurs désireux de poursuivre le dialogue.
 Pour les conférences données en toute fin de de journée, 10 minutes de questions/réponses sont prévues dans le même auditoire à l’issue des 40 minutes de conférence.
 
 
 ### Comment devenir orateur/oratrice ?
 
-Le CFP est ouvert, il ferme le 1 Juillet 2018.
-
-Il vous suffit de soumettre un ou plusieurs sujets sur notre [CFP](https://devfest-toulouse.cfp.io).
+Le CFP sera ouvert à partir du 25 mars jusqu'au 25 mai 2019.
+Il utilisera [conference-hall](https://conference-hall.io).
 
 Si votre sujet a été pré-sélectionné, nous vous offrons une place à la conférence, vous n'avez donc pas à acheter votre place à l'avance.
-Que vous présentiez un talk seul ou en duo, chaque conférencier a son entrée offerte.
 
 ### Est-ce que l'on peut soumettre un talk a plusieurs ?
 
@@ -86,7 +87,7 @@ Pour des raisons pratiques, nous n’acceptons pas les sujets impliquant plus de
 ### J’ai proposé une conférence. Dois-je acheter mon entrée ?
 
 Si votre sujet (conférence ou lightning talk) a été sélectionné, nous vous offrons votre entrée au DevFest, vous n'avez donc pas à acheter votre place à l'avance.
-Si vous présentez un talk à plusieurs, deux entrées vous seront offertes par conférence, les autres intervenants devront acheter leur propre place (en l’absence d’autres conférences acceptées.)
+Si vous présentez un talk à plusieurs, **deux** entrées vous seront offertes par conférence, les autres intervenants devront acheter leur propre place (en l’absence d’autres conférences acceptées.)
 
 Au cas où votre sujet ne serait pas accepté, il vous sera encore possible d’acheter votre place après la notification, au tarif early-bird.
 

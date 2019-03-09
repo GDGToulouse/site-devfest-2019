@@ -4,7 +4,7 @@ menu:
   main:
     weight: 80
     
-draft: true
+draft: false
 ---
 
 ## General
@@ -33,7 +33,7 @@ To make all this possible, an over-vitaminated team of volunteers is working beh
 
 ### Where and when will DevFest take place?
 
-Le DevFest Toulouse 2019 a lieu le jeudi 3 octobre au Centre de Congrés Pierre Baudis.
+Le DevFest Toulouse 2019 takes place on Thursday, October 3 at the [Congress Centre Pierre Baudis](https://goo.gl/maps/vDmHc8mFQtD2).
 
 ### How to get there?
 
@@ -52,9 +52,11 @@ From Matabiau station, simply take the metro line A to Jean Jaurès, then line B
 Line B, get off at Compans-Cafarelli station.
 
 
+## Sponsor / Partner?
+
 ### How to become a sponsor/partner?
 
-The partnership file is currently being finalized.
+The partnership file is currently available but only in :fr: [dossier de partenariat](https://drive.google.com/open?id=1Uo1V4v3SHjl2q27SNkOyHkcuagKJmTU4).
 
 ## CFP: Call for Paper
 
@@ -65,10 +67,15 @@ Two types of conferences are available:
 - The **lightning talks**, lasting **15 minutes**, no questions asked.
 - The **conferences**, lasting **40 minutes**, no questions asked in the room.
 
+Speakers are invited to join the speaker booth after their conference, where they can interact with spectators who wish to continue the dialogue.
+For conferences given at the very end of the day, 10 minutes of questions and answers are scheduled in the same audience after the 40 minutes of the conference.
 
 ### How to become a speaker?
 
-The CFP is not yet open.
+The CFP will be open from 25 March to 25 May 2019.
+He will use[conference-hall] (https://conference-hall.io).
+
+If your topic has been pre-selected, we will offer you a place at the conference, so you do not have to buy your place in advance.
 
 ### Can we submit a talk to several people?
 
@@ -78,7 +85,7 @@ For practical reasons, we do not accept topics involving more than three speaker
 ### I proposed a conference. Do I have to buy my ticket?
 
 If your subject (conference or lightning talk) has been selected, we offer you your entry to DevFest, so you do not have to buy your ticket in advance.
-If you are presenting a multi-party talk, two tickets will be offered per conference, other speakers will have to buy their own seats (in the absence of other accepted conferences.)
+If you are presenting a multi-party talk, **two** tickets will be offered per conference, other speakers will have to buy their own seats (in the absence of other accepted conferences.)
 
 In case your subject is not accepted, you will still be able to buy your ticket after the notification, at the early-bird rate.
 
