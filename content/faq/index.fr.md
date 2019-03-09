@@ -75,7 +75,7 @@ Les orateur·rice·s sont invités à rejoindre le speaker booth après leur con
 Pour les conférences données en toute fin de de journée, 10 minutes de questions/réponses sont prévues dans le même auditoire, à l’issue des 40 minutes de conférence.
 
 
-### Comment devenir orateur·rice·s ?
+### Comment devenir orateur·rice ?
 
 Le CFP sera ouvert entre le 25 mars et le 25 mai 2019.
 Il utilisera l'application [Conference Hall](https://conference-hall.io).
