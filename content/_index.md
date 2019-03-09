@@ -57,40 +57,43 @@ It is aimed at students, professionals or simply curious technophiles.
 
 {{% /home-subscribe %}}
 
-<!-- ... 
+<!-- ... -->
 
 {{% home-tickets %}}
 # Tickets
 
 <ul>  
 <li>{{< ticket name="Blind Birds"
-           starts="2019-04-04"
+           starts="2019-03-25"
+           ends="2019-04-25"
            ends="2019-11-08"
            price="40 €"
            info="50 first places"
-           soldOut="true"
-           url="https://www.billetweb.fr/devfest-toulouse-2018" >}}</li>
+           close="true"
+           soldOut=""
+           url="https://www.billetweb.fr/devfest-toulouse-2019" >}}</li>
 <li>{{< ticket name="Early Birds"
-           starts="2019-04-04"
-           ends="2019-11-08"
+           starts="2019-04-25"
+           ends="2019-06-22"
            price="60 €"
            info="70 first places"
-           soldOut="true"
+           soldOut=""
+           close="true"
            url="https://www.billetweb.fr/devfest-toulouse-2018" >}}</li>
 <li>{{< ticket name="Normal"
-           starts="2019-04-04"
-           ends="2019-11-08"
+           starts="2019-06-22"
+           ends="2019-10-03"
            price="80 €"
            info="250 last places"
+           close="true"
            soldOut=""
-           url="https://www.billetweb.fr/devfest-toulouse-2018" >}}</li>
+           url="https://www.billetweb.fr/devfest-toulouse-2019" >}}</li>
 </ul>
 
 \* Your ticket gives you access to all conferences, coffee breaks, and lunch. Accommodation is NOT included in this price.
 
 {{% /home-tickets %}}
 
--->
 
 <!-- ... -->
 
