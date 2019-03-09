@@ -21,7 +21,7 @@ menu:
 {{% home-info what="Participants:900,Journée:1,Conférences:36,Tracks en parallèle:4" class="primary" %}}
 ## Le DevFest Toulouse, c'est quoi ?
 
-Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles.
+Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants qu'aux professionnels ou tout simplement aux curieux technophiles.
 {{% /home-info %}}
 
 {{< youtube-section link="ZQGRMJzi6yU" title="Les meilleurs moments 2018" class="" >}}
@@ -83,7 +83,7 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
            url="https://www.billetweb.fr/devfest-toulouse-2019" >}}</li>
 </ul>
 
-\* Votre billet vous donne accès à toutes les conférences, aux pauses café, et au repas. L'hébergement n'est PAS inclus dans ce prix.
+\* Votre billet vous donne accès à toutes les conférences, aux pauses café et au repas. L'hébergement n'est **pas** inclus dans ce prix.
 
 {{% /home-tickets %}}
 
@@ -91,7 +91,7 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
 
 {{% home-location
     image="/images/map.jpg"
-    address="11 Espl. Compans Caffarelli, 31000 Toulouse"
+    address="11 Espl. Compans-Caffarelli, 31000 Toulouse"
     latitude="43.6110956"
     longitude="1.4332799" %}}
 
