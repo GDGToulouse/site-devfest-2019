@@ -82,7 +82,7 @@ Il utilisera l'application [Conference Hall](https://conference-hall.io).
 
 Si votre sujet a été pré-sélectionné, nous vous offrons une place à la conférence, vous n'avez donc pas à acheter votre place à l'avance.
 
-### Est-ce que l'on peut soumettre un talk à plusieurs ?
+### Est-ce que l'on peut soumettre un sujet à plusieurs ?
 
 Oui : sur le site du CFP, renseignez l'e-mail des autres orateur·rice·s. Celleux-ci doivent s'être préalablement inscrit·e·s sur le CFP avec cette même adresse.
 Pour des raisons pratiques, nous n’acceptons pas les sujets impliquant plus de trois orateur·rice·s. 
