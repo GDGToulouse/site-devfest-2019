@@ -97,7 +97,7 @@ Au cas où votre sujet ne serait pas accepté, il vous sera encore possible d’
 
 ### Prenez-vous en charge les frais de déplacement et d’hébergement ?
 
-Les orateur·rice·s présentant un classical talk (40 minutes) peuvent demander un remboursement de leurs frais (transport et hébergement) sur présentation des factures et dans une limite de 250€ par sujet (et non pas par orateur·rice).
+Les orateurs présentant un classical talk (40 minutes) peuvent demander un remboursement de leurs frais (transport et hébergement) sur présentation des factures et dans une limite de 250€ par sujet (et non pas par orateur).
 Pour les lightning talks, les frais de déplacement ne sont pas remboursés.
 
 ### Quels lieux recommanderiez-vous pour se loger ?
