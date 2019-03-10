@@ -91,7 +91,7 @@ Pour des raisons pratiques, nous n’acceptons pas les sujets impliquant plus de
 ### J’ai proposé un sujet, dois-je acheter mon entrée ?
 
 Si votre sujet (classical talk ou lightning talk) a été sélectionné, nous vous offrons une place à la conférence, vous n'avez donc pas à acheter votre place à l'avance.
-Si vous présentez un talk à plusieurs, **deux** entrées vous seront offertes et les autres intervenant·e·s devront acheter leur propre place (en l’absence d’autres sujets acceptés).
+Si vous présentez un sujet à plusieurs, **deux** entrées vous seront offertes et les autres intervenant·e·s devront acheter leur propre place (en l’absence d’autres sujets acceptés).
 
 Au cas où votre sujet ne serait pas accepté, il vous sera encore possible d’acheter votre place après la notification, au tarif early-bird.
 
