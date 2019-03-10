@@ -11,13 +11,13 @@ draft: false
 
 ### Qu'est ce que le DevFest Toulouse ?
 
-Le DevFest, ou "Developers Festival", est une conférence technique destinée aux développeur·se·s.
-Elle s'adresse aussi bien aux étudiant·e·s qu'aux professionnel·le·s ou tout simplement aux curieux·ses technophiles.
-Durant toute la journée, des orateur·rice·s reconnu·e·s viendront présenter des sujets variés : autour du développement mobile, du web, de la data, des objets connectés, du cloud, du DevOps, des bonnes pratiques de développement, etc.
+Le DevFest, ou "Developers Festival", est une conférence technique destinée aux développeurs.
+Elle s'adresse aussi bien aux étudiants qu'aux professionnels ou tout simplement aux curieux technophiles.
+Durant toute la journée, des orateurs reconnus viendront présenter des sujets variés : autour du développement mobile, du web, de la data, des objets connectés, du cloud, du DevOps, des bonnes pratiques de développement, etc.
 Des pauses permettent d'engager le dialogue et d'approfondir les sujets présentés.
 
 Le développement logiciel est un sujet très vaste et notre comité de sélection a à cœur de proposer un programme varié et captivant.
-Cette journée sera l'occasion de rencontrer des orateur·rice·s de renommée internationale et nationale : une place importante est dédiée aux conférenciers locaux.
+Cette journée sera l'occasion de rencontrer des orateurs de renommée internationale et nationale : une place importante est dédiée aux conférenciers locaux.
 
 Le DevFest s'inscrit dans un [cadre international](https://developers.google.com/events/devfest/) et est organisé en partenariat avec Google.
 
@@ -71,11 +71,11 @@ Deux types de présentations sont proposés :
 - Les **classical talks**, d’une durée de **40 minutes**, sans question.
 
 
-Les orateur·rice·s sont invité·e·s à rejoindre le speaker booth après leur présentation : il·elle·s pourront y interagir avec les spectateur·rice·s désireux·ses de poursuivre le dialogue.
+Les orateurs sont invités à rejoindre le speaker booth après leur présentation : ils pourront y interagir avec les spectateurs désireux de poursuivre le dialogue.
 Pour les classical talks données en toute fin de de journée, 10 minutes de questions / réponses sont prévues dans le même auditoire, à l’issue des 40 minutes de présentations.
 
 
-### Comment devenir orateur·rice ?
+### Comment devenir orateur ?
 
 Le CFP sera ouvert entre le 25 mars et le 25 mai 2019.
 Il utilisera l'application [Conference Hall](https://conference-hall.io).
@@ -84,14 +84,14 @@ Si votre sujet a été pré-sélectionné, nous vous offrons une place à la con
 
 ### Est-ce que l'on peut soumettre un sujet à plusieurs ?
 
-Oui : sur le site du CFP, renseignez l'e-mail des autres orateur·rice·s. Celleux-ci doivent s'être préalablement inscrit·e·s sur le CFP avec cette même adresse.
-Pour des raisons pratiques, nous n’acceptons pas les sujets impliquant plus de trois orateur·rice·s. 
+Oui : sur le site du CFP, renseignez l'e-mail des autres orateurs. Ceux-ci doivent s'être préalablement inscrits sur le CFP avec cette même adresse.
+Pour des raisons pratiques, nous n’acceptons pas les sujets impliquant plus de trois orateurs. 
 
 
 ### J’ai proposé un sujet, dois-je acheter mon entrée ?
 
 Si votre sujet (classical talk ou lightning talk) a été sélectionné, nous vous offrons une place à la conférence, vous n'avez donc pas à acheter votre place à l'avance.
-Si vous présentez un sujet à plusieurs, **deux** entrées vous seront offertes et les autres intervenant·e·s devront acheter leur propre place (en l’absence d’autres sujets acceptés).
+Si vous présentez un sujet à plusieurs, **deux** entrées vous seront offertes et les autres intervenants devront acheter leur propre place (en l’absence d’autres sujets acceptés).
 
 Au cas où votre sujet ne serait pas accepté, il vous sera encore possible d’acheter votre place après la notification, au tarif early-bird.
 
