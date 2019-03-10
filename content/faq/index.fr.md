@@ -12,7 +12,7 @@ draft: false
 ### Qu'est ce que le DevFest Toulouse ?
 
 Le DevFest, ou "Developers Festival", est une conférence technique destinée aux développeur·se·s.
-Elle s'adresse aussi bien aux étudiant·e·s, qu'aux professionnel·le·s ou tout simplement aux curieux·ses technophiles.
+Elle s'adresse aussi bien aux étudiant·e·s qu'aux professionnel·le·s ou tout simplement aux curieux·ses technophiles.
 Durant toute la journée, des orateur·rice·s reconnu·e·s viendront présenter des sujets variés : autour du développement mobile, du web, de la data, des objets connectés, du cloud, du DevOps, des bonnes pratiques de développement, etc.
 Des pauses permettent d'engager le dialogue et d'approfondir les sujets présentés.
 
@@ -85,7 +85,7 @@ Si votre sujet a été pré-sélectionné, nous vous offrons une place à la con
 ### Est-ce que l'on peut soumettre un talk à plusieurs ?
 
 Oui : sur le site du CFP, renseignez l'e-mail des autres orateur·rice·s. Celleux-ci doivent s'être préalablement inscrit·e·s sur le CFP avec cette même adresse.
-Pour des raisons pratiques, nous n’acceptons pas les sujets impliquants plus de trois orateur·rice·s. 
+Pour des raisons pratiques, nous n’acceptons pas les sujets impliquant plus de trois orateur·rice·s. 
 
 
 ### J’ai proposé un sujet, dois-je acheter mon entrée ?
