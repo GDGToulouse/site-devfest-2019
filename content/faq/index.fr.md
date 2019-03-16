@@ -33,28 +33,29 @@ Pour rendre tout cela possible, une équipe de bénévoles sur-vitaminée s’ac
 
 ### Où et quand aura lieu le DevFest ?
 
-Le DevFest Toulouse 2019 aura lieu le jeudi 03 octobre au [Centre de Congrés Pierre Baudis](https://goo.gl/maps/vDmHc8mFQtD2).
+Le DevFest Toulouse 2019 aura lieu le **jeudi 03 octobre** au [Centre de Congrés Pierre Baudis](https://goo.gl/maps/vDmHc8mFQtD2).
 
 ### Comment s'y rendre ?
 
 Le [Centre de Congrés Pierre Baudis](https://goo.gl/maps/vDmHc8mFQtD2) est idéalement situé en centre ville.
 
-:airplane: EN AVION :
-Depuis l'aéroport Blagnac, deux solutions :
-- Le plus simple est de prendre la navette aéroport pour descendre à l'arrêt Compans-Cafarelli
-- Vous pouvez aussi :
-  1. Prendre le tramway jusqu'à la station Arènes
-  2. Prendre une correspondance avec la ligne A du métro jusqu'à l'arrêt Jean Jaurès
-  3. Prendre une correspondance avec la ligne B du métro jusqu'à l'arrêt Compans-Cafarelli
-
-:car: EN VOITURE :
-Un parking (payant) est situé à deux pas de la conférence.
-
-:train: EN TRAIN :
-Depuis la gare Matabiau, prenez simplement la ligne A du métro jusqu'à l'arrêt Jean Jaurès où vous prendrez une correspondance avec la ligne B du métro afin de descendre à l'arrêt Compans-Cafarelli.
-
-:metro: EN MÉTRO :
-Prenez la ligne B puis descendez à l'arrêt Compans-Cafarelli.
+* :airplane: **en avion** : <br>
+Depuis l'aéroport _Blagnac_, deux solutions :
+  - Le plus simple est de prendre la navette aéroport pour descendre à l'arrêt _Compans-Cafarelli_
+  - Vous pouvez aussi :
+      1. Prendre le tramway <mark class="t2">T<sub>2</sub></mark> jusqu'à la station _Arènes_
+      2. Prendre une correspondance avec la ligne <mark class="a">A</mark> du métro jusqu'à l'arrêt _Jean Jaurès_
+      3. Prendre une correspondance avec la ligne <mark class="b">B</mark> du métro jusqu'à l'arrêt _Compans-Cafarelli_
+* :car: **en voiture** : <br>
+Un parking (payant) est situé à deux pas de la conférence. <br>
+N'hésitez pas à faire du co-voiturage.
+* :train: **en train** : <br>
+Depuis la gare _Matabiau_, 
+prenez simplement la ligne <mark class="a">A</mark> du métro jusqu'à l'arrêt _Jean Jaurès_ <br> 
+où vous prendrez une correspondance avec la ligne <mark class="b">B</mark> du métro 
+afin de descendre à l'arrêt _Compans-Cafarelli_.
+* :metro: **en métro** : <br>
+Prenez la ligne <mark class="b">B</mark> puis descendez à l'arrêt _Compans-Cafarelli_.
 
 ## Sponsor / Partenaire ?
 
@@ -67,6 +68,7 @@ Le dossier de partenariat est disponible [ici](https://drive.google.com/open?id=
 ### Quel est le format des présentations ?
 
 Deux types de présentations sont proposés :
+
 - Les **lightning talks**, d’une durée de **15 minutes**, sans question.
 - Les **classical talks**, d’une durée de **40 minutes**, sans question.
 

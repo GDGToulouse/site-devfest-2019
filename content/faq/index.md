@@ -33,24 +33,29 @@ To make all this possible, an over-vitaminated team of volunteers is working beh
 
 ### Where and when will DevFest take place?
 
-Le DevFest Toulouse 2019 takes place on Thursday, October 3 at the [Congress Centre Pierre Baudis](https://goo.gl/maps/vDmHc8mFQtD2).
+Le DevFest Toulouse 2019 takes place on **Thursday, October 3** at the [Congress Centre Pierre Baudis](https://goo.gl/maps/vDmHc8mFQtD2).
 
 ### How to get there?
 
-The congress centre is ideally located in the city centre.
+The [Centre de Congrés Pierre Baudis](https://goo.gl/maps/vDmHc8mFQtD2) is ideally located in the city centre.
 
-:airplane: BY PLANE :
-From Blagnac airport, the easiest way is to take the airport shuttle to get off at Compans-Cafarelli. You can also take the tramway to the Arena station, then line A of the metro to Jean Jaurès, and finally line B to get off at Compans-Cafarelli.
-
-:car: BY CAR:
-A parking lot (subject to charge) is located a stone's throw from the conference.
-
-:train: BY TRAIN :
-From Matabiau station, simply take the metro line A to Jean Jaurès, then line B to get off at Compans-Cafarelli.
-
-:metro: IN METRO :
-Line B, get off at Compans-Cafarelli station.
-
+* :airplane: **by plane** : <br>
+From _Blagnac_ airport, two solutions:
+  - The easiest way is to take the airport shuttle to get off at the stop _Compans-Cafarelli_
+  - You can also:
+      1. Take the tram <mark class="t2">T<sub>2</sub></mark> to the station _Arènes_
+      2. Take a connection with the <mark class="a">A</mark> line from the metro to the _Jean Jaurès_ stop
+      3. Take a connection with the <mark class="b">B</mark> line from the metro to the _Compans-Cafarelli_ stop
+* :car: **by car** : <br>
+A parking lot (subject to charge) is located a stone's throw from the conference. <br>
+Feel free to carpool.
+* :train: **by train** : <br>
+From the station _Matabiau_, 
+simply take the <mark class="a">A</mark> line from the metro to the _Jean Jaurès_ stop<br> 
+where you will take a connection with the <mark class="b">B</mark> metro line 
+in order to get off at the _Compans-Cafarelli_ stop.
+* :metro: **en métro** : <br>
+Take the line <mark class="b">B</mark> then get off at the _Compans-Cafarelli_ stop.
 
 ## Sponsor / Partner?
 
