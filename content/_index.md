@@ -66,7 +66,6 @@ It is aimed at students, professionals or simply curious technophiles.
 <li>{{< ticket name="Blind Birds"
            starts="2019-03-25"
            ends="2019-04-25"
-           ends="2019-06-22"
            price="40 €"
            info="50 first places"
            close="true"
