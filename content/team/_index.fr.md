@@ -16,7 +16,7 @@ Pour rendre tout cela possible, une équipe de bénévoles sur-vitaminée s’ac
 
 <!-- ... -->
 
-{{< teams types="core=Organisateurs,volunteers=Volontaires" >}}
+{{< teams types="core=Organisateurs,volunteers=Volontaires,cfp=CFP" >}}
 
 <!-- ... -->
 
