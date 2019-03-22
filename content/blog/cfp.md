@@ -6,7 +6,7 @@ date: 2019-03-25
 draft: false
 ---
 
-DevFest Toulouse will take place October 3rd, 2019 at Pierre Baudis congress center. Our fourth edition will gather 900 attendees!
+DevFest Toulouse will take place on October 3rd, 2019 at Pierre Baudis congress center. Our fourth edition will gather 900 attendees!
 
 While waiting for the D-day do not hesitate to propose a talk at [DevFest Toulouse CFP](https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi). It is now open and this year it will be for 2 months only (from March the 25th to Mai the 25th.) 
 
@@ -45,17 +45,17 @@ As for the questions, right after you talk, you will be invited to join the offi
 If you are selected for a 40 minutes talk you will get:
 
 * Conference ticket
-* Speaker Diner access
+* Speaker Dinner access
 * One or two nights in an hotel close to the venue
 * Flight/train tickets remboursed up to 250 euros within Europe (more on a case by case basis)
 
 If you are selected for a 15 minutes talk you will get:
 
 * Conference ticket
-* Speaker Diner access
+* Speaker Dinner access
 * One or two nights in an hotel close to the venue (on a case by case basis)
 
-For all Flight/train reservations, please contact `speakers AT devfesttoulouse.fr` with the details of your prefered journey and will get it for you.
+For all Flight/train reservations, please contact `speakers AT devfesttoulouse.fr` with the details of your prefered journey and we will get it for you.
 
 ## Let's propose a talk!
 
