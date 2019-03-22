@@ -15,7 +15,7 @@ The final selection will happen within 4 weeks after the end of the CFP.
 
 ## Team
 
-This year, we will add even more community members that the core team already represent (GDG Toulouse, Toulouse Data Science, Duchess France, Toulouse DevOps, PichMeUp, JAM) with the addition of .NET, React, JUG, Rust, Python & Linux / Embedded communities.
+This year, we will add even more community members that the core team already represent (GDG Toulouse, Toulouse Data Science, Duchess France, Toulouse DevOps, PitchMeUp, JAM) with the addition of .NET, React, JUG, Rust, Python & Linux / Embedded communities.
 
 The complete list: <https://devfesttoulouse.fr/team/>
 
