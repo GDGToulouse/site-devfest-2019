@@ -1,6 +1,6 @@
 ---
 title: Call For Paper
-brief: Les soumissions sont ouvertes jusqu’au 25 Mai 2019
+brief: The CFP is opened till May the 25th 2019
 image: /images/blog/cfp.jpg
 date: 2019-03-25
 draft: false
