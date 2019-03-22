@@ -1,67 +1,64 @@
 ---
-title: Appel À Orateurs
+title: Call For Paper
 brief: Les soumissions sont ouvertes jusqu’au 25 Mai 2019
 image: /images/blog/cfp.jpg
 date: 2019-03-25
 draft: false
 ---
 
-Le DevFest Toulouse aura lieu, pour sa 4ème édition, le 03 Octobre 2019 au Centre des Congrès Pierre Baudis de Toulouse et réunira 900 développeur·se·s, personnes travaillant dans les métiers techniques de l’informatique et étudiant·e·s.
+DevFest Toulouse will take place October 3rd, 2019 at Pierre Baudis congress center. Our fourth edition will gather 900 attendees!
 
-En attendant, le jour J, le [CFP](https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi) (Call For Papers / Appel à Papiers) du DevFest Toulouse est désormais ouvert ! Cette année, vous pouvez soumettre du 25 Mars jusqu’au 25 Mai (2 mois).
+While waiting for the D-day do not hesitate to propose a talk at [DevFest Toulouse CFP](https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi). It is now open and this year it will be for 2 months only (from March the 25th to Mai the 25th.) 
 
-A mi-CFP, une pré-sélection de nos “early speakers” sera effectuée, ne tardez donc pas à soumettre vos propositions! ;)
-La délibération finale se fera ensuite pendant le mois de Juin.
+Be aware that at mid terms, we will select our “early speakers”, so do not wait till the end! 
+The final selection will happen within 4 weeks after the end of the CFP. 
 
-## Equipe
+## Team
 
-Cette année, en plus des communautés déjà représentées par notre core team (GDG Toulouse, Toulouse Data Science, Duchess France, Toulouse DevOps, PichMeUp, JAM) nous élargissons encore plus notre panel en ajoutant nos amis des communautés .NET, React, JUG, Rust, Python & Linux / Embedded
+This year, we will add even more community members that the core team already represent (GDG Toulouse, Toulouse Data Science, Duchess France, Toulouse DevOps, PichMeUp, JAM) with the addition of .NET, React, JUG, Rust, Python & Linux / Embedded communities.
 
-La liste de l'équipe au complet : <https://devfesttoulouse.fr/team/>
+The complete list: <https://devfesttoulouse.fr/team/>
 
-## Catégories
+## Categories
 
-* Big Data / ML / AI : Small et Big Data, Machine Learning et Intelligence Artificielle
-* Cloud/infra : GCP, AWS, Azure, Kubernetes ...
-* IoT : Objets connectés
-* Languages : Une conf sur un langage en particulier ? A propos de Rust, Golang, Swift … vous pourrez choisir cette catégorie
-* Methods & Tools : Ici on parle de craftsmanship, de DevOps, d’intégration et de déploiement continue, d’IaC (Infrastructure as Code) ...
-* Native mobile apps : Android, iOS, React Native et autres développements mobiles
-* Web : Les dernières technos web (PWA, Web Component, services workers ...)...
-* UX : Ergonomie et expérience utilisateur
-* WTF et autres : Une idée de talk mais qui n'entre pas dans les précédentes catégories ? Pas de soucis, vous pouvez également soumettre votre talk.
-
+* Big Data / ML / AI : Big Data, Machine Learning, AI
+* Cloud/infra : GCP, AWS, Azure, Kubernetes etc.
+* IoT
+* Languages : talk related to a specific language e.g: Rust, Golang, Swift etc.
+* Methods & Tools : Craftsmanship, DevOps, CD, CI, IaC (Infrastructure as Code) etc.
+* Native mobile apps : Android, iOS, React Native, Flutter etc.
+* Web : PWA, Web Components, services workers etc.
+* UX 
+* WTF and other : if your talk does not fit in any of the previous categories.
 
 ## Formats
 
-Deux types de formats :
+Two types of formats :
 
-* le format lightning talk/quickie, d’une durée de **15 minutes** sans question.
-* le format conférence de **40 minutes** sans question.
+* **15 minutes** without question.
+* **40 minutes** without question.
 
-Pour ce qui est des questions, pas de panique ! Nous demanderons aux speakers d’être dans le stand “speaker booth” la demi-heure suivant leur talk afin de répondre aux éventuelles questions.
+As for the questions, right after you talk, you will be invited to join the office hour session at the Speaker booth.
 
-## Avantages
+## Perks
 
-Si vous êtes sélectionnés pour un talk de 40 min vous aurez droit à :
+If you are selected for a 40 minutes talk you will get:
 
-* Ticket pour la conference
-* Accès au dîner speaker
-* Une ou deux nuits d'hôtel proche de la conférence
-* Un remboursement jusqu'à 250 euros en Europe (plus au cas par cas)
+* Conference ticket
+* Speaker Diner access
+* One or two nights in an hotel close to the venue
+* Flight/train tickets remboursed up to 250 euros within Europe (more on a case by case basis)
 
+If you are selected for a 15 minutes talk you will get:
 
-Si vous êtes sélectionnés pour un talk de 15 min vous aurez droit à :
+* Conference ticket
+* Speaker Diner access
+* One or two nights in an hotel close to the venue (on a case by case basis)
 
-* Ticket pour la conference
-* Accès au dîner speaker
-* Une ou deux nuits d'hôtel proche de la conférence (au cas par cas)
+For all Flight/train reservations, please contact `speakers AT devfesttoulouse.fr` with the details of your prefered journey and will get it for you.
 
-Pour toute réservation de vols/trains, merci de contacter `speakers AT devfesttoulouse.fr` avec les détails d’horaires / préférences et nous nous chargerons de la réservation/paiement.
+## Let's propose a talk!
 
-## Vous m’avez convaincu·e, je soumets !
+As explained above, the CFP will be opened till May the 25th 2019. Last year we got around 350 propositions, so do not wait till the last minute to [propose yours](https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi)!
 
-
-Comme dit ci-dessus, les soumissions sont ouvertes jusqu’au 25 Mai 2019. L’année dernière nous avons reçu plus de 350 soumissions ! N’attendez pas le dernier moment, [soumettez un talk dès à présent](https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi) !
-
-Vous avez des questions ? Vous pouvez écrire un message à l’équipe à `contact AT devfesttoulouse.fr` ou bien sur notre compte Twitter [@DevFestToulouse](https://twitter.com/DevFestToulouse).
+If you have any questions, you can contact us at `contact AT devfesttoulouse.fr` or via Twitter [@DevFestToulouse](https://twitter.com/DevFestToulouse).

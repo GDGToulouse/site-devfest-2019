@@ -43,7 +43,7 @@ Pour ce qui est des questions, pas de panique ! Nous demanderons aux speakers d�
 
 ## Avantages
 
-Si vous êtes sélectionné pour un talk de 40 min vous aurez droit à :
+Si votre talk de 40 min est sélectionné vous aurez droit à :
 
 * Ticket pour la conference
 * Accès au dîner speaker
@@ -51,7 +51,7 @@ Si vous êtes sélectionné pour un talk de 40 min vous aurez droit à :
 * Un remboursement jusqu'à 250 euros en Europe (plus au cas par cas)
 
 
-Si vous êtes sélectionné pour un talk de 15 min vous aurez droit à :
+Si votre talk de 15 min est sélectionné vous aurez droit à :
 
 * Ticket pour la conference
 * Accès au dîner speaker
