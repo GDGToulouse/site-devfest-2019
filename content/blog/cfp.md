@@ -33,12 +33,16 @@ The complete list: <https://devfesttoulouse.fr/team/>
 
 ## Formats
 
-Two types of formats :
+Two types of conferences are available:
 
-* **15 minutes** without question.
-* **40 minutes** without question.
+- The **lightning talks**, lasting **15 minutes**, no questions asked.
+- The **conferences**, lasting **40 minutes**, no questions asked.
 
-As for the questions, right after you talk, you will be invited to join the office hour session at the Speaker booth.
+Speakers are invited to join the speaker booth after their conference, where they can interact with spectators who wish to continue the dialogue.
+
+## Can I submit a talk with another speaker?
+
+Yes but 2 maximum (you included). On the CFP website, fill in the e-mail of the other speaker, they must have previously registered on the CFP with the same address.
 
 ## Perks
 
@@ -46,7 +50,7 @@ If you are selected for a 40 minutes talk you will get:
 
 * Conference ticket
 * Speaker Dinner access
-* One or two nights in an hotel close to the venue
+* One or two nights in an hotel close to the venue (if you ask for it in the speaker form)
 * Flight/train tickets remboursed up to 250 euros within Europe (more on a case by case basis)
 
 If you are selected for a 15 minutes talk you will get:
@@ -56,6 +60,13 @@ If you are selected for a 15 minutes talk you will get:
 * One or two nights in an hotel close to the venue (on a case by case basis)
 
 For all Flight/train reservations, please contact `speakers AT devfesttoulouse.fr` with the details of your prefered journey and we will get it for you.
+
+In case your subject is not accepted, you will still be able to buy your ticket after the notification, at the normal price.
+
+## What is the expected format for slides?
+
+You can present your conference from your own computer, or provide us with the slides in PDF format in advance.
+The slides theme is entirely free, and the presentations will then be broadcast on the YouTube channel GDG France, which already hosts the presentations of previous years.
 
 ## Let's propose a talk!
 

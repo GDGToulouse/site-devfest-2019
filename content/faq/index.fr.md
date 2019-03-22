@@ -65,53 +65,7 @@ Le dossier de partenariat est disponible [ici](https://drive.google.com/open?id=
 
 ## CFP
 
-### Quel est le format des présentations ?
-
-Deux types de présentations sont proposés :
-
-- Les **lightning talks**, d’une durée de **15 minutes**, sans question.
-- Les **classical talks**, d’une durée de **40 minutes**, sans question.
-
-
-Les orateurs sont invités à rejoindre le speaker booth après leur présentation : ils pourront y interagir avec les spectateurs désireux de poursuivre le dialogue.
-Pour les classical talks données en toute fin de de journée, 10 minutes de questions / réponses sont prévues dans le même auditoire, à l’issue des 40 minutes de présentations.
-
-
-### Comment devenir orateur ?
-
-Le CFP sera ouvert entre le 25 mars et le 25 mai 2019.
-Il utilisera l'application [Conference Hall](https://conference-hall.io).
-
-Si votre sujet a été pré-sélectionné, nous vous offrons une place à la conférence, vous n'avez donc pas à acheter votre place à l'avance.
-
-### Est-ce que l'on peut soumettre un sujet à plusieurs ?
-
-Oui : sur le site du CFP, renseignez l'e-mail des autres orateurs. Ceux-ci doivent s'être préalablement inscrits sur le CFP avec cette même adresse.
-Pour des raisons pratiques, nous n’acceptons pas les sujets impliquant plus de trois orateurs. 
-
-
-### J’ai proposé un sujet, dois-je acheter mon entrée ?
-
-Si votre sujet (classical talk ou lightning talk) a été sélectionné, nous vous offrons une place à la conférence, vous n'avez donc pas à acheter votre place à l'avance.
-Si vous présentez un sujet à plusieurs, **deux** entrées vous seront offertes et les autres intervenants devront acheter leur propre place (en l’absence d’autres sujets acceptés).
-
-Au cas où votre sujet ne serait pas accepté, il vous sera encore possible d’acheter votre place après la notification, au tarif early-bird.
-
-### Prenez-vous en charge les frais de déplacement et d’hébergement ?
-
-Les orateurs présentant un classical talk (40 minutes) peuvent demander un remboursement de leurs frais (transport et hébergement) sur présentation des factures et dans une limite de 250€ par sujet (et non pas par orateur).
-Pour les lightning talks, les frais de déplacement ne sont pas remboursés.
-
-### Quels lieux recommanderiez-vous pour se loger ?
-
-Le [Centre de Congrés Pierre Baudis](https://goo.gl/maps/vDmHc8mFQtD2) est situé à 15 minutes à pied et à 5 minutes en métro de l’hyper-centre de Toulouse (arrêt Compans-Caffarelli).
-De nombreux hôtels et chambres d’hôtes sont disponibles à proximité.
-
-### Quel est le format attendu pour les slides ?
-
-Vous pouvez exposer votre présentation à partir de votre propre ordinateur ou bien nous fournir au préalable vos slides au format PDF.
-Le thème des slides est entièrement libre. Les présentations seront ensuite diffusées sur la [chaîne YouTube GDG France](https://www.youtube.com/channel/UCx83f-KzDd3o1QK2AdJIftg) qui héberge déjà les présentations des années précédentes.
-
+Toutes les infos sur [blog post CFP](/fr/blog/cfp/)
 
 ## Billetterie
 

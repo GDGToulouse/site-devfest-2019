@@ -34,12 +34,17 @@ La liste de l'équipe au complet : <https://devfesttoulouse.fr/team/>
 
 ## Formats
 
-Deux types de formats :
+Deux types de présentations sont proposés :
 
-* le format lightning talk/quickie, d’une durée de **15 minutes** sans question.
-* le format conférence de **40 minutes** sans question.
+- Les **lightning talks**, d’une durée de **15 minutes**, sans question.
+- Les **classical talks**, d’une durée de **40 minutes**, sans question.
 
-Pour ce qui est des questions, pas de panique ! Nous demanderons aux speakers d’être dans le stand “speaker booth” la demi-heure suivant leur talk afin de répondre aux éventuelles questions.
+
+Les orateurs sont invités à rejoindre le speaker booth après leur présentation : ils pourront y interagir avec les spectateurs désireux de poursuivre le dialogue.
+
+## Puis-je soumettre un talk avec un autre intervenant?
+
+Oui mais maximum deux (vous inclus). Le deuxieme intervenant doit aussi avoir un compte sur la platforme CFP pour pouvoir l'ajouter via adresse email. 
 
 ## Avantages
 
@@ -58,6 +63,13 @@ Si votre talk de 15 min est sélectionné vous aurez droit à :
 * Une ou deux nuits d'hôtel proche de la conférence (au cas par cas)
 
 Pour toute réservation de vols/trains, merci de contacter `speakers AT devfesttoulouse.fr` avec les détails d’horaires / préférences et nous nous chargerons de la réservation/paiement. 
+
+Au cas où votre sujet ne serait pas accepté, il vous sera encore possible d’acheter votre place après la notification, au tarif normal.
+
+## Quel est le format attendu pour les slides ?
+
+Vous pouvez exposer votre présentation à partir de votre propre ordinateur ou bien nous fournir au préalable vos slides au format PDF.
+Le thème des slides est entièrement libre. Les présentations seront ensuite diffusées sur la [chaîne YouTube GDG France](https://www.youtube.com/channel/UCx83f-KzDd3o1QK2AdJIftg) qui héberge déjà les présentations des années précédentes.
 
 ## Vous m’avez convaincu, je soumets !
 
