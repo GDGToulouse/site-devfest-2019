@@ -8,14 +8,14 @@ draft: false
 
 Le DevFest Toulouse aura lieu, pour sa 4ème édition, le 03 Octobre 2019 au Centre des Congrès Pierre Baudis de Toulouse et réunira 900 développeurs, personnes travaillant dans les métiers techniques de l’informatique et étudiants.
 
-En attendant, le jour J, le [CFP](https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi) (Call For Papers / Appel à Papiers) du DevFest Toulouse est désormais ouvert ! Cette année, vous pouvez soumettre du 25 Mars jusqu’au 25 Mai (2 mois).
+En attendant le jour J, le [CFP](https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi) (Call For Papers / Appel à Orateurs) du DevFest Toulouse est désormais ouvert ! Cette année, vous pouvez soumettre du 25 Mars jusqu’au 25 Mai (2 mois).
 
 A mi-CFP, une pré-sélection de nos “early speakers” sera effectuée, ne tardez donc pas à soumettre vos propositions! ;)
 La délibération finale se fera ensuite pendant le mois de Juin.
 
 ## Equipe
 
-Cette année, en plus des communautés déjà représentées par notre core team (GDG Toulouse, Toulouse Data Science, Duchess France, Toulouse DevOps, PichMeUp, JAM) nous élargissons encore plus notre panel en ajoutant nos amis des communautés .NET, React, JUG, Rust, Python & Linux / Embedded
+Cette année, en plus des communautés déjà représentées par notre core team (GDG Toulouse, Toulouse Data Science, Duchess France, Toulouse DevOps, PitchMeUp, JAM) nous élargissons encore plus notre panel en ajoutant nos amis des communautés .NET, React, JUG, Rust, Python & Linux / Embedded
 
 La liste de l'équipe au complet : <https://devfesttoulouse.fr/team/>
 
@@ -25,11 +25,11 @@ La liste de l'équipe au complet : <https://devfesttoulouse.fr/team/>
 * Cloud/infra : GCP, AWS, Azure, Kubernetes ...
 * IoT : Objets connectés
 * Languages : Une conf sur un langage en particulier ? A propos de Rust, Golang, Swift … vous pourrez choisir cette catégorie
-* Methods & Tools : Ici on parle de craftsmanship, de DevOps, d’intégration et de déploiement continue, d’IaC (Infrastructure as Code) ...
+* Methods & Tools : Ici on parle de craftsmanship, de DevOps, d’intégration et de déploiement continu, d’IaC (Infrastructure as Code) ...
 * Native mobile apps : Android, iOS, React Native et autres développements mobiles
 * Web : Les dernières technos web (PWA, Web Component, services workers ...)...
 * UX : Ergonomie et expérience utilisateur
-* WTF et autres : Une idée de talk mais qui n'entre pas dans les précédentes catégories ? Pas de soucis, vous pouvez également soumettre votre talk.
+* WTF et autres : Une idée de talk mais qui n'entre pas dans les précédentes catégories ? Pas de souci, vous pouvez également soumettre votre talk.
 
 
 ## Formats
@@ -42,9 +42,9 @@ Deux types de présentations sont proposés :
 
 Les orateurs sont invités à rejoindre le speaker booth après leur présentation : ils pourront y interagir avec les spectateurs désireux de poursuivre le dialogue.
 
-## Puis-je soumettre un talk avec un autre intervenant?
+## Puis-je soumettre un talk avec un autre intervenant ?
 
-Oui mais maximum deux (vous inclus). Le deuxieme intervenant doit aussi avoir un compte sur la platforme CFP pour pouvoir l'ajouter via adresse email. 
+Oui mais maximum à deux (vous inclu). Le deuxieme intervenant doit aussi avoir un compte sur la platforme CFP pour pouvoir l'ajouter avec son adresse e-mail. 
 
 ## Avantages
 
@@ -68,7 +68,7 @@ Au cas où votre sujet ne serait pas accepté, il vous sera encore possible d’
 
 ## Quel est le format attendu pour les slides ?
 
-Vous pouvez exposer votre présentation à partir de votre propre ordinateur ou bien nous fournir au préalable vos slides au format PDF.
+Vous pouvez projeter à partir de votre propre ordinateur ou bien nous fournir au préalable vos slides au format PDF.
 Le thème des slides est entièrement libre. Les présentations seront ensuite diffusées sur la [chaîne YouTube GDG France](https://www.youtube.com/channel/UCx83f-KzDd3o1QK2AdJIftg) qui héberge déjà les présentations des années précédentes.
 
 ## Vous m’avez convaincu, je soumets !
