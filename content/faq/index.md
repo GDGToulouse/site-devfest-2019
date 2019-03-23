@@ -61,7 +61,7 @@ Take the line <mark class="b">B</mark> then get off at the _Compans-Cafarelli_ s
 
 ### How to become a sponsor/partner?
 
-The partnership file is currently available but only in :fr: [dossier de partenariat](https://drive.google.com/open?id=1Uo1V4v3SHjl2q27SNkOyHkcuagKJmTU4).
+The partnership file is currently available [here](https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing).
 
 ## CFP: Call for Paper
 
