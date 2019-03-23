@@ -13,7 +13,7 @@ before_script:
 
 sandbox:
   script:
-    - hugo
+    - hugo -F
     - node themes/devfest-theme-hugo/minify.js
     - firebase use default
     - firebase deploy --token "$FIREBASE_SANDBOX_TOKEN"

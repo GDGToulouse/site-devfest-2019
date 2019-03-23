@@ -4,7 +4,7 @@ menu:
   main:
     weight: 80
     
-draft: true
+draft: false
 ---
 
 ## General
@@ -33,70 +33,39 @@ To make all this possible, an over-vitaminated team of volunteers is working beh
 
 ### Where and when will DevFest take place?
 
-Le DevFest Toulouse 2019 a lieu le jeudi 3 octobre au Centre de Congrés Pierre Baudis.
+Le DevFest Toulouse 2019 takes place on **Thursday, October 3** at the [Congress Centre Pierre Baudis](https://goo.gl/maps/vDmHc8mFQtD2).
 
 ### How to get there?
 
-The congress centre is ideally located in the city centre.
+The [Centre de Congrés Pierre Baudis](https://goo.gl/maps/vDmHc8mFQtD2) is ideally located in the city centre.
 
-:airplane: BY PLANE :
-From Blagnac airport, the easiest way is to take the airport shuttle to get off at Compans-Cafarelli. You can also take the tramway to the Arena station, then line A of the metro to Jean Jaurès, and finally line B to get off at Compans-Cafarelli.
+* :airplane: **by plane** : <br>
+From _Blagnac_ airport, two solutions:
+  - The easiest way is to take the airport shuttle to get off at the stop _Compans-Cafarelli_
+  - You can also:
+      1. Take the tram <mark class="t2">T<sub>2</sub></mark> to the station _Arènes_
+      2. Take a connection with the <mark class="a">A</mark> line from the metro to the _Jean Jaurès_ stop
+      3. Take a connection with the <mark class="b">B</mark> line from the metro to the _Compans-Cafarelli_ stop
+* :car: **by car** : <br>
+A parking lot (subject to charge) is located a stone's throw from the conference. <br>
+Feel free to carpool.
+* :train: **by train** : <br>
+From the station _Matabiau_, 
+simply take the <mark class="a">A</mark> line from the metro to the _Jean Jaurès_ stop<br> 
+where you will take a connection with the <mark class="b">B</mark> metro line 
+in order to get off at the _Compans-Cafarelli_ stop.
+* :metro: **en métro** : <br>
+Take the line <mark class="b">B</mark> then get off at the _Compans-Cafarelli_ stop.
 
-:car: BY CAR:
-A parking lot (subject to charge) is located a stone's throw from the conference.
-
-:train: BY TRAIN :
-From Matabiau station, simply take the metro line A to Jean Jaurès, then line B to get off at Compans-Cafarelli.
-
-:metro: IN METRO :
-Line B, get off at Compans-Cafarelli station.
-
+## Sponsor / Partner?
 
 ### How to become a sponsor/partner?
 
-The partnership file is currently being finalized.
+The partnership file is currently available but only in :fr: [dossier de partenariat](https://drive.google.com/open?id=1Uo1V4v3SHjl2q27SNkOyHkcuagKJmTU4).
 
 ## CFP: Call for Paper
 
-### What is the format of the conferences?
-
-Two types of conferences are available:
-
-- The **lightning talks**, lasting **15 minutes**, no questions asked.
-- The **conferences**, lasting **40 minutes**, no questions asked in the room.
-
-
-### How to become a speaker?
-
-The CFP is not yet open.
-
-### Can we submit a talk to several people?
-
-Yes, on the CFP website, if you are not alone during the presentation, fill in the e-mail of the other speakers, they must have previously registered on the CFP with the same address.
-For practical reasons, we do not accept topics involving more than three speakers.
-
-### I proposed a conference. Do I have to buy my ticket?
-
-If your subject (conference or lightning talk) has been selected, we offer you your entry to DevFest, so you do not have to buy your ticket in advance.
-If you are presenting a multi-party talk, two tickets will be offered per conference, other speakers will have to buy their own seats (in the absence of other accepted conferences.)
-
-In case your subject is not accepted, you will still be able to buy your ticket after the notification, at the early-bird rate.
-
-### Do you cover travel and accommodation costs?
-
-Speakers presenting a full conference (40 minutes) may request reimbursement of their expenses (travel and accommodation) upon presentation of invoices, and up to a maximum of 250€ per conference (and not per speaker).
-For lightning talks, travel expenses are not reimbursed.
-
-### What places do you recommend for accommodation?
-
-The Pierre Baudis Congress Centre is located 15 minutes walk from the hyper-centre of Toulouse, or 5 minutes by metro (Compans-Caffarelli stop).
-Many hotels and guest rooms are available nearby.
-
-### What is the expected format for slides?
-
-You can present your conference from your own computer, or provide us with the slides in PDF format in advance.
-The slides theme is entirely free, and the presentations will then be broadcast on the YouTube channel GDG France, which already hosts the presentations of previous years.
-
+All the information in the [CFP Blog post](/blog/cfp/)
 
 ## Ticketing
 
