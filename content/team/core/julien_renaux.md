@@ -1,7 +1,7 @@
 ---
 title: Julien Renaux
 type: core
-subtitle: GDG Toulouse
+subtitle: Président GDG Toulouse
 photo: julien_renaux.jpg
 socials:
   - link: 'https://twitter.com/julienrenaux'

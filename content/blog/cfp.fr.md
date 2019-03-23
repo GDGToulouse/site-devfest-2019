@@ -2,7 +2,7 @@
 title: Appel À Orateurs
 brief: Les soumissions sont ouvertes jusqu’au 25 Mai 2019
 image: /images/blog/cfp.jpg
-date: 2019-03-25
+date: 2019-03-23
 draft: false
 ---
 
