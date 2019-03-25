@@ -77,7 +77,7 @@ It is aimed at students, professionals or simply curious technophiles.
            info="70 first places"
            soldOut=""
            close="true"
-           url="https://www.billetweb.fr/devfest-toulouse-2018" >}}</li>
+           url="https://www.billetweb.fr/devfest-toulouse-2019" >}}</li>
 <li>{{< ticket name="Normal"
            starts="2019-06-22"
            ends="2019-10-03"
