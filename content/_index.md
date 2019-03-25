@@ -59,7 +59,7 @@ It is aimed at students, professionals or simply curious technophiles.
 <!-- ... -->
 
 {{% home-tickets %}}
-# Tickets
+# Tickets <a class="btn primary" href="https://www.billetweb.fr/devfest-toulouse-2019" target="_blank">Ticketing</a>
 
 <ul>
 <li>{{< ticket name="Blind Birds"
