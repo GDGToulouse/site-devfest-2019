@@ -68,7 +68,7 @@ It is aimed at students, professionals or simply curious technophiles.
            price="40 €"
            info="50 first places"
            close="false"
-           soldOut=""
+           soldOut="true"
            url="https://www.billetweb.fr/devfest-toulouse-2019" >}}</li>
 <li>{{< ticket name="Early Birds"
            starts="2019-04-25"

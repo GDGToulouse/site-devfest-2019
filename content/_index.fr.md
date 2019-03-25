@@ -63,7 +63,7 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
            price="40 €"
            info="50 premières places"
            close="false"
-           soldOut=""
+           soldOut="true"
            url="https://www.billetweb.fr/devfest-toulouse-2019" >}}</li>
 <li>{{< ticket name="Early Birds"
            starts="2019-04-25"
