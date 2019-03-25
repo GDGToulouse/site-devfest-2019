@@ -54,7 +54,7 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
 <!-- ... -->
 
 {{% home-tickets %}}
-# Billets <a class="btn primary" href="https://www.billetweb.fr/devfest-toulouse-2019" target="_blank">Billeterie</a>
+# Billets
 
 <ul>
 <li>{{< ticket name="Blind Birds"
@@ -62,15 +62,14 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
            ends="2019-04-25"
            price="40 €"
            info="50 premières places"
-           close="false"
-           soldOut=""
+           soldOut="true"
            url="https://www.billetweb.fr/devfest-toulouse-2019" >}}</li>
 <li>{{< ticket name="Early Birds"
            starts="2019-04-25"
            ends="2019-06-22"
            price="60 €"
            info="70 premières places"
-           close="true"
+           close="false"
            soldOut=""
            url="https://www.billetweb.fr/devfest-toulouse-2019" >}}</li>
 <li>{{< ticket name="Normal"
