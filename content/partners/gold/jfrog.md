@@ -5,6 +5,7 @@ category: gold
 website: 'https://jfrog.com/'
 logo: /images/partners/logo-jfrog.svg
 socials: []
+draft: true
 ---
 
 
