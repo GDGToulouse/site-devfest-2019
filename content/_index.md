@@ -15,6 +15,10 @@ menu:
 
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a>
 
+<a class="btn primary btn-lg" href="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi">
+    <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Submit a presentation
+</a>
+
 {{% /jumbo %}}
 
 
@@ -37,7 +41,7 @@ It is aimed at students, professionals or simply curious technophiles.
 ## Featured Speakers
 
 {{< button-link label="Submit a presentation"
-                url="http://www.conference-hall.io"
+                url="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
                 icon="cfp" >}}
 
 {{< button-link label="See all speakers"
@@ -59,7 +63,7 @@ It is aimed at students, professionals or simply curious technophiles.
 <!-- ... -->
 
 {{% home-tickets %}}
-# Tickets <a class="btn primary" href="https://www.billetweb.fr/devfest-toulouse-2019" target="_blank">Ticketing</a>
+# Tickets <a class="btn primary" href="https://www.billetweb.fr/devfest-toulouse-2019" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
 
 <ul>
 <li>{{< ticket name="Blind Birds"
@@ -123,10 +127,9 @@ in the immediate vicinity of the centre of Toulouse and in a green environment.
 
 {{% /album  %}}
 
-<!-- ... 
+<!-- ... --> 
 
 {{% partners categories="platinium,gold,soutien,media,communautes" %}}
-# Partners
-{{% /partners %}}
+## Partners <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a>
 
--->
+{{% /partners %}}

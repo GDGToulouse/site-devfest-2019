@@ -1,4 +1,4 @@
-image: ilaborie/hugonode:1
+image: ilaborie/hugonode
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
