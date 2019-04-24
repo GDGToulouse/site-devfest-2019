@@ -16,8 +16,5 @@ socials:
 ---
 Graphics plumber @google
 
-Making GPUs accessible through software layers, focusing on the Web. 
-
-Chair of the "GPU for the Web" community group at W3C since early 2017. 
-
-Love to do system software to expose hardware through portable APIs.
+Corentin is an engineer working on Chrome's GPU team in Google Paris. 
+He leads development of the WebGPU API and chairs the "GPU for the Web" W3C group.
