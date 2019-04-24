@@ -15,3 +15,9 @@ socials:
     name: Kangz
 ---
 Graphics plumber @google
+
+Making GPUs accessible through software layers, focusing on the Web. 
+
+Chair of the "GPU for the Web" community group at W3C since early 2017. 
+
+Love to do system software to expose hardware through portable APIs.
