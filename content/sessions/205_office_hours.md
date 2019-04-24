@@ -3,10 +3,6 @@ id: 205
 title: Office Hours
 tags: []
 speakers:
-  - ane_diaz_de_tuesta
-  - arnaud_bos
-  - julien_topcu
-  - giulia_bianchi
 talkType: Office Hours
 
 ---

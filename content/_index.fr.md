@@ -30,7 +30,7 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
 
 {{< youtube-section link="ZQGRMJzi6yU" title="Les meilleurs moments 2018" class="" >}}
 
-<!-- ... 
+<!-- ... -->
 
 {{% home-speakers %}}
 ## Conférenciers en vedette
@@ -39,13 +39,14 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
                 url="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
                 icon="cfp" >}}
 
+<!-- ...
+
 {{< button-link label="Voir tous les conférenciers"
                 url="./speakers"
                 icon="right" >}}
+-->
 
 {{% /home-speakers %}}
-
--->
 
 <!-- ... -->
 
