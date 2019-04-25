@@ -80,14 +80,14 @@ It is aimed at students, professionals or simply curious technophiles.
            starts="2019-04-25"
            ends="2019-06-22"
            price="60 €"
-           info="70 first places"
+           info="80 first places"
            soldOut=""
            url="https://www.billetweb.fr/devfest-toulouse-2019" >}}</li>
 <li>{{< ticket name="Normal"
            starts="2019-06-22"
            ends="2019-10-03"
            price="80 €"
-           info="250 last places"
+           info="300 last places"
            close="true"
            soldOut=""
            url="https://www.billetweb.fr/devfest-toulouse-2019" >}}</li>
