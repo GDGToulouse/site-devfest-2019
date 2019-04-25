@@ -81,7 +81,6 @@ It is aimed at students, professionals or simply curious technophiles.
            ends="2019-06-22"
            price="60 €"
            info="70 first places"
-           close="true"
            soldOut=""
            url="https://www.billetweb.fr/devfest-toulouse-2019" >}}</li>
 <li>{{< ticket name="Normal"
