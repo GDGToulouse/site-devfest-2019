@@ -13,6 +13,5 @@ socials:
   - icon: github
     link: https://github.com/erikras
     name: erikras
-draft: true
 ---
 American expat living in Spain, making awesome Javascript open source.
