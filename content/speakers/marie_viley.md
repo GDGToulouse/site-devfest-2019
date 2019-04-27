@@ -4,7 +4,7 @@ key: marie_viley
 feature: true
 name: Marie Viley
 company: Zenika
-city: null
+city: Nantes, France
 photoURL: https://lh6.googleusercontent.com/-LZHYx43aSFI/AAAAAAAAAAI/AAAAAAAACd4/xbCJI1QDS3w/photo.jpg
 socials:
   - icon: twitter

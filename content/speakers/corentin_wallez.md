@@ -4,7 +4,7 @@ key: corentin_wallez
 feature: true
 name: Corentin Wallez
 company: Google
-city: null
+city: Paris, France
 photoURL: https://pbs.twimg.com/profile_images/736988508624015361/r_Y_Lx-x_400x400.jpg
 socials:
   - icon: twitter
