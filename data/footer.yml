@@ -23,6 +23,9 @@ content:
       - name: Google Developers Group
         url: https://developers.google.com/
         newTab: true
+      - name: Kit de communication
+        url: /kit/MediaKit.zip
+        newTab:
       - nameKey: footer_coc
         url: /code-of-conduct/
         newTab: false
