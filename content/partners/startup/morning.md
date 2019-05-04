@@ -1,7 +1,7 @@
 ---
 title: Morning
 type: partner
-category: soutien
+category: startup
 website: 'https://morning.com/fr/'
 logo: /images/partners/logo-morning.svg
 socials: []
