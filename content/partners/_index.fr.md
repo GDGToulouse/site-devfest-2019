@@ -19,4 +19,4 @@ Vous souhaitez devenir sponsor, consultez notre dossier de sponsoring et contact
 
 <!-- Parteners list -->
 
-{{< partners categories="platinium,gold,soutien,media,communautes" >}}
+{{< partners categories="platinium,gold,soutien,startup,media,communautes" >}}
