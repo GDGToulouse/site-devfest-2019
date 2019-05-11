@@ -4,12 +4,17 @@ type: partner
 category: soutien
 logo: /images/partners/logo-morning.svg
 lang: fr
-why: Morning est fier d'être un soutien du DevFest 2019 à Toulouse car c'est un évènement incontournable pour les développeurs ! En d'autres mots DevFest is the place to be !
+why: "Morning est fier d'être un soutien du DevFest 2019 à Toulouse car c'est un évènement incontournable pour les développeurs ! En d'autres mots DevFest is the place to be !"
 socials:
   - icon: facebook
-    link: https://www.facebook.com/@morning
-    name: facebook
-
+    link: https://facebook.com/morning
+    name: morning
+  - icon: twitter
+    link: https://twitter.com/morning_com
+    name: morning_com
+  - icon: linkedin
+    link: https://linkedin.com/company/morning
+    name: morning
 
 draft: false
 ---
