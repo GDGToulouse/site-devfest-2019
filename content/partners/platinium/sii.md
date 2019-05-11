@@ -4,13 +4,17 @@ type: partner
 category: platinium
 logo: /images/partners/logo-sii.png
 lang: fr
-why: It appeared essential to us to bring our support to this « don’t miss » event. We are quite pleased and proud to be able to play a concrete part in its success.  
+why: "It appeared essential to us to bring our support to this « don’t miss » event. We are quite pleased and proud to be able to play a concrete part in its success.  "
 socials:
   - icon: facebook
-    link: https://www.facebook.com/Groupe SII
-    name: facebook
-
-
+    link: https://facebook.com/GroupeSII
+    name: Groupe SII
+  - icon: twitter
+    link: https://twitter.com/SIISudOuest
+    name: SIISudOuest
+  - icon: linkedin
+    link: https://linkedin.com/company/sii
+    name: Groupe SII
 
 draft: false
 ---

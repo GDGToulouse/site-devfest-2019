@@ -4,13 +4,14 @@ type: partner
 category: platinium
 logo: /images/partners/logo-stack_labs.svg
 lang: fr
-why: We want to share and meet cool & passionated developers during this incredible event !
+why: "We want to share and meet cool & passionated developers during this incredible event !"
 socials:
   - icon: twitter
     link: https://twitter.com/stack_labs
-    name: twitter
-
-
+    name: stack_labs
+  - icon: linkedin
+    link: https://linkedin.com/company/stacklabs
+    name: stacklabs
 
 draft: false
 ---
