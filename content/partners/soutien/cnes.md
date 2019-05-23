@@ -2,6 +2,7 @@
 title: CNES
 type: partner
 category: soutien
+order: 5
 logo: /images/partners/logo-cnes.svg
 lang: fr
 why: "Les métiers du CNES reposent de plus en plus sur l'informatique et le développement logiciel, que ce soit pour les logiciels bord ou les traitements au sol. Ces derniers utilisent de plus en plus les technologies issues du Big Data et du Machine Learning."
