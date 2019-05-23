@@ -2,6 +2,7 @@
 title: STACK LABS
 type: partner
 category: platinium
+order: 0
 logo: /images/partners/logo-stack_labs.svg
 lang: fr
 why: "We want to share and meet cool & passionated developers during this incredible event !"

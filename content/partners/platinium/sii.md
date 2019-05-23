@@ -2,6 +2,7 @@
 title: SII
 type: partner
 category: platinium
+order: 1
 logo: /images/partners/logo-sii.png
 lang: fr
 why: "It appeared essential to us to bring our support to this « don’t miss » event. We are quite pleased and proud to be able to play a concrete part in its success.  "
