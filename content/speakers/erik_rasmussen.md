@@ -4,7 +4,7 @@ key: erik_rasmussen
 feature: true
 name: Erik Rasmussen
 company: null
-city: Colindres, Spain
+city: Cantabria, Spain
 photoURL: https://avatars2.githubusercontent.com/u/4396759?v=4
 socials:
   - icon: twitter
