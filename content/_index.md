@@ -15,9 +15,11 @@ menu:
 
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a>
 
+<!--
 <a class="btn primary btn-lg" href="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi">
     <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Submit a presentation
 </a>
+-->
 
 {{% /jumbo %}}
 
@@ -40,10 +42,11 @@ It is aimed at students, professionals or simply curious technophiles.
 {{% home-speakers %}}
 ## Featured Speakers
 
- 
+<!--
 {{< button-link label="Submit a presentation"
                 url="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
                 icon="cfp" >}}
+--> 
 
 <!-- ...
 
