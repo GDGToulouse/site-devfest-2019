@@ -14,9 +14,11 @@ menu:
 
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/open?id=1Uo1V4v3SHjl2q27SNkOyHkcuagKJmTU4" target="_blank">Devenez Partenaire 🇫🇷</a>
 
+<!--
 <a class="btn primary btn-lg" href="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi">
     <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Proposer une présentation
 </a>
+-->
 
 {{% /jumbo %}}
 
@@ -35,9 +37,11 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
 {{% home-speakers %}}
 ## Conférenciers en vedette
 
+<!--
 {{< button-link label="Proposer une présentation"
                 url="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
                 icon="cfp" >}}
+-->
 
 <!-- ...
 
