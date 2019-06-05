@@ -8,13 +8,13 @@ lang: fr
 why: "Parce nous sommes passionnés et toulousains et que le DevFest c'est LE regroupement des passionnées de la Ville Rose et d'ailleurs ! Parce que notre job ne s'arrête pas à satisfaire un client mais à apprendre et partager nos connaissances ."
 socials:
   - icon: facebook
-    link: https://facebook.com/Néo-Soft Groupe
+    link: https://facebook.com/neo.soft.groupe
     name: Néo-Soft Groupe
   - icon: twitter
-    link: https://twitter.com/NeoSoft_
-    name: NeoSoft_
+    link: https://twitter.com/neosoft_
+    name: NeoSoft
   - icon: linkedin
-    link: https://linkedin.com/company/Néo-Soft Groupe
+    link: http://www.linkedin.com/company/neo-soft-services
     name: Néo-Soft Groupe
 
 draft: false

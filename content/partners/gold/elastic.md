@@ -8,8 +8,8 @@ lang: fr
 why: "DevFest Toulouse est l'événement incontournable de la région pour les développeurs. C'est une opportunité unique pour nous d'échanger avec nos clients et utilisateurs."
 socials:
   - icon: twitter
-    link: https://twitter.com/https://twitter.com/elastic
-    name: https://twitter.com/elastic
+    link: https://twitter.com/elastic
+    name: Elastic
 
 draft: false
 ---
