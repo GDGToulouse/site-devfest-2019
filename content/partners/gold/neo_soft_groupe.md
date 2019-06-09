@@ -4,6 +4,7 @@ type: partner
 category: gold
 order: 12
 logo: /images/partners/logo-neo_soft_groupe.png
+website: https://www.neo-soft.fr/
 lang: fr
 why: "Parce nous sommes passionnés et toulousains et que le DevFest c'est LE regroupement des passionnées de la Ville Rose et d'ailleurs ! Parce que notre job ne s'arrête pas à satisfaire un client mais à apprendre et partager nos connaissances ."
 socials:

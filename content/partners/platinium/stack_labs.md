@@ -4,6 +4,7 @@ type: partner
 category: platinium
 order: 0
 logo: /images/partners/logo-stack_labs.svg
+website: https://stack-labs.com
 lang: fr
 why: "We want to share and meet cool & passionated developers during this incredible event !"
 socials:

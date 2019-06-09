@@ -4,6 +4,7 @@ type: partner
 category: soutien
 order: 2
 logo: /images/partners/logo-morning.svg
+website: https://morning.com/fr/
 lang: fr
 why: "Morning est fier d'être un soutien du DevFest 2019 à Toulouse car c'est un évènement incontournable pour les développeurs ! En d'autres mots DevFest is the place to be !"
 socials:
