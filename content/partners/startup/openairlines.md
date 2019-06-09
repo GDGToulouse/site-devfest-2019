@@ -4,6 +4,7 @@ type: partner
 category: startup
 order: 6
 logo: /images/partners/logo-openairlines.png
+website: https://openairlines.com/
 lang: fr
 why: "OpenAirlines est fier de soutenir cet événement incontournable pour les développeurs ! On espère y rencontrer des développeurs curieux et innovants, motivés par les enjeux du réchauffement climatique et les défis technologiques qui permettront de sauver notre planète."
 socials:

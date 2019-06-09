@@ -4,6 +4,7 @@ type: partner
 category: soutien
 order: 8
 logo: /images/partners/logo-decasoft.jpg
+website: http://www.decasoft.fr/
 lang: fr
 why: "Pour rencontrer les acteurs du marché et s'investir sur l'avenir du numérique"
 socials:
