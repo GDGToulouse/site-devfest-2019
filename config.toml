@@ -1,6 +1,6 @@
-baseURL = "https://sandbox-devfesttoulouse.firebaseapp.com/"
-languageCode = "en"
-title = "Devfest Toulouse 2019"
+baseURL = "https://devfest.gdgvl.ru/"
+languageCode = "ru"
+title = "Devfest Vladivostok 2019"
 
 # Theme
 theme = "devfest-theme-hugo"
@@ -11,18 +11,18 @@ enableEmoji = true
 enableRobotsTXT = true
 enableMissingTranslationPlaceholders = true
 
-googleAnalytics = "UA-37717223-8"
+googleAnalytics = "UA-43847636-2"
 
 [params]
-    title = "DevFest Toulouse 2019"
-    date = "2019-10-03"
-    description = "The DevFest, or 'Developers Festival', is a technical conference for developers. It is aimed at students, professionals or simply curious technophiles."
+    title = "DevFest Vladivostok 2019"
+    date = "2019-09-28"
+    description = "The DevFest, or 'Developers Festival', is a technical conference for developers. It is aimed at professionals, students or simply curious technophiles."
     images = ["/images/social-share.jpg"]
-    email = "contact@devfesttoulouse.fr"
+    email = "sergey@melekhin.me"
     keywords = "event, gdg, gde, devfest, google, programming, android, chrome, developers, web, cloud, androiddev"
-    copyright = "We :heart:️ chocolatines"
-    cfpUrl = "https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
-    subscriptionUrl = "http://eepurl.com/dps1j5"
+    copyright = ":heart:️"
+    cfpUrl = "https://forms.gle/N8dsZPD3pcYMkFvm6"
+    subscriptionUrl = "https://meetup.com/GDG-Vladivostok/"
     appleTouchIcon = "/apple-touch-icon.png"
     favicon32 = "/favicon-32x32.png"
     favicon16 = "/favicon-16x16.png"
@@ -46,14 +46,14 @@ googleAnalytics = "UA-37717223-8"
 [languages]
 [languages.en]
     weight = 1
-    languageName = "gb"
+    languageName = "en"
 
-[languages.fr]
+[languages.ru]
     weight = 2
-    languageName = "fr"
+    languageName = "ru"
 
 [languages.fr.params]
-    description = "Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles."
+    description = "DevFest - это ежегодная техническая конференция разработчиков. Она будет интересна профессионалам, студентам и просто интересующимся технологиями."
 
 [taxonomies]
   tag = "tags"
@@ -64,17 +64,17 @@ googleAnalytics = "UA-37717223-8"
   [privacy.googleAnalytics]
     anonymizeIP = false
     disable = false
-    respectDoNotTrack = false
+    respectDoNotTrack = true
     useSessionStorage = false
   [privacy.instagram]
-    disable = true
+    disable = false
     simple = false
   [privacy.twitter]
     disable = false
     enableDNT = false
     simple = false
   [privacy.vimeo]
-    disable = true
+    disable = false
     simple = false
   [privacy.youtube]
     disable = false

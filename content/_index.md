@@ -8,32 +8,32 @@ menu:
 ---
 
 
-{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="DevFest Toulouse 2019" %}}
+{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="DevFest Vladivostok 2019" %}}
 
-## October 3rd, 2019
-### Pierre Baudis congress center
+## 28 September 2019
+### Venue TBD
 
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a>
 
-<!--
-<a class="btn primary btn-lg" href="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi">
-    <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Submit a presentation
+<a class="btn primary btn-lg" href="https://forms.gle/N8dsZPD3pcYMkFvm6">
+    <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Submit a talk
 </a>
--->
+
 
 {{% /jumbo %}}
 
 
 
-{{% home-info what="Participants:900,Day:1,Sessions:36,Parallel Tracks:4" class="primary" %}}
-## What is DevFest Toulouse?
+{{% home-info what="Participants:200+,Day:1,Sessions:10+,Parallel Tracks:2" class="primary" %}}
 
-The DevFest, or 'Developers Festival', is a technical conference for developers. 
+## What is DevFest Vladivostok?
+
+The DevFest, or 'Developers Festival', is a technical conference for developers.
 It is aimed at students, professionals or simply curious technophiles.
 {{% /home-info %}}
 
 
-{{< youtube-section link="ZQGRMJzi6yU" title="Watch 2018 best moments" class="" >}}
+{{< youtube-section link="kcepvhosV4U" title="Watch previous years DevFest video" class="" >}}
 
 <!-- ... -->
 
@@ -46,7 +46,7 @@ It is aimed at students, professionals or simply curious technophiles.
 {{< button-link label="Submit a presentation"
                 url="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
                 icon="cfp" >}}
---> 
+-->
 
 <!-- ...
 
@@ -58,7 +58,7 @@ It is aimed at students, professionals or simply curious technophiles.
 {{% /home-speakers %}}
 
 
-<!-- ... -->
+<!--
 
 {{% home-subscribe  class="primary" %}}
 
@@ -66,7 +66,7 @@ It is aimed at students, professionals or simply curious technophiles.
 
 {{% /home-subscribe %}}
 
-<!-- ... -->
+
 
 {{% home-tickets %}}
 # Tickets <a class="btn primary" href="https://www.billetweb.fr/devfest-toulouse-2019" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
@@ -101,7 +101,7 @@ It is aimed at students, professionals or simply curious technophiles.
 {{% /home-tickets %}}
 
 
-<!-- ... -->
+-->
 
 {{% home-location
     image="/images/map.jpg"
@@ -111,7 +111,7 @@ It is aimed at students, professionals or simply curious technophiles.
 
 ## The venue
 
-### Centre de Congrès Pierre Baudis
+### TBD
 
 The Centre de Congrès Pierre Baudis is a modern place of exchange,
 located on a privileged location,
@@ -121,18 +121,18 @@ in the immediate vicinity of the centre of Toulouse and in a green environment.
 
 <!-- ... -->
 
-{{% album images="/images/album/2018/_25A9313.jpg,/images/album/2018/_25A9386.jpg,/images/album/2018/_25A9671.jpg,/images/album/2018/_25A9334.jpg,/images/album/2018/_25A9282.jpg,/images/album/2018/_25A9612.jpg,/images/album/2018/_25A9452.jpg,/images/album/2018/_25A9628.jpg" %}}
+{{% album images="/images/album/2018/1.jpg,/images/album/2018/2.jpg,/images/album/2018/3.jpg,/images/album/2018/4.jpg,/images/album/2018/5.jpg,/images/album/2018/6.jpg,/images/album/2018/7.jpg,/images/album/2018/8.jpg" %}}
 
-### Some pictures of the **DevFest Toulouse 2018** with the 👾 _retro-gaming_ theme.
+### Some pictures of the **DevFest Vladivostok 2018**
 
-<a class="btn primary" target="_blank" rel="noopener" href="https://photos.app.goo.gl/nJYFVReFUk9mnXbv9">
+<a class="btn primary" target="_blank" rel="noopener" href="https://photos.app.goo.gl/DQY52aF5qyci2XdXA">
     See all photos
     {{% icon "right" %}}
 </a>
 
 {{% /album  %}}
 
-<!-- ... --> 
+<!-- ... -->
 
 {{% partners categories="platinium,gold,startup,soutien,media,communautes" %}}
 ## Partners <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a>
