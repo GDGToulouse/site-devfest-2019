@@ -1,0 +1,81 @@
+baseURL = "https://devfest.gdgvl.ru/"
+languageCode = "ru"
+title = "Devfest Vladivostok 2019"
+
+# Theme
+theme = "devfest-theme-hugo"
+
+# Params
+
+enableEmoji = true
+enableRobotsTXT = true
+enableMissingTranslationPlaceholders = true
+
+googleAnalytics = "UA-43847636-2"
+
+[params]
+    title = "DevFest Vladivostok 2019"
+    date = "2019-09-28"
+    description = "The DevFest, or 'Developers Festival', is a technical conference for developers. It is aimed at professionals, students or simply curious technophiles."
+    images = ["/images/social-share.jpg"]
+    email = "sergey@melekhin.me"
+    keywords = "event, gdg, gde, devfest, google, programming, android, chrome, developers, web, cloud, androiddev"
+    copyright = ":heart:️"
+    cfpUrl = "https://forms.gle/N8dsZPD3pcYMkFvm6"
+    subscriptionUrl = "https://meetup.com/GDG-Vladivostok/"
+    appleTouchIcon = "/apple-touch-icon.png"
+    favicon32 = "/favicon-32x32.png"
+    favicon16 = "/favicon-16x16.png"
+    manifest = "/manifest.json"
+    safariPinnedTab = "/safari-pinned-tab.svg"
+    themeColor = "#673ab7"
+
+[params.logos]
+    jumbo = "/images/logos/devfest_color_text.png"
+    header = "/images/logos/devfest_color_text.png"
+    footer = "/images/logos/devfest_gray_text.png"
+
+#[menu]
+#[[menu.main]]
+#    identifier = "jobs"
+#    name = "Jobs"
+#    url = "https://jobs.devfesttoulouse.fr/"
+#    weight = 200
+#    external = true
+
+[languages]
+[languages.en]
+    weight = 1
+    languageName = "en"
+
+[languages.ru]
+    weight = 2
+    languageName = "ru"
+
+[languages.fr.params]
+    description = "DevFest - это ежегодная техническая конференция разработчиков. Она будет интересна профессионалам, студентам и просто интересующимся технологиями."
+
+[taxonomies]
+  tag = "tags"
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    anonymizeIP = false
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.instagram]
+    disable = true
+    simple = false
+  [privacy.twitter]
+    disable = ture
+    enableDNT = false
+    simple = false
+  [privacy.vimeo]
+    disable = true
+    simple = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = false
