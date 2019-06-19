@@ -3,7 +3,7 @@ id: IVSIqKtM09Zue39kzfFz7b7qPd93
 key: steve_klabnik
 feature: true
 name: "Steve Klabnik"
-company: "Cloudfare"
+company: "Cloudflare"
 city: "Austin, TX"
 photoURL: "https://avatars2.githubusercontent.com/u/27786?v=4"
 socials:
