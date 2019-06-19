@@ -10,7 +10,7 @@ speakers:
   - steve_klabnik
 presentation:
 videoId:
-draft: true
+draft: false
 ---
 A lot of things have been said about WebAssembly inside of the
 browser; after all, that's why it was originally created. But a new
