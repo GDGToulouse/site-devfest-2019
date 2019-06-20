@@ -1,6 +1,5 @@
 baseURL = "https://devfest.gdgvl.ru/"
 languageCode = "ru"
-DefaultContentLanguage = "ru"
 title = "Devfest Vladivostok 2019"
 
 # Theme
