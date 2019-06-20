@@ -4,7 +4,7 @@ type: partner
 category: platinium
 order: 7
 logo: /images/partners/logo-cenareo.png
-lang: fr
+lang: ru
 why: "Dev Fest is the best place to meet future “tech heroes” that share our values and will help us to shape the future of our ‘state-of-the-art’ technology.
 #ProductExcellence  #CustomerSatisfaction  #TeamSpirits #Inventiveness #Daring & #Ambition"
 socials:

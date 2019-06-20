@@ -28,15 +28,14 @@ content:
   - title: footer_previous_edition
     links:
       - name: DevFest Toulouse 2018
-        url: https://2018.devfesttoulouse.fr/
+        url: https://2018.devfesttoulouse.ru/
         newTab: true
       - name: DevFest Toulouse 2017
-        url: https://2017.devfesttoulouse.fr/
+        url: https://2017.devfesttoulouse.ru/
         newTab: true
       - name: DevFest Toulouse 2016
-        url: https://2016.devfesttoulouse.fr/
+        url: https://2016.devfesttoulouse.ru/
         newTab: true
-
 #  - title: footer_become_partners
 #    links:
 #      - nameKey: footer_become_partners_label

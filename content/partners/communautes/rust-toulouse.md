@@ -2,7 +2,7 @@
 title: Rust Toulouse
 type: partner
 category: communautes
-website: 'https://www.gdgtoulouse.fr/'
+website: 'https://www.gdgtoulouse.ru/'
 logo: /images/partners/community/rust.png
 socials: []
 ---

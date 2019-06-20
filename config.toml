@@ -39,7 +39,7 @@ googleAnalytics = "UA-43847636-2"
 #[[menu.main]]
 #    identifier = "jobs"
 #    name = "Jobs"
-#    url = "https://jobs.devfesttoulouse.fr/"
+#    url = "https://jobs.devfesttoulouse.ru/"
 #    weight = 200
 #    external = true
 
@@ -52,7 +52,7 @@ googleAnalytics = "UA-43847636-2"
     weight = 2
     languageName = "ru"
 
-[languages.fr.params]
+[languages.ru.params]
     description = "DevFest - это ежегодная техническая конференция разработчиков. Она будет интересна профессионалам, студентам и просто интересующимся технологиями."
 
 [taxonomies]

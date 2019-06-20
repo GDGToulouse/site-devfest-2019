@@ -1,4 +1,6 @@
 steps:
+    - name: 'gcr.io/${PROJECT_ID}/hugo'
+      args: ['--minify']
     - name: 'gcr.io/${PROJECT_ID}/firebase'
-      args: [ 'deploy', '--project', '${PROJECT_ID}', '--token', '${_TOKEN}']
+      args: ['deploy', '--project', '${PROJECT_ID}', '--token', '${_TOKEN}']
 

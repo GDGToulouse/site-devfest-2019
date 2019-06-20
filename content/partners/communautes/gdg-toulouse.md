@@ -2,11 +2,11 @@
 title: GDG Toulouse
 type: partner
 category: communautes
-website: 'https://www.gdgtoulouse.fr/'
+website: 'https://www.gdgtoulouse.ru/'
 logo: /images/partners/community/gdgtoulouse.svg
 socials: []
 ---
 
-Find GDG Toulouse on [https://www.gdgtoulouse.fr/](https://www.gdgtoulouse.fr/)
+Find GDG Toulouse on [https://www.gdgtoulouse.ru/](https://www.gdgtoulouse.ru/)
 
 ![GDG Toulouse](/images/partners/community/gdgtoulouse.svg)

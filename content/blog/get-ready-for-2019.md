@@ -24,6 +24,6 @@ We will be communicating about this year theme pretty soon on Twitter [@DevFestT
 * [A video recap of 2018](https://www.youtube.com/watch?v=ZQGRMJzi6yU)
 * [Youtube playlist with 2018 talks](https://www.youtube.com/watch?v=ZQGRMJzi6yU&list=PLuZ_sYdawLiXmCwIYJs7AcBaXmUsVgPMU)
 * [2018 Official pictures](https://photos.google.com/share/AF1QipNXrf4emzX-sHvtCLQ6oJOHoTKs-JpNS34QLOQ3J_vQPIwAOS6mA1svo_-EUsLAdA?key=TVY3dlFTMHBkX2tYazR0U0lBTGhJMEpHZWE4UHR3)
-* [2018 website](https://2018.devfesttoulouse.fr/)
+* [2018 website](https://2018.devfesttoulouse.ru/)
 
 We are waiting for you October 3rd, 2019! :-)

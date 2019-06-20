@@ -4,7 +4,7 @@ type: partner
 category: gold
 order: 3
 logo: /images/partners/logo-informatique_banque_populaire.png
-lang: fr
+lang: ru
 why: "Le DevFest Toulouse est un événement incontournable pour tout acteur IT en Occitanie. C'est une évidence pour Informatique Banque Populaire de s'associer à cette manifestation faite pour et par des développeurs et qui chaque année rassemble à fois : le meilleur des connaissances, des speakers de qualité, une organisation au top et une ambiance de dingue !"
 socials:
   - icon: twitter

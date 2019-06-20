@@ -4,7 +4,7 @@ type: partner
 category: soutien
 order: 4
 logo: /images/partners/logo-squoring_technologies.jpg
-lang: fr
+lang: ru
 why: "En tant qu'éditeur de logiciel à la pointe de l'innovation, notre participation au DevFest nous permet d'échanger avec tous les acteurs de notre écosystème sur les dernières avancées technologiques. A ce titre, tous les ingénieurs de notre équipe R&D sont invités à participer à l'événement pour partager et rester connectés avec la grande communauté des développeurs !"
 socials:
   - icon: twitter
