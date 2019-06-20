@@ -1,5 +1,6 @@
 baseURL = "https://devfest.gdgvl.ru/"
 languageCode = "ru"
+DefaultContentLanguage = "ru"
 title = "Devfest Vladivostok 2019"
 
 # Theme
@@ -44,13 +45,15 @@ googleAnalytics = "UA-43847636-2"
 #    external = true
 
 [languages]
+[languages.ru]
+    weight = 0
+    languageName = "ru"
+
 [languages.en]
     weight = 1
     languageName = "en"
 
-[languages.ru]
-    weight = 2
-    languageName = "ru"
+
 
 [languages.ru.params]
     description = "DevFest - это ежегодная техническая конференция разработчиков. Она будет интересна профессионалам, студентам и просто интересующимся технологиями."
