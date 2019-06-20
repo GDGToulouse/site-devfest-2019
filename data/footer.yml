@@ -5,27 +5,22 @@ share:
     url: https://twitter.com/intent/tweet?text=
 
 follow:
-  - name: facebook
-    url: https://www.facebook.com/GDGToulouse/
-  - name: twitter
-    url: https://twitter.com/devfesttoulouse
-  - name: linkedin
-    url: https://www.linkedin.com/company/devfesttoulouse/
+  - name: meetup
+    url: https://meetup.com/GDG-Vladivostok/
+  - name: vk
+    url: https://vk.com/vldcorg
   - name: youtube
-    url: https://www.youtube.com/channel/UCx83f-KzDd3o1QK2AdJIftg
+    url: https://www.youtube.com/channel/UCuHtWBcO-TWUVDWUMQVZFFw
 
 content:
   - title: footer_about
     links:
-      - name: GDG Toulouse
-        url: http://gdgtoulouse.fr/
+      - name: GDG Vladivostok
+        url: https://gdgvl.ru/
         newTab: true
       - name: Google Developers Group
         url: https://developers.google.com/
         newTab: true
-      - name: Kit de communication
-        url: /kit/MediaKit.zip
-        newTab:
       - nameKey: footer_coc
         url: /code-of-conduct/
         newTab: false

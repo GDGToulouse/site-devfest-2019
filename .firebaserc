@@ -1,6 +1,5 @@
 {
   "projects": {
-    "default": "sandbox-devfesttoulouse",
-    "prod": "devfesttoulouse-1f1dc"
+    "default": "devfest2019-5d7fb"
   }
 }
