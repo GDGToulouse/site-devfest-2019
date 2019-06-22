@@ -5,7 +5,7 @@ feature: true
 name: Corentin Wallez
 company: Google
 city: Paris, France
-photoURL: https://pbs.twimg.com/profile_images/736988508624015361/r_Y_Lx-x_400x400.jpg
+photoURL: https://lh3.googleusercontent.com/ClSmMH8qSKMoIf8FOcd0kC1bH8fczExtMLs62kSKxdrKlYKyWnoT12Mny7UbUUQPp9BI-1F3wgWeqQFpg4IuUdI
 socials:
   - icon: twitter
     link: https://twitter.com/DaKangz
