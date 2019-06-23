@@ -4,7 +4,7 @@ key: wassim_chegham
 feature: false
 name: "Wassim Chegham"
 company: "Microsoft"
-city: 
+city: Paris, France
 photoURL: "https://lh4.googleusercontent.com/-UvesPkEgVGs/AAAAAAAAAAI/AAAAAAAAJ-8/tcq37gGb_iA/photo.jpg"
 socials:
   - icon: twitter

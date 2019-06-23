@@ -10,7 +10,6 @@ speakers:
   - qj7nbl6wiyug1rhqtxf818a46po1
 presentation:
 videoId:
-draft: true
 ---
 L’âgisme dans les fonctions IT, et en particulier dans le Développement Soft, est incontournable.
 

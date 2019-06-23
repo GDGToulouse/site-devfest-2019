@@ -4,7 +4,7 @@ key: jeremy_voisin
 feature: false
 name: "Jérémy Voisin"
 company: "Apside"
-city: 
+city: Le Mans, France
 photoURL: "https://lh5.googleusercontent.com/-ZhEccK12WTI/AAAAAAAAAAI/AAAAAAAAAAA/ACevoQNNaAY4ao8cC9z2JwqIgx9FdLZM6g/mo/photo.jpg"
 socials:
   - icon: twitter

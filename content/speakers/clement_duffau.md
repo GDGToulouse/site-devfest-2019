@@ -4,7 +4,7 @@ key: clement_duffau
 feature: false
 name: "Clément Duffau"
 company: "Stack Labs"
-city: 
+city: Toulouse, France
 photoURL: "https://lh5.googleusercontent.com/-0l9xqsj5ePU/AAAAAAAAAAI/AAAAAAAAAAU/B8FhYLeXuaU/photo.jpg"
 socials:
   - icon: twitter

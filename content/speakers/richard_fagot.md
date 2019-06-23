@@ -4,14 +4,14 @@ key: richard_fagot
 feature: false
 name: "Richard Fagot"
 company: 
-city: 
+city: Toulouse, France
 photoURL: "https://lh3.googleusercontent.com/-aY7lqdsbu9g/AAAAAAAAAAI/AAAAAAAAHwQ/BiQmX1JB7cg/photo.jpg"
 socials:
   - icon: twitter
     link: https://twitter.com/richardfagot
     name: richardfagot
   - icon: github
-    link: https://github.com/https://github.com/richard-fagot
-    name: https://github.com/richard-fagot
+    link: https://github.com/richard-fagot
+    name: richard-fagot
 ---
 Tombé dans l'informatique vers l'age de 8 ans, j'en ai fait mon métier et si, après plusieurs années à faire du développement, je suis aujour'hui chef de projet je reste un curieux inlassable, tant intéressé par les technologies, l'artisanat que l'humain.

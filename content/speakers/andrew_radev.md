@@ -4,7 +4,7 @@ key: andrew_radev
 feature: false
 name: "Andrew Radev"
 company: 
-city: 
+city: Sofia, Bulgaria
 photoURL: "https://avatars3.githubusercontent.com/u/124255?v=4"
 socials:
   - icon: twitter

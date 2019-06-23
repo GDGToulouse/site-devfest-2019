@@ -4,7 +4,7 @@ key: christophe_jollivet
 feature: false
 name: "Christophe Jollivet"
 company: "Apside"
-city: 
+city: Tours, France
 photoURL: "https://lh3.googleusercontent.com/-3sUzAaUN01o/AAAAAAAAAAI/AAAAAAAACzE/6Nekr6L7RSk/photo.jpg"
 socials:
   - icon: twitter

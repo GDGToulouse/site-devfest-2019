@@ -10,7 +10,6 @@ speakers:
   - guillaume_smet
 presentation:
 videoId:
-draft: true
 ---
 Les microservices, la scalabilité instantanée et les plates-formes à haute densité comme Kubernetes nécessitent des applications à faible empreinte mémoire et démarrage rapide. Java n'était pas bien positionné car il favorise les temps de traitement aux dépens du CPU et de la RAM.
 

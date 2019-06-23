@@ -4,7 +4,7 @@ key: tiffany_souterre
 feature: false
 name: "Tiffany Souterre"
 company: "JEMS Datafactory"
-city: 
+city: Paris, France
 photoURL: "https://lh3.googleusercontent.com/-0XDx36TcjxU/AAAAAAAAAAI/AAAAAAABQkA/-hqGP4ktCDY/photo.jpg"
 socials:
   - icon: twitter

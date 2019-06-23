@@ -10,7 +10,6 @@ speakers:
   - fs0c131y
 presentation:
 videoId:
-draft: false
 ---
 ## Résumé
 En Novembre 2017, j'ai découvert "une backdoor" dans tout les téléphones de la marque Oneplus. A l'aide d'une simple ligne de commande, un attaquant ayant un accès physique au téléphone, pouvait devenir root et ainsi obtenir un contrôle total du téléphone de la victime.

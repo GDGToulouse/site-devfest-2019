@@ -4,8 +4,8 @@ key: valeriane_venance
 feature: false
 name: "Valeriane Venance"
 company: "clever cloud"
-city: 
-photoURL: "https://lh6.googleusercontent.com/-NtKdRysNSs4/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcagq8QREXMclDOVCOSp2Zi3FIdK4Q/mo/photo.jpg"
+city: Paris, France
+photoURL: "https://pbs.twimg.com/profile_images/1075759538874142721/ndMIpvL6_400x400.jpg"
 socials:
   - icon: twitter
     link: https://twitter.com/valeriane_IT

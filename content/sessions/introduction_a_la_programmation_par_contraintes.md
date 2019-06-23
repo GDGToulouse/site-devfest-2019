@@ -10,7 +10,6 @@ speakers:
   - cyril_delmas
 presentation:
 videoId:
-draft: true
 ---
 Quel est le point commun entre un jeu de sudoku, la planification d'une conférence et les déplacements d'un commercial ?
 

@@ -4,7 +4,7 @@ key: gilles_debunne
 feature: false
 name: "Gilles Debunne"
 company: "Freelance"
-city: 
+city: Toulouse, France
 photoURL: "https://lh5.googleusercontent.com/-sp8nHJQ_Ilg/AAAAAAAAAAI/AAAAAAAAJ5I/YvU72m2vsNA/photo.jpg"
 socials:
   - icon: twitter
@@ -14,4 +14,4 @@ socials:
     link: https://github.com/GillesDebunne
     name: GillesDebunne
 ---
-null
+Développeur Freelance sur Toulouse depuis 4 ans, je me spécialise dans l'UX, front ou mobile. Éclectique, chercheur au CNRS, en SSII ou dans l'équipe Android chez Google, j'ai toujours travaillé près et pour l'utilisateur.

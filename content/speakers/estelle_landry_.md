@@ -4,8 +4,8 @@ key: estelle_landry_
 feature: false
 name: "Estelle Landry ☀️"
 company: "Elium"
-city: 
-photoURL: "https://pbs.twimg.com/profile_images/890275035251978240/1POuDNwX_normal.jpg"
+city: Montpellier, France
+photoURL: "https://sunny-tech.io/images/people/estelle_landry.jpg"
 socials:
   - icon: twitter
     link: https://twitter.com/estelandry

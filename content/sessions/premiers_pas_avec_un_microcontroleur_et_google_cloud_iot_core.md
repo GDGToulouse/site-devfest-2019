@@ -10,7 +10,6 @@ speakers:
   - gautier_mechling
 presentation:
 videoId:
-draft: true
 ---
 De nombreux services en ligne existent pour gérer en toute sécurité des appareils IoT à grande échelle : "Azure IoT" de Microsoft et "AWS IoT" d'Amazon sont parmi les plus connus.
 

@@ -4,7 +4,7 @@ key: francois_guillaume_ribreau
 feature: false
 name: "Francois-Guillaume Ribreau"
 company: "Ouest-France/Image-Charts"
-city: 
+city: Rennes, France
 photoURL: "https://avatars2.githubusercontent.com/u/138050?v=4"
 socials:
   - icon: twitter

@@ -10,7 +10,6 @@ speakers:
   - mathieu_passenaud
 presentation:
 videoId:
-draft: true
 ---
 Depuis les années 70 tous les constructeurs autos intégrent des calculateurs électroniques.
 Les moteurs des voitures modernes sont des systèmes informatiques complexes qui s'appuient sur des dizaines de capteurs... et du code. 

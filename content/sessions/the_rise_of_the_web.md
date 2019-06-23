@@ -10,7 +10,6 @@ speakers:
   - loic_ortola
 presentation:
 videoId:
-draft: true
 ---
 Il y a 20 ans, personne de **sobre** n’aurait utilisé Javascript pour autre chose que des étoiles filantes qui sortent de ta souris. Non, à l'époque, on préférait les serveurs d'application en Java!  
 Aujourd’hui, non seulement on a des frameworks front, mais il y a même des hipsters qui font du backend avec... Et depuis, on fait des APIs.  

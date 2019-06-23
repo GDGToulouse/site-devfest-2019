@@ -2,9 +2,9 @@
 id: KFNUe96DM9g1zobCtf4GVzdoLRp2
 key: kfnue96dm9g1zobctf4gvzdolrp2
 feature: false
-name: 
+name: Cédric Moulard
 company: "Open"
-city: 
+city: Aix-en-Provence, France
 photoURL: "https://avatars2.githubusercontent.com/u/7324369?v=4"
 socials:
   - icon: twitter

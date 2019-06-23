@@ -4,8 +4,8 @@ key: guillaume_andrieu
 feature: false
 name: "Guillaume Andrieu"
 company: "MonkeyPatch"
-city: 
-photoURL: "https://lh4.googleusercontent.com/-liAZEsZV4EQ/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdQcFzX4PoD_wGPLFBPbjSykxVWhg/mo/photo.jpg"
+city: Toulouse, France
+photoURL: "https://2018.devfesttoulouse.fr/images/speakers/guillaume_andrieu.jpg"
 socials:
   - icon: twitter
     link: https://twitter.com/glmxndr

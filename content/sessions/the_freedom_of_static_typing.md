@@ -10,7 +10,6 @@ speakers:
   - andrew_radev
 presentation:
 videoId:
-draft: true
 ---
 It's a common idea: Dynamic typing gives you freedom to do whatever you want, but then you suffer mistakes and runtime errors. Static typing limits your freedom, but it leads to fewer bugs, even if it's harder to actually write code.
 

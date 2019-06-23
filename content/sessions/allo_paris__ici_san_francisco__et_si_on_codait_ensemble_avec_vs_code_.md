@@ -11,7 +11,6 @@ speakers:
   - tiffany_souterre
 presentation:
 videoId:
-draft: true
 ---
 Vous aimez VS Code car il est simple, intuitif et qu'il fait ce que vous lui demandez.   
 Mais saviez-vous que vous pouviez coder à plusieurs dans VS Code? et même permettre à une personne tierce de jouer avec votre débugger depuis l'autre bout du monde? Saviez-vous que vous pouviez avoir un client slack dans VS Code, et même un chat audio?  

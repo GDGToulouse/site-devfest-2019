@@ -10,7 +10,6 @@ speakers:
   - richard_fagot
 presentation:
 videoId:
-draft: true
 ---
 Avec mon épouse nous avons commencer à donner de l'argent de poche à nos enfants.
 

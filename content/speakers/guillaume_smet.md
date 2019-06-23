@@ -4,7 +4,7 @@ key: guillaume_smet
 feature: false
 name: "Guillaume Smet"
 company: "Red Hat"
-city: 
+city: Lyon, France
 photoURL: "https://avatars1.githubusercontent.com/u/1279749?v=4"
 socials:
   - icon: twitter

@@ -4,7 +4,7 @@ key: nicolas_decoster
 feature: false
 name: "Nicolas Decoster"
 company: "Magellium"
-city: 
+city: Toulouse, France
 photoURL: "https://pbs.twimg.com/profile_images/573162928913833986/mNWlOcuk_normal.png"
 socials:
   - icon: twitter

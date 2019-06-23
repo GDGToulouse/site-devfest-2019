@@ -10,7 +10,6 @@ speakers:
   - kfnue96dm9g1zobctf4gvzdolrp2
 presentation:
 videoId:
-draft: true
 ---
 En 2019 le monde de l’informatique n’a que l’agilité à la bouche. Ca groome à tous les coins de rue, ça s’excite en daily, ça colle des post-it et ça empile les serious game en rétro. Bien sûr ça gère la transformation numérique (désolé, même au second degré je ne peux pas employer “digitale”) et au final plus personne ne comprend rien. 
 

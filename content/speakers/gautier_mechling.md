@@ -4,7 +4,7 @@ key: gautier_mechling
 feature: false
 name: "Gautier Mechling"
 company: "Nilhcem"
-city: 
+city: Paris, France
 photoURL: "https://lh5.googleusercontent.com/-XMS12Sp9jUA/AAAAAAAAAAI/AAAAAAABmqI/tuVp7XFzvbM/photo.jpg"
 socials:
   - icon: twitter

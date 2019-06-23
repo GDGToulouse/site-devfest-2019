@@ -4,7 +4,7 @@ key: vincent_ogloblinsky
 feature: false
 name: "Vincent Ogloblinsky"
 company: "SII Ouest"
-city: 
+city: Rennes, France
 photoURL: "https://lh3.googleusercontent.com/-ckhK85zrlYM/AAAAAAAAAAI/AAAAAAAAC4g/G5DIeeyNEAM/photo.jpg"
 socials:
   - icon: twitter

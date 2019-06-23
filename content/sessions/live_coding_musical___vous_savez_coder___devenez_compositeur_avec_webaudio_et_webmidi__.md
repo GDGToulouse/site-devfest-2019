@@ -10,7 +10,6 @@ speakers:
   - sylvain_wallez
 presentation:
 videoId:
-draft: true
 ---
 Sans nécessiter de formation musicale pointue, tout développeur peut créer des morceaux qui sonnent bien et faire du "live coding" pour improviser en direct.
 

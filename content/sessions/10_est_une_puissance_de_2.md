@@ -10,7 +10,6 @@ speakers:
   - gilles_debunne
 presentation:
 videoId:
-draft: true
 ---
 Le code barre est une invention qui a radicalement modifié nos sociétés. Sans elle, pas d'inventaire efficace, de supermarchés ou de vente en ligne.
 

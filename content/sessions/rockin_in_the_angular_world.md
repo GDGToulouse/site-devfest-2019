@@ -11,7 +11,6 @@ speakers:
   - wassim_chegham
 presentation:
 videoId:
-draft: true
 ---
 _« Make it work, make it right, make it fast »_ - Kent Beck
 

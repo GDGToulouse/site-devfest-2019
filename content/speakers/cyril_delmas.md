@@ -4,7 +4,7 @@ key: cyril_delmas
 feature: false
 name: "Cyril Delmas"
 company: "Lectra"
-city: 
+city: Mérignac, France
 photoURL: "https://avatars0.githubusercontent.com/u/5180763?v=4"
 socials:
   - icon: twitter

@@ -10,7 +10,7 @@ speakers:
   - francois_guillaume_ribreau
 presentation:
 videoId:
-draft: true
+draft: false
 ---
 Nous savons tous développer une API mais avons-nous tous bien intégré les problématiques d'environnements et de cycles logiciels multiples ? L'opérabilité, la gouvernance, le versioning, la traçabilité, la sécurité — et bien plus encore — de ces API web une fois en production ?
 

@@ -10,7 +10,6 @@ speakers:
   - horacio_gonzalez__lostinbrittany_
 presentation:
 videoId:
-draft: true
 ---
 Comment faire quand on doit faire le suivi de toute l'infrastructure du plus grand fournisseur de cloud Européen ?  Comment choisir un outil quand les plus populaires ne tient pas la marée à cette échèle ?  Comment construire une plateforme Metrics pour unifier, concilier et remplacer des années de legacy fragmenté et des solutions partielles ?
 

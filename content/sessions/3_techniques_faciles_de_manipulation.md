@@ -10,7 +10,6 @@ speakers:
   - marie_viley
 presentation:
 videoId:
-draft: false
 ---
 Qui ne s’est jamais fait manipulé ? Évidemment, on est tous allé à une soirée alors qu’on en avait pas envie, on a tous acheté un truc sans en avoir besoin et on a tous été influencé par ses proches. 
 

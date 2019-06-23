@@ -4,7 +4,7 @@ key: olivier_leplus
 feature: false
 name: "Olivier Leplus"
 company: "Microsoft"
-city: 
+city: Paris, France
 photoURL: "https://lh4.googleusercontent.com/-lZ1NmzauJJc/AAAAAAAAAAI/AAAAAAAAgeg/Jaiqf1L_EPM/photo.jpg"
 socials:
   - icon: twitter

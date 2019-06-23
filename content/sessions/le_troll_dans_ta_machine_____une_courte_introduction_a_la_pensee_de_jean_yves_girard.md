@@ -10,7 +10,6 @@ speakers:
   - guillaume_andrieu
 presentation:
 videoId:
-draft: true
 ---
 Jean-Yves Girard, le génial inventeur des indispensables [montres à moutarde](http://girard.perso.math.cnrs.fr/moutarde.pdf) (1990), est certes un joyeux trublion.
 

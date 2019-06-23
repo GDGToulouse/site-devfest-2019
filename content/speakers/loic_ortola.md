@@ -4,7 +4,7 @@ key: loic_ortola
 feature: false
 name: "Loïc Ortola"
 company: "Takima"
-city: 
+city: Paris, France
 photoURL: "https://avatars2.githubusercontent.com/u/2526081?v=4"
 socials:
   - icon: twitter
