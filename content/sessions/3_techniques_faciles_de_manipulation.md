@@ -3,7 +3,7 @@ id: zVUXQkHQtSiGJeIwVd05
 key: 3_techniques_faciles_de_manipulation
 title: "3 techniques faciles de manipulation"
 level: beginner
-formats: Quickie
+talkType: Quickie
 tags:
   - WTF
 speakers:

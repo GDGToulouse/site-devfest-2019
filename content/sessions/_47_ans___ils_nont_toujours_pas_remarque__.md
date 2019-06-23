@@ -3,7 +3,7 @@ id: pY6MCQBMfIYlIKfHdhL4
 key: _47_ans___ils_nont_toujours_pas_remarque__
 title: "« 47 ans : ils n’ont toujours pas remarqué … »"
 level: beginner
-formats: Quickie
+talkType: Quickie
 tags:
   - WTF
 speakers:

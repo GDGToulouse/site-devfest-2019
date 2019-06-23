@@ -3,7 +3,7 @@ id: Qy836EfpA0wC4M6jYcTk
 key: de_java_a_un_executable_natif___graalvm_et_quarkus_changent_la_donne
 title: "De Java à un exécutable natif : GraalVM et Quarkus changent la donne"
 level: beginner
-formats: Conference 
+talkType: Conference 
 tags:
   - Method & Tools
 speakers:

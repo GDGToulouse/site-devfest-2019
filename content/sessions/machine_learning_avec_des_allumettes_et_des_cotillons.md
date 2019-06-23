@@ -3,7 +3,7 @@ id: cnRUAtQNZybQsQa03lAx
 key: machine_learning_avec_des_allumettes_et_des_cotillons
 title: "Machine learning avec des allumettes et des cotillons"
 level: beginner
-formats: Quickie
+talkType: Quickie
 tags:
   - Big Data / ML / AI
 speakers:

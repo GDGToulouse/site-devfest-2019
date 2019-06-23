@@ -3,7 +3,7 @@ id: xwAvvIJJfDdBD7N4oGa5
 key: monitoring_ovh__300k_serveurs__27_dcs_une_plateforme_de_metriques_
 title: "Monitoring OVH: 300k serveurs, 27 DCs une plateforme de métriques "
 level: beginner
-formats: 
+talkType: Conference 
 tags:
   - Big Data / ML / AI
 speakers:

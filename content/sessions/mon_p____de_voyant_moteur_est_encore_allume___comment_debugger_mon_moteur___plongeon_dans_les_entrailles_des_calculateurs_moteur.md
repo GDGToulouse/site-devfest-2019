@@ -3,7 +3,7 @@ id: fW4yvmVxjXb57vQJhIXu
 key: mon_p____de_voyant_moteur_est_encore_allume___comment_debugger_mon_moteur___plongeon_dans_les_entrailles_des_calculateurs_moteur
 title: "Mon p*** de voyant moteur est encore allumé ! Comment debugger mon moteur ? Plongeon dans les entrailles des calculateurs moteur"
 level: beginner
-formats: Conference 
+talkType: Conference 
 tags:
   - WTF
 speakers:

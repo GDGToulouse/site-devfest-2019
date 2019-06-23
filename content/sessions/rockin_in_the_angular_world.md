@@ -3,7 +3,7 @@ id: niiUNFAFhYnPBiOrcDVf
 key: rockin_in_the_angular_world
 title: "Rockin’ in the Angular World"
 level: intermediate
-formats: Conference 
+talkType: Conference 
 tags:
   - Web
 speakers:

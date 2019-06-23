@@ -3,7 +3,7 @@ id: jABRUDzqext8Rx8CmA4j
 key: 10_est_une_puissance_de_2
 title: "10 est une puissance de 2"
 level: beginner
-formats: Quickie
+talkType: Quickie
 tags:
   - WTF
 speakers:

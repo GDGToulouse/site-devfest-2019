@@ -91,7 +91,6 @@ It is aimed at students, professionals or simply curious technophiles.
            ends="2019-10-03"
            price="80 €"
            info="300 last places"
-           close="true"
            soldOut=""
            url="https://www.billetweb.fr/devfest-toulouse-2019" >}}</li>
 </ul>

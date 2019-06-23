@@ -3,7 +3,7 @@ id: ZsAGxn6UZi1hfzz2bwR7
 key: quand_les_rates_des_ias_nous_renvoient_a_nos_propres_biais_societaux
 title: "Quand les ratés des IAs nous renvoient à nos propres biais sociétaux"
 level: beginner
-formats: Conference 
+talkType: Conference 
 tags:
   - Big Data / ML / AI
 speakers:

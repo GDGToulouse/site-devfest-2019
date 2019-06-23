@@ -3,7 +3,7 @@ id: pAMZmFT2wrfqPr9IdeXv
 key: le_design_de_l_erreur
 title: "Le design de l'erreur"
 level: beginner
-formats: Conference 
+talkType: Conference 
 tags:
   - Method & Tools
 speakers:

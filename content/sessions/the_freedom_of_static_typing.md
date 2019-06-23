@@ -3,7 +3,8 @@ id: RhWn82dKmICiQulwcVJF
 key: the_freedom_of_static_typing
 title: "The Freedom of Static Typing"
 level: intermediate
-formats: Conference 
+talkType: Conference 
+language: english
 tags:
   - Languages
 speakers:

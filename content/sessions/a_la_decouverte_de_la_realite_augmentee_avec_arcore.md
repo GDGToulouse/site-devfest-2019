@@ -3,7 +3,7 @@ id: qXAvodXoMK3db8ZLcVwb
 key: a_la_decouverte_de_la_realite_augmentee_avec_arcore
 title: "A la découverte de la réalité augmentée avec ARCore"
 level: beginner
-formats: Conference 
+talkType: Conference 
 tags:
   - Native mobile apps
 speakers:

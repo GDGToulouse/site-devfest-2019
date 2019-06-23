@@ -3,7 +3,8 @@ id: PmoMEVHO3imfUIMXsPai
 key: four_diseases
 title: "Four Diseases"
 level: beginner
-formats: Conference 
+talkType: Conference
+language: english 
 tags:
   - WTF
 speakers:

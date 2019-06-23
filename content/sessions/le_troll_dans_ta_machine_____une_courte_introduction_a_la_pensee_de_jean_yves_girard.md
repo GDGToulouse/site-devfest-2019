@@ -3,7 +3,7 @@ id: hoiS7Cs5sWwXb632pLh2
 key: le_troll_dans_ta_machine_____une_courte_introduction_a_la_pensee_de_jean_yves_girard
 title: "Le troll dans ta machine --- Une courte introduction à la pensée de Jean-Yves Girard"
 level: intermediate
-formats: Quickie
+talkType: Quickie
 tags:
   - WTF
 speakers:

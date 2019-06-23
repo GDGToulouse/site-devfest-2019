@@ -3,7 +3,7 @@ id: KAH9Lyx0b2TKNSQVZNw2
 key: le_burn_out_agile
 title: "Le burn-out agile"
 level: intermediate
-formats: Conference 
+talkType: Conference 
 tags:
   - Method & Tools
 speakers:

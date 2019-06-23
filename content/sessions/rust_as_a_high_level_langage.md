@@ -3,7 +3,8 @@ id: PjQDGsFIQoo1By4Ogv3q
 key: rust_as_a_high_level_langage
 title: "Rust as a High-Level Langage"
 level: beginner
-formats: Conference 
+talkType: Conference 
+language: english
 tags:
   - Languages
 speakers:

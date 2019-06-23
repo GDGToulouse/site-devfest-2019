@@ -3,7 +3,7 @@ id: oiZTE4THbAJeaNVlLc03
 key: applications_de_brainfuck__langage_minimaliste_mais_turing_complet
 title: "Applications de Brainfuck, langage minimaliste mais Turing-complet"
 level: beginner
-formats: Quickie
+talkType: Quickie
 tags:
   - WTF
 speakers:

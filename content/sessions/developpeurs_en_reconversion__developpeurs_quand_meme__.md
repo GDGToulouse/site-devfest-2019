@@ -3,7 +3,7 @@ id: adcMAUSbsAK27dQJA4Iw
 key: developpeurs_en_reconversion__developpeurs_quand_meme__
 title: "Développeurs en reconversion, développeurs quand même !"
 level: beginner
-formats: Quickie
+talkType: Quickie
 tags:
   - WTF
 speakers:

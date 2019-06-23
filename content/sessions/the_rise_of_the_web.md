@@ -3,7 +3,7 @@ id: 0MXH99V8NY9xyeurYCmA
 key: the_rise_of_the_web
 title: "The rise of the web"
 level: beginner
-formats: Conference 
+talkType: Conference 
 tags:
   - Web
 speakers:

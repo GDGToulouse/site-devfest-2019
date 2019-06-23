@@ -3,7 +3,7 @@ id: ZmSIPnuidcxjKLVfEKM8
 key: un_distributeur_automatique_d_argent_de_poche_pour_les_enfants
 title: "Un distributeur automatique d'argent de poche pour les enfants"
 level: beginner
-formats: Quickie
+talkType: Quickie
 tags:
   - WTF
 speakers:

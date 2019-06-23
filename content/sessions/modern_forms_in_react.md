@@ -3,7 +3,8 @@ id: McfMVcKDdZv68NSo2JIJ
 key: modern_forms_in_react
 title: "Modern Forms in React"
 level: intermediate
-formats: Conference 
+talkType: Conference 
+language: english
 tags:
   - Web
 speakers:

@@ -3,7 +3,7 @@ id: iU4EzEThVDvpaHDsGjOO
 key: introduction_a_la_programmation_par_contraintes
 title: "Introduction à la programmation par contraintes"
 level: beginner
-formats: Conference 
+talkType: Conference 
 tags:
   - Big Data / ML / AI
 speakers:

@@ -3,7 +3,7 @@ id: Kwery1cbJrx3ZFj6x1JU
 key: l_histoire_de_la_decouverte_d_une_backdoor_signe_oneplus
 title: "L'histoire de la découverte d'une backdoor signé Oneplus"
 level: intermediate
-formats: Conference 
+talkType: Conference 
 tags:
   - Native mobile apps
 speakers:

@@ -3,7 +3,8 @@ id: 2S9XtGGq3ouHnkivEDKC
 key: rust__webassembly__and_the_future_of_serverless
 title: "Rust, WebAssembly, and the future of Serverless"
 level: intermediate
-formats: 
+talkType: Conference
+language: english 
 tags:
   - Cloud / Infra
 speakers:

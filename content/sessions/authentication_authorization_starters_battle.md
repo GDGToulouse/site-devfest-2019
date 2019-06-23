@@ -3,7 +3,7 @@ id: 6E03tbU6L5w0IyjMi7yF
 key: authentication_authorization_starters_battle
 title: "Authentication/Authorization Starters Battle"
 level: beginner
-formats: Conference 
+talkType: Conference 
 tags:
   - Method & Tools
 speakers:

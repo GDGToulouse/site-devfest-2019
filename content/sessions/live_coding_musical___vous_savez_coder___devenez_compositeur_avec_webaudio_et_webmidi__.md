@@ -3,7 +3,7 @@ id: WwHpapkCgEg5IMW5vTId
 key: live_coding_musical___vous_savez_coder___devenez_compositeur_avec_webaudio_et_webmidi__
 title: "Live coding musical : vous savez coder ? Devenez compositeur avec WebAudio et WebMIDI !"
 level: intermediate
-formats: Conference 
+talkType: Conference 
 tags:
   - Web
 speakers:

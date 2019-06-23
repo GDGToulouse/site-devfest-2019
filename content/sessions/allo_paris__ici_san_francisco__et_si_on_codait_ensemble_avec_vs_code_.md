@@ -3,7 +3,7 @@ id: Cej88MtlRVZrJRK0FJ2p
 key: allo_paris__ici_san_francisco__et_si_on_codait_ensemble_avec_vs_code_
 title: "Allo Paris, ici San Francisco. Et si on codait ensemble avec VS Code?"
 level: beginner
-formats: Conference 
+talkType: Conference 
 tags:
   - Method & Tools
 speakers:

@@ -3,7 +3,7 @@ id: Gxr3XZR1HEu14tbneJLb
 key: _votre_api_web_passe_t_elle_le_controle_technique___
 title: "⛳️ Votre API web passe-t-elle le contrôle technique ? "
 level: intermediate
-formats: Conference 
+talkType: Conference 
 tags:
   - Method & Tools
 speakers:

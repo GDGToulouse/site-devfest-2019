@@ -3,7 +3,7 @@ id: 5qTyscBWtXLRb04TXEdB
 key: webgpu__next_generation_3d_graphics_on_the_web
 title: "WebGPU: Next-generation 3D Graphics on the Web"
 level: intermediate
-formats: Conference 
+talkType: Conference 
 tags:
   - Web
 speakers:
