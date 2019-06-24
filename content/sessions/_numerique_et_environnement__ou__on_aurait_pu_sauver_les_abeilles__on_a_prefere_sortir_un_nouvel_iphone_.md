@@ -10,7 +10,6 @@ speakers:
   - sebastien_brault
 presentation:
 videoId:
-draft: true
 ---
 Le numérique fait-il partie du problème ou de la solution quand on parle de réchauffement climatique ?
 
