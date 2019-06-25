@@ -13,7 +13,6 @@ socials:
   - icon: github
     link: https://github.com/Tactless7
     name: Tactless7
-draft: true
 ---
 Développeuse Web depuis presque 3 ans, je pratique Vue.js et Koa.js au quotidien chez SchoolMouv à Toulouse. 
 Cela fait maintenant trois conférences que je coprésente aux DevFest de Toulouse, de Brest puis à MiXiT 2019. Et je m'épanouis totalement dans cette nouvelle activité !
