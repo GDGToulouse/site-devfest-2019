@@ -11,7 +11,6 @@ speakers:
   - aleksey_kladov
 presentation:
 videoId:
-draft: true
 ---
 The singe most important feature of Rust is memory safety. Writing code with performance of C++, at a typical development cost, and with guaranteed absence of certain classes of memory safety related vulnerabilities is something that was not possible before. 
 
