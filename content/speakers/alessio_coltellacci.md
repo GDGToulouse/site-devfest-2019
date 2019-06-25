@@ -13,6 +13,5 @@ socials:
   - icon: github
     link: https://github.com/NotBad4U
     name: NotBad4U
-draft: true
 ---
 Développeur à Clever Cloud.
