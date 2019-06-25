@@ -10,6 +10,5 @@ socials:
   - icon: github
     link: https://github.com/matklad
     name: matklad
-draft: true
 ---
 @matklad is a Rust developer, who specializes in dev tools and IDEs. He spearheaded [IntelliJ Rust](https://intellij-rust.github.io/) and currently leads the development of [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer).
