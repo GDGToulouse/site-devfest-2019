@@ -10,7 +10,6 @@ speakers:
   - theophile_wallez
 presentation:
 videoId:
-draft: true
 ---
 Brainfuck est probablement le plus connu des langages de programmation ésotériques. Ses 8 instructions en font un langage Turing-complet avec lequel il est théoriquement possible d’écrire n’importe quel programme.
 
