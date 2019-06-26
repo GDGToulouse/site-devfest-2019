@@ -133,7 +133,7 @@ DevFest - это ежегодная техническая конференци�
 
 <!-- ... -->
 
-{{% partners categories="general,platinium,gold,silver,venue,media,communities" %}}
+{{% partners categories="general,venue,communities" %}}
 ## Partners <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Стать партнёром</a>
 
 {{% /partners %}}
