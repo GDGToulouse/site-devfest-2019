@@ -11,7 +11,7 @@ menu:
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="DevFest Vladivostok 2019" %}}
 
 ## 28 Сентября 2019
-### Место проведения определяется
+### Коворкинг DOM
 
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Стать спонсором</a>
 
@@ -103,18 +103,18 @@ DevFest - это ежегодная техническая конференци�
 -->
 
 {{% home-location
-    image="/images/map.jpg"
-    address="11 Espl. Compans Caffarelli, 31000 Toulouse"
-    latitude="43.6110956"
-    longitude="1.4332799" %}}
+    image="/images/map.png"
+    address="Владивосток, ул. Тигровая 30, 11 этаж. Коворкинг DOM"
+    latitude="43.1161665"
+    longitude="131.879246" %}}
 
 ## Место
 
-### TBD
+### Коворкинг DOM
 
-The Centre de Congrès Pierre Baudis is a modern place of exchange,
-located on a privileged location,
-in the immediate vicinity of the centre of Toulouse and in a green environment.
+
+Коворкинг расположен в центре города в пешей доступности от остановок общественного транспорта. Рядом со зданием есть платная парковка.
+Подробней о площадке можно узнать на сайте https://domvl.ru
 
 {{% /home-location %}}
 
@@ -133,7 +133,7 @@ in the immediate vicinity of the centre of Toulouse and in a green environment.
 
 <!-- ... -->
 
-{{% partners categories="platinium,gold,startup,soutien,media,communautes" %}}
-## Partners <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a>
+{{% partners categories="general,platinium,gold,silver,venue,media,communities" %}}
+## Partners <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Стать партнёром</a>
 
 {{% /partners %}}

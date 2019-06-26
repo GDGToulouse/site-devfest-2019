@@ -1,5 +1,5 @@
 ---
-title: Partenaires
+title: Партнёры
 menu:
   main:
     weight: 20
@@ -9,14 +9,14 @@ draft: false
 
 {{% hero %}}
 
-Vous souhaitez devenir sponsor, consultez notre dossier de sponsoring et contactez-nous à
+Если вы хотите стать партнёром мероприятия, свяжитесь с нами!
 
-{{< button-link label="contact@devfesttoulouse.ru"
-                url="mailto:contact@devfesttoulouse.ru"
+{{< button-link label="sergey@melekhin.me"
+                url="mailto:sergey@melekhin.me"
                 icon="email" >}}
 
 {{% /hero %}}
 
 <!-- Parteners list -->
 
-{{< partners categories="platinium,gold,startup,soutien,media,communautes" >}}
+{{< partners categories="general,platinum,gold,silver,venue,media,communities" >}}

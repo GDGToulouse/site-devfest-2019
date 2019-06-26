@@ -21,6 +21,6 @@ If you wish to become a sponsor, consult our sponsorship file and contact us at
 
 <!-- Parteners list -->
 
-{{% partners categories="platinium,gold,startup,soutien,media,communautes" %}}
+{{% partners categories="general,platinum,gold,silver,venue,media,communities" %}}
 
 {{% /partners %}}
