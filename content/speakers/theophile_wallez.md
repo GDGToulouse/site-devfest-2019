@@ -13,7 +13,6 @@ socials:
   - icon: github
     link: https://github.com/TWal
     name: TWal
-draft: true
 ---
 Théophile Wallez est étudiant en informatique à l’ENS Paris. Passionné - entre autres - par la programmation, du Brainfuck aux preuves formelles, et aussi de régie son & lumière et DJ’ing. Il est aussi contributeur sur le compilateur vérifié [CakeML].
 
