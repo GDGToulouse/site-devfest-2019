@@ -48,12 +48,9 @@ It is aimed at students, professionals or simply curious technophiles.
                 icon="cfp" >}}
 --> 
 
-<!-- ...
-
 {{< button-link label="See all speakers"
                 url="./speakers"
                 icon="right" >}}
--->
 
 {{% /home-speakers %}}
 
@@ -91,7 +88,7 @@ It is aimed at students, professionals or simply curious technophiles.
            ends="2019-10-03"
            price="80 €"
            info="300 last places"
-           soldOut=""
+           soldOut="true"
            url="https://www.billetweb.fr/devfest-toulouse-2019" >}}</li>
 </ul>
 
