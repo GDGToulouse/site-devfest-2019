@@ -43,12 +43,10 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
                 icon="cfp" >}}
 -->
 
-<!-- ...
-
 {{< button-link label="Voir tous les conférenciers"
                 url="./speakers"
                 icon="right" >}}
--->
+
 
 {{% /home-speakers %}}
 
@@ -86,7 +84,7 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
            ends="2019-10-03"
            price="80 €"
            info="300 places restantes"
-           soldOut=""
+           soldOut="true"
            url="https://www.billetweb.fr/devfest-toulouse-2019" >}}</li>
 </ul>
 
