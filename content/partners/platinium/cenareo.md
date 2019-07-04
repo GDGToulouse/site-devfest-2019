@@ -10,7 +10,7 @@ why: "Dev Fest is the best place to meet future “tech heroes” that share our
 #ProductExcellence  #CustomerSatisfaction  #TeamSpirits #Inventiveness #Daring & #Ambition"
 socials:
   - icon: twitter
-    link: https://twitter.com/https://twitter.com/Cenareo
+    link: https://twitter.com/Cenareo
     name: https://twitter.com/Cenareo
 
 draft: false
