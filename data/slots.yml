@@ -1,0 +1,106 @@
+open:
+  start: 08:00
+  duration: 60
+
+keynote-open:
+  start: 09:00
+  duration: 40
+
+pause-1:
+  start: 09:40
+  duration: 20
+
+slot-1:
+  start: 10:00
+  duration: 40
+office-hours-1:
+  start: 10:40
+  duration: 30
+
+pause-2:
+  start: 10:40
+  duration: 20
+
+slot-2:
+  start: 11:00
+  duration: 40
+office-hours-2:
+  start: 11:40
+  duration: 30
+
+pause-3:
+  start: 11:40
+  duration: 20
+
+slot-3:
+  start: 12:00
+  duration: 40
+office-hours-3:
+  start: 12:40
+  duration: 30
+
+slot-lt-1:
+  start: 12:50
+  duration: 15
+office-hours-lt-1:
+  start: 13:05
+  duration: 30
+
+lunch:
+  start: 13:05
+  duration: 60
+
+slot-lt-2:
+  start: 14:05
+  duration: 15
+office-hours-lt-2:
+  start: 14:20
+  duration: 30
+
+slot-4:
+  start: 14:30
+  duration: 40
+office-hours-4:
+  start: 15:10
+  duration: 30
+
+pause-4:
+  start: 15:10
+  duration: 20
+
+slot-5:
+  start: 15:30
+  duration: 40
+office-hours-5:
+  start: 16:10
+  duration: 30
+
+pause-5:
+  start: 16:10
+  duration: 20
+
+slot-6:
+  start: 16:30
+  duration: 40
+office-hours-6:
+  start: 17:10
+  duration: 30
+
+pause-6:
+  start: 17:10
+  duration: 20
+
+slot-7:
+  start: 17:30
+  duration: 40
+office-hours-7:
+  start: 18:10
+  duration: 30
+
+keynote-close:
+  start: 18:20
+  duration: 40
+
+party:
+  start: 19:00
+  duration: 60

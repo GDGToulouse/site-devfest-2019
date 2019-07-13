@@ -4,7 +4,7 @@ menu:
   main:
     weight: 10
 
-draft: true
+draft: false
 ---
 
 {{% hero %}}

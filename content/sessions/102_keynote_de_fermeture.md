@@ -1,14 +1,11 @@
 ---
-id: 102
-title: Keynote de fermeture
-image: /images/backgrounds/sky.png
-class: end
-videoId: 
-tags:
-  - General
-speakers:
+title: "Keynote de fermeture"
 talkType: Keynote
-draft: true
+speakers:
+tags:
+  - Keynote
+presentation:
+videoId:
 ---
 
 Surprise !

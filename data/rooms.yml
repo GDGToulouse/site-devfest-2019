@@ -1,0 +1,16 @@
+- key: lunchroom
+  label: Salle déjeuner
+  full: true
+- key: halls
+  label: Halls
+  full: true
+- key: office-hours
+  label: Office-hours
+- key: room1
+  label: Grand amphi.
+- key: room2
+  label: Grande salle
+- key: room3
+  label: Salle du haut
+- key: room4
+  label: Petite salle

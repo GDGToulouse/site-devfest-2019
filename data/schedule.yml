@@ -1,0 +1,263 @@
+- day: 2019-10-03
+  start: 08:00
+  end: 20:00
+  rooms:
+    - room: room1
+      slots:
+        - open: __open
+        - keynote-open: 101_keynote_d_ouverture
+        - pause-1: __pause
+        - slot-1: _numerique_et_environnement__ou__on_aurait_pu_sauver_les_abeilles__on_a_prefere_sortir_un_nouvel_iphone_
+        - pause-2: __pause
+        - slot-2: _votre_api_web_passe_t_elle_le_controle_technique___
+        - pause-3: __pause
+        - slot-3: a_la_decouverte_de_la_realite_augmentee_avec_arcore
+        - slot-lt-1: 3_techniques_faciles_de_manipulation
+        - lunch: __lunch
+        - slot-lt-2: 10_est_une_puissance_de_2
+        - slot-4: allo_paris__ici_san_francisco__et_si_on_codait_ensemble_avec_vs_code_
+        - pause-4: __pause
+        - slot-5: authentication_authorization_starters_battle
+        - pause-5: __pause
+        - slot-6: brace_yourself__vanilla_is_coming__back__
+        - pause-6: __pause
+        - slot-7: comprendre_le_role_du_noyau_d_un_systeme_d_exploitation_en_creant_un_from_scratch
+        - keynote-close: 102_keynote_de_fermeture
+        - party: __party
+    - room: room2
+      slots:
+        - slot-1: de_java_a_un_executable_natif___graalvm_et_quarkus_changent_la_donne
+        - pause-2: __pause
+        - slot-2: devops_at_scale
+        - pause-3: __pause
+        - slot-3: four_diseases
+        - pause-4: __pause
+        - slot-4: introduction_a_la_programmation_par_contraintes
+        - slot-lt-1: _47_ans___ils_nont_toujours_pas_remarque__
+        - lunch: __lunch
+        - slot-lt-2: un_distributeur_automatique_d_argent_de_poche_pour_les_enfants
+        - slot-5: l_histoire_de_la_decouverte_d_une_backdoor_signe_oneplus
+        - pause-5: __pause
+        - slot-6: le_burn_out_agile
+        - pause-6: __pause
+        - slot-7: le_design_de_l_erreur
+    - room: room3
+      slots:
+        - slot-1: live_coding_musical___vous_savez_coder___devenez_compositeur_avec_webaudio_et_webmidi__
+        - pause-2: __pause
+        - slot-2: modern_forms_in_react
+        - pause-3: __pause
+        - slot-3: mon_p____de_voyant_moteur_est_encore_allume___comment_debugger_mon_moteur___plongeon_dans_les_entrailles_des_calculateurs_moteur
+        - pause-4: __pause
+        - slot-4: monitoring_ovh__300k_serveurs__27_dcs_une_plateforme_de_metriques_
+        - slot-lt-1: applications_de_brainfuck__langage_minimaliste_mais_turing_complet
+        - lunch: __lunch
+        - slot-lt-2: developpeurs_en_reconversion__developpeurs_quand_meme__
+        - slot-5: premiers_pas_avec_un_microcontroleur_et_google_cloud_iot_core
+        - pause-5: __pause
+        - slot-6: quand_les_rates_des_ias_nous_renvoient_a_nos_propres_biais_societaux
+        - pause-6: __pause
+        - slot-7: rockin_in_the_angular_world
+    - room: room4
+      slots:
+        - slot-1: rust__webassembly__and_the_future_of_serverless
+        - pause-2: __pause
+        - slot-2: rust_as_a_high_level_langage
+        - pause-3: __pause
+        - slot-3: the_freedom_of_static_typing
+        - pause-4: __pause
+        - slot-4: the_rise_of_the_web
+        - slot-lt-1: le_troll_dans_ta_machine_____une_courte_introduction_a_la_pensee_de_jean_yves_girard
+        - lunch: __lunch
+        - slot-lt-2: machine_learning_avec_des_allumettes_et_des_cotillons
+        - slot-5: un_distributeur_automatique_d_argent_de_poche_pour_les_enfants
+        - pause-5: __pause
+        - slot-6: webgpu__next_generation_3d_graphics_on_the_web
+        - pause-6: __pause
+        - slot-7: blanc
+    - room: office-hours
+      slots:
+        - office-hours-1: 201_office_hours
+        - office-hours-2: 202_office_hours
+        - office-hours-3: 203_office_hours
+        - office-hours-lt-1: 211_office_hours
+        - office-hours-lt-2: 212_office_hours
+        - office-hours-4: 204_office_hours
+        - office-hours-5: 205_office_hours
+        - office-hours-6: 206_office_hours
+
+- day: 2019-10-04
+  start: 08:00
+  end: 20:00
+  rooms:
+    - room: room1
+      slots:
+        - open: __open
+        - keynote-open: 101_keynote_d_ouverture
+        - pause-1: __pause
+        - slot-1: _numerique_et_environnement__ou__on_aurait_pu_sauver_les_abeilles__on_a_prefere_sortir_un_nouvel_iphone_
+        - pause-2: __pause
+        - slot-2: _votre_api_web_passe_t_elle_le_controle_technique___
+        - pause-3: __pause
+        - slot-3: a_la_decouverte_de_la_realite_augmentee_avec_arcore
+        - slot-lt-1: 3_techniques_faciles_de_manipulation
+        - lunch: __lunch
+        - slot-lt-2: 10_est_une_puissance_de_2
+        - slot-4: allo_paris__ici_san_francisco__et_si_on_codait_ensemble_avec_vs_code_
+        - pause-4: __pause
+        - slot-5: authentication_authorization_starters_battle
+        - pause-5: __pause
+        - slot-6: brace_yourself__vanilla_is_coming__back__
+        - pause-6: __pause
+        - slot-7: comprendre_le_role_du_noyau_d_un_systeme_d_exploitation_en_creant_un_from_scratch
+        - keynote-close: 102_keynote_de_fermeture
+        - party: __party
+    - room: room2
+      slots:
+        - slot-1: de_java_a_un_executable_natif___graalvm_et_quarkus_changent_la_donne
+        - pause-2: __pause
+        - slot-2: devops_at_scale
+        - pause-3: __pause
+        - slot-3: four_diseases
+        - pause-4: __pause
+        - slot-4: introduction_a_la_programmation_par_contraintes
+        - slot-lt-1: _47_ans___ils_nont_toujours_pas_remarque__
+        - lunch: __lunch
+        - slot-lt-2: un_distributeur_automatique_d_argent_de_poche_pour_les_enfants
+        - slot-5: l_histoire_de_la_decouverte_d_une_backdoor_signe_oneplus
+        - pause-5: __pause
+        - slot-6: le_burn_out_agile
+        - pause-6: __pause
+        - slot-7: le_design_de_l_erreur
+    - room: room3
+      slots:
+        - slot-1: live_coding_musical___vous_savez_coder___devenez_compositeur_avec_webaudio_et_webmidi__
+        - pause-2: __pause
+        - slot-2: modern_forms_in_react
+        - pause-3: __pause
+        - slot-3: mon_p____de_voyant_moteur_est_encore_allume___comment_debugger_mon_moteur___plongeon_dans_les_entrailles_des_calculateurs_moteur
+        - pause-4: __pause
+        - slot-4: monitoring_ovh__300k_serveurs__27_dcs_une_plateforme_de_metriques_
+        - slot-lt-1: applications_de_brainfuck__langage_minimaliste_mais_turing_complet
+        - lunch: __lunch
+        - slot-lt-2: developpeurs_en_reconversion__developpeurs_quand_meme__
+        - slot-5: premiers_pas_avec_un_microcontroleur_et_google_cloud_iot_core
+        - pause-5: __pause
+        - slot-6: quand_les_rates_des_ias_nous_renvoient_a_nos_propres_biais_societaux
+        - pause-6: __pause
+        - slot-7: rockin_in_the_angular_world
+    - room: room4
+      slots:
+        - slot-1: rust__webassembly__and_the_future_of_serverless
+        - pause-2: __pause
+        - slot-2: rust_as_a_high_level_langage
+        - pause-3: __pause
+        - slot-3: the_freedom_of_static_typing
+        - pause-4: __pause
+        - slot-4: the_rise_of_the_web
+        - slot-lt-1: le_troll_dans_ta_machine_____une_courte_introduction_a_la_pensee_de_jean_yves_girard
+        - lunch: __lunch
+        - slot-lt-2: machine_learning_avec_des_allumettes_et_des_cotillons
+        - slot-5: un_distributeur_automatique_d_argent_de_poche_pour_les_enfants
+        - pause-5: __pause
+        - slot-6: webgpu__next_generation_3d_graphics_on_the_web
+        - pause-6: __pause
+        - slot-7: blanc
+    - room: office-hours
+      slots:
+        - office-hours-1: 201_office_hours
+        - office-hours-2: 202_office_hours
+        - office-hours-3: 203_office_hours
+        - office-hours-lt-1: 211_office_hours
+        - office-hours-lt-2: 212_office_hours
+        - office-hours-4: 204_office_hours
+        - office-hours-5: 205_office_hours
+        - office-hours-6: 206_office_hours
+
+- day: 2019-10-05
+  start: 08:00
+  end: 20:00
+  rooms:
+    - room: room1
+      slots:
+        - open: __open
+        - keynote-open: 101_keynote_d_ouverture
+        - pause-1: __pause
+        - slot-1: _numerique_et_environnement__ou__on_aurait_pu_sauver_les_abeilles__on_a_prefere_sortir_un_nouvel_iphone_
+        - pause-2: __pause
+        - slot-2: _votre_api_web_passe_t_elle_le_controle_technique___
+        - pause-3: __pause
+        - slot-3: a_la_decouverte_de_la_realite_augmentee_avec_arcore
+        - slot-lt-1: 3_techniques_faciles_de_manipulation
+        - lunch: __lunch
+        - slot-lt-2: 10_est_une_puissance_de_2
+        - slot-4: allo_paris__ici_san_francisco__et_si_on_codait_ensemble_avec_vs_code_
+        - pause-4: __pause
+        - slot-5: authentication_authorization_starters_battle
+        - pause-5: __pause
+        - slot-6: brace_yourself__vanilla_is_coming__back__
+        - pause-6: __pause
+        - slot-7: comprendre_le_role_du_noyau_d_un_systeme_d_exploitation_en_creant_un_from_scratch
+        - keynote-close: 102_keynote_de_fermeture
+        - party: __party
+    - room: room2
+      slots:
+        - slot-1: de_java_a_un_executable_natif___graalvm_et_quarkus_changent_la_donne
+        - pause-2: __pause
+        - slot-2: devops_at_scale
+        - pause-3: __pause
+        - slot-3: four_diseases
+        - pause-4: __pause
+        - slot-4: introduction_a_la_programmation_par_contraintes
+        - slot-lt-1: _47_ans___ils_nont_toujours_pas_remarque__
+        - lunch: __lunch
+        - slot-lt-2: un_distributeur_automatique_d_argent_de_poche_pour_les_enfants
+        - slot-5: l_histoire_de_la_decouverte_d_une_backdoor_signe_oneplus
+        - pause-5: __pause
+        - slot-6: le_burn_out_agile
+        - pause-6: __pause
+        - slot-7: le_design_de_l_erreur
+    - room: room3
+      slots:
+        - slot-1: live_coding_musical___vous_savez_coder___devenez_compositeur_avec_webaudio_et_webmidi__
+        - pause-2: __pause
+        - slot-2: modern_forms_in_react
+        - pause-3: __pause
+        - slot-3: mon_p____de_voyant_moteur_est_encore_allume___comment_debugger_mon_moteur___plongeon_dans_les_entrailles_des_calculateurs_moteur
+        - pause-4: __pause
+        - slot-4: monitoring_ovh__300k_serveurs__27_dcs_une_plateforme_de_metriques_
+        - slot-lt-1: applications_de_brainfuck__langage_minimaliste_mais_turing_complet
+        - lunch: __lunch
+        - slot-lt-2: developpeurs_en_reconversion__developpeurs_quand_meme__
+        - slot-5: premiers_pas_avec_un_microcontroleur_et_google_cloud_iot_core
+        - pause-5: __pause
+        - slot-6: quand_les_rates_des_ias_nous_renvoient_a_nos_propres_biais_societaux
+        - pause-6: __pause
+        - slot-7: rockin_in_the_angular_world
+    - room: room4
+      slots:
+        - slot-1: rust__webassembly__and_the_future_of_serverless
+        - pause-2: __pause
+        - slot-2: rust_as_a_high_level_langage
+        - pause-3: __pause
+        - slot-3: the_freedom_of_static_typing
+        - pause-4: __pause
+        - slot-4: the_rise_of_the_web
+        - slot-lt-1: le_troll_dans_ta_machine_____une_courte_introduction_a_la_pensee_de_jean_yves_girard
+        - lunch: __lunch
+        - slot-lt-2: machine_learning_avec_des_allumettes_et_des_cotillons
+        - slot-5: un_distributeur_automatique_d_argent_de_poche_pour_les_enfants
+        - pause-5: __pause
+        - slot-6: webgpu__next_generation_3d_graphics_on_the_web
+        - pause-6: __pause
+        - slot-7: blanc
+    - room: office-hours
+      slots:
+        - office-hours-1: 201_office_hours
+        - office-hours-2: 202_office_hours
+        - office-hours-3: 203_office_hours
+        - office-hours-lt-1: 211_office_hours
+        - office-hours-lt-2: 212_office_hours
+        - office-hours-4: 204_office_hours
+        - office-hours-5: 205_office_hours
+        - office-hours-6: 206_office_hours
