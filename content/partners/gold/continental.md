@@ -4,7 +4,7 @@ type: partner
 category: gold
 order: 10
 logo: /images/partners/logo-continental.png
-website: www.continental-corporation.com
+website: https://www.continental-corporation.com
 lang: en
 why: "At Continental Digital Services France (CDSF), we are convinced that our success depends on the members of our teams and our \"startup\" culture backed by a larger group. Being a Devfest's sponsor is a great opportunity to share with & meet passionate people, guided by curiosity and innovation, eager to make a real impact on the mobility services of the future !"
 socials:

@@ -4,7 +4,7 @@ type: partner
 category: startup
 order: 18
 logo: /images/partners/logo-intuiface.png
-website: www.intuiface.com
+website: https://www.intuiface.com
 lang: en
 why: "In 2011, we started as a small team of developers from Toulouse that is dedicated to the creation of technology that would make interactivity accessible to the masses, releasing a software platform infused with its DNA. Ever since, we have been aspiring to deliver a solution that gives everyone the power to create interactive experiences. With our Dev team in the heart of our evolution, we are excited to support this event organized for like-minded people who are also our inspiration."
 socials:
