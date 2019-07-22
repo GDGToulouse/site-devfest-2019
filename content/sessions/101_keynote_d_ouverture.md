@@ -1,15 +1,11 @@
 ---
-id: 101
-title: Keynote d'ouverture
-image: /images/backgrounds/game.png
-class: intro
-presentation: 
-videoId: 
-tags:
-  - General
-speakers:
+title: "Keynote d'ouverture"
 talkType: Keynote
-draft: true
+speakers:
+tags:
+  - Keynote
+presentation:
+videoId:
 ---
 
 Surprise !

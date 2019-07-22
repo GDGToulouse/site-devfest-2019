@@ -1,7 +1,8 @@
 ---
 id: 204
 title: Office Hours
-tags: []
+tags:
+  - office-hours
 speakers:
 talkType: Office Hours
 
