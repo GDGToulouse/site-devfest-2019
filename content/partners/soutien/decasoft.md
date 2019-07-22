@@ -1,24 +1,24 @@
 ---
 title: DECASOFT
-type: partner
+type: soutien
 category: soutien
 order: 8
 logo: /images/partners/logo-decasoft.jpg
-website: http://www.decasoft.fr/
+website: 'http://www.decasoft.fr/'
 lang: fr
-why: "Pour rencontrer les acteurs du marché et s'investir sur l'avenir du numérique"
+why: Pour rencontrer les acteurs du marché et s'investir sur l'avenir du numérique
 socials:
   - icon: facebook
-    link: https://facebook.com/decasoft
+    link: 'https://facebook.com/decasoft'
     name: decasoft
   - icon: twitter
-    link: https://twitter.com/Decasoft_SSII
+    link: 'https://twitter.com/Decasoft_SSII'
     name: Decasoft_SSII
   - icon: linkedin
-    link: https://linkedin.com/company/decasoft
+    link: 'https://linkedin.com/company/decasoft'
     name: decasoft
-
 draft: false
+key: decasoft
 ---
 Une société à taille humaine spécialisée en développement web et mobile implantée sur la ville lumière et la ville rose – Paris et Toulouse.
 Nous assurons l’évolution professionnelle de nos collaborateurs vers de nouvelles technologies afin de calibrer nos postes selon leurs envies.

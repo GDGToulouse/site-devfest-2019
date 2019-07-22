@@ -1,15 +1,17 @@
 ---
 id: Qy836EfpA0wC4M6jYcTk
 key: de_java_a_un_executable_natif___graalvm_et_quarkus_changent_la_donne
-title: "De Java à un exécutable natif : GraalVM et Quarkus changent la donne"
+title: 'De Java à un exécutable natif : GraalVM et Quarkus changent la donne'
 level: beginner
-talkType: Conference 
+format: conference
 tags:
-  - Method & Tools
+  - method___tools
 speakers:
   - guillaume_smet
-presentation:
-videoId:
+draft: false
+videoId: null
+presentation: null
+language: French
 ---
 Les microservices, la scalabilité instantanée et les plates-formes à haute densité comme Kubernetes nécessitent des applications à faible empreinte mémoire et démarrage rapide. Java n'était pas bien positionné car il favorise les temps de traitement aux dépens du CPU et de la RAM.
 

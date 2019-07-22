@@ -1,15 +1,16 @@
 ---
 id: aOHds477R7FiM3cnWAXp
 key: devops_at_scale
-title: "DevOps at scale"
+title: DevOps at scale
 level: beginner
-talkType: Conference 
+format: conference
 tags:
-  - Method & Tools
+  - method___tools
 speakers:
   - adrien_anceau
-presentation:
-videoId:
+draft: false
+videoId: null
+presentation: null
 ---
 DevOps is everywhere, and every new or existing project is at least considering to follow its principles. While implementing DevOps for single projects become more and more straightforward, it's still a challenge to have a coherent DevOps approach at Enterprise level.
 

@@ -1,16 +1,20 @@
 ---
-id: qJ7nBL6wIyUg1RHqtxF818a46po1
 key: qj7nbl6wiyug1rhqtxf818a46po1
+id: qJ7nBL6wIyUg1RHqtxF818a46po1
 feature: false
-name: Yves Boyez
-company: "Continental Digital Service France"
-city: Toulouse, France
-photoURL: "https://avatars2.githubusercontent.com/u/50613721?v=4"
+name: qJ7nBL6wIyUg1RHqtxF818a46po1
+company: Continental Digital Service France
+city: 'Toulouse, France'
+photoURL: 'https://avatars2.githubusercontent.com/u/50613721?v=4'
 socials:
+  - icon: twitter
+    link: 'https://twitter.com/none'
+    name: none
   - icon: github
-    link: https://github.com/Zorkbomb
+    link: 'https://github.com/Zorkbomb'
     name: Zorkbomb
 ---
+Yves BOYEZ   
 Ingénieur de 47 ans, marié, 4 enfants (eeeeeeeet ouais !)  
 
 Actuellement administrateur des Outils ATLASSIAN chez CONTINENTAL DIGITAL SERVICES FRANCE au sein de l'équipe Devops  

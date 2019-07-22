@@ -1,24 +1,28 @@
 ---
 title: NEO-SOFT Groupe
-type: partner
+type: gold
 category: gold
 order: 12
 logo: /images/partners/logo-neo_soft_groupe.png
-website: https://www.neo-soft.fr/
+website: 'https://www.neo-soft.fr/'
 lang: fr
-why: "Parce nous sommes passionnés et toulousains et que le DevFest c'est LE regroupement des passionnées de la Ville Rose et d'ailleurs ! Parce que notre job ne s'arrête pas à satisfaire un client mais à apprendre et partager nos connaissances ."
+why: >-
+  Parce nous sommes passionnés et toulousains et que le DevFest c'est LE
+  regroupement des passionnées de la Ville Rose et d'ailleurs ! Parce que notre
+  job ne s'arrête pas à satisfaire un client mais à apprendre et partager nos
+  connaissances .
 socials:
   - icon: facebook
-    link: https://facebook.com/neo.soft.groupe
+    link: 'https://facebook.com/neo.soft.groupe'
     name: Néo-Soft Groupe
   - icon: twitter
-    link: https://twitter.com/neosoft_
+    link: 'https://twitter.com/neosoft_'
     name: NeoSoft
   - icon: linkedin
-    link: http://www.linkedin.com/company/neo-soft-services
+    link: 'http://www.linkedin.com/company/neo-soft-services'
     name: Néo-Soft Groupe
-
 draft: false
+key: neo_soft_groupe
 ---
 Créé en 2005 à Rennes par son PDG actuel Soïg, le Groupe Néo-Soft est aujourd’hui reconnu pour l’expertise de ses 1 300 consultants et ses 16 implantations.
 Néo-Soft est une société de Conseil en Informatique et Technologies spécialisée dans 5 domaines : 

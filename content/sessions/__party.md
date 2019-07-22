@@ -1,11 +1,10 @@
 ---
+key: __party
 title: Party time...
-talkType: party
+format: party
+speakers: []
 tags:
   - party
-speakers:
-room: halls
-global: true
+draft: false
 ---
-
-Party time
+🎉 Party time

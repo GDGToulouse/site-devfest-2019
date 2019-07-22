@@ -1,17 +1,18 @@
 ---
 id: oiZTE4THbAJeaNVlLc03
 key: applications_de_brainfuck__langage_minimaliste_mais_turing_complet
-title: "Applications de Brainfuck, langage minimaliste mais Turing-complet"
+title: 'Applications de Brainfuck, langage minimaliste mais Turing-complet'
 level: beginner
-talkType: Quickie
+format: quickie
 tags:
-  - WTF
+  - wtf
 speakers:
   - theophile_wallez
-presentation:
-videoId:
+draft: false
+videoId: null
+presentation: null
+language: Français
 ---
 Brainfuck est probablement le plus connu des langages de programmation ésotériques. Ses 8 instructions en font un langage Turing-complet avec lequel il est théoriquement possible d’écrire n’importe quel programme.
 
 Et en pratique ? Après une explication du langage (avec 8 instructions c’est rapide !) on verra comment j’ai utilisé Brainfuck pour les qualifications au concours d’informatique Prologin, sur un problème de parcours de graphes !
-

@@ -1,24 +1,28 @@
 ---
 title: OpenAirlines
-type: partner
+type: startup
 category: startup
 order: 6
 logo: /images/partners/logo-openairlines.png
-website: https://openairlines.com/
+website: 'https://openairlines.com/'
 lang: fr
-why: "OpenAirlines est fier de soutenir cet événement incontournable pour les développeurs ! On espère y rencontrer des développeurs curieux et innovants, motivés par les enjeux du réchauffement climatique et les défis technologiques qui permettront de sauver notre planète."
+why: >-
+  OpenAirlines est fier de soutenir cet événement incontournable pour les
+  développeurs ! On espère y rencontrer des développeurs curieux et innovants,
+  motivés par les enjeux du réchauffement climatique et les défis technologiques
+  qui permettront de sauver notre planète.
 socials:
   - icon: facebook
-    link: https://facebook.com/openairlines
+    link: 'https://facebook.com/openairlines'
     name: openairlines
   - icon: twitter
-    link: https://twitter.com/OpenAirlines
+    link: 'https://twitter.com/OpenAirlines'
     name: OpenAirlines
   - icon: linkedin
-    link: https://linkedin.com/company/openairlines
+    link: 'https://linkedin.com/company/openairlines'
     name: openairlines
-
 draft: false
+key: openairlines
 ---
 Partant du constat que chaque année près de 660 millions de tonnes de CO2 sont émises par les avions, soit plus de 20 000 kilos de CO2 par seconde, cette clean-tech a décidé d’agir en développant des solutions innovantes pour aider les compagnies aériennes à réduire leurs coûts et leur impact environnemental.
 

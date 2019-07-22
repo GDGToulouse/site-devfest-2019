@@ -1,17 +1,17 @@
 ---
-id: KkCVbJvhE1OL1Dd51U4t9H54iFT2
 key: corentin_wallez
+id: KkCVbJvhE1OL1Dd51U4t9H54iFT2
 feature: true
 name: Corentin Wallez
 company: Google
-city: Paris, France
-photoURL: https://lh3.googleusercontent.com/ClSmMH8qSKMoIf8FOcd0kC1bH8fczExtMLs62kSKxdrKlYKyWnoT12Mny7UbUUQPp9BI-1F3wgWeqQFpg4IuUdI
+city: 'Paris, France'
+photoURL: 'https://avatars3.githubusercontent.com/u/472810?v=4'
 socials:
   - icon: twitter
-    link: https://twitter.com/DaKangz
+    link: 'https://twitter.com/DaKangz'
     name: DaKangz
   - icon: github
-    link: https://github.com/Kangz
+    link: 'https://github.com/Kangz'
     name: Kangz
 ---
 Graphics plumber @google

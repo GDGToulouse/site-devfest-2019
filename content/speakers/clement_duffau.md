@@ -1,17 +1,18 @@
 ---
-id: XDO4bqPAuJRWnEAJtNW9bCg09Of2
 key: clement_duffau
+id: XDO4bqPAuJRWnEAJtNW9bCg09Of2
 feature: false
-name: "Clément Duffau"
-company: "Stack Labs"
-city: Toulouse, France
-photoURL: "https://lh5.googleusercontent.com/-0l9xqsj5ePU/AAAAAAAAAAI/AAAAAAAAAAU/B8FhYLeXuaU/photo.jpg"
+name: Clément Duffau
+company: Stack Labs
+city: 'Toulouse, France'
+photoURL: >-
+  https://lh5.googleusercontent.com/-0l9xqsj5ePU/AAAAAAAAAAI/AAAAAAAAAAU/B8FhYLeXuaU/photo.jpg
 socials:
   - icon: twitter
-    link: https://twitter.com/clement0210
+    link: 'https://twitter.com/clement0210'
     name: clement0210
   - icon: github
-    link: https://github.com/clement0210
+    link: 'https://github.com/clement0210'
     name: clement0210
 ---
 Suite à un diplôme d'ingénieur en informatique spécialisé en Architecture Logicielle, j'ai effectué un doctorat en Génie Logiciel appliqué aux domaines critiques afin d'aborder les problèmes liant les méthodologies de développement logiciel, la sûreté de fonctionnement et la certification. 

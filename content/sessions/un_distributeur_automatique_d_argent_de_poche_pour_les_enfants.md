@@ -1,15 +1,17 @@
 ---
 id: ZmSIPnuidcxjKLVfEKM8
 key: un_distributeur_automatique_d_argent_de_poche_pour_les_enfants
-title: "Un distributeur automatique d'argent de poche pour les enfants"
+title: Un distributeur automatique d'argent de poche pour les enfants
 level: beginner
-talkType: Quickie
+format: quickie
 tags:
-  - WTF
+  - wtf
 speakers:
   - richard_fagot
-presentation:
-videoId:
+draft: false
+videoId: null
+presentation: null
+language: Français
 ---
 Avec mon épouse nous avons commencer à donner de l'argent de poche à nos enfants.
 

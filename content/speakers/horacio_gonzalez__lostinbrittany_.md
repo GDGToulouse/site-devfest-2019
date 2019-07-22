@@ -1,17 +1,18 @@
 ---
-id: pYuiGicpt0MenD8NEMhZXtk6VSr1
 key: horacio_gonzalez__lostinbrittany_
+id: pYuiGicpt0MenD8NEMhZXtk6VSr1
 feature: false
-name: "Horacio Gonzalez (LostInBrittany)"
-company: "OVH"
-city: Brest, France
-photoURL: "https://lh4.googleusercontent.com/-6krIgoWnkGk/AAAAAAAAAAI/AAAAAAABR4o/EJH0Fh-m16k/photo.jpg"
+name: Horacio Gonzalez (LostInBrittany)
+company: OVH
+city: 'Brest, France'
+photoURL: >-
+  https://lh4.googleusercontent.com/-6krIgoWnkGk/AAAAAAAAAAI/AAAAAAABR4o/EJH0Fh-m16k/photo.jpg
 socials:
   - icon: twitter
-    link: https://twitter.com/LostInBrittany
+    link: 'https://twitter.com/LostInBrittany'
     name: LostInBrittany
   - icon: github
-    link: https://github.com/LostInBrittany
+    link: 'https://github.com/LostInBrittany'
     name: LostInBrittany
 ---
 Malgré ce que son accent espagnol bien prononcé peut suggérer, Horacio est arrivé en France il y a plus d'une quinzaine d'années. Passionné d'informatique, dans laquelle il est tombé depuis tout petit, il a découvert le développement web en 1997 et depuis il n'a pas arrêté de bosser autour.
