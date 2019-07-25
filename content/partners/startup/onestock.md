@@ -19,3 +19,8 @@ socials:
 draft: false
 ---
 Basée en France et au Royaume-Uni, OneStock propose une suite logicielle omnicanale d’Order Management à destination des retailers souhaitant rendre agile la gestion de leurs commandes, offrir la meilleure expérience client et booster leurs ventes.
+
+La société, co-fondée par Romulus, Benoit et Vincent en 2010 est devenue une référence pour les marchands cross-canaux, et compte de nombreux clients en France, au Royaume Uni et plus généralement en Europe.
+
+La société ambitionne de s’étendre toujours plus à l’international.
+Sa mission ? Abolir les frontières entre commerce physique et digit
