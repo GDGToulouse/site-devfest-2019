@@ -4,7 +4,7 @@ menu:
   main:
     weight: 90
 
-draft: false
+draft: true
 ---
 
 Nous sommes fier de vous annoncé la première édition du DevFest Toulouse Pitchouns : un mini DevFest pour les enfants.
