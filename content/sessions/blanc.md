@@ -11,6 +11,8 @@ speakers:
   - cyril_delmas
 presentation:
 videoId:
+
+draft: true
 ---
 
 TODO
