@@ -8,7 +8,7 @@ menu:
   main:
     weight: 90
 
-draft: true
+draft: false
 ---
 
 If you are interested to know more, use the French version of this website
