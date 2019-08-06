@@ -33,7 +33,7 @@ Le DevFest Pitchouns sera encadré par les animateurs de "<a href="https://lacom
 ## Programme
 
 * 13h30 : Accueil des enfants (et de leurs parents)
-* 14h -> 14h30 : Mini talks animés par des enfants
+* 14h00 -> 14h30 : Mini talks animés par des enfants
 * 14h30 -> 16h30 : Programme ton véhicule autonome en 2h !
 * 16h30 -> 17h30 : Goûter & discussions
 
