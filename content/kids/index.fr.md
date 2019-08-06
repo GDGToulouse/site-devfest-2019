@@ -11,9 +11,9 @@ menu:
 draft: false
 ---
 
-**Nous sommes fier de vous annoncé la première édition du DevFest Toulouse Pitchouns : un mini DevFest pour les enfants.**
+**Nous sommes fier de vous annoncer la première édition du DevFest Toulouse Pitchouns : un mini DevFest pour les enfants.**
 
-L'intérêt particulier de cet atelier ludique repose sur le plaisir d'un moment partagé entre les parents et les enfants, dans la découverte du code informatique et des activités créatives qui l'accompagnent. Cette expérimentation guidée de programmation visuelle permettra au tandem parent enfant de réaliser en pleine complicité sa propre application numérique
+L'intérêt particulier de cet atelier ludique repose sur le plaisir d'un moment partagé entre les parents et les enfants, dans la découverte du code informatique et des activités créatives qui l'accompagnent. Cette expérimentation guidée de programmation visuelle permettra au tandem parent enfant de réaliser en pleine complicité sa propre application numérique.
 
 ## Billeterie
 
@@ -21,7 +21,7 @@ L'intérêt particulier de cet atelier ludique repose sur le plaisir d'un moment
 
 ## Encadrement
 
-Le DevFest Pitchouns sera encadré par les animateurs de "<a href="https://lacompagnieducode.org" target="_blank">La Compagnie du Code</a>"!
+Le DevFest Pitchouns sera encadré par les animateurs de "<a href="https://lacompagnieducode.org" target="_blank">La Compagnie du Code</a>" !
 
 <div class="img-container">
   <img src="/images/kids/kids_1.jpg" />
@@ -32,16 +32,16 @@ Le DevFest Pitchouns sera encadré par les animateurs de "<a href="https://lacom
 
 ## Programme
 
-* 13h30: Accueil des enfants (et de leurs parents)
-* 14h -> 14h30: Mini talks animés par des enfants
-* 14:30 -> 16:30: Programme ton véhicule autonome en 2h !
-* 16:30 -> 17:30: Goûter & discussions
+* 13h30 : Accueil des enfants (et de leurs parents)
+* 14h00 -> 14h30 : Mini talks animés par des enfants
+* 14h30 -> 16h30 : Programme ton véhicule autonome en 2h !
+* 16h30 -> 17h30 : Goûter & discussions
 
 ## Mini conférences techniques
 
-Parce que les enfants ont aussi le droit à leur DevFest à eux, des mini conférences techniques seront donnés par les enfants pour les enfants.
+Parce que les enfants ont aussi le droit à leur DevFest à eux, des mini conférences techniques seront données par les enfants pour les enfants.
 
-Le programme et les détails seront annoncé prochainement.
+Le programme et les détails seront annoncés prochainement.
 
 ## Atelier coding - Programme ton véhicule autonome en 2h !
 
