@@ -1,17 +1,18 @@
 ---
-id: 05FXSY1pHlaP7wK14yGKBaxom6n1
 key: valeriane_venance
+id: 05FXSY1pHlaP7wK14yGKBaxom6n1
 feature: false
-name: "Valeriane Venance"
-company: "clever cloud"
-city: Paris, France
-photoURL: "https://pbs.twimg.com/profile_images/1075759538874142721/ndMIpvL6_400x400.jpg"
+name: Valeriane Venance
+company: Clever Cloud
+city: 'Paris, France'
+photoURL: >-
+  https://lh6.googleusercontent.com/-NtKdRysNSs4/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcagq8QREXMclDOVCOSp2Zi3FIdK4Q/mo/photo.jpg
 socials:
   - icon: twitter
-    link: https://twitter.com/valeriane_IT
+    link: 'https://twitter.com/valeriane_IT'
     name: valeriane_IT
   - icon: github
-    link: https://github.com/vvenance
+    link: 'https://github.com/vvenance'
     name: vvenance
 ---
 Valériane had nothing to do with coding or anything related in her previous life, and she basically fell into computer science, internet, communities, philosophies and ethics at école 42.

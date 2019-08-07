@@ -56,7 +56,7 @@ Apporte un ordinateur portable ainsi qu'une souris (si tu en as un) et ta bonne 
 ## Infos pratiques
 
 * Les places sont limitées à **20 enfants maximum**.
-* Age minmum de l'enfant : **9 ans**.
+* Age minimum de l'enfant : **9 ans**.
 * Merci de venir avec votre billet électronique.
 * Un seul parent accompagnateur est autorisé, nous avons prévu deux chaises par enfant.
 * Pour des soucis de logistique, nous vous recommandons de venir avec votre propre ordinateur portable ainsi qu'une souris. Si toutefois vous ne pouvez pas, nous pouvons fournir le necessaire.

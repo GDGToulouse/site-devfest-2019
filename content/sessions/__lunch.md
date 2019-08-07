@@ -1,10 +1,10 @@
 ---
+key: __lunch
 title: Déjeuner
+format: lunch
+speakers: []
 tags:
   - lunch
-speakers:
-room: lunchroom
-global: true
+draft: false
 ---
-
 Bon appétit

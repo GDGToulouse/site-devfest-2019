@@ -1,16 +1,17 @@
 ---
 id: PjQDGsFIQoo1By4Ogv3q
 key: rust_as_a_high_level_langage
-title: "Rust as a High-Level Langage"
+title: Rust as a High-Level Langage
 level: beginner
-talkType: Conference 
-language: english
+format: conference
 tags:
-  - Languages
+  - languages
 speakers:
   - aleksey_kladov
-presentation:
-videoId:
+draft: false
+videoId: null
+presentation: null
+language: English
 ---
 The singe most important feature of Rust is memory safety. Writing code with performance of C++, at a typical development cost, and with guaranteed absence of certain classes of memory safety related vulnerabilities is something that was not possible before. 
 

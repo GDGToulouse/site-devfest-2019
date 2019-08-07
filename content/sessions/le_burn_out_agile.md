@@ -1,15 +1,17 @@
 ---
 id: KAH9Lyx0b2TKNSQVZNw2
 key: le_burn_out_agile
-title: "Le burn-out agile"
+title: Le burn-out agile
 level: intermediate
-talkType: Conference 
+format: conference
 tags:
-  - Method & Tools
+  - method___tools
 speakers:
   - kfnue96dm9g1zobctf4gvzdolrp2
-presentation:
-videoId:
+draft: false
+videoId: null
+presentation: null
+language: Français
 ---
 En 2019 le monde de l’informatique n’a que l’agilité à la bouche. Ca groome à tous les coins de rue, ça s’excite en daily, ça colle des post-it et ça empile les serious game en rétro. Bien sûr ça gère la transformation numérique (désolé, même au second degré je ne peux pas employer “digitale”) et au final plus personne ne comprend rien. 
 
@@ -24,5 +26,4 @@ En 2019 le monde de l’informatique est au bord du burn-out agile.
 - Petit historique : l’évolution des pratiques sur les 20 dernières années 
 - Pourquoi ce bordel agile ? 
 - Finalement l’agilité c’est quoi ? 
-- Est-ce qu’il faut revenir au cycle en V ? 
-
+- Est-ce qu’il faut revenir au cycle en V ?

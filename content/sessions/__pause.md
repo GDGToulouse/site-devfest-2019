@@ -1,11 +1,10 @@
 ---
+key: __pause
 title: Pause
-talkType: pause
+format: pause
+speakers: []
 tags:
   - pause
-speakers:
-room: halls
-global: true
+draft: false
 ---
-
 Pause

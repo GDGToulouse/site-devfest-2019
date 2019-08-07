@@ -1,15 +1,19 @@
 ---
 id: fW4yvmVxjXb57vQJhIXu
-key: mon_p____de_voyant_moteur_est_encore_allume___comment_debugger_mon_moteur___plongeon_dans_les_entrailles_des_calculateurs_moteur
-title: "Mon p*** de voyant moteur est encore allumé ! Comment debugger mon moteur ? Plongeon dans les entrailles des calculateurs moteur"
+key: >-
+  mon_p____de_voyant_moteur_est_encore_allume___comment_debugger_mon_moteur___plongeon_dans_les_entrailles_des_calculateurs_moteur
+title: >-
+  Mon p*** de voyant moteur est encore allumé ! Comment debugger mon moteur ?
+  Plongeon dans les entrailles des calculateurs moteur
 level: beginner
-talkType: Conference 
+format: conference
 tags:
-  - WTF
+  - wtf
 speakers:
   - mathieu_passenaud
-presentation:
-videoId:
+draft: false
+videoId: null
+presentation: null
 ---
 Depuis les années 70 tous les constructeurs autos intégrent des calculateurs électroniques.
 Les moteurs des voitures modernes sont des systèmes informatiques complexes qui s'appuient sur des dizaines de capteurs... et du code. 

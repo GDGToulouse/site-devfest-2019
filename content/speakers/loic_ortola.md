@@ -1,17 +1,17 @@
 ---
-id: 8nSCFV8Ne4WLjfP2IBNdoLVMtNV2
 key: loic_ortola
+id: 8nSCFV8Ne4WLjfP2IBNdoLVMtNV2
 feature: false
-name: "Loïc Ortola"
-company: "Takima"
-city: Paris, France
-photoURL: "https://avatars2.githubusercontent.com/u/2526081?v=4"
+name: Loïc Ortola
+company: Takima
+city: 'Paris, France'
+photoURL: 'https://avatars2.githubusercontent.com/u/2526081?v=4'
 socials:
   - icon: twitter
-    link: https://twitter.com/LoicOrtola
+    link: 'https://twitter.com/LoicOrtola'
     name: LoicOrtola
   - icon: github
-    link: https://github.com/loicortola
+    link: 'https://github.com/loicortola'
     name: loicortola
 ---
 Loïc is the senior advocate of Takima, and CTO of Jawg Maps. 

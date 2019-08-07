@@ -1,15 +1,19 @@
 ---
 id: hoiS7Cs5sWwXb632pLh2
-key: le_troll_dans_ta_machine_____une_courte_introduction_a_la_pensee_de_jean_yves_girard
-title: "Le troll dans ta machine --- Une courte introduction à la pensée de Jean-Yves Girard"
+key: >-
+  le_troll_dans_ta_machine_____une_courte_introduction_a_la_pensee_de_jean_yves_girard
+title: >-
+  Le troll dans ta machine --- Une courte introduction à la pensée de Jean-Yves
+  Girard
 level: intermediate
-talkType: Quickie
+format: quickie
 tags:
-  - WTF
+  - wtf
 speakers:
   - guillaume_andrieu
-presentation:
-videoId:
+draft: false
+videoId: null
+presentation: null
 ---
 Jean-Yves Girard, le génial inventeur des indispensables [montres à moutarde](http://girard.perso.math.cnrs.fr/moutarde.pdf) (1990), est certes un joyeux trublion.
 

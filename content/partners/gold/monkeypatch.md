@@ -1,23 +1,30 @@
 ---
 title: MonkeyPatch
-type: partner
+type: gold
 category: gold
 order: 15
 logo: /images/partners/logo-monkeypatch.png
-website: http://www.monkeypatch.io/
+website: 'http://www.monkeypatch.io/'
 lang: fr
-why: "Ancrée dans nos valeurs, la passion de la tech. nous motive à soutenir les initiatives qui permettent de promouvoir, d’échanger ou de partager autour des nouvelles technos et des architectures modernes.
-C’est donc naturellement que l’on a décidé de soutenir  les conférences en Occitanie (DevFest Toulouse, SunnyTech) et les meetups (GDG Toulouse, JUG Toulouse).
-Une conférence comme le Devfest permet à un grand nombre de développeurs d’avoir accès à des conférences de qualité. C’est également une belle occasion pour que certains Monkeys pitchent des talks reprenant leur veille ou leurs retours d’expérience."
+why: >-
+  Ancrée dans nos valeurs, la passion de la tech. nous motive à soutenir les
+  initiatives qui permettent de promouvoir, d’échanger ou de partager autour des
+  nouvelles technos et des architectures modernes. C’est donc naturellement que
+  l’on a décidé de soutenir  les conférences en Occitanie (DevFest Toulouse,
+  SunnyTech) et les meetups (GDG Toulouse, JUG Toulouse). Une conférence comme
+  le Devfest permet à un grand nombre de développeurs d’avoir accès à des
+  conférences de qualité. C’est également une belle occasion pour que certains
+  Monkeys pitchent des talks reprenant leur veille ou leurs retours
+  d’expérience.
 socials:
   - icon: twitter
-    link: https://twitter.com/monkeypatch_io
+    link: 'https://twitter.com/monkeypatch_io'
     name: monkeypatch_io
   - icon: linkedin
-    link: https://linkedin.com/company/monkeypatch-io
+    link: 'https://linkedin.com/company/monkeypatch-io'
     name: MonkeyPatch.io
-
 draft: false
+key: monkeypatch
 ---
 MonkeyPatch est avant tout une équipe constituée de développeurs ayant de solides bagages techniques et des références significatives dans les nouvelles technos et les architectures modernes.
 

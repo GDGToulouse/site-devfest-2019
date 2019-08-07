@@ -1,11 +1,10 @@
 ---
-title: Acceuil, Thé, Café et Chocolatines
-talkType: open
-tags: 
+key: __open
+title: 'Acceuil, Thé, Café et Chocolatines'
+format: open
+speakers: []
+tags:
   - open
-speakers:
-room: halls
-global: true
+draft: false
 ---
-
-
+Acceuil, Thé, Café et Chocolatines

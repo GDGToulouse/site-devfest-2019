@@ -1,16 +1,17 @@
 ---
 id: PmoMEVHO3imfUIMXsPai
 key: four_diseases
-title: "Four Diseases"
+title: Four Diseases
 level: beginner
-talkType: Conference
-language: english 
+format: conference
 tags:
-  - WTF
+  - wtf
 speakers:
   - piotr_przybyl
-presentation:
-videoId:
+draft: false
+videoId: null
+presentation: null
+language: English
 ---
 How a developer can tell if the system is sick just by taking a look at the input and the output? If you'd like to know that (plus you like standup comedy), come an see! The treatment is safe ;-)
 

@@ -1,15 +1,17 @@
 ---
 id: pY6MCQBMfIYlIKfHdhL4
 key: _47_ans___ils_nont_toujours_pas_remarque__
-title: "« 47 ans : ils n’ont toujours pas remarqué … »"
+title: '« 47 ans : ils n’ont toujours pas remarqué … »'
 level: beginner
-talkType: Quickie
+format: quickie
 tags:
-  - WTF
+  - wtf
 speakers:
   - qj7nbl6wiyug1rhqtxf818a46po1
-presentation:
-videoId:
+draft: false
+videoId: null
+presentation: null
+language: French
 ---
 L’âgisme dans les fonctions IT, et en particulier dans le Développement Soft, est incontournable.
 

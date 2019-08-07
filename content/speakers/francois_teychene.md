@@ -1,17 +1,18 @@
 ---
-id: EZdFes7RoSTGQJO5uOBCqSeyGvv2
 key: francois_teychene
+id: EZdFes7RoSTGQJO5uOBCqSeyGvv2
 feature: false
-name: "François Teychene"
-company: "Saagie"
-city: Montpellier, France
-photoURL: "https://lh6.googleusercontent.com/-RvGrfi4p_Uk/AAAAAAAAAAI/AAAAAAAABtE/iqj8zP9rc0U/photo.jpg"
+name: François Teychene
+company: Saagie
+city: 'Montpellier, France'
+photoURL: >-
+  https://lh6.googleusercontent.com/-RvGrfi4p_Uk/AAAAAAAAAAI/AAAAAAAABtE/iqj8zP9rc0U/photo.jpg
 socials:
   - icon: twitter
-    link: https://twitter.com/fteychene
+    link: 'https://twitter.com/fteychene'
     name: fteychene
   - icon: github
-    link: https://github.com/fteychene
+    link: 'https://github.com/fteychene'
     name: fteychene
 ---
 Cloud Developer @ Saagie , meetup addict & organizer @ Montpellier,  SunnyTech team.  

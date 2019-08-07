@@ -1,15 +1,19 @@
 ---
 id: zDbtrtvdLPG1okj07wyI
-key: _numerique_et_environnement__ou__on_aurait_pu_sauver_les_abeilles__on_a_prefere_sortir_un_nouvel_iphone_
-title: "\"Numérique et environnement\" ou \"On aurait pu sauver les abeilles, on a préféré sortir un nouvel iPhone\""
+key: >-
+  _numerique_et_environnement__ou__on_aurait_pu_sauver_les_abeilles__on_a_prefere_sortir_un_nouvel_iphone_
+title: >-
+  "Numérique et environnement" ou "On aurait pu sauver les abeilles, on a
+  préféré sortir un nouvel iPhone"
 level: beginner
-talkType: Conference 
+format: conference
 tags:
-  - WTF
+  - wtf
 speakers:
   - sebastien_brault
-presentation:
-videoId:
+draft: false
+videoId: null
+presentation: null
 ---
 Le numérique fait-il partie du problème ou de la solution quand on parle de réchauffement climatique ?
 
@@ -22,4 +26,3 @@ Tous les mails de votre vie (que vous ne lirez plus jamais) disponibles sur Gmai
 On arrive dans "l'âge des limites", pour le numérique comme pour le reste. Quels sont les leviers pour basculer vers un numérique durable ?
 
 Et si malgré tout on décidait de s'en foutre ? 2 degrés en plus, c'est juste un pull en moins non ? Non. Par contre c'est 30% en moins sur les rendements agricoles pour ... 30 % de population en plus en 2050. En 1970, Dennis Meadows modélisait sur les ordinateurs du MIT un crash du système planétaire pour les décennies 2020-2030. Pour l'instant, c'est cette trajectoire que notre monde suit.
-

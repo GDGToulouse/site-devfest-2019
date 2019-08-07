@@ -1,9 +1,9 @@
 - key: lunchroom
   label: Salle déjeuner
-  full: true
+  skip: true
 - key: halls
   label: Halls
-  full: true
+  skip: true
 - key: office-hours
   label: Office-hours
 - key: room1

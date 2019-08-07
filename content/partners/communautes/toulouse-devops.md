@@ -1,10 +1,11 @@
 ---
 title: Toulouse Devops
-type: partner
+type: communautes
 category: communautes
 website: 'http://toulousedevops.org/'
 logo: /images/partners/community/toulousedevops.jpg
 socials: []
+key: toulouse-devops
 ---
 
 Find Toulouse Devops on [http://toulousedevops.org/](http://toulousedevops.org/)

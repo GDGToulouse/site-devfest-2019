@@ -1,15 +1,16 @@
 ---
 id: R9O1S7M9oRMmwd0cNBaz
 key: premiers_pas_avec_un_microcontroleur_et_google_cloud_iot_core
-title: "Premiers pas avec un microcontrôleur et Google Cloud IoT Core"
+title: Premiers pas avec un microcontrôleur et Google Cloud IoT Core
 level: beginner
-talkType: Conference 
+format: conference
 tags:
-  - IOT
+  - iot
 speakers:
   - gautier_mechling
-presentation:
-videoId:
+draft: false
+videoId: null
+presentation: null
 ---
 De nombreux services en ligne existent pour gérer en toute sécurité des appareils IoT à grande échelle : "Azure IoT" de Microsoft et "AWS IoT" d'Amazon sont parmi les plus connus.
 
