@@ -2,7 +2,7 @@
 key: qj7nbl6wiyug1rhqtxf818a46po1
 id: qJ7nBL6wIyUg1RHqtxF818a46po1
 feature: false
-name: qJ7nBL6wIyUg1RHqtxF818a46po1
+name: 'Yves Boyez'
 company: Continental Digital Service France
 city: 'Toulouse, France'
 photoURL: 'https://avatars2.githubusercontent.com/u/50613721?v=4'
