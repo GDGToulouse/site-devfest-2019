@@ -5,8 +5,7 @@ feature: false
 name: Olivier Leplus
 company: Microsoft
 city: 'Paris, France'
-photoURL: >-
-  https://lh4.googleusercontent.com/-lZ1NmzauJJc/AAAAAAAAAAI/AAAAAAAAgeg/Jaiqf1L_EPM/photo.jpg
+photoURL: /images/speakers/olivier_leplus.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/olivierleplus'

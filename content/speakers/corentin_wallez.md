@@ -5,7 +5,7 @@ feature: true
 name: Corentin Wallez
 company: Google
 city: 'Paris, France'
-photoURL: 'https://avatars3.githubusercontent.com/u/472810?v=4'
+photoURL: /images/speakers/corentin_wallez.png
 socials:
   - icon: twitter
     link: 'https://twitter.com/DaKangz'

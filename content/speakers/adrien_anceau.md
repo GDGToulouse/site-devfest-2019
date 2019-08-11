@@ -5,8 +5,7 @@ feature: false
 name: ADRIEN ANCEAU
 company: Airbus
 city: 'Toulouse, France'
-photoURL: >-
-  https://lh4.googleusercontent.com/-JbPPBBW8zqU/AAAAAAAAAAI/AAAAAAAAAAc/aoga3U16k7Y/photo.jpg
+photoURL: /images/speakers/adrien_anceau.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/aaadrieeen'

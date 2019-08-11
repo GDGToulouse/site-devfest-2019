@@ -5,8 +5,7 @@ feature: false
 name: Gilles Debunne
 company: Freelance
 city: 'Toulouse, France'
-photoURL: >-
-  https://lh5.googleusercontent.com/-sp8nHJQ_Ilg/AAAAAAAAAAI/AAAAAAAAJ5I/YvU72m2vsNA/photo.jpg
+photoURL: /images/speakers/gilles_debunne.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/gdebunne'

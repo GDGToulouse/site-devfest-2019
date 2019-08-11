@@ -5,8 +5,7 @@ feature: false
 name: Valeriane Venance
 company: Clever Cloud
 city: 'Paris, France'
-photoURL: >-
-  https://lh6.googleusercontent.com/-NtKdRysNSs4/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcagq8QREXMclDOVCOSp2Zi3FIdK4Q/mo/photo.jpg
+photoURL: /images/speakers/valeriane_venance.png
 socials:
   - icon: twitter
     link: 'https://twitter.com/valeriane_IT'

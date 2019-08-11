@@ -4,7 +4,7 @@ id: e5GCt0Q7jSSgVtPTzfUFplteFMm1
 feature: false
 name: Andrew Radev
 city: 'Sofia, Bulgaria'
-photoURL: 'https://avatars3.githubusercontent.com/u/124255?v=4'
+photoURL: /images/speakers/andrew_radev.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/AndrewRadev'

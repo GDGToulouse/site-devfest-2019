@@ -5,8 +5,7 @@ feature: false
 name: Noël Macé
 company: BonitaSoft
 city: 'Toulouse, France'
-photoURL: >-
-  https://lh4.googleusercontent.com/-_DHdWW0tzAs/AAAAAAAAAAI/AAAAAAAAAGY/SHaW4w5ruEQ/photo.jpg
+photoURL: /images/speakers/noel_mace.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/noel_mace'

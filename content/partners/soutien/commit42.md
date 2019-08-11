@@ -1,24 +1,24 @@
 ---
 title: commit42
-type: partner
+type: soutien
 category: soutien
 order: 29
 logo: /images/partners/logo-commit42.png
-website: https://www.commit42.com/
+website: 'https://www.commit42.com/'
 lang: fr
-why: "C'est notre manière de vous remercier pour ce que vous faites."
+why: C'est notre manière de vous remercier pour ce que vous faites.
 socials:
   - icon: facebook
-    link: https://facebook.com/commit42
+    link: 'https://facebook.com/commit42'
     name: commit42
   - icon: twitter
-    link: https://twitter.com/commit42
+    link: 'https://twitter.com/commit42'
     name: commit42
   - icon: linkedin
-    link: https://linkedin.com/company/commit42
+    link: 'https://linkedin.com/company/commit42'
     name: commit42
-
 draft: false
+key: commit42
 ---
 Studio d'innovation web
 commit42 est spécialisé dans les technologies React, PHP, NodeJS, Magento et PWA.

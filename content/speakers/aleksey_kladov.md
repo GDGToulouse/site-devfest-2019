@@ -5,7 +5,7 @@ feature: false
 name: Aleksey Kladov
 company: Ferrous Systems
 city: 'St Petersburg, Russia'
-photoURL: 'https://avatars3.githubusercontent.com/u/1711539?v=4'
+photoURL: /images/speakers/aleksey_kladov.jpg
 socials:
   - icon: github
     link: 'https://github.com/matklad'

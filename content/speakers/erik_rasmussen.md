@@ -4,7 +4,7 @@ id: 0JlQCEoQQcPx7v0mk1OCQMMKqNz2
 feature: true
 name: Erik Rasmussen
 city: 'Cantabria, Spain'
-photoURL: 'https://avatars2.githubusercontent.com/u/4396759?v=4'
+photoURL: /images/speakers/erik_rasmussen.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/erikras'

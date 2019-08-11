@@ -5,7 +5,7 @@ feature: false
 name: Loïc Ortola
 company: Takima
 city: 'Paris, France'
-photoURL: 'https://avatars2.githubusercontent.com/u/2526081?v=4'
+photoURL: /images/speakers/loic_ortola.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/LoicOrtola'

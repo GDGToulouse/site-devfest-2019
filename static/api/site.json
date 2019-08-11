@@ -9,8 +9,8 @@
         "short_name": "Toulouse"
       },
       "country": {
-        "long_name": "France",
-        "short_name": "FR"
+        "short_name": "FR",
+        "long_name": "France"
       },
       "latLng": {
         "lat": 43.6115538,
@@ -18,8 +18,8 @@
       }
     },
     "dates": {
-      "start": "2019-10-03T10:00:00.000Z",
-      "end": "2019-10-03T10:00:00.000Z"
+      "end": "2019-10-03T10:00:00.000Z",
+      "start": "2019-10-03T10:00:00.000Z"
     }
   },
   "sessions": [
@@ -802,7 +802,7 @@
       "name": "ADRIEN ANCEAU",
       "company": "Airbus",
       "city": "Toulouse, France",
-      "photoURL": "https://lh4.googleusercontent.com/-JbPPBBW8zqU/AAAAAAAAAAI/AAAAAAAAAAc/aoga3U16k7Y/photo.jpg",
+      "photoURL": "/images/speakers/adrien_anceau.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -824,7 +824,7 @@
       "name": "Aleksey Kladov",
       "company": "Ferrous Systems",
       "city": "St Petersburg, Russia",
-      "photoURL": "https://avatars3.githubusercontent.com/u/1711539?v=4",
+      "photoURL": "/images/speakers/aleksey_kladov.jpg",
       "socials": [
         {
           "icon": "github",
@@ -841,7 +841,7 @@
       "name": "Alessio Coltellacci",
       "company": "Clever Cloud",
       "city": "Toulouse, France",
-      "photoURL": "https://avatars3.githubusercontent.com/u/11367839?v=4",
+      "photoURL": "/images/speakers/alessio_coltellacci.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -862,7 +862,7 @@
       "feature": false,
       "name": "Andrew Radev",
       "city": "Sofia, Bulgaria",
-      "photoURL": "https://avatars3.githubusercontent.com/u/124255?v=4",
+      "photoURL": "/images/speakers/andrew_radev.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -884,7 +884,7 @@
       "name": "Christophe Jollivet",
       "company": "Apside",
       "city": "Tours, France",
-      "photoURL": "https://lh3.googleusercontent.com/-3sUzAaUN01o/AAAAAAAAAAI/AAAAAAAACzE/6Nekr6L7RSk/photo.jpg",
+      "photoURL": "/images/speakers/christophe_jollivet.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -906,7 +906,7 @@
       "name": "Clément Duffau",
       "company": "Stack Labs",
       "city": "Toulouse, France",
-      "photoURL": "https://lh5.googleusercontent.com/-0l9xqsj5ePU/AAAAAAAAAAI/AAAAAAAAAAU/B8FhYLeXuaU/photo.jpg",
+      "photoURL": "/images/speakers/clement_duffau.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -928,7 +928,7 @@
       "name": "Corentin Wallez",
       "company": "Google",
       "city": "Paris, France",
-      "photoURL": "https://avatars3.githubusercontent.com/u/472810?v=4",
+      "photoURL": "/images/speakers/corentin_wallez.png",
       "socials": [
         {
           "icon": "twitter",
@@ -950,7 +950,7 @@
       "name": "Cyril Delmas",
       "company": "Lectra",
       "city": "Mérignac, France",
-      "photoURL": "https://avatars0.githubusercontent.com/u/5180763?v=4",
+      "photoURL": "/images/speakers/cyril_delmas.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -971,7 +971,7 @@
       "feature": true,
       "name": "Erik Rasmussen",
       "city": "Cantabria, Spain",
-      "photoURL": "https://avatars2.githubusercontent.com/u/4396759?v=4",
+      "photoURL": "/images/speakers/erik_rasmussen.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -993,7 +993,7 @@
       "name": "Estelle Landry ☀️",
       "company": "Elium",
       "city": "Montpellier, France",
-      "photoURL": "https://sunny-tech.io/images/people/estelle_landry.jpg",
+      "photoURL": "/images/speakers/estelle_landry_.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -1010,7 +1010,7 @@
       "name": "Francois-Guillaume Ribreau",
       "company": "Ouest-France/Image-Charts",
       "city": "Rennes, France",
-      "photoURL": "https://avatars2.githubusercontent.com/u/138050?v=4",
+      "photoURL": "/images/speakers/francois_guillaume_ribreau.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -1032,7 +1032,7 @@
       "name": "François Teychene",
       "company": "Saagie",
       "city": "Montpellier, France",
-      "photoURL": "https://lh6.googleusercontent.com/-RvGrfi4p_Uk/AAAAAAAAAAI/AAAAAAAABtE/iqj8zP9rc0U/photo.jpg",
+      "photoURL": "/images/speakers/francois_teychene.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -1053,7 +1053,7 @@
       "feature": true,
       "name": "fs0c131y",
       "city": "Toulouse, France",
-      "photoURL": "https://avatars2.githubusercontent.com/u/36547191?v=4",
+      "photoURL": "/images/speakers/fs0c131y.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -1070,7 +1070,7 @@
       "name": "Gautier Mechling",
       "company": "Nilhcem",
       "city": "Paris, France",
-      "photoURL": "https://lh5.googleusercontent.com/-XMS12Sp9jUA/AAAAAAAAAAI/AAAAAAABmqI/tuVp7XFzvbM/photo.jpg",
+      "photoURL": "/images/speakers/gautier_mechling.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -1092,7 +1092,7 @@
       "name": "Gilles Debunne",
       "company": "Freelance",
       "city": "Toulouse, France",
-      "photoURL": "https://lh5.googleusercontent.com/-sp8nHJQ_Ilg/AAAAAAAAAAI/AAAAAAAAJ5I/YvU72m2vsNA/photo.jpg",
+      "photoURL": "/images/speakers/gilles_debunne.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -1114,7 +1114,7 @@
       "name": "Guillaume Andrieu",
       "company": "MonkeyPatch",
       "city": "Toulouse, France",
-      "photoURL": "https://lh4.googleusercontent.com/-liAZEsZV4EQ/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdQcFzX4PoD_wGPLFBPbjSykxVWhg/mo/photo.jpg",
+      "photoURL": "/images/speakers/guillaume_andrieu.png",
       "socials": [
         {
           "icon": "twitter",
@@ -1136,7 +1136,7 @@
       "name": "Guillaume Smet",
       "company": "Red Hat",
       "city": "Lyon, France",
-      "photoURL": "https://avatars1.githubusercontent.com/u/1279749?v=4",
+      "photoURL": "/images/speakers/guillaume_smet.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -1158,7 +1158,7 @@
       "name": "Horacio Gonzalez (LostInBrittany)",
       "company": "OVH",
       "city": "Brest, France",
-      "photoURL": "https://lh4.googleusercontent.com/-6krIgoWnkGk/AAAAAAAAAAI/AAAAAAABR4o/EJH0Fh-m16k/photo.jpg",
+      "photoURL": "/images/speakers/horacio_gonzalez__lostinbrittany_.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -1180,7 +1180,7 @@
       "name": "Jérémy Voisin",
       "company": "Apside",
       "city": "Le Mans, France",
-      "photoURL": "https://lh5.googleusercontent.com/-ZhEccK12WTI/AAAAAAAAAAI/AAAAAAAAAAA/ACevoQNNaAY4ao8cC9z2JwqIgx9FdLZM6g/mo/photo.jpg",
+      "photoURL": "/images/speakers/jeremy_voisin.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -1202,7 +1202,7 @@
       "name": "Juliane Blier",
       "company": "SchoolMouv",
       "city": "Toulouse, France",
-      "photoURL": "https://avatars1.githubusercontent.com/u/22011253?v=4",
+      "photoURL": "/images/speakers/juliane_blier.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -1224,7 +1224,7 @@
       "name": "Cédric Moulard",
       "company": "Open",
       "city": "Aix-en-Provence, France",
-      "photoURL": "https://avatars2.githubusercontent.com/u/7324369?v=4",
+      "photoURL": "/images/speakers/kfnue96dm9g1zobctf4gvzdolrp2.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -1249,7 +1249,7 @@
       "socials": [
         {
           "icon": "twitter",
-          "link": "https://github.com/var_lynx",
+          "link": "https://twitter.com/var_lynx",
           "name": "@var_lynx"
         }
       ],
@@ -1262,7 +1262,7 @@
       "name": "Loïc Ortola",
       "company": "Takima",
       "city": "Paris, France",
-      "photoURL": "https://avatars2.githubusercontent.com/u/2526081?v=4",
+      "photoURL": "/images/speakers/loic_ortola.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -1284,7 +1284,7 @@
       "name": "Marie Viley",
       "company": "Zenika",
       "city": "Nantes, France",
-      "photoURL": "https://lh6.googleusercontent.com/-LZHYx43aSFI/AAAAAAAAAAI/AAAAAAAACd4/xbCJI1QDS3w/photo.jpg",
+      "photoURL": "/images/speakers/marie_viley.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -1301,7 +1301,7 @@
       "name": "Mathieu Passenaud",
       "company": "please-open.it",
       "city": "Toulouse, France",
-      "photoURL": "https://lh3.googleusercontent.com/-AdTmzjaMxhc/AAAAAAAAAAI/AAAAAAAAJ4U/rCSxGrIM_ck/photo.jpg",
+      "photoURL": "/images/speakers/mathieu_passenaud.jpg",
       "socials": [],
       "description": "DevOps (Teevity, Berger Levrault, OVH, Connit, Ubleam) depuis 8 ans maintenant sur Toulouse. Issu du milieu de l'embarqué (calculateurs ferroviaires/militaires), je me suis retrouvé parachuté dans l'univers du cloud pendant quelques années jusqu'à revenir au croisement de ces deux mondes : l'IOT. Touche à tout, j'aime beaucoup prototyper et répondre à la question 'est-ce que c'est possible ?'"
     },
@@ -1312,7 +1312,7 @@
       "name": "Mélanie Ducoffe",
       "company": "Airbus",
       "city": "Toulouse, France",
-      "photoURL": "https://lh3.googleusercontent.com/-CzRWhTBIOgY/AAAAAAAAAAI/AAAAAAAAAB8/gXi6gNoC0iY/photo.jpg",
+      "photoURL": "/images/speakers/melanie_ducoffe.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -1351,7 +1351,7 @@
       "name": "Noël Macé",
       "company": "BonitaSoft",
       "city": "Toulouse, France",
-      "photoURL": "https://lh4.googleusercontent.com/-_DHdWW0tzAs/AAAAAAAAAAI/AAAAAAAAAGY/SHaW4w5ruEQ/photo.jpg",
+      "photoURL": "/images/speakers/noel_mace.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -1373,7 +1373,7 @@
       "name": "Olivier Leplus",
       "company": "Microsoft",
       "city": "Paris, France",
-      "photoURL": "https://lh4.googleusercontent.com/-lZ1NmzauJJc/AAAAAAAAAAI/AAAAAAAAgeg/Jaiqf1L_EPM/photo.jpg",
+      "photoURL": "/images/speakers/olivier_leplus.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -1395,7 +1395,7 @@
       "name": "Piotr Przybyl",
       "company": "@piotrprz",
       "city": "Wroclaw, Poland",
-      "photoURL": "https://lh3.googleusercontent.com/a-/AAuE7mAwviOiDsdE0N4o7T-VA4FpoMUYsszHyM1jH27q9wJXxQAeTZNRO6QvLbvglC8u6Em3-NZj1NI65lq2SwbP52ViWHhdX23dQg_gm_Lmeqz7IJhHOOqZ4FXvAWi9PjCAeuAMBh0DNXJNiBrr9r1qULe6lzFMl1eGw7p4J-s1FR_596zjzyZ1jambSSwZwFQrKORby9ip4lBE5PU3J0MnCVUdqhKy0IA0BF4Y9EQsXTYDAFuYLzGYIIizCtAqWEvhoGwhMqHG2ZgD0lvp7vlQpJUxH3YsrM8nuOZyniwh3tReDlGXXmgnJUzEcOuO9_1Jhyg-0hwD8pDfelsco17-IGna0-f3YkwDGJ8lnI8iDoQ80jxe1pUKMndYN2H3o5RPpMtQNESjOE2O9QG1PN1VRCB1zuyxNwcUS8lIv9CYHx4SD7l2FX9-QoOxem4sT9ILkByqO5THb4t8QG9ZnxDIWATj6Z2zRI1lT4W8U1G_NorzYzyxdvHgGOc2m2MG-oJZXcIg8zWef6i1YRbGwSYfop2C_Tj2hhR8nFtOrfTo3F92VArJFoIA-L4meOdffNx5hLb91wC7iHbw61jKkP-W-ZKF6x7oKz45iq3yVLQ-HewU9ynjOZ5zrdIhFnaD_vVOxzV9w3ZQ0TGG0j8aMQA7CYZqjRRWANzDAW802tNlMIjfAdbGyd4uCcQD3i-8jZXHkImXdtH0Ni-dZUHvD34ay4_bpAgrbDe2xKrIlNLERSk_aUkb4QxnkymO5dy6dxRrPKK3C1r5eSDXujCMCGfR1FxK0YUvRuW3T3GhCfohrCmWN4Fr-gg6YI23DQ9K1AqfXbJlzSidvMpFixMUOWHrJBA4o09l7itlTiO2o_AWI4ESMevDO0HFQi2OMu4V7IPX0g6YMGsDvVXveix0-LMYgcNJiMCvbMiYASzh9UqMPh72uBJ9lHEv08bX",
+      "photoURL": "/images/speakers/piotr_przybyl.png",
       "socials": [
         {
           "icon": "twitter",
@@ -1417,7 +1417,7 @@
       "name": "qJ7nBL6wIyUg1RHqtxF818a46po1",
       "company": "Continental Digital Service France",
       "city": "Toulouse, France",
-      "photoURL": "https://avatars2.githubusercontent.com/u/50613721?v=4",
+      "photoURL": "/images/speakers/qj7nbl6wiyug1rhqtxf818a46po1.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -1438,7 +1438,7 @@
       "feature": false,
       "name": "Richard Fagot",
       "city": "Toulouse, France",
-      "photoURL": "https://lh3.googleusercontent.com/-aY7lqdsbu9g/AAAAAAAAAAI/AAAAAAAAHwQ/BiQmX1JB7cg/photo.jpg",
+      "photoURL": "/images/speakers/richard_fagot.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -1460,7 +1460,7 @@
       "name": "Sébastien Brault",
       "company": "Orange",
       "city": "Trégastel, France",
-      "photoURL": "https://avatars2.githubusercontent.com/u/473751?v=4",
+      "photoURL": "/images/speakers/sebastien_brault.png",
       "socials": [
         {
           "icon": "twitter",
@@ -1477,7 +1477,7 @@
       "name": "Steve Klabnik",
       "company": "Cloudflare",
       "city": "Austin, TX",
-      "photoURL": "https://avatars2.githubusercontent.com/u/27786?v=4",
+      "photoURL": "/images/speakers/steve_klabnik.jpg",
       "socials": [],
       "description": "Steve is on the core team of Rust, leads the documentation team, and is an author of The Rust Programming Language. Klabnik is a frequent speaker at conferences and is a prolific open source contributor, previously working on projects such as Ruby and Ruby on Rails."
     },
@@ -1488,7 +1488,7 @@
       "name": "Sylvain Wallez",
       "company": "Elastic",
       "city": "Toulouse, France",
-      "photoURL": "https://avatars2.githubusercontent.com/u/213730?v=4",
+      "photoURL": "/images/speakers/sylvain_wallez.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -1510,7 +1510,7 @@
       "name": "Theophile Wallez",
       "company": "ENS Ulm",
       "city": "Paris, France",
-      "photoURL": "https://avatars0.githubusercontent.com/u/534526?v=4",
+      "photoURL": "/images/speakers/theophile_wallez.png",
       "socials": [
         {
           "icon": "twitter",
@@ -1532,7 +1532,7 @@
       "name": "Tiffany Souterre",
       "company": "JEMS Datafactory",
       "city": "Paris, France",
-      "photoURL": "https://lh3.googleusercontent.com/-0XDx36TcjxU/AAAAAAAAAAI/AAAAAAABQkA/-hqGP4ktCDY/photo.jpg",
+      "photoURL": "/images/speakers/tiffany_souterre.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -1554,7 +1554,7 @@
       "name": "Valeriane Venance",
       "company": "Clever Cloud",
       "city": "Paris, France",
-      "photoURL": "https://lh6.googleusercontent.com/-NtKdRysNSs4/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcagq8QREXMclDOVCOSp2Zi3FIdK4Q/mo/photo.jpg",
+      "photoURL": "/images/speakers/valeriane_venance.png",
       "socials": [
         {
           "icon": "twitter",
@@ -1576,7 +1576,7 @@
       "name": "Vincent Ogloblinsky",
       "company": "SII Ouest",
       "city": "Rennes, France",
-      "photoURL": "https://lh3.googleusercontent.com/-ckhK85zrlYM/AAAAAAAAAAI/AAAAAAAAC4g/G5DIeeyNEAM/photo.jpg",
+      "photoURL": "/images/speakers/vincent_ogloblinsky.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -1598,7 +1598,7 @@
       "name": "Wassim Chegham",
       "company": "Microsoft",
       "city": "Paris, France",
-      "photoURL": "https://lh4.googleusercontent.com/-UvesPkEgVGs/AAAAAAAAAAI/AAAAAAAAJ-8/tcq37gGb_iA/photo.jpg",
+      "photoURL": "/images/speakers/wassim_chegham.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -1616,9 +1616,9 @@
   ],
   "categories": [
     {
-      "id": "3c7ab24d-59c1-5118-b6fa-ef679a376100",
       "name": "Big Data / ML / AI",
       "description": "BIg Data / Machine Learning / Artificial Intelligence",
+      "id": "3c7ab24d-59c1-5118-b6fa-ef679a376100",
       "key": "big_data___ml___ai"
     },
     {
@@ -1628,9 +1628,9 @@
       "key": "cloud___infra"
     },
     {
+      "id": "a31d8be2-8f03-553d-b07b-ee30e2d13a6e",
       "name": "IOT",
       "description": "Internet Of Things",
-      "id": "a31d8be2-8f03-553d-b07b-ee30e2d13a6e",
       "key": "iot"
     },
     {
@@ -1638,8 +1638,8 @@
       "name": "Keynote"
     },
     {
-      "name": "Languages",
       "id": "b425f929-b026-52e9-87f4-89b30ec542d1",
+      "name": "Languages",
       "key": "languages"
     },
     {
@@ -1673,8 +1673,8 @@
       "name": "Pause"
     },
     {
-      "name": "Web",
       "id": "cff3cdbc-52e9-5d5a-8f98-927ee005f59b",
+      "name": "Web",
       "key": "web"
     },
     {
@@ -2523,6 +2523,36 @@
       "key": "cnes"
     },
     {
+      "title": "commit42",
+      "type": "soutien",
+      "category": "soutien",
+      "order": 29,
+      "logo": "/images/partners/logo-commit42.png",
+      "website": "https://www.commit42.com/",
+      "lang": "fr",
+      "why": "C'est notre manière de vous remercier pour ce que vous faites.",
+      "socials": [
+        {
+          "icon": "facebook",
+          "link": "https://facebook.com/commit42",
+          "name": "commit42"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/commit42",
+          "name": "commit42"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://linkedin.com/company/commit42",
+          "name": "commit42"
+        }
+      ],
+      "draft": false,
+      "description": "Studio d'innovation web\ncommit42 est spécialisé dans les technologies React, PHP, NodeJS, Magento et PWA.\n\nNos projets peuvent varier de la maintenance d’une boutique en ligne à la réalisation d’applications métiers spécifiques dont des Web App PWA.\n",
+      "key": "commit42"
+    },
+    {
       "title": "Continental",
       "type": "gold",
       "category": "gold",
@@ -2623,6 +2653,26 @@
       "key": "gdg-toulouse"
     },
     {
+      "title": "GitHub",
+      "type": "gold",
+      "category": "gold",
+      "order": 27,
+      "logo": "/images/partners/logo-github.png",
+      "website": "https://github.com/",
+      "lang": "en",
+      "why": "GitHub is focused on developers, the people who code and create software. For this reason, we decided to sponsor DevFest Toulouse. We want to be part of this collaborative community that can come together —as individuals and in teams— to create the future of software and make a difference in the world.  ",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/github",
+          "name": "github"
+        }
+      ],
+      "draft": false,
+      "description": "GitHub is the developer company. We make it easier for developers to be developers: to work together, to solve challenging problems, and to create the world’s most important technologies.\n\n",
+      "key": "github"
+    },
+    {
       "title": "Groupe Pierre Fabre",
       "type": "gold",
       "category": "gold",
@@ -2666,6 +2716,36 @@
       "draft": false,
       "description": "Informatique Banque Populaire, filiale du groupe bancaire BPCE, assure le développement informatique du système d’information des Banques Populaires.\n",
       "key": "informatique_banque_populaire"
+    },
+    {
+      "title": "Infotel",
+      "type": "gold",
+      "category": "gold",
+      "order": 26,
+      "logo": "/images/partners/logo-infotel.png",
+      "website": "https://www.infotel.com/",
+      "lang": "fr",
+      "why": "Notre passion pour l'innovation ainsi que notre cœur de métier en lien direct avec le DevFest nous pousse à devenir une nouvelle fois sponsor.  Le DevFest est un événement incontournable sur l'IT et une opportunité de rencontrer et d'échanger avec des talents autours des nouvelles technologies. Mais également, d'assister à des conférences de qualités. ",
+      "socials": [
+        {
+          "icon": "facebook",
+          "link": "https://facebook.com/groupeInfotel",
+          "name": "Groupe Infotel"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/Infotel_",
+          "name": "Infotel"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://linkedin.com/company/Infotel",
+          "name": "Infotel"
+        }
+      ],
+      "draft": false,
+      "description": "Acteur européen de la transformation numérique des entreprises, le groupe Infotel est l’interlocuteur privilégié des directions Informatiques et Métiers de Grands Comptes depuis près de 40 ans.\nInfotel leur apporte son expertise reconnue dans la gestion et l’évolution de leur patrimoine informatique mais aussi le conseil auprès des métiers et services innovants intégrant les technologies digitales ainsi qu’une expertise Big Data et mobile.\nInfotel développe son savoir-faire dans les secteurs de la Banque, de l’Assurance, de la Retraite, de l’Industrie et des Transports en s’appuyant sur l’innovation et la R&D.\n\nEditeur de logiciels, Infotel déploie par ailleurs toute une gamme de produits pour les grands serveurs, que ce soit en Europe, aux USA ou dans le reste du Monde.\nEmployant plus de 2 500 personnes, le Groupe, coté sur Euronext Paris, a réalisé en 2018 un chiffre d’affaires de 231 M€ et est en croissance constante.\n\nPour plus d’informations, rendez-vous sur : http://www.infotel.com\nLe groupe est resté fidèle aux valeurs humaines qui ont fait sa réussite : \n\tun recrutement sélectif basé sur les compétences ;\n\tun suivi rigoureux des collaborateurs par des commerciaux-managers ;\n\tune gestion dynamique de la progression de carrière grâce à des missions valorisantes ;\n\n",
+      "key": "infotel"
     },
     {
       "title": "Intuiface",
@@ -3081,6 +3161,26 @@
       "draft": false,
       "description": "The new generation tech company. We ❤️ code, and building powerful & secured cloud architectures. We invest in tech watch & work with companies like Google & Amazon as partners.\n",
       "key": "stack_labs"
+    },
+    {
+      "title": "Sycomore Technologies",
+      "type": "gold",
+      "category": "gold",
+      "order": 32,
+      "logo": "/images/partners/logo-sycomore-technologie.png",
+      "website": "https://sycomore-tech.com",
+      "lang": "fr",
+      "why": "This an opportunity to contribute to a very exciting and friendly event to meet new talents and share our enthusiasm on the development of innovative technologies.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/company/sycomore-technologies/",
+          "name": " Sycomore-Technologies "
+        }
+      ],
+      "draft": false,
+      "description": "Sycomore-Technologies offers proprietary and custom software solutions.\n\nOur seasoned team is experienced in new generation technologies as cloud, microservices architectures as well as big data technologies to transform yours data into smart data.",
+      "key": "sycomore-technologie"
     },
     {
       "title": "Toulouse Data Science",

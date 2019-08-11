@@ -5,7 +5,7 @@ feature: false
 name: Estelle Landry ☀️
 company: Elium
 city: 'Montpellier, France'
-photoURL: 'https://sunny-tech.io/images/people/estelle_landry.jpg'
+photoURL: /images/speakers/estelle_landry_.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/estelandry'

@@ -5,8 +5,7 @@ feature: false
 name: Jérémy Voisin
 company: Apside
 city: 'Le Mans, France'
-photoURL: >-
-  https://lh5.googleusercontent.com/-ZhEccK12WTI/AAAAAAAAAAI/AAAAAAAAAAA/ACevoQNNaAY4ao8cC9z2JwqIgx9FdLZM6g/mo/photo.jpg
+photoURL: /images/speakers/jeremy_voisin.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/_JeremyVoisin_'
