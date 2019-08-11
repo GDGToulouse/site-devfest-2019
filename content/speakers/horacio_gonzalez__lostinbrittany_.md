@@ -5,8 +5,7 @@ feature: false
 name: Horacio Gonzalez (LostInBrittany)
 company: OVH
 city: 'Brest, France'
-photoURL: >-
-  https://lh4.googleusercontent.com/-6krIgoWnkGk/AAAAAAAAAAI/AAAAAAABR4o/EJH0Fh-m16k/photo.jpg
+photoURL: /images/speakers/horacio_gonzalez__lostinbrittany_.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/LostInBrittany'

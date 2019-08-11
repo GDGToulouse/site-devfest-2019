@@ -5,7 +5,7 @@ feature: false
 name: Cédric Moulard
 company: Open
 city: 'Aix-en-Provence, France'
-photoURL: 'https://avatars2.githubusercontent.com/u/7324369?v=4'
+photoURL: /images/speakers/kfnue96dm9g1zobctf4gvzdolrp2.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/cedric_moulard'

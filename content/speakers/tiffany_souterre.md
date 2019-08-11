@@ -5,8 +5,7 @@ feature: false
 name: Tiffany Souterre
 company: JEMS Datafactory
 city: 'Paris, France'
-photoURL: >-
-  https://lh3.googleusercontent.com/-0XDx36TcjxU/AAAAAAAAAAI/AAAAAAABQkA/-hqGP4ktCDY/photo.jpg
+photoURL: /images/speakers/tiffany_souterre.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/tiffanysouterre'

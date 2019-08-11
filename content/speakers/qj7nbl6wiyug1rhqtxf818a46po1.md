@@ -5,7 +5,7 @@ feature: false
 name: qJ7nBL6wIyUg1RHqtxF818a46po1
 company: Continental Digital Service France
 city: 'Toulouse, France'
-photoURL: 'https://avatars2.githubusercontent.com/u/50613721?v=4'
+photoURL: /images/speakers/qj7nbl6wiyug1rhqtxf818a46po1.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/none'

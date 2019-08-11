@@ -5,7 +5,7 @@ feature: false
 name: Juliane Blier
 company: SchoolMouv
 city: 'Toulouse, France'
-photoURL: 'https://avatars1.githubusercontent.com/u/22011253?v=4'
+photoURL: /images/speakers/juliane_blier.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/tactless7'

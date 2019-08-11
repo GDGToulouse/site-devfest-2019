@@ -5,8 +5,7 @@ feature: false
 name: Guillaume Andrieu
 company: MonkeyPatch
 city: 'Toulouse, France'
-photoURL: >-
-  https://lh4.googleusercontent.com/-liAZEsZV4EQ/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdQcFzX4PoD_wGPLFBPbjSykxVWhg/mo/photo.jpg
+photoURL: /images/speakers/guillaume_andrieu.png
 socials:
   - icon: twitter
     link: 'https://twitter.com/glmxndr'

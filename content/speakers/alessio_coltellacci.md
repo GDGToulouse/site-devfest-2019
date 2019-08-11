@@ -5,7 +5,7 @@ feature: false
 name: Alessio Coltellacci
 company: Clever Cloud
 city: 'Toulouse, France'
-photoURL: 'https://avatars3.githubusercontent.com/u/11367839?v=4'
+photoURL: /images/speakers/alessio_coltellacci.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/lightplay8'

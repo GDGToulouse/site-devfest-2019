@@ -5,7 +5,7 @@ feature: false
 name: Theophile Wallez
 company: ENS Ulm
 city: 'Paris, France'
-photoURL: 'https://avatars0.githubusercontent.com/u/534526?v=4'
+photoURL: /images/speakers/theophile_wallez.png
 socials:
   - icon: twitter
     link: 'https://twitter.com/twallez'

@@ -5,8 +5,7 @@ feature: false
 name: Gautier Mechling
 company: Nilhcem
 city: 'Paris, France'
-photoURL: >-
-  https://lh5.googleusercontent.com/-XMS12Sp9jUA/AAAAAAAAAAI/AAAAAAABmqI/tuVp7XFzvbM/photo.jpg
+photoURL: /images/speakers/gautier_mechling.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/Nilhcem'

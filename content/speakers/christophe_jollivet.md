@@ -5,8 +5,7 @@ feature: false
 name: Christophe Jollivet
 company: Apside
 city: 'Tours, France'
-photoURL: >-
-  https://lh3.googleusercontent.com/-3sUzAaUN01o/AAAAAAAAAAI/AAAAAAAACzE/6Nekr6L7RSk/photo.jpg
+photoURL: /images/speakers/christophe_jollivet.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/jollivetc'

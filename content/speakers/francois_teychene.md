@@ -5,8 +5,7 @@ feature: false
 name: François Teychene
 company: Saagie
 city: 'Montpellier, France'
-photoURL: >-
-  https://lh6.googleusercontent.com/-RvGrfi4p_Uk/AAAAAAAAAAI/AAAAAAAABtE/iqj8zP9rc0U/photo.jpg
+photoURL: /images/speakers/francois_teychene.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/fteychene'

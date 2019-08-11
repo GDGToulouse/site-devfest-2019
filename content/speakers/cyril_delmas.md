@@ -5,7 +5,7 @@ feature: false
 name: Cyril Delmas
 company: Lectra
 city: 'Mérignac, France'
-photoURL: 'https://avatars0.githubusercontent.com/u/5180763?v=4'
+photoURL: /images/speakers/cyril_delmas.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/cyril_delmas'

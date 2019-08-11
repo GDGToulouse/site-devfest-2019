@@ -4,8 +4,7 @@ id: bkL5Pq4gnZMLVm7nwWNW3FU3c8n1
 feature: false
 name: Richard Fagot
 city: 'Toulouse, France'
-photoURL: >-
-  https://lh3.googleusercontent.com/-aY7lqdsbu9g/AAAAAAAAAAI/AAAAAAAAHwQ/BiQmX1JB7cg/photo.jpg
+photoURL: /images/speakers/richard_fagot.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/richardfagot'

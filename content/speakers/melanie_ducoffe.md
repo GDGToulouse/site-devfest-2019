@@ -5,8 +5,7 @@ feature: false
 name: Mélanie Ducoffe
 company: Airbus
 city: 'Toulouse, France'
-photoURL: >-
-  https://lh3.googleusercontent.com/-CzRWhTBIOgY/AAAAAAAAAAI/AAAAAAAAAB8/gXi6gNoC0iY/photo.jpg
+photoURL: /images/speakers/melanie_ducoffe.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/mducoffe'

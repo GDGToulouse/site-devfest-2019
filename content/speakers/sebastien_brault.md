@@ -5,7 +5,7 @@ feature: false
 name: Sébastien Brault
 company: Orange
 city: 'Trégastel, France'
-photoURL: 'https://avatars2.githubusercontent.com/u/473751?v=4'
+photoURL: /images/speakers/sebastien_brault.png
 socials:
   - icon: twitter
     link: 'https://twitter.com/sebastienbrault'

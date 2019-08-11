@@ -5,8 +5,7 @@ feature: false
 name: Vincent Ogloblinsky
 company: SII Ouest
 city: 'Rennes, France'
-photoURL: >-
-  https://lh3.googleusercontent.com/-ckhK85zrlYM/AAAAAAAAAAI/AAAAAAAAC4g/G5DIeeyNEAM/photo.jpg
+photoURL: /images/speakers/vincent_ogloblinsky.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/vogloblinsky'

@@ -5,7 +5,7 @@ feature: false
 name: Guillaume Smet
 company: Red Hat
 city: 'Lyon, France'
-photoURL: 'https://avatars1.githubusercontent.com/u/1279749?v=4'
+photoURL: /images/speakers/guillaume_smet.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/gsmet_'

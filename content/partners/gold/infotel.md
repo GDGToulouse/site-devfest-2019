@@ -1,25 +1,29 @@
 ---
 title: Infotel
-type: partner
+type: gold
 category: gold
 order: 26
 logo: /images/partners/logo-infotel.png
-website: https://www.infotel.com/
+website: 'https://www.infotel.com/'
 lang: fr
-why: "Notre passion pour l'innovation ainsi que notre cœur de métier en lien direct avec le DevFest nous pousse à devenir une nouvelle fois sponsor. 
-Le DevFest est un événement incontournable sur l'IT et une opportunité de rencontrer et d'échanger avec des talents autours des nouvelles technologies. Mais également, d'assister à des conférences de qualités. "
+why: >-
+  Notre passion pour l'innovation ainsi que notre cœur de métier en lien direct
+  avec le DevFest nous pousse à devenir une nouvelle fois sponsor.  Le DevFest
+  est un événement incontournable sur l'IT et une opportunité de rencontrer et
+  d'échanger avec des talents autours des nouvelles technologies. Mais
+  également, d'assister à des conférences de qualités. 
 socials:
   - icon: facebook
-    link: https://facebook.com/groupeInfotel
+    link: 'https://facebook.com/groupeInfotel'
     name: Groupe Infotel
   - icon: twitter
-    link: https://twitter.com/Infotel_
+    link: 'https://twitter.com/Infotel_'
     name: Infotel
   - icon: linkedin
-    link: https://linkedin.com/company/Infotel
+    link: 'https://linkedin.com/company/Infotel'
     name: Infotel
-
 draft: false
+key: infotel
 ---
 Acteur européen de la transformation numérique des entreprises, le groupe Infotel est l’interlocuteur privilégié des directions Informatiques et Métiers de Grands Comptes depuis près de 40 ans.
 Infotel leur apporte son expertise reconnue dans la gestion et l’évolution de leur patrimoine informatique mais aussi le conseil auprès des métiers et services innovants intégrant les technologies digitales ainsi qu’une expertise Big Data et mobile.

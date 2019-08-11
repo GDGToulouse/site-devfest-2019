@@ -5,7 +5,7 @@ feature: false
 name: Francois-Guillaume Ribreau
 company: Ouest-France/Image-Charts
 city: 'Rennes, France'
-photoURL: 'https://avatars2.githubusercontent.com/u/138050?v=4'
+photoURL: /images/speakers/francois_guillaume_ribreau.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/fgribreau'

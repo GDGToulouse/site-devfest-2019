@@ -5,7 +5,7 @@ feature: false
 name: Sylvain Wallez
 company: Elastic
 city: 'Toulouse, France'
-photoURL: 'https://avatars2.githubusercontent.com/u/213730?v=4'
+photoURL: /images/speakers/sylvain_wallez.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/bluxte'
