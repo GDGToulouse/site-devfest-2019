@@ -12,7 +12,7 @@ menu:
 ## 3 Octobre, 2019
 ### Centre de Congrès Pierre Baudis
 
-<a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/open?id=1Uo1V4v3SHjl2q27SNkOyHkcuagKJmTU4" target="_blank">Devenez Partenaire 🇫🇷</a>
+<!-- <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/open?id=1Uo1V4v3SHjl2q27SNkOyHkcuagKJmTU4" target="_blank">Devenez Partenaire 🇫🇷</a> -->
 
 <!--
 <a class="btn primary btn-lg" href="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi">

@@ -13,7 +13,7 @@ menu:
 ## October 3rd, 2019
 ### Pierre Baudis congress center
 
-<a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a>
+<!-- <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a> -->
 
 <!--
 <a class="btn primary btn-lg" href="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi">
