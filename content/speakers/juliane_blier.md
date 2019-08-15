@@ -1,8 +1,8 @@
 ---
 key: juliane_blier
+name: Juliane Blier
 id: FYLUEJTslJOXNAWDOykmi4Cz74s2
 feature: false
-name: Juliane Blier
 company: SchoolMouv
 city: 'Toulouse, France'
 photoURL: /images/speakers/juliane_blier.jpg

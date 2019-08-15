@@ -1,8 +1,8 @@
 ---
 key: christophe_jollivet
+name: Christophe Jollivet
 id: CQO7iVm9GWb4jFPi3xmIUnsyY5r2
 feature: false
-name: Christophe Jollivet
 company: Apside
 city: 'Tours, France'
 photoURL: /images/speakers/christophe_jollivet.jpg

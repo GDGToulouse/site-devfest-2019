@@ -2,9 +2,9 @@
 key: office-hour-11
 title: Office Hours
 format: office-hours
-speakers: []
 tags:
   - office-hours
+speakers: []
 draft: false
 ---
 Venez poser vos questions aux speakers de manière plus calme et détendu

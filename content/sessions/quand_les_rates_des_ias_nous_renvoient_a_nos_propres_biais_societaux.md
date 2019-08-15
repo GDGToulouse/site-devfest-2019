@@ -1,17 +1,17 @@
 ---
-id: ZsAGxn6UZi1hfzz2bwR7
 key: quand_les_rates_des_ias_nous_renvoient_a_nos_propres_biais_societaux
 title: Quand les ratés des IAs nous renvoient à nos propres biais sociétaux
-level: beginner
+id: ZsAGxn6UZi1hfzz2bwR7
 format: conference
 tags:
   - big_data___ml___ai
+level: beginner
 speakers:
   - clement_duffau
   - melanie_ducoffe
-draft: false
 videoId: null
 presentation: null
+draft: false
 ---
 Un chatbot créé par Microsoft qui dérive avec des propos antisémites, Amazon qui scanne des CVs et finit par ne recruter que des hommes blancs, des algorithmes de reconnaissance faciale qui ont du mal avec les personnes de couleur noire, ... Que d'exemples où l'IA a intégré nos propres biais sociétaux. Il est urgent que nous, développeurs, prenions nos responsabilités et mesurons les enjeux éthiques de l'IA pour éviter que les stéréotypes, les inégalités et les préjugés se retrouvent au cœur de nos futurs systèmes.
 

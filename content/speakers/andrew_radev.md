@@ -1,8 +1,8 @@
 ---
 key: andrew_radev
+name: Andrew Radev
 id: e5GCt0Q7jSSgVtPTzfUFplteFMm1
 feature: false
-name: Andrew Radev
 city: 'Sofia, Bulgaria'
 photoURL: /images/speakers/andrew_radev.jpg
 socials:

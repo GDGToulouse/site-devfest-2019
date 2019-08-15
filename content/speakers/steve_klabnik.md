@@ -1,10 +1,10 @@
 ---
 key: steve_klabnik
+name: Steve Klabnik
 id: IVSIqKtM09Zue39kzfFz7b7qPd93
 feature: true
-name: Steve Klabnik
 company: Cloudflare
-city: 'Austin, TX'
+city: 'Austin, TX, USA'
 photoURL: /images/speakers/steve_klabnik.jpg
 socials: []
 ---

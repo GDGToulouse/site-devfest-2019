@@ -1,6 +1,6 @@
 ---
+key: intuiface
 title: Intuiface
-type: startup
 category: startup
 order: 18
 logo: /images/partners/logo-intuiface.png
@@ -24,7 +24,5 @@ socials:
   - icon: linkedin
     link: 'https://linkedin.com/company/Intuiface'
     name: Intuiface
-draft: false
-key: intuiface
 ---
 Intuiface is the world’s premier platform for creating, deploying, measuring and managing deeply interactive digital experiences without writing code. Over 1500 companies across 70+ countries are connecting people to place using interactive options such as touch, RFID/NFC, beacons, Web APIs, Internet of Things, and much more. For any industry – including retail, hospitality, real estate, tourism, education – and for any intent – from digital signs to self-service kiosks and assisted selling.

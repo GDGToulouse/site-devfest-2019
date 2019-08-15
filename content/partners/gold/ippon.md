@@ -1,6 +1,6 @@
 ---
+key: ippon
 title: Ippon
-type: gold
 category: gold
 order: 25
 logo: /images/partners/logo-ippon.png
@@ -16,7 +16,5 @@ socials:
   - icon: linkedin
     link: 'https://linkedin.com/company/20908'
     name: Ippon Technologies
-draft: false
-key: ippon
 ---
 Ippon est un cabinet de conseil qui accélère les projets innovants de ses clients de la page blanche au Cloud. Nos équipes dans le monde accompagnent les organisations dans la transformation d'idées innovantes en solutions logicielles de haute qualité avec un focus particulier sur le Time To Market.

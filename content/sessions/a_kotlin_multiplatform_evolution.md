@@ -2,11 +2,11 @@
 key: a_kotlin_multiplatform_evolution
 title: A Kotlin multiplatform evolution
 format: conference
-speakers:
-  - liliia_abdulina
 tags:
   - languages
 level: advanced
+speakers:
+  - liliia_abdulina
 draft: false
 ---
 Have you heard of the code-sharing feature in Kotlin, accompanied with "Write once, run everywhere" slogan? Among its users not only libraries and frameworks authors; there are some projects which have already adopted multiplatform for production. Their applications, written in Kotlin for *both* iOS and Android, are published in stores. 

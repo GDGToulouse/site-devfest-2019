@@ -1,8 +1,8 @@
 ---
 key: noel_mace
+name: Noël Macé
 id: 0alFaI2imGdQVSjuaMLFFfwqoL62
 feature: false
-name: Noël Macé
 company: BonitaSoft
 city: 'Toulouse, France'
 photoURL: /images/speakers/noel_mace.jpg

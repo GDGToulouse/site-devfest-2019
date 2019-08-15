@@ -2,9 +2,9 @@
 key: __lunch
 title: Déjeuner
 format: lunch
-speakers: []
 tags:
   - lunch
+speakers: []
 draft: false
 ---
 Bon appétit

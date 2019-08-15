@@ -1,8 +1,8 @@
 ---
 key: marie_viley
+name: Marie Viley
 id: hPV9avMI5RW70VtkyjGLO1c1MRO2
 feature: true
-name: Marie Viley
 company: Zenika
 city: 'Nantes, France'
 photoURL: /images/speakers/marie_viley.jpg

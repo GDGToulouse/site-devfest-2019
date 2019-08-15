@@ -1,8 +1,8 @@
 ---
 key: guillaume_smet
+name: Guillaume Smet
 id: HahzK1wXnxSyzyhcphrn5DBgBct2
 feature: false
-name: Guillaume Smet
 company: Red Hat
 city: 'Lyon, France'
 photoURL: /images/speakers/guillaume_smet.jpg

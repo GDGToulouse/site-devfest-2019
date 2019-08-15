@@ -1,6 +1,6 @@
 ---
+key: cenareo
 title: Cenareo
-type: platinium
 category: platinium
 order: 7
 logo: /images/partners/logo-cenareo.png
@@ -15,8 +15,6 @@ socials:
   - icon: twitter
     link: 'https://twitter.com/Cenareo'
     name: 'https://twitter.com/Cenareo'
-draft: false
-key: cenareo
 ---
 Cenareo, previously CityMeo, is a real “French Tech” success story. Located in Labège within the IoT Valley, we develop a best-in-class digital signage CMS (SaaS mode) to create, manage and broadcast content on remote displays in real-time, from any PC, tablet or smartphone.
 Created by 4 engineers, Cenareo has experienced exponential growth and rapid development since its inception in 2012, posting triple-digit growth and now counting upwards of 30 employees.

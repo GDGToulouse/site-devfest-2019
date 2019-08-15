@@ -1,6 +1,6 @@
 ---
+key: github
 title: GitHub
-type: gold
 category: gold
 order: 27
 logo: /images/partners/logo-github.png
@@ -15,8 +15,6 @@ socials:
   - icon: twitter
     link: 'https://twitter.com/github'
     name: github
-draft: false
-key: github
 ---
 GitHub is the developer company. We make it easier for developers to be developers: to work together, to solve challenging problems, and to create the world’s most important technologies.
 

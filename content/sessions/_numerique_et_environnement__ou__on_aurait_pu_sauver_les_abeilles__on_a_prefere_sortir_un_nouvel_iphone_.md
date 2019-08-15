@@ -1,19 +1,19 @@
 ---
-id: zDbtrtvdLPG1okj07wyI
 key: >-
   _numerique_et_environnement__ou__on_aurait_pu_sauver_les_abeilles__on_a_prefere_sortir_un_nouvel_iphone_
 title: >-
   "Numérique et environnement" ou "On aurait pu sauver les abeilles, on a
   préféré sortir un nouvel iPhone"
-level: beginner
+id: zDbtrtvdLPG1okj07wyI
 format: conference
 tags:
   - wtf
+level: beginner
 speakers:
   - sebastien_brault
-draft: false
 videoId: null
 presentation: null
+draft: false
 ---
 Le numérique fait-il partie du problème ou de la solution quand on parle de réchauffement climatique ?
 

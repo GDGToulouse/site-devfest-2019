@@ -1,6 +1,6 @@
 ---
+key: berger_levrault
 title: Berger Levrault
-type: gold
 category: gold
 order: 14
 logo: /images/partners/logo-berger_levrault.png
@@ -20,8 +20,6 @@ socials:
   - icon: linkedin
     link: 'https://linkedin.com/company/berger-levrault'
     name: berger-levrault
-draft: false
-key: berger_levrault
 ---
 Berger-Levrault, éditeur de logiciel international et multisectoriel, accompagne les professionnels privés et publics à répondre aux exigences croissantes de performance dans leurs métiers et les citoyens dans leur vie quotidienne.
 

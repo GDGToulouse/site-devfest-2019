@@ -1,8 +1,8 @@
 ---
 key: nicolas_decoster
+name: Nicolas Decoster
 id: kM7lbPEBt1XvvaYomE9Gz5wj8UT2
 feature: false
-name: Nicolas Decoster
 company: Magellium
 city: 'Toulouse, France'
 photoURL: /images/speakers/nicolas_decoster.png

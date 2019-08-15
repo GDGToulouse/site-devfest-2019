@@ -1,6 +1,6 @@
 ---
+key: commit42
 title: commit42
-type: soutien
 category: soutien
 order: 29
 logo: /images/partners/logo-commit42.png
@@ -17,8 +17,6 @@ socials:
   - icon: linkedin
     link: 'https://linkedin.com/company/commit42'
     name: commit42
-draft: false
-key: commit42
 ---
 Studio d'innovation web
 commit42 est spécialisé dans les technologies React, PHP, NodeJS, Magento et PWA.

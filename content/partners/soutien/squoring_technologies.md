@@ -1,6 +1,6 @@
 ---
+key: squoring_technologies
 title: Squoring Technologies
-type: soutien
 category: soutien
 order: 4
 logo: /images/partners/logo-squoring_technologies.jpg
@@ -19,7 +19,5 @@ socials:
   - icon: linkedin
     link: 'https://linkedin.com/company/squoring-technologies'
     name: squoring-technologies
-draft: false
-key: squoring_technologies
 ---
 Créé à Toulouse en 2010, Squoring Technologies s’est imposé comme le spécialiste des solutions de pilotage de la qualité et de la performance des développements logiciels. Son tableau de bord d’analyse décisionnelle « Squore for Software Analytics », collecte, analyse et agrège en indicateurs pertinents et exploitables l’ensemble des données produites pendant le cycle de vie de production des logiciels pour évaluer et optimiser la performance des projets, le respect des processus et la qualité des livrables. Les solutions de Squoring Technologies sont utilisées par de nombreux grands groupes industriels en France et dans le monde. Depuis juin 2018, Squoring Technologies fait partie du groupe Vector Informatik, qui regroupe plus de 2, 500 employés dans le monde.

@@ -1,8 +1,8 @@
 ---
 key: richard_fagot
+name: Richard Fagot
 id: bkL5Pq4gnZMLVm7nwWNW3FU3c8n1
 feature: false
-name: Richard Fagot
 city: 'Toulouse, France'
 photoURL: /images/speakers/richard_fagot.jpg
 socials:

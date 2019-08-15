@@ -1,8 +1,8 @@
 ---
 key: clement_duffau
+name: Clément Duffau
 id: XDO4bqPAuJRWnEAJtNW9bCg09Of2
 feature: false
-name: Clément Duffau
 company: Stack Labs
 city: 'Toulouse, France'
 photoURL: /images/speakers/clement_duffau.jpg

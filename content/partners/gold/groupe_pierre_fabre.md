@@ -1,6 +1,6 @@
 ---
+key: groupe_pierre_fabre
 title: Groupe Pierre Fabre
-type: gold
 category: gold
 order: 24
 logo: /images/partners/logo-groupe_pierre_fabre.png
@@ -18,8 +18,6 @@ socials:
   - icon: twitter
     link: 'https://twitter.com/PierreFabre'
     name: PierreFabre
-draft: false
-key: groupe_pierre_fabre
 ---
 Créé en 1962 par Pierre Fabre, pharmacien d’officine à Castres (Tarn), le Groupe Pierre Fabre est présent depuis plus de 50 ans sur un continuum d’activités allant des médicaments de prescription aux soins dermo-cosmétiques en passant par la santé grand public.
 2ème laboratoire dermo-cosmétique mondial et 2ème groupe pharmaceutique privé français, Pierre Fabre emploie près de 11 000 collaborateurs, détient des filiales dans 47 pays et distribue ses produits dans plus de 130 pays.

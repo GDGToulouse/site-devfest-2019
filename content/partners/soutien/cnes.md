@@ -1,6 +1,6 @@
 ---
+key: cnes
 title: CNES
-type: soutien
 category: soutien
 order: 5
 logo: /images/partners/logo-cnes.svg
@@ -15,7 +15,5 @@ socials:
   - icon: twitter
     link: 'https://twitter.com/CNES'
     name: CNES
-draft: false
-key: cnes
 ---
 Le CNES propose aux pouvoirs publics la politique spatiale de la France et la met en oeuvre dans 5 grands domaines stratégiques : Ariane, les Sciences, l’Observation, les Télécommunications et la Défense.

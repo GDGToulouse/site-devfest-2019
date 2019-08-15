@@ -1,8 +1,8 @@
 ---
 key: gilles_debunne
+name: Gilles Debunne
 id: iEtQubdXhDY3HBP9y3XqKbr9tFo1
 feature: false
-name: Gilles Debunne
 company: Freelance
 city: 'Toulouse, France'
 photoURL: /images/speakers/gilles_debunne.jpg

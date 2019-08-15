@@ -1,17 +1,17 @@
 ---
-id: 2S9XtGGq3ouHnkivEDKC
 key: rust__webassembly__and_the_future_of_serverless
 title: 'Rust, WebAssembly, and the future of Serverless'
-level: intermediate
+id: 2S9XtGGq3ouHnkivEDKC
+language: United States
 format: conference
 tags:
   - cloud___infra
+level: intermediate
 speakers:
   - steve_klabnik
-draft: false
 videoId: null
 presentation: null
-language: United States
+draft: false
 ---
 A lot of things have been said about WebAssembly inside of the
 browser; after all, that's why it was originally created. But a new

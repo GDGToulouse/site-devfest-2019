@@ -1,6 +1,6 @@
 ---
+key: monkeypatch
 title: MonkeyPatch
-type: gold
 category: gold
 order: 15
 logo: /images/partners/logo-monkeypatch.png
@@ -23,8 +23,6 @@ socials:
   - icon: linkedin
     link: 'https://linkedin.com/company/monkeypatch-io'
     name: MonkeyPatch.io
-draft: false
-key: monkeypatch
 ---
 MonkeyPatch est avant tout une équipe constituée de développeurs ayant de solides bagages techniques et des références significatives dans les nouvelles technos et les architectures modernes.
 

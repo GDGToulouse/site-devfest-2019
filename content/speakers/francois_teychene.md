@@ -1,8 +1,8 @@
 ---
 key: francois_teychene
+name: François Teychene
 id: EZdFes7RoSTGQJO5uOBCqSeyGvv2
 feature: false
-name: François Teychene
 company: Saagie
 city: 'Montpellier, France'
 photoURL: /images/speakers/francois_teychene.jpg

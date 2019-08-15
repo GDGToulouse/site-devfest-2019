@@ -1,16 +1,16 @@
 ---
-id: zVUXQkHQtSiGJeIwVd05
 key: 3_techniques_faciles_de_manipulation
 title: 3 techniques faciles de manipulation
-level: beginner
+id: zVUXQkHQtSiGJeIwVd05
 format: quickie
 tags:
   - wtf
+level: beginner
 speakers:
   - marie_viley
-draft: false
 videoId: null
 presentation: null
+draft: false
 ---
 Qui ne s’est jamais fait manipulé ? Évidemment, on est tous allé à une soirée alors qu’on en avait pas envie, on a tous acheté un truc sans en avoir besoin et on a tous été influencé par ses proches. 
 

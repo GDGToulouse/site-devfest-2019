@@ -1,8 +1,8 @@
 ---
 key: mathieu_passenaud
+name: Mathieu Passenaud
 id: JLEDSTiwyJX5AxGAw1GZjv7X23a2
 feature: false
-name: Mathieu Passenaud
 company: please-open.it
 city: 'Toulouse, France'
 photoURL: /images/speakers/mathieu_passenaud.jpg

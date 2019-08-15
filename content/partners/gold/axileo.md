@@ -1,6 +1,6 @@
 ---
+key: axileo
 title: AXILEO
-type: gold
 category: gold
 order: 22
 logo: /images/partners/logo-axileo.png
@@ -20,7 +20,5 @@ socials:
   - icon: linkedin
     link: 'https://www.linkedin.com/company/axileo'
     name: AXILEO
-draft: false
-key: axileo
 ---
 AXILEO est spécialisée dans l'innovation et la transformation digitale des entreprises. La société se distingue par un management innovant, sur le modèle de l'entreprise libérée, où les salariés participent et définissent la stratégie de l'entreprise. 

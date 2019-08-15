@@ -1,10 +1,10 @@
 ---
 key: liliia_abdulina
-feature: false
 name: Liliia Abdulina
-photoURL: /images/speakers/liliia_abdulina.jpg
+feature: false
 company: JetBrains
 city: 'Munich, Germany'
+photoURL: /images/speakers/liliia_abdulina.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/var_lynx'

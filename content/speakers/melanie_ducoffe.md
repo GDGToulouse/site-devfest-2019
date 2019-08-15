@@ -1,8 +1,8 @@
 ---
 key: melanie_ducoffe
+name: Mélanie Ducoffe
 id: ZnEio3GkUXNUuJjcbDvftFawfvu1
 feature: false
-name: Mélanie Ducoffe
 company: Airbus
 city: 'Toulouse, France'
 photoURL: /images/speakers/melanie_ducoffe.jpg

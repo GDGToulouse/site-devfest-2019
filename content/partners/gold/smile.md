@@ -1,6 +1,6 @@
 ---
+key: smile
 title: SMILE
-type: gold
 category: gold
 order: 13
 logo: /images/partners/logo-smile.png
@@ -21,8 +21,6 @@ socials:
   - icon: twitter
     link: 'https://twitter.com/GroupeSmile'
     name: GroupeSmile
-draft: false
-key: smile
 ---
 Avec de l’audace et des beaux projets, ajoutez une pincée de culture visionnaire, une bonne dose d’innovation, saupoudrez le tout d’une expertise technique pluridisciplinaire et vous obtenez Smile, le leader européen de l’intégration et de l’infogérance de solutions open source.
 

@@ -1,6 +1,6 @@
 ---
+key: infotel
 title: Infotel
-type: gold
 category: gold
 order: 26
 logo: /images/partners/logo-infotel.png
@@ -22,8 +22,6 @@ socials:
   - icon: linkedin
     link: 'https://linkedin.com/company/Infotel'
     name: Infotel
-draft: false
-key: infotel
 ---
 Acteur européen de la transformation numérique des entreprises, le groupe Infotel est l’interlocuteur privilégié des directions Informatiques et Métiers de Grands Comptes depuis près de 40 ans.
 Infotel leur apporte son expertise reconnue dans la gestion et l’évolution de leur patrimoine informatique mais aussi le conseil auprès des métiers et services innovants intégrant les technologies digitales ainsi qu’une expertise Big Data et mobile.

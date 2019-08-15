@@ -1,6 +1,6 @@
 ---
+key: lyra_network
 title: Lyra Network
-type: gold
 category: gold
 order: 16
 logo: /images/partners/logo-lyra_network.png
@@ -21,8 +21,6 @@ socials:
   - icon: linkedin
     link: 'https://www.linkedin.com/company/lyra-network_2'
     name: Lyra Network
-draft: false
-key: lyra_network
 ---
 LYRA NETWORK est née en 2001 de la rencontre entre des savoir-faire, la technologie et  l’esprit visionnaire de ses fondateurs. Leader en France dans la sécurisation des paiements, Lyra Network offre des services à valeurs ajoutées pour le commerce de proximité et le paiement en ligne (PayZen®).
 

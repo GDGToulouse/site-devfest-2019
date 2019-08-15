@@ -1,8 +1,8 @@
 ---
 key: horacio_gonzalez__lostinbrittany_
+name: Horacio Gonzalez (LostInBrittany)
 id: pYuiGicpt0MenD8NEMhZXtk6VSr1
 feature: false
-name: Horacio Gonzalez (LostInBrittany)
 company: OVH
 city: 'Brest, France'
 photoURL: /images/speakers/horacio_gonzalez__lostinbrittany_.jpg

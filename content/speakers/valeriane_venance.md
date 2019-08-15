@@ -1,8 +1,8 @@
 ---
 key: valeriane_venance
+name: Valeriane Venance
 id: 05FXSY1pHlaP7wK14yGKBaxom6n1
 feature: false
-name: Valeriane Venance
 company: Clever Cloud
 city: 'Paris, France'
 photoURL: /images/speakers/valeriane_venance.png

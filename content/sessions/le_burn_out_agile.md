@@ -1,17 +1,17 @@
 ---
-id: KAH9Lyx0b2TKNSQVZNw2
 key: le_burn_out_agile
 title: Le burn-out agile
-level: intermediate
+id: KAH9Lyx0b2TKNSQVZNw2
+language: Français
 format: conference
 tags:
   - method___tools
+level: intermediate
 speakers:
   - kfnue96dm9g1zobctf4gvzdolrp2
-draft: false
 videoId: null
 presentation: null
-language: Français
+draft: false
 ---
 En 2019 le monde de l’informatique n’a que l’agilité à la bouche. Ca groome à tous les coins de rue, ça s’excite en daily, ça colle des post-it et ça empile les serious game en rétro. Bien sûr ça gère la transformation numérique (désolé, même au second degré je ne peux pas employer “digitale”) et au final plus personne ne comprend rien. 
 

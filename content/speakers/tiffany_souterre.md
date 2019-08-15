@@ -1,8 +1,8 @@
 ---
 key: tiffany_souterre
+name: Tiffany Souterre
 id: fEGtvUISb6VrUv4hpaHxRnw8hFZ2
 feature: false
-name: Tiffany Souterre
 company: JEMS Datafactory
 city: 'Paris, France'
 photoURL: /images/speakers/tiffany_souterre.jpg

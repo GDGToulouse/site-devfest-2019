@@ -1,17 +1,17 @@
 ---
-id: jABRUDzqext8Rx8CmA4j
 key: 10_est_une_puissance_de_2
 title: 10 est une puissance de 2
-level: beginner
+id: jABRUDzqext8Rx8CmA4j
+language: Français approximatif
 format: quickie
 tags:
   - wtf
+level: beginner
 speakers:
   - gilles_debunne
-draft: false
 videoId: null
 presentation: null
-language: Français approximatif
+draft: false
 ---
 Le code barre est une invention qui a radicalement modifié nos sociétés. Sans elle, pas d'inventaire efficace, de supermarchés ou de vente en ligne.
 
