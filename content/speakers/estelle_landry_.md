@@ -1,8 +1,8 @@
 ---
 key: estelle_landry_
+name: Estelle Landry ☀️
 id: JkWN4X6967cvBrV2x8vKf1QrHS93
 feature: false
-name: Estelle Landry ☀️
 company: Elium
 city: 'Montpellier, France'
 photoURL: /images/speakers/estelle_landry_.jpg

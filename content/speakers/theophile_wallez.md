@@ -1,8 +1,8 @@
 ---
 key: theophile_wallez
+name: Theophile Wallez
 id: LuqEI6DZnoeJYQdQ1KHsKrj57Pm1
 feature: false
-name: Theophile Wallez
 company: ENS Ulm
 city: 'Paris, France'
 photoURL: /images/speakers/theophile_wallez.png

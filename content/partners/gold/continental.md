@@ -1,6 +1,6 @@
 ---
+key: continental
 title: Continental
-type: gold
 category: gold
 order: 10
 logo: /images/partners/logo-continental.png
@@ -22,8 +22,6 @@ socials:
   - icon: linkedin
     link: 'https://linkedin.com/company/continental'
     name: Continental
-draft: false
-key: continental
 ---
 Continental develops pioneering technologies and services for sustainable and connected mobility of people and their goods. 
 Founded in 1871, the technology company offers safe, efficient, intelligent, and affordable solutions for vehicles, machines, traffic and transportation. 

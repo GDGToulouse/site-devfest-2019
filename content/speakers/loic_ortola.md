@@ -1,8 +1,8 @@
 ---
 key: loic_ortola
+name: Loïc Ortola
 id: 8nSCFV8Ne4WLjfP2IBNdoLVMtNV2
 feature: false
-name: Loïc Ortola
 company: Takima
 city: 'Paris, France'
 photoURL: /images/speakers/loic_ortola.jpg

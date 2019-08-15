@@ -9,8 +9,8 @@
         "short_name": "Toulouse"
       },
       "country": {
-        "short_name": "FR",
-        "long_name": "France"
+        "long_name": "France",
+        "short_name": "FR"
       },
       "latLng": {
         "lat": 43.6115538,
@@ -18,788 +18,805 @@
       }
     },
     "dates": {
-      "end": "2019-10-03T10:00:00.000Z",
-      "start": "2019-10-03T10:00:00.000Z"
+      "start": "2019-10-03T10:00:00.000Z",
+      "end": "2019-10-03T10:00:00.000Z"
     }
   },
   "sessions": [
     {
-      "id": "jABRUDzqext8Rx8CmA4j",
       "key": "10_est_une_puissance_de_2",
       "title": "10 est une puissance de 2",
-      "level": "beginner",
+      "id": "jABRUDzqext8Rx8CmA4j",
+      "language": "Français approximatif",
       "format": "quickie",
       "tags": [
         "wtf"
       ],
+      "level": "beginner",
       "speakers": [
         "gilles_debunne"
       ],
-      "draft": false,
-      "description": "Le code barre est une invention qui a radicalement modifié nos sociétés. Sans elle, pas d'inventaire efficace, de supermarchés ou de vente en ligne.\n\nMais comment coder les chiffres de façon fiable avec des petites barres noires et blanches ? Quand les contraintes matérielles empêchent d'utiliser le binaire, l'ingéniosité et un peu de chance ont permis de créer ce produit, maintenant présent partout.\n\n\nNous découvrirons les détails de ce codage, et comment il pourrait même contenir davantage d'informations.",
       "videoId": null,
       "presentation": null,
-      "language": "Français approximatif"
+      "draft": false,
+      "description": "Le code barre est une invention qui a radicalement modifié nos sociétés. Sans elle, pas d'inventaire efficace, de supermarchés ou de vente en ligne.\n\nMais comment coder les chiffres de façon fiable avec des petites barres noires et blanches ? Quand les contraintes matérielles empêchent d'utiliser le binaire, l'ingéniosité et un peu de chance ont permis de créer ce produit, maintenant présent partout.\n\n\nNous découvrirons les détails de ce codage, et comment il pourrait même contenir davantage d'informations."
     },
     {
-      "id": "zVUXQkHQtSiGJeIwVd05",
       "key": "3_techniques_faciles_de_manipulation",
       "title": "3 techniques faciles de manipulation",
-      "level": "beginner",
+      "id": "zVUXQkHQtSiGJeIwVd05",
       "format": "quickie",
       "tags": [
         "wtf"
       ],
+      "level": "beginner",
       "speakers": [
         "marie_viley"
       ],
-      "draft": false,
-      "description": "Qui ne s’est jamais fait manipulé ? Évidemment, on est tous allé à une soirée alors qu’on en avait pas envie, on a tous acheté un truc sans en avoir besoin et on a tous été influencé par ses proches. \n\nL’idée de cette présentation est de vous ouvrir les yeux sur les relations et les influences entre les gens. Je vous exposerai les mécanismes de prise de décision au travers de 3 techniques simples de manipulation.\n\nA la sortie de ce talk, vous devriez être moins influençable et maître de vos décisions (voir même manipuler les autres).",
       "videoId": null,
-      "presentation": null
+      "presentation": null,
+      "draft": false,
+      "description": "Qui ne s’est jamais fait manipulé ? Évidemment, on est tous allé à une soirée alors qu’on en avait pas envie, on a tous acheté un truc sans en avoir besoin et on a tous été influencé par ses proches. \n\nL’idée de cette présentation est de vous ouvrir les yeux sur les relations et les influences entre les gens. Je vous exposerai les mécanismes de prise de décision au travers de 3 techniques simples de manipulation.\n\nA la sortie de ce talk, vous devriez être moins influençable et maître de vos décisions (voir même manipuler les autres)."
     },
     {
-      "id": "pY6MCQBMfIYlIKfHdhL4",
       "key": "_47_ans___ils_nont_toujours_pas_remarque__",
       "title": "« 47 ans : ils n’ont toujours pas remarqué … »",
-      "level": "beginner",
+      "id": "pY6MCQBMfIYlIKfHdhL4",
+      "language": "French",
       "format": "quickie",
       "tags": [
         "wtf"
       ],
+      "level": "beginner",
       "speakers": [
         "qj7nbl6wiyug1rhqtxf818a46po1"
       ],
-      "draft": false,
-      "description": "L’âgisme dans les fonctions IT, et en particulier dans le Développement Soft, est incontournable.\n\nLes « vieux » n’ont décidément pas la cote, le marché de l'emploi des softeux cinquantenaires en est la preuve !\nPourtant, codage et sénioritude semblent loin d'être incompatibles.\n\n- Alors quels préjugés peuvent en être la cause ?\n- L’avance rapide de la technologie numérique est-elle incompatible avec le ralentissement biologique ?\n- Les cheveux gris sont-ils un Handicap pour la Sécurité de l’Info ?\n- Le Cloud doit-il être « Arthrose-free » ?\n\nEt surtout, comment se fait-il qu’à 47 ans je vienne d’intégrer l’équipe Devops & Tools de Continental Digital Services et que personne ne m’ait encore rien dit ?",
       "videoId": null,
       "presentation": null,
-      "language": "French"
+      "draft": false,
+      "description": "L’âgisme dans les fonctions IT, et en particulier dans le Développement Soft, est incontournable.\n\nLes « vieux » n’ont décidément pas la cote, le marché de l'emploi des softeux cinquantenaires en est la preuve !\nPourtant, codage et sénioritude semblent loin d'être incompatibles.\n\n- Alors quels préjugés peuvent en être la cause ?\n- L’avance rapide de la technologie numérique est-elle incompatible avec le ralentissement biologique ?\n- Les cheveux gris sont-ils un Handicap pour la Sécurité de l’Info ?\n- Le Cloud doit-il être « Arthrose-free » ?\n\nEt surtout, comment se fait-il qu’à 47 ans je vienne d’intégrer l’équipe Devops & Tools de Continental Digital Services et que personne ne m’ait encore rien dit ?"
     },
     {
       "key": "__lunch",
       "title": "Déjeuner",
       "format": "lunch",
-      "speakers": [],
       "tags": [
         "lunch"
       ],
-      "description": "Bon appétit",
-      "draft": false
+      "speakers": [],
+      "draft": false,
+      "description": "Bon appétit"
     },
     {
       "key": "__open",
       "title": "Acceuil, Thé, Café et Chocolatines",
       "format": "open",
-      "speakers": [],
       "tags": [
         "open"
       ],
-      "description": "Acceuil, Thé, Café et Chocolatines",
-      "draft": false
+      "speakers": [],
+      "draft": false,
+      "description": "Acceuil, Thé, Café et Chocolatines"
     },
     {
       "key": "__party",
       "title": "Party time...",
       "format": "party",
-      "speakers": [],
       "tags": [
         "party"
       ],
-      "description": "🎉 Party time",
-      "draft": false
+      "speakers": [],
+      "draft": false,
+      "description": "🎉 Party time"
     },
     {
       "key": "__pause",
       "title": "Pause",
       "format": "pause",
-      "speakers": [],
       "tags": [
         "pause"
       ],
-      "description": "Pause",
-      "draft": false
+      "speakers": [],
+      "draft": false,
+      "description": "Pause"
     },
     {
-      "id": "zDbtrtvdLPG1okj07wyI",
       "key": "_numerique_et_environnement__ou__on_aurait_pu_sauver_les_abeilles__on_a_prefere_sortir_un_nouvel_iphone_",
       "title": "\"Numérique et environnement\" ou \"On aurait pu sauver les abeilles, on a préféré sortir un nouvel iPhone\"",
-      "level": "beginner",
+      "id": "zDbtrtvdLPG1okj07wyI",
       "format": "conference",
       "tags": [
         "wtf"
       ],
+      "level": "beginner",
       "speakers": [
         "sebastien_brault"
       ],
-      "draft": false,
-      "description": "Le numérique fait-il partie du problème ou de la solution quand on parle de réchauffement climatique ?\n\n5 milliards de smartphones en circulation en 2020, ça représente quoi en consommation énergétique, en gaz à effet de serre, en pollution chimique ?\n\nLe streaming illimité à 10 euros par mois c'est le pied mais aujourd'hui Netflix a à peu près l'empreinte carbone du plus gros cimentier mondial, qui va payer la facture environnementale ?\n\nTous les mails de votre vie (que vous ne lirez plus jamais) disponibles sur Gmail, très utile, mais après 2020 on ne saura peut-être plus produire industriellement les équipements nécessaires à leur stockage.\n\nOn arrive dans \"l'âge des limites\", pour le numérique comme pour le reste. Quels sont les leviers pour basculer vers un numérique durable ?\n\nEt si malgré tout on décidait de s'en foutre ? 2 degrés en plus, c'est juste un pull en moins non ? Non. Par contre c'est 30% en moins sur les rendements agricoles pour ... 30 % de population en plus en 2050. En 1970, Dennis Meadows modélisait sur les ordinateurs du MIT un crash du système planétaire pour les décennies 2020-2030. Pour l'instant, c'est cette trajectoire que notre monde suit.",
       "videoId": null,
-      "presentation": null
+      "presentation": null,
+      "draft": false,
+      "description": "Le numérique fait-il partie du problème ou de la solution quand on parle de réchauffement climatique ?\n\n5 milliards de smartphones en circulation en 2020, ça représente quoi en consommation énergétique, en gaz à effet de serre, en pollution chimique ?\n\nLe streaming illimité à 10 euros par mois c'est le pied mais aujourd'hui Netflix a à peu près l'empreinte carbone du plus gros cimentier mondial, qui va payer la facture environnementale ?\n\nTous les mails de votre vie (que vous ne lirez plus jamais) disponibles sur Gmail, très utile, mais après 2020 on ne saura peut-être plus produire industriellement les équipements nécessaires à leur stockage.\n\nOn arrive dans \"l'âge des limites\", pour le numérique comme pour le reste. Quels sont les leviers pour basculer vers un numérique durable ?\n\nEt si malgré tout on décidait de s'en foutre ? 2 degrés en plus, c'est juste un pull en moins non ? Non. Par contre c'est 30% en moins sur les rendements agricoles pour ... 30 % de population en plus en 2050. En 1970, Dennis Meadows modélisait sur les ordinateurs du MIT un crash du système planétaire pour les décennies 2020-2030. Pour l'instant, c'est cette trajectoire que notre monde suit."
     },
     {
-      "id": "Gxr3XZR1HEu14tbneJLb",
       "key": "_votre_api_web_passe_t_elle_le_controle_technique__",
       "title": "⛳️ Votre API web passe-t-elle le contrôle technique ? ",
-      "level": "intermediate",
+      "id": "Gxr3XZR1HEu14tbneJLb",
       "format": "conference",
       "tags": [
         "method___tools"
       ],
+      "level": "intermediate",
       "speakers": [
         "francois_guillaume_ribreau"
       ],
-      "draft": false,
-      "description": "Nous savons tous développer une API mais avons-nous tous bien intégré les problématiques d'environnements et de cycles logiciels multiples ? L'opérabilité, la gouvernance, le versioning, la traçabilité, la sécurité — et bien plus encore — de ces API web une fois en production ?\n\nDurant ce talk, c'est plusieurs dizaines de points d'attentions rarement évoqué que je vous propose d'aborder, à la lumière de retours d'expériences provenant de chez Uber, Stripe, Facebook, ...",
       "videoId": null,
-      "presentation": null
+      "presentation": null,
+      "draft": false,
+      "description": "Nous savons tous développer une API mais avons-nous tous bien intégré les problématiques d'environnements et de cycles logiciels multiples ? L'opérabilité, la gouvernance, le versioning, la traçabilité, la sécurité — et bien plus encore — de ces API web une fois en production ?\n\nDurant ce talk, c'est plusieurs dizaines de points d'attentions rarement évoqué que je vous propose d'aborder, à la lumière de retours d'expériences provenant de chez Uber, Stripe, Facebook, ..."
     },
     {
       "key": "a_kotlin_multiplatform_evolution",
       "title": "A Kotlin multiplatform evolution",
       "format": "conference",
-      "speakers": [
-        "liliia_abdulina"
-      ],
       "tags": [
         "languages"
       ],
       "level": "advanced",
-      "description": "Have you heard of the code-sharing feature in Kotlin, accompanied with \"Write once, run everywhere\" slogan? Among its users not only libraries and frameworks authors; there are some projects which have already adopted multiplatform for production. Their applications, written in Kotlin for *both* iOS and Android, are published in stores. \nWith this talk, you'll get a brief overview of the evolution of multiplatform technology in Kotlin, concerning the tasks it's evolved to solve. How it was and how it is expected to be; what has changed and which tasks can be already solved with it. What are the facilities right now and which real projects already use multiplatform?",
-      "draft": false
+      "speakers": [
+        "liliia_abdulina"
+      ],
+      "draft": false,
+      "description": "Have you heard of the code-sharing feature in Kotlin, accompanied with \"Write once, run everywhere\" slogan? Among its users not only libraries and frameworks authors; there are some projects which have already adopted multiplatform for production. Their applications, written in Kotlin for *both* iOS and Android, are published in stores. \nWith this talk, you'll get a brief overview of the evolution of multiplatform technology in Kotlin, concerning the tasks it's evolved to solve. How it was and how it is expected to be; what has changed and which tasks can be already solved with it. What are the facilities right now and which real projects already use multiplatform?"
     },
     {
-      "id": "qXAvodXoMK3db8ZLcVwb",
       "key": "a_la_decouverte_de_la_realite_augmentee_avec_arcore",
       "title": "A la découverte de la réalité augmentée avec ARCore",
-      "level": "beginner",
+      "id": "qXAvodXoMK3db8ZLcVwb",
+      "language": "France",
       "format": "conference",
       "tags": [
         "native_mobile_apps"
       ],
+      "level": "beginner",
       "speakers": [
         "christophe_jollivet",
         "jeremy_voisin"
       ],
-      "draft": false,
-      "description": "Avec les annonces de l'arrivée de la réalité augmentée (ou RA)  dans Google Maps et Google Search sur Android lors de Google IO 2019, nous constatons que la RA va prendre une place de plus en plus importante dans notre quotidien. La sortie d'ARCore en mars 2018 sur Android a simplifié le développement d’application en RA sur Android.\n\nAu cours de cette session, nous vous proposons de découvrir ARCore, via l’utilisation dans un navigateur, des applications natives ou des moteurs 3D comme Unity ainsi que les CloudAnchors qui permettent la persistance et le partage de positions d’objets dans les scènes de réalité augmentée, y compris avec des utilisateurs d’iOS.\n\nAprès une initiations aux concepts liés à la RA (meshes, 6 DoF,...), nous présenterons les différentes fonctionnalités d’ARCore. Nous discuterons aussi des différentes approches d’utilisation, de leurs limitations et avantages au travers d'une application de cartographie 3D en réalité augmentée.",
       "videoId": null,
       "presentation": null,
-      "language": "France"
+      "draft": false,
+      "description": "Avec les annonces de l'arrivée de la réalité augmentée (ou RA)  dans Google Maps et Google Search sur Android lors de Google IO 2019, nous constatons que la RA va prendre une place de plus en plus importante dans notre quotidien. La sortie d'ARCore en mars 2018 sur Android a simplifié le développement d’application en RA sur Android.\n\nAu cours de cette session, nous vous proposons de découvrir ARCore, via l’utilisation dans un navigateur, des applications natives ou des moteurs 3D comme Unity ainsi que les CloudAnchors qui permettent la persistance et le partage de positions d’objets dans les scènes de réalité augmentée, y compris avec des utilisateurs d’iOS.\n\nAprès une initiations aux concepts liés à la RA (meshes, 6 DoF,...), nous présenterons les différentes fonctionnalités d’ARCore. Nous discuterons aussi des différentes approches d’utilisation, de leurs limitations et avantages au travers d'une application de cartographie 3D en réalité augmentée."
     },
     {
-      "id": "Cej88MtlRVZrJRK0FJ2p",
       "key": "allo_paris__ici_san_francisco__et_si_on_codait_ensemble_avec_vs_code_",
       "title": "Allo Paris, ici San Francisco. Et si on codait ensemble avec VS Code?",
-      "level": "beginner",
+      "id": "Cej88MtlRVZrJRK0FJ2p",
       "format": "conference",
       "tags": [
         "method___tools"
       ],
+      "level": "beginner",
       "speakers": [
         "olivier_leplus",
         "tiffany_souterre"
       ],
-      "draft": false,
-      "description": "Vous aimez VS Code car il est simple, intuitif et qu'il fait ce que vous lui demandez.   \nMais saviez-vous que vous pouviez coder à plusieurs dans VS Code? et même permettre à une personne tierce de jouer avec votre débugger depuis l'autre bout du monde? Saviez-vous que vous pouviez avoir un client slack dans VS Code, et même un chat audio?  \nEt avez-vous exploré toutes les possibilités que VS Code offre quand vous utilisez github?  \nNous verrons dans ce talk tout ce qui fait de VS Code l'éditeur de code parfait pour faire du code collaboratif.",
       "videoId": null,
-      "presentation": null
+      "presentation": null,
+      "draft": false,
+      "description": "Vous aimez VS Code car il est simple, intuitif et qu'il fait ce que vous lui demandez.   \nMais saviez-vous que vous pouviez coder à plusieurs dans VS Code? et même permettre à une personne tierce de jouer avec votre débugger depuis l'autre bout du monde? Saviez-vous que vous pouviez avoir un client slack dans VS Code, et même un chat audio?  \nEt avez-vous exploré toutes les possibilités que VS Code offre quand vous utilisez github?  \nNous verrons dans ce talk tout ce qui fait de VS Code l'éditeur de code parfait pour faire du code collaboratif."
     },
     {
-      "id": "oiZTE4THbAJeaNVlLc03",
       "key": "applications_de_brainfuck__langage_minimaliste_mais_turing_complet",
       "title": "Applications de Brainfuck, langage minimaliste mais Turing-complet",
-      "level": "beginner",
+      "id": "oiZTE4THbAJeaNVlLc03",
+      "language": "Français",
       "format": "quickie",
       "tags": [
         "wtf"
       ],
+      "level": "beginner",
       "speakers": [
         "theophile_wallez"
       ],
-      "draft": false,
-      "description": "Brainfuck est probablement le plus connu des langages de programmation ésotériques. Ses 8 instructions en font un langage Turing-complet avec lequel il est théoriquement possible d’écrire n’importe quel programme.\n\nEt en pratique ? Après une explication du langage (avec 8 instructions c’est rapide !) on verra comment j’ai utilisé Brainfuck pour les qualifications au concours d’informatique Prologin, sur un problème de parcours de graphes !",
       "videoId": null,
       "presentation": null,
-      "language": "Français"
+      "draft": false,
+      "description": "Brainfuck est probablement le plus connu des langages de programmation ésotériques. Ses 8 instructions en font un langage Turing-complet avec lequel il est théoriquement possible d’écrire n’importe quel programme.\n\nEt en pratique ? Après une explication du langage (avec 8 instructions c’est rapide !) on verra comment j’ai utilisé Brainfuck pour les qualifications au concours d’informatique Prologin, sur un problème de parcours de graphes !"
     },
     {
-      "id": "6E03tbU6L5w0IyjMi7yF",
       "key": "authentication_authorization_starters_battle",
       "title": "Authentication/Authorization Starters Battle",
-      "level": "beginner",
+      "id": "6E03tbU6L5w0IyjMi7yF",
+      "language": "français",
       "format": "conference",
       "tags": [
         "method___tools"
       ],
+      "level": "beginner",
       "speakers": [
         "valeriane_venance"
       ],
-      "draft": false,
-      "description": "When you start a brand new app or service, you need to think about how you will manage authentication and permissions. But if you are like everyone else, you genuinely do not want to actually think about this. If someone else could do that for you, life would be great. And this has actually happened, you have the choice between several boilerplate projects or authentication/authorization libraries. In fact, you have a lot of options. Which one to choose? Let's have a closer look to them!\n\nAt the end of this talk, you will have a good overview of the common existing solutions and their benefits.",
       "videoId": null,
       "presentation": null,
-      "language": "français"
+      "draft": false,
+      "description": "When you start a brand new app or service, you need to think about how you will manage authentication and permissions. But if you are like everyone else, you genuinely do not want to actually think about this. If someone else could do that for you, life would be great. And this has actually happened, you have the choice between several boilerplate projects or authentication/authorization libraries. In fact, you have a lot of options. Which one to choose? Let's have a closer look to them!\n\nAt the end of this talk, you will have a good overview of the common existing solutions and their benefits."
     },
     {
-      "id": "rJDTMZMYX57DCKYhW09c",
       "key": "brace_yourself__vanilla_is_coming__back__",
       "title": "Brace yourself, 🍦Vanilla is coming … back 🕶!",
-      "level": "intermediate",
+      "id": "rJDTMZMYX57DCKYhW09c",
+      "language": "français",
       "format": "conference",
       "tags": [
         "web"
       ],
+      "level": "intermediate",
       "speakers": [
         "noel_mace"
       ],
-      "draft": false,
-      "description": "Dans un monde de saveurs complexes et sofistiquées, la guerre du toping fait rage chez les crèmes glacées du Web ! Face au champs de batail, les pronostiques vont bon train pour savoir qui l’emportera entre le crunchy Angulaire, le fondant Reactifs et le décoratif Vue.\n\nDurant ce temps, loin de ces vicissitudes, la petite saveur basique vanille fait son bonhomme de chemin. S’agirait-il du héro de la légende, succeptible de renverser le destin de ce monde sans heurts ?\n\nSache, voyageur, qu’elle est déjà passée par nos contrées. Laisse moi te raconter comment elle nous a permis de renverser notre vieux roi, et tu saura enfin ce qui se prépare pour ton royaume.",
       "videoId": null,
       "presentation": null,
-      "language": "français"
+      "draft": false,
+      "description": "Dans un monde de saveurs complexes et sofistiquées, la guerre du toping fait rage chez les crèmes glacées du Web ! Face au champs de batail, les pronostiques vont bon train pour savoir qui l’emportera entre le crunchy Angulaire, le fondant Reactifs et le décoratif Vue.\n\nDurant ce temps, loin de ces vicissitudes, la petite saveur basique vanille fait son bonhomme de chemin. S’agirait-il du héro de la légende, succeptible de renverser le destin de ce monde sans heurts ?\n\nSache, voyageur, qu’elle est déjà passée par nos contrées. Laisse moi te raconter comment elle nous a permis de renverser notre vieux roi, et tu saura enfin ce qui se prépare pour ton royaume."
     },
     {
-      "id": "tOexEcqeKEztPbNmR4JT",
       "key": "comprendre_le_role_du_noyau_d_un_systeme_d_exploitation_en_creant_un_from_scratch",
       "title": "Comprendre le rôle du noyau d'un système d'exploitation en créant un from scratch",
-      "level": "beginner",
+      "id": "tOexEcqeKEztPbNmR4JT",
       "format": "conference",
       "tags": [
         "cloud___infra"
       ],
+      "level": "beginner",
       "speakers": [
         "alessio_coltellacci"
       ],
-      "draft": false,
-      "description": "Programmer le noyau d'un système d'exploitation est un très bon moyen pour en comprendre le fonctionnement et le scope de son travail (IO, gestion de la mémoire, etc).\nCette présentation a pour but de présenter et de développer les composants élémentaires d'un micro noyau UNIX.\n\nDans ce talk je présenterai:\n- L'émulateur QEMU\n- La réalisation d'un secteur de boot avec une micro console\n- Comment gérer les interruptions hardware (clavier) et software\n- La gestion des appels systèmes\n- Un système multi-process simple qui va permettre de découvrir le surcoût des changements de contexte liés à la programmation concurrentielle",
       "videoId": null,
-      "presentation": null
+      "presentation": null,
+      "draft": false,
+      "description": "Programmer le noyau d'un système d'exploitation est un très bon moyen pour en comprendre le fonctionnement et le scope de son travail (IO, gestion de la mémoire, etc).\nCette présentation a pour but de présenter et de développer les composants élémentaires d'un micro noyau UNIX.\n\nDans ce talk je présenterai:\n- L'émulateur QEMU\n- La réalisation d'un secteur de boot avec une micro console\n- Comment gérer les interruptions hardware (clavier) et software\n- La gestion des appels systèmes\n- Un système multi-process simple qui va permettre de découvrir le surcoût des changements de contexte liés à la programmation concurrentielle"
     },
     {
-      "id": "Qy836EfpA0wC4M6jYcTk",
       "key": "de_java_a_un_executable_natif___graalvm_et_quarkus_changent_la_donne",
       "title": "De Java à un exécutable natif : GraalVM et Quarkus changent la donne",
-      "level": "beginner",
+      "id": "Qy836EfpA0wC4M6jYcTk",
+      "language": "French",
       "format": "conference",
       "tags": [
         "method___tools"
       ],
+      "level": "beginner",
       "speakers": [
         "guillaume_smet"
       ],
-      "draft": false,
-      "description": "Les microservices, la scalabilité instantanée et les plates-formes à haute densité comme Kubernetes nécessitent des applications à faible empreinte mémoire et démarrage rapide. Java n'était pas bien positionné car il favorise les temps de traitement aux dépens du CPU et de la RAM.\n\nPlus maintenant.\n\nEntre en scène Quarkus, une stack Java orientée microservices qui supporte vos composants favoris (Hibernate, Vert.x, Camel, RESTEasy ...) sur GraalVM et HotSpot avec une faible empreinte mémoire et un démarrage rapide. Tout ce qu'il faut pour tirer pleinement parti des containers.\n\nLa gestion de la donnée est souvent l'aspect le plus complexe : découvrons comment Quarkus gère la persistance avec Hibernate ORM. Venez explorer le live reload, notre vision de la persistance avec Hibernate Panache, l'indexation full text avec Hibernate Search, l'environnement de test, la compilation native GraalVM et bien plus. Quarkus se vit plus qu'il ne se verbalise, attendez-vous à une démo détaillée.",
       "videoId": null,
       "presentation": null,
-      "language": "French"
+      "draft": false,
+      "description": "Les microservices, la scalabilité instantanée et les plates-formes à haute densité comme Kubernetes nécessitent des applications à faible empreinte mémoire et démarrage rapide. Java n'était pas bien positionné car il favorise les temps de traitement aux dépens du CPU et de la RAM.\n\nPlus maintenant.\n\nEntre en scène Quarkus, une stack Java orientée microservices qui supporte vos composants favoris (Hibernate, Vert.x, Camel, RESTEasy ...) sur GraalVM et HotSpot avec une faible empreinte mémoire et un démarrage rapide. Tout ce qu'il faut pour tirer pleinement parti des containers.\n\nLa gestion de la donnée est souvent l'aspect le plus complexe : découvrons comment Quarkus gère la persistance avec Hibernate ORM. Venez explorer le live reload, notre vision de la persistance avec Hibernate Panache, l'indexation full text avec Hibernate Search, l'environnement de test, la compilation native GraalVM et bien plus. Quarkus se vit plus qu'il ne se verbalise, attendez-vous à une démo détaillée."
     },
     {
-      "id": "adcMAUSbsAK27dQJA4Iw",
       "key": "developpeurs_en_reconversion__developpeurs_quand_meme__",
       "title": "Développeurs en reconversion, développeurs quand même !",
-      "level": "beginner",
+      "id": "adcMAUSbsAK27dQJA4Iw",
+      "language": "Français",
       "format": "quickie",
       "tags": [
         "wtf"
       ],
+      "level": "beginner",
       "speakers": [
         "juliane_blier"
       ],
-      "draft": false,
-      "description": "Ces dernières années, les \"fabriques de dev\" et autres formations courtes explosent. C'est un fait, tout dev a été ou sera amené à travailler avec l'un de ces jeunes développeurs.euses. Mais qui sont-ils ? Pourquoi une reconversion dans ce genre de d'organisation ? Qu'ont-ils appris lors de leurs formation express ? C'est fiable ce genre de dev ? Comment puis-je les intégrer au mieux dans ma structure ?\n\nAutant de questions que vous vous êtes sans doute déjà posées. Pendant ces 15 minutes, je vous présenterai mon retour d'expérience en tant que développeuse provenant de l'une de ces écoles de dev et maintenant développeuse Javascript depuis 2 ans au sein d'une startup Toulousaine.",
       "videoId": null,
       "presentation": null,
-      "language": "Français"
+      "draft": false,
+      "description": "Ces dernières années, les \"fabriques de dev\" et autres formations courtes explosent. C'est un fait, tout dev a été ou sera amené à travailler avec l'un de ces jeunes développeurs.euses. Mais qui sont-ils ? Pourquoi une reconversion dans ce genre de d'organisation ? Qu'ont-ils appris lors de leurs formation express ? C'est fiable ce genre de dev ? Comment puis-je les intégrer au mieux dans ma structure ?\n\nAutant de questions que vous vous êtes sans doute déjà posées. Pendant ces 15 minutes, je vous présenterai mon retour d'expérience en tant que développeuse provenant de l'une de ces écoles de dev et maintenant développeuse Javascript depuis 2 ans au sein d'une startup Toulousaine."
     },
     {
-      "id": "aOHds477R7FiM3cnWAXp",
       "key": "devops_at_scale",
       "title": "DevOps at scale",
-      "level": "beginner",
+      "id": "aOHds477R7FiM3cnWAXp",
       "format": "conference",
       "tags": [
         "method___tools"
       ],
+      "level": "beginner",
       "speakers": [
         "adrien_anceau"
       ],
-      "draft": false,
-      "description": "DevOps is everywhere, and every new or existing project is at least considering to follow its principles. While implementing DevOps for single projects become more and more straightforward, it's still a challenge to have a coherent DevOps approach at Enterprise level.\n\nLet's dig in what it takes to achieve DevOps in large companies, with Airbus as an example.",
       "videoId": null,
-      "presentation": null
+      "presentation": null,
+      "draft": false,
+      "description": "DevOps is everywhere, and every new or existing project is at least considering to follow its principles. While implementing DevOps for single projects become more and more straightforward, it's still a challenge to have a coherent DevOps approach at Enterprise level.\n\nLet's dig in what it takes to achieve DevOps in large companies, with Airbus as an example."
     },
     {
-      "id": "PmoMEVHO3imfUIMXsPai",
       "key": "four_diseases",
       "title": "Four Diseases",
-      "level": "beginner",
+      "id": "PmoMEVHO3imfUIMXsPai",
+      "language": "English",
       "format": "conference",
       "tags": [
         "wtf"
       ],
+      "level": "beginner",
       "speakers": [
         "piotr_przybyl"
       ],
-      "draft": false,
-      "description": "How a developer can tell if the system is sick just by taking a look at the input and the output? If you'd like to know that (plus you like standup comedy), come an see! The treatment is safe ;-)\n\nOne approach to get familiar with a system is a long and intense reading the manual (and to run an eye over the source code sometimes). Another approach is to take a deep dive into the data model (often in the DB) and to surf the user interface. Both are natural ends of the system, the legendary Input and Output. By examining these ends one can check if there's good digestion or if guts are rotten. Careful examination can confirm \"common DDDosis\", \"malignant stringosis\", \"regex diarrhoea\" or \"not-made-here syndrome\".\nUnfortunately, sometimes developers get infected in their prenatal life (meaning: at their university). Let me invite you to treatment. A laxative one. (That is: a sequel of \"Passwords. Do you keep them safe?\")",
       "videoId": null,
       "presentation": null,
-      "language": "English"
+      "draft": false,
+      "description": "How a developer can tell if the system is sick just by taking a look at the input and the output? If you'd like to know that (plus you like standup comedy), come an see! The treatment is safe ;-)\n\nOne approach to get familiar with a system is a long and intense reading the manual (and to run an eye over the source code sometimes). Another approach is to take a deep dive into the data model (often in the DB) and to surf the user interface. Both are natural ends of the system, the legendary Input and Output. By examining these ends one can check if there's good digestion or if guts are rotten. Careful examination can confirm \"common DDDosis\", \"malignant stringosis\", \"regex diarrhoea\" or \"not-made-here syndrome\".\nUnfortunately, sometimes developers get infected in their prenatal life (meaning: at their university). Let me invite you to treatment. A laxative one. (That is: a sequel of \"Passwords. Do you keep them safe?\")"
     },
     {
-      "id": "iU4EzEThVDvpaHDsGjOO",
       "key": "introduction_a_la_programmation_par_contraintes",
       "title": "Introduction à la programmation par contraintes",
-      "level": "beginner",
+      "id": "iU4EzEThVDvpaHDsGjOO",
+      "language": "Français",
       "format": "conference",
       "tags": [
         "big_data___ml___ai"
       ],
+      "level": "beginner",
       "speakers": [
         "cyril_delmas"
       ],
-      "draft": false,
-      "description": "Quel est le point commun entre un jeu de sudoku, la planification d'une conférence et les déplacements d'un commercial ?\n\nQuand on souhaite les traiter automatiquement, tous ces problèmes peuvent être résolus par un solveur de contraintes. Dans ce talk, je vais essayer de vous faire une introduction pratique à la programmation par contraintes, en présentant les concepts de base, puis en les mettant en application avec plusieurs exemples de problèmes connus de tout le monde (ou presque), pour finir par un cas plus complexe sur lequel je travaille actuellement.",
       "videoId": null,
       "presentation": null,
-      "language": "Français"
+      "draft": false,
+      "description": "Quel est le point commun entre un jeu de sudoku, la planification d'une conférence et les déplacements d'un commercial ?\n\nQuand on souhaite les traiter automatiquement, tous ces problèmes peuvent être résolus par un solveur de contraintes. Dans ce talk, je vais essayer de vous faire une introduction pratique à la programmation par contraintes, en présentant les concepts de base, puis en les mettant en application avec plusieurs exemples de problèmes connus de tout le monde (ou presque), pour finir par un cas plus complexe sur lequel je travaille actuellement."
     },
     {
       "key": "keynote_close",
       "title": "Keynote de fermeture",
       "format": "keynote",
-      "speakers": [],
       "tags": [
         "keynote"
       ],
-      "description": "Surprise!",
-      "draft": false
+      "speakers": [],
+      "draft": false,
+      "description": "Surprise!"
     },
     {
       "key": "keynote_open",
       "title": "Keynote d'ouverture",
       "format": "keynote",
-      "speakers": [],
       "tags": [
         "keynote"
       ],
-      "description": "Surprise!",
-      "draft": false
+      "speakers": [],
+      "draft": false,
+      "description": "Surprise!"
     },
     {
-      "id": "Kwery1cbJrx3ZFj6x1JU",
       "key": "l_histoire_de_la_decouverte_d_une_backdoor_signe_oneplus",
       "title": "L'histoire de la découverte d'une backdoor signé Oneplus",
-      "level": "intermediate",
+      "id": "Kwery1cbJrx3ZFj6x1JU",
       "format": "conference",
       "tags": [
         "native_mobile_apps"
       ],
+      "level": "intermediate",
       "speakers": [
         "fs0c131y"
       ],
-      "draft": false,
-      "description": "## Résumé\nEn Novembre 2017, j'ai découvert \"une backdoor\" dans tout les téléphones de la marque Oneplus. A l'aide d'une simple ligne de commande, un attaquant ayant un accès physique au téléphone, pouvait devenir root et ainsi obtenir un contrôle total du téléphone de la victime.\n\n## Détails\nDans ce talk, j'expliquerai le processus qui m'a permit de faire cette découverte:\n1. Extraction du build\n2. Récupération des applications dites \"systèmes\"\n3. Détection de la vulnérabilité dans l'application Android \"EngineeringMode\"\n4. Exploitation de la vulnérabilité\n\n## Sujet abordés\nLors de la détection et l'analyse de cette faille nous aborderons la philosophie du **hacking**, comment faire du **reverse engineering** sur des applications **Android** et une **librairie native**. Nous analyserons du **Java** ainsi que du **C** \n\n## Categorie\nNative mobile apps\n\n## Format\nUne conférence de 40 min",
       "videoId": null,
-      "presentation": null
+      "presentation": null,
+      "draft": false,
+      "description": "## Résumé\nEn Novembre 2017, j'ai découvert \"une backdoor\" dans tout les téléphones de la marque Oneplus. A l'aide d'une simple ligne de commande, un attaquant ayant un accès physique au téléphone, pouvait devenir root et ainsi obtenir un contrôle total du téléphone de la victime.\n\n## Détails\nDans ce talk, j'expliquerai le processus qui m'a permit de faire cette découverte:\n1. Extraction du build\n2. Récupération des applications dites \"systèmes\"\n3. Détection de la vulnérabilité dans l'application Android \"EngineeringMode\"\n4. Exploitation de la vulnérabilité\n\n## Sujet abordés\nLors de la détection et l'analyse de cette faille nous aborderons la philosophie du **hacking**, comment faire du **reverse engineering** sur des applications **Android** et une **librairie native**. Nous analyserons du **Java** ainsi que du **C** \n\n## Categorie\nNative mobile apps\n\n## Format\nUne conférence de 40 min"
     },
     {
-      "id": "KAH9Lyx0b2TKNSQVZNw2",
       "key": "le_burn_out_agile",
       "title": "Le burn-out agile",
-      "level": "intermediate",
+      "id": "KAH9Lyx0b2TKNSQVZNw2",
+      "language": "Français",
       "format": "conference",
       "tags": [
         "method___tools"
       ],
+      "level": "intermediate",
       "speakers": [
         "kfnue96dm9g1zobctf4gvzdolrp2"
       ],
-      "draft": false,
-      "description": "En 2019 le monde de l’informatique n’a que l’agilité à la bouche. Ca groome à tous les coins de rue, ça s’excite en daily, ça colle des post-it et ça empile les serious game en rétro. Bien sûr ça gère la transformation numérique (désolé, même au second degré je ne peux pas employer “digitale”) et au final plus personne ne comprend rien. \n\nDes chefs de projet subitement propulsés ScrumMaster qui ne savent pas ce qu’ils doivent faire. Des PO qui découvrent la priorisation. Des développeurs qui doivent composer avec des specs floues et changeantes sans vision globale du projet. Pour compléter le tableau, la subite apparition de coachs agile à peine sorti de l’école qui n’ont jamais vu un projet de leur vie et qui viennent expliquer des concepts qu’ils ne maîtrisent qu’à moitié.\n\nEn 2019 le monde de l’informatique rêve secrètement de cycles en V, de stabilité, de spécifications générales et de dossier d’architecture.\n\nEn 2019 le monde de l’informatique est au bord du burn-out agile.\n\n## Plan du talk  \n\n- Petit historique : l’évolution des pratiques sur les 20 dernières années \n- Pourquoi ce bordel agile ? \n- Finalement l’agilité c’est quoi ? \n- Est-ce qu’il faut revenir au cycle en V ?",
       "videoId": null,
       "presentation": null,
-      "language": "Français"
+      "draft": false,
+      "description": "En 2019 le monde de l’informatique n’a que l’agilité à la bouche. Ca groome à tous les coins de rue, ça s’excite en daily, ça colle des post-it et ça empile les serious game en rétro. Bien sûr ça gère la transformation numérique (désolé, même au second degré je ne peux pas employer “digitale”) et au final plus personne ne comprend rien. \n\nDes chefs de projet subitement propulsés ScrumMaster qui ne savent pas ce qu’ils doivent faire. Des PO qui découvrent la priorisation. Des développeurs qui doivent composer avec des specs floues et changeantes sans vision globale du projet. Pour compléter le tableau, la subite apparition de coachs agile à peine sorti de l’école qui n’ont jamais vu un projet de leur vie et qui viennent expliquer des concepts qu’ils ne maîtrisent qu’à moitié.\n\nEn 2019 le monde de l’informatique rêve secrètement de cycles en V, de stabilité, de spécifications générales et de dossier d’architecture.\n\nEn 2019 le monde de l’informatique est au bord du burn-out agile.\n\n## Plan du talk  \n\n- Petit historique : l’évolution des pratiques sur les 20 dernières années \n- Pourquoi ce bordel agile ? \n- Finalement l’agilité c’est quoi ? \n- Est-ce qu’il faut revenir au cycle en V ?"
     },
     {
-      "id": "pAMZmFT2wrfqPr9IdeXv",
       "key": "le_design_de_l_erreur",
       "title": "Le design de l'erreur",
-      "level": "beginner",
+      "id": "pAMZmFT2wrfqPr9IdeXv",
+      "language": "French",
       "format": "conference",
       "tags": [
         "method___tools"
       ],
+      "level": "beginner",
       "speakers": [
         "estelle_landry_",
         "francois_teychene"
       ],
-      "draft": false,
-      "description": "Nos systèmes sont designés de manière optimiste, de la gestion technique des erreurs à la modélisation de nos interfaces.  \nQue ce soit les codes d'erreurs, les exceptions ou les modélisations plus avancées, elles servent pour arrêter un traitement et _potentiellement_ afficher un message d'information à un utilisateur.\n\nMais avec les architectures microservices, la distribution des traitements ou une simple volonté de résilience, la gestion des erreurs est devenue un enjeu important de tous les systèmes afin qu’ils restent accessibles de tous, tout le temps tout en maintenant le système dans un état cohérent.\n\nQue fait-on lorsqu’une erreur intervient ? Peut-on compenser voire gérer l’erreur depuis le système pour l’utilisateur ?\n\nLa réponse a ces questions se trouvent autant dans la définition du produit que dans le choix technique.\nUn outil bien conçu est un outil intelligent qui peut faire les bons choix au bon moment pour l'utilisateur. Et si on apprenait ensemble à concevoir nos erreurs ?",
       "videoId": null,
       "presentation": null,
-      "language": "French"
+      "draft": false,
+      "description": "Nos systèmes sont designés de manière optimiste, de la gestion technique des erreurs à la modélisation de nos interfaces.  \nQue ce soit les codes d'erreurs, les exceptions ou les modélisations plus avancées, elles servent pour arrêter un traitement et _potentiellement_ afficher un message d'information à un utilisateur.\n\nMais avec les architectures microservices, la distribution des traitements ou une simple volonté de résilience, la gestion des erreurs est devenue un enjeu important de tous les systèmes afin qu’ils restent accessibles de tous, tout le temps tout en maintenant le système dans un état cohérent.\n\nQue fait-on lorsqu’une erreur intervient ? Peut-on compenser voire gérer l’erreur depuis le système pour l’utilisateur ?\n\nLa réponse a ces questions se trouvent autant dans la définition du produit que dans le choix technique.\nUn outil bien conçu est un outil intelligent qui peut faire les bons choix au bon moment pour l'utilisateur. Et si on apprenait ensemble à concevoir nos erreurs ?"
     },
     {
-      "id": "hoiS7Cs5sWwXb632pLh2",
+      "key": "le_jaillissement_de_l_esprit",
+      "title": "Le jaillissement de l'esprit",
+      "language": "fr",
+      "format": "conference",
+      "tags": [
+        "method___tools"
+      ],
+      "level": "beginner",
+      "speakers": [
+        "lois_blanc",
+        "saskia_blanc",
+        "sebastien_blanc"
+      ],
+      "draft": false,
+      "description": "Les enfants sont eux-mêmes les bâtisseurs actifs de leurs propres structures intellectuelles et l'informatique y joue un rôle déterminant, disait Piaget, un célèbre biologiste, psychologue et logicien. Son collaborateur, Seymour Papert, inventera le langage Logo, langage qui fait qu'aujourd’hui je suis un développeur épanoui.\nQu'en est-il aujourd'hui ? Comment donner le goût du code à nos enfants et surtout pourquoi est-ce important ?\nAvec Saskia, Loïs et leur père nous voyagerons à travers le temps, en partant de la tortue sur ce bon vieux M05 en passant par Scratch, le Logo hipster de nos jour, jusqu’à Groovy et Python. \n"
+    },
+    {
       "key": "le_troll_dans_ta_machine_____une_courte_introduction_a_la_pensee_de_jean_yves_girard",
       "title": "Le troll dans ta machine --- Une courte introduction à la pensée de Jean-Yves Girard",
-      "level": "intermediate",
+      "id": "hoiS7Cs5sWwXb632pLh2",
       "format": "quickie",
       "tags": [
         "wtf"
       ],
+      "level": "intermediate",
       "speakers": [
         "guillaume_andrieu"
       ],
-      "draft": false,
-      "description": "Jean-Yves Girard, le génial inventeur des indispensables [montres à moutarde](http://girard.perso.math.cnrs.fr/moutarde.pdf) (1990), est certes un joyeux trublion.\n\nMais avant d'en arriver à ce sommet indépassable, il a tout même publié deux-trois petites choses en chemin:\n\n- Rust, vous connaissez? L'idée première du système de typage de Rust est la logique dite \"[linéaire](http://girard.perso.math.cnrs.fr/linear.pdf)\", due à Jean-Yves Girard (1987).\n- Haskell, ça vous dit quelque chose? Les systèmes de typage de Haskell mais aussi Scala (et d'une certaine manière Java) sont basés sur le \"[système F](https://en.wikipedia.org/wiki/System_F)\" (ou lambda-calcul de second ordre), dû à... Jean-Yves Girard (1972).\n- Idris, vous avez entendu parler? Le système de typage d'Idris est basé sur la théorie des types de Per Martin-Löf, dont la première version a été prouvée incorrecte par... Jean-Yves Girard, qui depuis possède un [paradoxe](https://en.wikipedia.org/wiki/System_U#Girard's_paradox) à son nom. (Girard et Martin-Löf sont par ailleurs de très bons potes et ont ferraillé sec contre les logiciens classiques dans leur prime jeunesse.)\n\nTrès méconnu mais probalement l'un des penseurs les plus influents pour l'informatique de ce début de XXIe siècle, Girard est tout aussi sérieux que fantasque. Son style toujours acéré et polémique s'appuie sur une vision très claire de ce que devrait être la logique: vivante, joyeuse, fertile.\n\nDans cette courte présentation, on s'attachera à comprendre pourquoi Girard est aussi virulent dans son discours, quels sont les objectifs de sa pensée, et pourquoi elle a déjà porté tant de fruits dans le monde de l'informatique. \n\n----\n\nDans le cas d'un créneau à 40min, on pourrait donner quelques pointeurs sur ses travaux plus récents, et expliciter en quoi ils sont porteurs de nouvelles avancées pour les prochaines décennies (réseaux de démonstrations, géométrique de l'intéraction, etc.).",
       "videoId": null,
-      "presentation": null
+      "presentation": null,
+      "draft": false,
+      "description": "Jean-Yves Girard, le génial inventeur des indispensables [montres à moutarde](http://girard.perso.math.cnrs.fr/moutarde.pdf) (1990), est certes un joyeux trublion.\n\nMais avant d'en arriver à ce sommet indépassable, il a tout même publié deux-trois petites choses en chemin:\n\n- Rust, vous connaissez? L'idée première du système de typage de Rust est la logique dite \"[linéaire](http://girard.perso.math.cnrs.fr/linear.pdf)\", due à Jean-Yves Girard (1987).\n- Haskell, ça vous dit quelque chose? Les systèmes de typage de Haskell mais aussi Scala (et d'une certaine manière Java) sont basés sur le \"[système F](https://en.wikipedia.org/wiki/System_F)\" (ou lambda-calcul de second ordre), dû à... Jean-Yves Girard (1972).\n- Idris, vous avez entendu parler? Le système de typage d'Idris est basé sur la théorie des types de Per Martin-Löf, dont la première version a été prouvée incorrecte par... Jean-Yves Girard, qui depuis possède un [paradoxe](https://en.wikipedia.org/wiki/System_U#Girard's_paradox) à son nom. (Girard et Martin-Löf sont par ailleurs de très bons potes et ont ferraillé sec contre les logiciens classiques dans leur prime jeunesse.)\n\nTrès méconnu mais probalement l'un des penseurs les plus influents pour l'informatique de ce début de XXIe siècle, Girard est tout aussi sérieux que fantasque. Son style toujours acéré et polémique s'appuie sur une vision très claire de ce que devrait être la logique: vivante, joyeuse, fertile.\n\nDans cette courte présentation, on s'attachera à comprendre pourquoi Girard est aussi virulent dans son discours, quels sont les objectifs de sa pensée, et pourquoi elle a déjà porté tant de fruits dans le monde de l'informatique. \n\n----\n\nDans le cas d'un créneau à 40min, on pourrait donner quelques pointeurs sur ses travaux plus récents, et expliciter en quoi ils sont porteurs de nouvelles avancées pour les prochaines décennies (réseaux de démonstrations, géométrique de l'intéraction, etc.)."
     },
     {
-      "id": "WwHpapkCgEg5IMW5vTId",
       "key": "live_coding_musical___vous_savez_coder___devenez_compositeur_avec_webaudio_et_webmidi__",
       "title": "Live coding musical : vous savez coder ? Devenez compositeur avec WebAudio et WebMIDI !",
-      "level": "intermediate",
+      "id": "WwHpapkCgEg5IMW5vTId",
+      "language": "Français",
       "format": "conference",
       "tags": [
         "web"
       ],
+      "level": "intermediate",
       "speakers": [
         "sylvain_wallez"
       ],
-      "draft": false,
-      "description": "Sans nécessiter de formation musicale pointue, tout développeur peut créer des morceaux qui sonnent bien et faire du \"live coding\" pour improviser en direct.\n\nAprès un rapide tour d'horizon des environnements de codage musical comme Sonic-Pi en Ruby ou FoxDot en Python, on codera/composera en live un morceau de musique électro avec comme seul outil un navigateur web, les API WebAudio et WebMIDI et la librairie Tone.js.\n\nQuelques samples bien choisis, une pincée de séquences harmonieuses, une bonne dose d'aléatoire encadré, et hop, tout le monde se mettra à danser ! Et puisque la musique c'est aussi des maths, on parlera de musique générative avec des chaînes de Markov et des L-Systems.\n\nDavid Guetta n'a qu'à bien se tenir !",
       "videoId": null,
       "presentation": null,
-      "language": "Français"
+      "draft": false,
+      "description": "Sans nécessiter de formation musicale pointue, tout développeur peut créer des morceaux qui sonnent bien et faire du \"live coding\" pour improviser en direct.\n\nAprès un rapide tour d'horizon des environnements de codage musical comme Sonic-Pi en Ruby ou FoxDot en Python, on codera/composera en live un morceau de musique électro avec comme seul outil un navigateur web, les API WebAudio et WebMIDI et la librairie Tone.js.\n\nQuelques samples bien choisis, une pincée de séquences harmonieuses, une bonne dose d'aléatoire encadré, et hop, tout le monde se mettra à danser ! Et puisque la musique c'est aussi des maths, on parlera de musique générative avec des chaînes de Markov et des L-Systems.\n\nDavid Guetta n'a qu'à bien se tenir !"
     },
     {
-      "id": "cnRUAtQNZybQsQa03lAx",
       "key": "machine_learning_avec_des_allumettes_et_des_cotillons",
       "title": "Machine learning avec des allumettes et des cotillons",
-      "level": "beginner",
+      "id": "cnRUAtQNZybQsQa03lAx",
+      "language": "Français",
       "format": "quickie",
       "tags": [
         "big_data___ml___ai"
       ],
+      "level": "beginner",
       "speakers": [
         "nicolas_decoster"
       ],
-      "draft": false,
-      "description": "Dans ce talk je vous montrerai comment expliquer simplement le fonctionnement de l'apprentissage par renforcement. Pour cela pas besoin d'ordinateur : quelques allumettes, des sacs de cotillons et un peu de pédagogie sont suffisant pour mettre en évidence les mécanismes intrinsèques de cette technique et pour aborder les enjeux et les limites des algorithmes d'\"intelligence artificielle\" basés sur l'apprentissage.",
       "videoId": null,
       "presentation": null,
-      "language": "Français"
+      "draft": false,
+      "description": "Dans ce talk je vous montrerai comment expliquer simplement le fonctionnement de l'apprentissage par renforcement. Pour cela pas besoin d'ordinateur : quelques allumettes, des sacs de cotillons et un peu de pédagogie sont suffisant pour mettre en évidence les mécanismes intrinsèques de cette technique et pour aborder les enjeux et les limites des algorithmes d'\"intelligence artificielle\" basés sur l'apprentissage."
     },
     {
-      "id": "McfMVcKDdZv68NSo2JIJ",
       "key": "modern_forms_in_react",
       "title": "Modern Forms in React",
-      "level": "intermediate",
+      "id": "McfMVcKDdZv68NSo2JIJ",
       "format": "conference",
       "tags": [
         "web"
       ],
+      "level": "intermediate",
       "speakers": [
         "erik_rasmussen"
       ],
-      "draft": false,
-      "description": "If the new React Context API and Suspense killed Redux (they didn't), surely Hooks kill the need for a form library, right? Well, not exactly. Managing form state is more than just holding your current values in state; it's about sync and async validition errors, and much more! But that doesn't mean that Hooks are irrelevant to the situation. Hooks make building forms in React easier than ever before.",
       "videoId": null,
-      "presentation": null
+      "presentation": null,
+      "draft": false,
+      "description": "If the new React Context API and Suspense killed Redux (they didn't), surely Hooks kill the need for a form library, right? Well, not exactly. Managing form state is more than just holding your current values in state; it's about sync and async validition errors, and much more! But that doesn't mean that Hooks are irrelevant to the situation. Hooks make building forms in React easier than ever before."
     },
     {
-      "id": "fW4yvmVxjXb57vQJhIXu",
       "key": "mon_p____de_voyant_moteur_est_encore_allume___comment_debugger_mon_moteur___plongeon_dans_les_entrailles_des_calculateurs_moteur",
       "title": "Mon p*** de voyant moteur est encore allumé ! Comment debugger mon moteur ? Plongeon dans les entrailles des calculateurs moteur",
-      "level": "beginner",
+      "id": "fW4yvmVxjXb57vQJhIXu",
       "format": "conference",
       "tags": [
         "wtf"
       ],
+      "level": "beginner",
       "speakers": [
         "mathieu_passenaud"
       ],
-      "draft": false,
-      "description": "Depuis les années 70 tous les constructeurs autos intégrent des calculateurs électroniques.\nLes moteurs des voitures modernes sont des systèmes informatiques complexes qui s'appuient sur des dizaines de capteurs... et du code. \nComment ça fonctionne ? A quoi ressemble ce code et que fait-il ?\nQu'est-ce qu'il se passe lorsqu'on fait une \"reprog\" ? \nQu'est-ce que signifie le voyant moteur allumé ? Comment débugger tout ça ?\nSoulevons le capot (électronique), analysons le matériel mis en oeuvre mais surtout le logiciel grâce aux sources des calculateurs \"Megasquirt\" et allons explorer la face cachée numérique de nos voitures.",
       "videoId": null,
-      "presentation": null
+      "presentation": null,
+      "draft": false,
+      "description": "Depuis les années 70 tous les constructeurs autos intégrent des calculateurs électroniques.\nLes moteurs des voitures modernes sont des systèmes informatiques complexes qui s'appuient sur des dizaines de capteurs... et du code. \nComment ça fonctionne ? A quoi ressemble ce code et que fait-il ?\nQu'est-ce qu'il se passe lorsqu'on fait une \"reprog\" ? \nQu'est-ce que signifie le voyant moteur allumé ? Comment débugger tout ça ?\nSoulevons le capot (électronique), analysons le matériel mis en oeuvre mais surtout le logiciel grâce aux sources des calculateurs \"Megasquirt\" et allons explorer la face cachée numérique de nos voitures."
     },
     {
-      "id": "xwAvvIJJfDdBD7N4oGa5",
       "key": "monitoring_ovh__300k_serveurs__27_dcs_une_plateforme_de_metriques",
       "title": "Monitoring OVH: 300k serveurs, 27 DCs une plateforme de métriques ",
-      "level": "beginner",
+      "id": "xwAvvIJJfDdBD7N4oGa5",
       "format": "conference",
       "tags": [
         "big_data___ml___ai"
       ],
+      "level": "beginner",
       "speakers": [
         "horacio_gonzalez__lostinbrittany_"
       ],
-      "draft": false,
-      "description": "Comment faire quand on doit faire le suivi de toute l'infrastructure du plus grand fournisseur de cloud Européen ?  Comment choisir un outil quand les plus populaires ne tient pas la marée à cette échèle ?  Comment construire une plateforme Metrics pour unifier, concilier et remplacer des années de legacy fragmenté et des solutions partielles ?\n\nDans ce talk nous racontons notre expérience sur la construction et la maintenance d'OVH Metrics, la plateforme utilisée pour monitorer toute l'infrastructure OVH. Nous avions besoin d'aller à des endroits ou la plupart de solutions de monitoring ne sont jamais allées, opérer à l'échelle du plus grand fournisseur Européen de cloud et hosting : 27 data centers, plus de 300k serveurs (physiques !) et des centaines de produits pour accomplir notre mission avec nos 1,3 millions de clients.\n\nVenez pour entendre cette histoire de séries temporelles, de solutions open-sources poussées à l'extreme, de clusters HBase opérés en limite de capacité, et de comment une petite équipe  s'est appuyé sur une poignée de solutions open-source et  une bonne dose de code maison pour construire une des solutions de monitoring les plus performantes au monde.",
       "videoId": null,
-      "presentation": null
+      "presentation": null,
+      "draft": false,
+      "description": "Comment faire quand on doit faire le suivi de toute l'infrastructure du plus grand fournisseur de cloud Européen ?  Comment choisir un outil quand les plus populaires ne tient pas la marée à cette échèle ?  Comment construire une plateforme Metrics pour unifier, concilier et remplacer des années de legacy fragmenté et des solutions partielles ?\n\nDans ce talk nous racontons notre expérience sur la construction et la maintenance d'OVH Metrics, la plateforme utilisée pour monitorer toute l'infrastructure OVH. Nous avions besoin d'aller à des endroits ou la plupart de solutions de monitoring ne sont jamais allées, opérer à l'échelle du plus grand fournisseur Européen de cloud et hosting : 27 data centers, plus de 300k serveurs (physiques !) et des centaines de produits pour accomplir notre mission avec nos 1,3 millions de clients.\n\nVenez pour entendre cette histoire de séries temporelles, de solutions open-sources poussées à l'extreme, de clusters HBase opérés en limite de capacité, et de comment une petite équipe  s'est appuyé sur une poignée de solutions open-source et  une bonne dose de code maison pour construire une des solutions de monitoring les plus performantes au monde."
     },
     {
       "key": "office-hour-01",
       "title": "Office Hours",
       "format": "office-hours",
-      "speakers": [],
       "tags": [
         "office-hours"
       ],
-      "description": "Venez poser vos questions aux speakers de manière plus calme et détendu",
-      "draft": false
+      "speakers": [],
+      "draft": false,
+      "description": "Venez poser vos questions aux speakers de manière plus calme et détendu"
     },
     {
       "key": "office-hour-02",
       "title": "Office Hours",
       "format": "office-hours",
-      "speakers": [],
       "tags": [
         "office-hours"
       ],
-      "description": "Venez poser vos questions aux speakers de manière plus calme et détendu",
-      "draft": false
+      "speakers": [],
+      "draft": false,
+      "description": "Venez poser vos questions aux speakers de manière plus calme et détendu"
     },
     {
       "key": "office-hour-03",
       "title": "Office Hours",
       "format": "office-hours",
-      "speakers": [],
       "tags": [
         "office-hours"
       ],
-      "description": "Venez poser vos questions aux speakers de manière plus calme et détendu",
-      "draft": false
+      "speakers": [],
+      "draft": false,
+      "description": "Venez poser vos questions aux speakers de manière plus calme et détendu"
     },
     {
       "key": "office-hour-04",
       "title": "Office Hours",
       "format": "office-hours",
-      "speakers": [],
       "tags": [
         "office-hours"
       ],
-      "description": "Venez poser vos questions aux speakers de manière plus calme et détendu",
-      "draft": false
+      "speakers": [],
+      "draft": false,
+      "description": "Venez poser vos questions aux speakers de manière plus calme et détendu"
     },
     {
       "key": "office-hour-05",
       "title": "Office Hours",
       "format": "office-hours",
-      "speakers": [],
       "tags": [
         "office-hours"
       ],
-      "description": "Venez poser vos questions aux speakers de manière plus calme et détendu",
-      "draft": false
+      "speakers": [],
+      "draft": false,
+      "description": "Venez poser vos questions aux speakers de manière plus calme et détendu"
     },
     {
       "key": "office-hour-06",
       "title": "Office Hours",
       "format": "office-hours",
-      "speakers": [],
       "tags": [
         "office-hours"
       ],
-      "description": "Venez poser vos questions aux speakers de manière plus calme et détendu",
-      "draft": false
+      "speakers": [],
+      "draft": false,
+      "description": "Venez poser vos questions aux speakers de manière plus calme et détendu"
     },
     {
       "key": "office-hour-11",
       "title": "Office Hours",
       "format": "office-hours",
-      "speakers": [],
       "tags": [
         "office-hours"
       ],
-      "description": "Venez poser vos questions aux speakers de manière plus calme et détendu",
-      "draft": false
+      "speakers": [],
+      "draft": false,
+      "description": "Venez poser vos questions aux speakers de manière plus calme et détendu"
     },
     {
       "key": "office-hour-12",
       "title": "Office Hours",
       "format": "office-hours",
-      "speakers": [],
       "tags": [
         "office-hours"
       ],
-      "description": "Venez poser vos questions aux speakers de manière plus calme et détendu",
-      "draft": false
+      "speakers": [],
+      "draft": false,
+      "description": "Venez poser vos questions aux speakers de manière plus calme et détendu"
     },
     {
-      "id": "R9O1S7M9oRMmwd0cNBaz",
       "key": "premiers_pas_avec_un_microcontroleur_et_google_cloud_iot_core",
       "title": "Premiers pas avec un microcontrôleur et Google Cloud IoT Core",
-      "level": "beginner",
+      "id": "R9O1S7M9oRMmwd0cNBaz",
       "format": "conference",
       "tags": [
         "iot"
       ],
+      "level": "beginner",
       "speakers": [
         "gautier_mechling"
       ],
-      "draft": false,
-      "description": "De nombreux services en ligne existent pour gérer en toute sécurité des appareils IoT à grande échelle : \"Azure IoT\" de Microsoft et \"AWS IoT\" d'Amazon sont parmi les plus connus.\n\nGoogle propose également sa solution : \"Cloud IoT\" basée sur la plate-forme Google Cloud (GCP).\nDans ce talk, nous partirons d'un microcontrôleur neuf ultra connu et abordable, et notre but sera tout d'abord de découvrir comment écrire du code pour ce composant nous permettant de récupérer des informations sur notre environnement.\nEnsuite, nous ferons en sorte que ce composant envoie ses données vers un service Cloud, pour enfin découvrir ce que permettent ces solutions en ligne dédiées à l'IoT.\n\nPour l'exemple, et parce qu'il faut bien choisir une solution, nous utiliserons Google Cloud IoT Core, les concepts restant similaires sur les autres plate-formes.",
       "videoId": null,
-      "presentation": null
+      "presentation": null,
+      "draft": false,
+      "description": "De nombreux services en ligne existent pour gérer en toute sécurité des appareils IoT à grande échelle : \"Azure IoT\" de Microsoft et \"AWS IoT\" d'Amazon sont parmi les plus connus.\n\nGoogle propose également sa solution : \"Cloud IoT\" basée sur la plate-forme Google Cloud (GCP).\nDans ce talk, nous partirons d'un microcontrôleur neuf ultra connu et abordable, et notre but sera tout d'abord de découvrir comment écrire du code pour ce composant nous permettant de récupérer des informations sur notre environnement.\nEnsuite, nous ferons en sorte que ce composant envoie ses données vers un service Cloud, pour enfin découvrir ce que permettent ces solutions en ligne dédiées à l'IoT.\n\nPour l'exemple, et parce qu'il faut bien choisir une solution, nous utiliserons Google Cloud IoT Core, les concepts restant similaires sur les autres plate-formes."
     },
     {
-      "id": "ZsAGxn6UZi1hfzz2bwR7",
       "key": "quand_les_rates_des_ias_nous_renvoient_a_nos_propres_biais_societaux",
       "title": "Quand les ratés des IAs nous renvoient à nos propres biais sociétaux",
-      "level": "beginner",
+      "id": "ZsAGxn6UZi1hfzz2bwR7",
       "format": "conference",
       "tags": [
         "big_data___ml___ai"
       ],
+      "level": "beginner",
       "speakers": [
         "clement_duffau",
         "melanie_ducoffe"
       ],
-      "draft": false,
-      "description": "Un chatbot créé par Microsoft qui dérive avec des propos antisémites, Amazon qui scanne des CVs et finit par ne recruter que des hommes blancs, des algorithmes de reconnaissance faciale qui ont du mal avec les personnes de couleur noire, ... Que d'exemples où l'IA a intégré nos propres biais sociétaux. Il est urgent que nous, développeurs, prenions nos responsabilités et mesurons les enjeux éthiques de l'IA pour éviter que les stéréotypes, les inégalités et les préjugés se retrouvent au cœur de nos futurs systèmes.\n\nCette présentation propose des root cause analysis sur des exemples concrets de ces biais et présente des alternatives qui auraient permis d'éviter ces biais en \"production\" autant d'un point de vue humain que technique.\n\nNous verrons notamment que l’éthique peut directement être abordée au niveau des données et de leur préparation à l’apprentissage. Nous nous concentrerons principalement sur l’impact des statistiques des données d’entraînement et les transformations à appliquer en pré-processing (métriques de fairness, améliorer la fairness sur des données annotées), et nous montrerons comment des benchmarks permettent d'appréhender l’impact des méthodes de fairness sur la précision des modèles entraînés.\n\nLa confiance et l’équité passe avant tout par une compréhension de la prise de décision par l’utilisateur. Par conséquent, nous présenterons diverses méthodes pour expliquer la prise de décision d’un modèle boîte noire (principalement des algorithmes de deep learning) et mettons en garde contre une mauvaise interprétation de ces explications.",
       "videoId": null,
-      "presentation": null
+      "presentation": null,
+      "draft": false,
+      "description": "Un chatbot créé par Microsoft qui dérive avec des propos antisémites, Amazon qui scanne des CVs et finit par ne recruter que des hommes blancs, des algorithmes de reconnaissance faciale qui ont du mal avec les personnes de couleur noire, ... Que d'exemples où l'IA a intégré nos propres biais sociétaux. Il est urgent que nous, développeurs, prenions nos responsabilités et mesurons les enjeux éthiques de l'IA pour éviter que les stéréotypes, les inégalités et les préjugés se retrouvent au cœur de nos futurs systèmes.\n\nCette présentation propose des root cause analysis sur des exemples concrets de ces biais et présente des alternatives qui auraient permis d'éviter ces biais en \"production\" autant d'un point de vue humain que technique.\n\nNous verrons notamment que l’éthique peut directement être abordée au niveau des données et de leur préparation à l’apprentissage. Nous nous concentrerons principalement sur l’impact des statistiques des données d’entraînement et les transformations à appliquer en pré-processing (métriques de fairness, améliorer la fairness sur des données annotées), et nous montrerons comment des benchmarks permettent d'appréhender l’impact des méthodes de fairness sur la précision des modèles entraînés.\n\nLa confiance et l’équité passe avant tout par une compréhension de la prise de décision par l’utilisateur. Par conséquent, nous présenterons diverses méthodes pour expliquer la prise de décision d’un modèle boîte noire (principalement des algorithmes de deep learning) et mettons en garde contre une mauvaise interprétation de ces explications."
     },
     {
-      "id": "niiUNFAFhYnPBiOrcDVf",
       "key": "rockin_in_the_angular_world",
       "title": "Rockin’ in the Angular World",
-      "level": "intermediate",
+      "id": "niiUNFAFhYnPBiOrcDVf",
+      "language": "Français",
       "format": "conference",
       "tags": [
         "web"
       ],
+      "level": "intermediate",
       "speakers": [
         "vincent_ogloblinsky",
         "wassim_chegham"
       ],
-      "draft": false,
-      "description": "_« Make it work, make it right, make it fast »_ - Kent Beck\n\nNous connaissons tous cette citation. Pourtant nous sommes dès fois trop souvent restés bloqué à l’étape 1 par manque de temps ou de priorisation.\n\nL’accueil d’un nouveau développeur·euse dans une équipe est un des meilleurs moments pour vérifier qu’une base de code est « saine et scalable ».\n\nNous vous proposons dans ce talk un retour d’expérience sur quelques années de consulting sur des projets Angular au travers de cas concrets :\n- quelles sont les mauvaises pratiques à éviter ?\n- quels sont les choix orientés et assumés d’Angular pour vous éviter tout ça ?\n- quelque soit la taille de votre équipe, l’expérience de vos collègues, quels sont les  principes d’architecture à adopter pour améliorer tout ça ?",
       "videoId": null,
       "presentation": null,
-      "language": "Français"
+      "draft": false,
+      "description": "_« Make it work, make it right, make it fast »_ - Kent Beck\n\nNous connaissons tous cette citation. Pourtant nous sommes dès fois trop souvent restés bloqué à l’étape 1 par manque de temps ou de priorisation.\n\nL’accueil d’un nouveau développeur·euse dans une équipe est un des meilleurs moments pour vérifier qu’une base de code est « saine et scalable ».\n\nNous vous proposons dans ce talk un retour d’expérience sur quelques années de consulting sur des projets Angular au travers de cas concrets :\n- quelles sont les mauvaises pratiques à éviter ?\n- quels sont les choix orientés et assumés d’Angular pour vous éviter tout ça ?\n- quelque soit la taille de votre équipe, l’expérience de vos collègues, quels sont les  principes d’architecture à adopter pour améliorer tout ça ?"
     },
     {
-      "id": "2S9XtGGq3ouHnkivEDKC",
       "key": "rust__webassembly__and_the_future_of_serverless",
       "title": "Rust, WebAssembly, and the future of Serverless",
-      "level": "intermediate",
+      "id": "2S9XtGGq3ouHnkivEDKC",
+      "language": "United States",
       "format": "conference",
       "tags": [
         "cloud___infra"
       ],
+      "level": "intermediate",
       "speakers": [
         "steve_klabnik"
       ],
-      "draft": false,
-      "description": "A lot of things have been said about WebAssembly inside of the\nbrowser; after all, that's why it was originally created. But a new\ncase is emerging as well, and that's WebAssembly on the server. More\nspecifically, we're seeing a rise of support for WebAssembly in\nserverless application platforms, combining two brand-new technologies\ntogether. We're also seeing a lot of growth of the Rust programming\nlanguage, and its close alignment with WebAssembly. In this talk,\nSteve will talk about Rust, WebAssembly, serverless technologies, and\nhow it all fits together.",
       "videoId": null,
       "presentation": null,
-      "language": "United States"
+      "draft": false,
+      "description": "A lot of things have been said about WebAssembly inside of the\nbrowser; after all, that's why it was originally created. But a new\ncase is emerging as well, and that's WebAssembly on the server. More\nspecifically, we're seeing a rise of support for WebAssembly in\nserverless application platforms, combining two brand-new technologies\ntogether. We're also seeing a lot of growth of the Rust programming\nlanguage, and its close alignment with WebAssembly. In this talk,\nSteve will talk about Rust, WebAssembly, serverless technologies, and\nhow it all fits together."
     },
     {
-      "id": "PjQDGsFIQoo1By4Ogv3q",
       "key": "rust_as_a_high_level_langage",
       "title": "Rust as a High-Level Langage",
-      "level": "beginner",
+      "id": "PjQDGsFIQoo1By4Ogv3q",
+      "language": "English",
       "format": "conference",
       "tags": [
         "languages"
       ],
+      "level": "beginner",
       "speakers": [
         "aleksey_kladov"
       ],
-      "draft": false,
-      "description": "The singe most important feature of Rust is memory safety. Writing code with performance of C++, at a typical development cost, and with guaranteed absence of certain classes of memory safety related vulnerabilities is something that was not possible before. \n\nHowever, all popular managed languages with garbage collection take memory safety for granted, so this aspect of Rust doesn't bring anything new to the table, if you already use Java or Go. Nevertheless, Rust can be an interesting choice as a high-level language, and this talks explains way.  \n\nThe focus of the talk is fearless concurrency. Data races are a pervasive and unsolved problem in languages like Java and Rust's guaranteed thread safety is a liberating experience for application development. We also touch on some other benefits of the language for high-level tasks:\n\n* predictable performance due to absence of garbage  collection\n*  control over the memory layout of objects, which gives you extra performance if you need it\n*  module (crate) system that, at the language level, prevents dependency hell\n* additional correctness guarantees, like the absence of iterator validation or strict control of error conditions",
       "videoId": null,
       "presentation": null,
-      "language": "English"
+      "draft": false,
+      "description": "The singe most important feature of Rust is memory safety. Writing code with performance of C++, at a typical development cost, and with guaranteed absence of certain classes of memory safety related vulnerabilities is something that was not possible before. \n\nHowever, all popular managed languages with garbage collection take memory safety for granted, so this aspect of Rust doesn't bring anything new to the table, if you already use Java or Go. Nevertheless, Rust can be an interesting choice as a high-level language, and this talks explains way.  \n\nThe focus of the talk is fearless concurrency. Data races are a pervasive and unsolved problem in languages like Java and Rust's guaranteed thread safety is a liberating experience for application development. We also touch on some other benefits of the language for high-level tasks:\n\n* predictable performance due to absence of garbage  collection\n*  control over the memory layout of objects, which gives you extra performance if you need it\n*  module (crate) system that, at the language level, prevents dependency hell\n* additional correctness guarantees, like the absence of iterator validation or strict control of error conditions"
     },
     {
-      "id": "RhWn82dKmICiQulwcVJF",
       "key": "the_freedom_of_static_typing",
       "title": "The Freedom of Static Typing",
-      "level": "intermediate",
+      "id": "RhWn82dKmICiQulwcVJF",
+      "language": "English",
       "format": "conference",
       "tags": [
         "languages"
       ],
+      "level": "intermediate",
       "speakers": [
         "andrew_radev"
       ],
-      "draft": false,
-      "description": "It's a common idea: Dynamic typing gives you freedom to do whatever you want, but then you suffer mistakes and runtime errors. Static typing limits your freedom, but it leads to fewer bugs, even if it's harder to actually write code.\n\nThis isn't entirely false. Yes, it can be quite hard to write a Rust or Haskell program that compiles, enough that it's a running gag in their communities. \"But once you get it to compile, it's probably correct!\", the joke goes. On the other hand, when writing Ruby or Javascript, you're free to call functions with all sorts of things, and then runtime errors can easily slip into production. That said, it's not as simple as a sliding scale between \"freedom\" and \"safety\". Neither of these terms is one-dimensional -- a language feature that restricts your freedom in one way can actually free you in different ways.\n\nI'd like to demonstrate some interesting language features in Rust that make it easier to write code and to express concepts compared to dynamic languages. Features that don't just protect you from shooting your foot, but give you power that's only available within the rules and \"limitations\" of a statically typed language. Even if you're not familiar with Rust, I hope to focus the examples on the features themselves rather than on the specifics of the language, so come by and let's talk about being (type-safely) free.",
       "videoId": null,
       "presentation": null,
-      "language": "English"
+      "draft": false,
+      "description": "It's a common idea: Dynamic typing gives you freedom to do whatever you want, but then you suffer mistakes and runtime errors. Static typing limits your freedom, but it leads to fewer bugs, even if it's harder to actually write code.\n\nThis isn't entirely false. Yes, it can be quite hard to write a Rust or Haskell program that compiles, enough that it's a running gag in their communities. \"But once you get it to compile, it's probably correct!\", the joke goes. On the other hand, when writing Ruby or Javascript, you're free to call functions with all sorts of things, and then runtime errors can easily slip into production. That said, it's not as simple as a sliding scale between \"freedom\" and \"safety\". Neither of these terms is one-dimensional -- a language feature that restricts your freedom in one way can actually free you in different ways.\n\nI'd like to demonstrate some interesting language features in Rust that make it easier to write code and to express concepts compared to dynamic languages. Features that don't just protect you from shooting your foot, but give you power that's only available within the rules and \"limitations\" of a statically typed language. Even if you're not familiar with Rust, I hope to focus the examples on the features themselves rather than on the specifics of the language, so come by and let's talk about being (type-safely) free."
     },
     {
-      "id": "0MXH99V8NY9xyeurYCmA",
       "key": "the_rise_of_the_web",
       "title": "The rise of the web",
-      "level": "beginner",
+      "id": "0MXH99V8NY9xyeurYCmA",
       "format": "conference",
       "tags": [
         "web"
       ],
+      "level": "beginner",
       "speakers": [
         "loic_ortola"
       ],
-      "draft": false,
-      "description": "Il y a 20 ans, personne de **sobre** n’aurait utilisé Javascript pour autre chose que des étoiles filantes qui sortent de ta souris. Non, à l'époque, on préférait les serveurs d'application en Java!  \nAujourd’hui, non seulement on a des frameworks front, mais il y a même des hipsters qui font du backend avec... Et depuis, on fait des APIs.  \n**Comment en est-on arrivé là?**  \nC’est ça inspecteur. C’est ça la bonne question.\n\nSi tu ne les as pas vécus, viens découvrir l'arrivée du Web, l'histoire de Netscape, la browser-war, la naissance du serveur d'application, les débuts du web dynamique et la prise d'assaut du JS.\n\nSit back, relax, and Enjoy!",
       "videoId": null,
-      "presentation": null
+      "presentation": null,
+      "draft": false,
+      "description": "Il y a 20 ans, personne de **sobre** n’aurait utilisé Javascript pour autre chose que des étoiles filantes qui sortent de ta souris. Non, à l'époque, on préférait les serveurs d'application en Java!  \nAujourd’hui, non seulement on a des frameworks front, mais il y a même des hipsters qui font du backend avec... Et depuis, on fait des APIs.  \n**Comment en est-on arrivé là?**  \nC’est ça inspecteur. C’est ça la bonne question.\n\nSi tu ne les as pas vécus, viens découvrir l'arrivée du Web, l'histoire de Netscape, la browser-war, la naissance du serveur d'application, les débuts du web dynamique et la prise d'assaut du JS.\n\nSit back, relax, and Enjoy!"
     },
     {
-      "id": "ZmSIPnuidcxjKLVfEKM8",
       "key": "un_distributeur_automatique_d_argent_de_poche_pour_les_enfants",
       "title": "Un distributeur automatique d'argent de poche pour les enfants",
-      "level": "beginner",
+      "id": "ZmSIPnuidcxjKLVfEKM8",
+      "language": "Français",
       "format": "quickie",
       "tags": [
         "wtf"
       ],
+      "level": "beginner",
       "speakers": [
         "richard_fagot"
       ],
-      "draft": false,
-      "description": "Avec mon épouse nous avons commencer à donner de l'argent de poche à nos enfants.\n\n![Calvin et l'argent de poche](https://i.pinimg.com/originals/ad/47/94/ad47940ca35ce4bd5122a916abf9f589.png)\n\nPour qu'ils puissent faire comme les grands (et parce que c'est fun aussi :D) j'ai conçu un DAAP (**D**istributeur **A**utomatique d'**A**rgent de **P**oche) qui leur permet, le jour de la distribution de l'argent de poche, d'insérer  leur \"carte bleue\", saisir leur code et de voir la machine s'ébranler pour distribuer les pièces.\n\nDans ce talk on parlera d'Arduino, d'impression 3D, de carte à puce, d'électronique et des problèmes que j'ai rencontré et comment j'ai pu les résoudre.",
       "videoId": null,
       "presentation": null,
-      "language": "Français"
+      "draft": false,
+      "description": "Avec mon épouse nous avons commencer à donner de l'argent de poche à nos enfants.\n\n![Calvin et l'argent de poche](https://i.pinimg.com/originals/ad/47/94/ad47940ca35ce4bd5122a916abf9f589.png)\n\nPour qu'ils puissent faire comme les grands (et parce que c'est fun aussi :D) j'ai conçu un DAAP (**D**istributeur **A**utomatique d'**A**rgent de **P**oche) qui leur permet, le jour de la distribution de l'argent de poche, d'insérer  leur \"carte bleue\", saisir leur code et de voir la machine s'ébranler pour distribuer les pièces.\n\nDans ce talk on parlera d'Arduino, d'impression 3D, de carte à puce, d'électronique et des problèmes que j'ai rencontré et comment j'ai pu les résoudre."
     },
     {
-      "id": "5qTyscBWtXLRb04TXEdB",
       "key": "webgpu__next_generation_3d_graphics_on_the_web",
       "title": "WebGPU: Next-generation 3D Graphics on the Web",
-      "level": "intermediate",
+      "id": "5qTyscBWtXLRb04TXEdB",
       "format": "conference",
       "tags": [
         "web"
       ],
+      "level": "intermediate",
       "speakers": [
         "corentin_wallez"
       ],
-      "draft": false,
-      "description": "This talk will give an overview of the WebGPU API that will provide modern features such as “GPU compute” on the Web as well as lower overhead access to GPU hardware and better, more predictable performance. This will allow for much more graphically intensive games on the Web and boost performance of frameworks like Tensorflow.js up to 10x.",
       "videoId": null,
-      "presentation": null
+      "presentation": null,
+      "draft": false,
+      "description": "This talk will give an overview of the WebGPU API that will provide modern features such as “GPU compute” on the Web as well as lower overhead access to GPU hardware and better, more predictable performance. This will allow for much more graphically intensive games on the Web and boost performance of frameworks like Tensorflow.js up to 10x."
     }
   ],
   "speakers": [
     {
       "key": "adrien_anceau",
+      "name": "ADRIEN ANCEAU",
       "id": "y0wL4Q9ZnxdOvpCvlaejITZcPBq2",
       "feature": false,
-      "name": "ADRIEN ANCEAU",
       "company": "Airbus",
       "city": "Toulouse, France",
       "photoURL": "/images/speakers/adrien_anceau.jpg",
@@ -819,9 +836,9 @@
     },
     {
       "key": "aleksey_kladov",
+      "name": "Aleksey Kladov",
       "id": "PZ3g6x42k9cu5e9siNoFQV8Z6jy2",
       "feature": false,
-      "name": "Aleksey Kladov",
       "company": "Ferrous Systems",
       "city": "St Petersburg, Russia",
       "photoURL": "/images/speakers/aleksey_kladov.jpg",
@@ -836,9 +853,9 @@
     },
     {
       "key": "alessio_coltellacci",
+      "name": "Alessio Coltellacci",
       "id": "EP7LDG2i6YgiNs027aplFVhEbv12",
       "feature": false,
-      "name": "Alessio Coltellacci",
       "company": "Clever Cloud",
       "city": "Toulouse, France",
       "photoURL": "/images/speakers/alessio_coltellacci.jpg",
@@ -858,9 +875,9 @@
     },
     {
       "key": "andrew_radev",
+      "name": "Andrew Radev",
       "id": "e5GCt0Q7jSSgVtPTzfUFplteFMm1",
       "feature": false,
-      "name": "Andrew Radev",
       "city": "Sofia, Bulgaria",
       "photoURL": "/images/speakers/andrew_radev.jpg",
       "socials": [
@@ -879,9 +896,9 @@
     },
     {
       "key": "christophe_jollivet",
+      "name": "Christophe Jollivet",
       "id": "CQO7iVm9GWb4jFPi3xmIUnsyY5r2",
       "feature": false,
-      "name": "Christophe Jollivet",
       "company": "Apside",
       "city": "Tours, France",
       "photoURL": "/images/speakers/christophe_jollivet.jpg",
@@ -901,9 +918,9 @@
     },
     {
       "key": "clement_duffau",
+      "name": "Clément Duffau",
       "id": "XDO4bqPAuJRWnEAJtNW9bCg09Of2",
       "feature": false,
-      "name": "Clément Duffau",
       "company": "Stack Labs",
       "city": "Toulouse, France",
       "photoURL": "/images/speakers/clement_duffau.jpg",
@@ -923,9 +940,9 @@
     },
     {
       "key": "corentin_wallez",
+      "name": "Corentin Wallez",
       "id": "KkCVbJvhE1OL1Dd51U4t9H54iFT2",
       "feature": true,
-      "name": "Corentin Wallez",
       "company": "Google",
       "city": "Paris, France",
       "photoURL": "/images/speakers/corentin_wallez.png",
@@ -945,9 +962,9 @@
     },
     {
       "key": "cyril_delmas",
+      "name": "Cyril Delmas",
       "id": "1A7LmMXk8EdzhOdUpo6TUAXgBrV2",
       "feature": false,
-      "name": "Cyril Delmas",
       "company": "Lectra",
       "city": "Mérignac, France",
       "photoURL": "/images/speakers/cyril_delmas.jpg",
@@ -967,9 +984,9 @@
     },
     {
       "key": "erik_rasmussen",
+      "name": "Erik Rasmussen",
       "id": "0JlQCEoQQcPx7v0mk1OCQMMKqNz2",
       "feature": true,
-      "name": "Erik Rasmussen",
       "city": "Cantabria, Spain",
       "photoURL": "/images/speakers/erik_rasmussen.jpg",
       "socials": [
@@ -988,9 +1005,9 @@
     },
     {
       "key": "estelle_landry_",
+      "name": "Estelle Landry ☀️",
       "id": "JkWN4X6967cvBrV2x8vKf1QrHS93",
       "feature": false,
-      "name": "Estelle Landry ☀️",
       "company": "Elium",
       "city": "Montpellier, France",
       "photoURL": "/images/speakers/estelle_landry_.jpg",
@@ -1005,9 +1022,9 @@
     },
     {
       "key": "francois_guillaume_ribreau",
+      "name": "Francois-Guillaume Ribreau",
       "id": "HaMEPZSMBscJU4Adj9VF8brrL5h1",
       "feature": false,
-      "name": "Francois-Guillaume Ribreau",
       "company": "Ouest-France/Image-Charts",
       "city": "Rennes, France",
       "photoURL": "/images/speakers/francois_guillaume_ribreau.jpg",
@@ -1027,9 +1044,9 @@
     },
     {
       "key": "francois_teychene",
+      "name": "François Teychene",
       "id": "EZdFes7RoSTGQJO5uOBCqSeyGvv2",
       "feature": false,
-      "name": "François Teychene",
       "company": "Saagie",
       "city": "Montpellier, France",
       "photoURL": "/images/speakers/francois_teychene.jpg",
@@ -1049,9 +1066,9 @@
     },
     {
       "key": "fs0c131y",
+      "name": "fs0c131y",
       "id": "e4GVXSs1fWTLOuXVs7H4l7ZE4gB3",
       "feature": true,
-      "name": "fs0c131y",
       "city": "Toulouse, France",
       "photoURL": "/images/speakers/fs0c131y.jpg",
       "socials": [
@@ -1065,9 +1082,9 @@
     },
     {
       "key": "gautier_mechling",
+      "name": "Gautier Mechling",
       "id": "11mlK9RAq6f3pU5MCJ95B13oMmr1",
       "feature": false,
-      "name": "Gautier Mechling",
       "company": "Nilhcem",
       "city": "Paris, France",
       "photoURL": "/images/speakers/gautier_mechling.jpg",
@@ -1087,9 +1104,9 @@
     },
     {
       "key": "gilles_debunne",
+      "name": "Gilles Debunne",
       "id": "iEtQubdXhDY3HBP9y3XqKbr9tFo1",
       "feature": false,
-      "name": "Gilles Debunne",
       "company": "Freelance",
       "city": "Toulouse, France",
       "photoURL": "/images/speakers/gilles_debunne.jpg",
@@ -1109,9 +1126,9 @@
     },
     {
       "key": "guillaume_andrieu",
+      "name": "Guillaume Andrieu",
       "id": "NMwgV3lXIOdtAaM8cgu7pIdFECO2",
       "feature": false,
-      "name": "Guillaume Andrieu",
       "company": "MonkeyPatch",
       "city": "Toulouse, France",
       "photoURL": "/images/speakers/guillaume_andrieu.png",
@@ -1131,9 +1148,9 @@
     },
     {
       "key": "guillaume_smet",
+      "name": "Guillaume Smet",
       "id": "HahzK1wXnxSyzyhcphrn5DBgBct2",
       "feature": false,
-      "name": "Guillaume Smet",
       "company": "Red Hat",
       "city": "Lyon, France",
       "photoURL": "/images/speakers/guillaume_smet.jpg",
@@ -1153,9 +1170,9 @@
     },
     {
       "key": "horacio_gonzalez__lostinbrittany_",
+      "name": "Horacio Gonzalez (LostInBrittany)",
       "id": "pYuiGicpt0MenD8NEMhZXtk6VSr1",
       "feature": false,
-      "name": "Horacio Gonzalez (LostInBrittany)",
       "company": "OVH",
       "city": "Brest, France",
       "photoURL": "/images/speakers/horacio_gonzalez__lostinbrittany_.jpg",
@@ -1175,9 +1192,9 @@
     },
     {
       "key": "jeremy_voisin",
+      "name": "Jérémy Voisin",
       "id": "umDrfx7WeEQRicrwBAbLUu6B5By1",
       "feature": false,
-      "name": "Jérémy Voisin",
       "company": "Apside",
       "city": "Le Mans, France",
       "photoURL": "/images/speakers/jeremy_voisin.jpg",
@@ -1197,9 +1214,9 @@
     },
     {
       "key": "juliane_blier",
+      "name": "Juliane Blier",
       "id": "FYLUEJTslJOXNAWDOykmi4Cz74s2",
       "feature": false,
-      "name": "Juliane Blier",
       "company": "SchoolMouv",
       "city": "Toulouse, France",
       "photoURL": "/images/speakers/juliane_blier.jpg",
@@ -1219,9 +1236,9 @@
     },
     {
       "key": "kfnue96dm9g1zobctf4gvzdolrp2",
+      "name": "Cédric Moulard",
       "id": "KFNUe96DM9g1zobCtf4GVzdoLRp2",
       "feature": false,
-      "name": "Cédric Moulard",
       "company": "Open",
       "city": "Aix-en-Provence, France",
       "photoURL": "/images/speakers/kfnue96dm9g1zobctf4gvzdolrp2.jpg",
@@ -1241,11 +1258,11 @@
     },
     {
       "key": "liliia_abdulina",
-      "feature": false,
       "name": "Liliia Abdulina",
-      "photoURL": "/images/speakers/liliia_abdulina.jpg",
+      "feature": false,
       "company": "JetBrains",
       "city": "Munich, Germany",
+      "photoURL": "/images/speakers/liliia_abdulina.jpg",
       "socials": [
         {
           "icon": "twitter",
@@ -1257,9 +1274,9 @@
     },
     {
       "key": "loic_ortola",
+      "name": "Loïc Ortola",
       "id": "8nSCFV8Ne4WLjfP2IBNdoLVMtNV2",
       "feature": false,
-      "name": "Loïc Ortola",
       "company": "Takima",
       "city": "Paris, France",
       "photoURL": "/images/speakers/loic_ortola.jpg",
@@ -1278,10 +1295,19 @@
       "description": "Loïc is the senior advocate of Takima, and CTO of Jawg Maps. \nJVM-based languages, Application performance, DevOps & Automation, Dev Discipline and Tech for Good are his primary targets!\n\nSince last year, Loïc has been orchestrating R&D in the taskforce named Hackers Against Natural Disasters, an organization that creates and deviates technologies to help raise awareness around the risks of Natural Disasters."
     },
     {
+      "key": "lois_blanc",
+      "name": "Loïs Blanc",
+      "feature": false,
+      "city": "Vallauris, France",
+      "photoURL": "/images/speakers/lois_blanc.jpg",
+      "socials": [],
+      "description": "Loïs est en sixième et a eut son jaillissement de l’esprit en découvrant qu’il pouvait coder un Mario Bros avec Scratch. \n"
+    },
+    {
       "key": "marie_viley",
+      "name": "Marie Viley",
       "id": "hPV9avMI5RW70VtkyjGLO1c1MRO2",
       "feature": true,
-      "name": "Marie Viley",
       "company": "Zenika",
       "city": "Nantes, France",
       "photoURL": "/images/speakers/marie_viley.jpg",
@@ -1296,9 +1322,9 @@
     },
     {
       "key": "mathieu_passenaud",
+      "name": "Mathieu Passenaud",
       "id": "JLEDSTiwyJX5AxGAw1GZjv7X23a2",
       "feature": false,
-      "name": "Mathieu Passenaud",
       "company": "please-open.it",
       "city": "Toulouse, France",
       "photoURL": "/images/speakers/mathieu_passenaud.jpg",
@@ -1307,9 +1333,9 @@
     },
     {
       "key": "melanie_ducoffe",
+      "name": "Mélanie Ducoffe",
       "id": "ZnEio3GkUXNUuJjcbDvftFawfvu1",
       "feature": false,
-      "name": "Mélanie Ducoffe",
       "company": "Airbus",
       "city": "Toulouse, France",
       "photoURL": "/images/speakers/melanie_ducoffe.jpg",
@@ -1329,9 +1355,9 @@
     },
     {
       "key": "nicolas_decoster",
+      "name": "Nicolas Decoster",
       "id": "kM7lbPEBt1XvvaYomE9Gz5wj8UT2",
       "feature": false,
-      "name": "Nicolas Decoster",
       "company": "Magellium",
       "city": "Toulouse, France",
       "photoURL": "/images/speakers/nicolas_decoster.png",
@@ -1346,9 +1372,9 @@
     },
     {
       "key": "noel_mace",
+      "name": "Noël Macé",
       "id": "0alFaI2imGdQVSjuaMLFFfwqoL62",
       "feature": false,
-      "name": "Noël Macé",
       "company": "BonitaSoft",
       "city": "Toulouse, France",
       "photoURL": "/images/speakers/noel_mace.jpg",
@@ -1368,9 +1394,9 @@
     },
     {
       "key": "olivier_leplus",
+      "name": "Olivier Leplus",
       "id": "DNlgKL7C5DNK0y48Lf7ylPB4bmk2",
       "feature": false,
-      "name": "Olivier Leplus",
       "company": "Microsoft",
       "city": "Paris, France",
       "photoURL": "/images/speakers/olivier_leplus.jpg",
@@ -1390,9 +1416,9 @@
     },
     {
       "key": "piotr_przybyl",
+      "name": "Piotr Przybyl",
       "id": "D1UJEdrxhHQowlM2LoIusKF26ir2",
       "feature": false,
-      "name": "Piotr Przybyl",
       "company": "@piotrprz",
       "city": "Wroclaw, Poland",
       "photoURL": "/images/speakers/piotr_przybyl.png",
@@ -1412,9 +1438,9 @@
     },
     {
       "key": "qj7nbl6wiyug1rhqtxf818a46po1",
+      "name": "Yves Boyez",
       "id": "qJ7nBL6wIyUg1RHqtxF818a46po1",
       "feature": false,
-      "name": "qJ7nBL6wIyUg1RHqtxF818a46po1",
       "company": "Continental Digital Service France",
       "city": "Toulouse, France",
       "photoURL": "/images/speakers/qj7nbl6wiyug1rhqtxf818a46po1.jpg",
@@ -1434,9 +1460,9 @@
     },
     {
       "key": "richard_fagot",
+      "name": "Richard Fagot",
       "id": "bkL5Pq4gnZMLVm7nwWNW3FU3c8n1",
       "feature": false,
-      "name": "Richard Fagot",
       "city": "Toulouse, France",
       "photoURL": "/images/speakers/richard_fagot.jpg",
       "socials": [
@@ -1454,10 +1480,39 @@
       "description": "Tombé dans l'informatique vers l'age de 8 ans, j'en ai fait mon métier et si, après plusieurs années à faire du développement, je suis aujour'hui chef de projet je reste un curieux inlassable, tant intéressé par les technologies, l'artisanat que l'humain."
     },
     {
+      "key": "saskia_blanc",
+      "name": "Saskia Blanc",
+      "feature": false,
+      "city": "Vallauris, France",
+      "photoURL": "/images/speakers/saskia_blanc.jpg",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/SaskiaLois"
+        }
+      ],
+      "description": "Saskia est en troisième et est passionnée par la programmation. \nElle a déjà 3 keynotes à son actif ainsi qu’un talk à DevoxxFR. \n"
+    },
+    {
+      "key": "sebastien_blanc",
+      "name": "Sébastien Blanc",
+      "feature": false,
+      "company": "Red Hat",
+      "city": "Vallauris, France",
+      "photoURL": "/images/speakers/sebastien_blanc.jpg",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/sebi2706"
+        }
+      ],
+      "description": "Sébastien travaille actuellement pour Red Hat, il fait partie de l’équipe KeyCloak qui délivre un serveur Open Source d'authentification et de gestion d'identité. Il aime également partager sa passion du code et notamment sur la façon de transmettre cette passion aux générations futures. \n"
+    },
+    {
       "key": "sebastien_brault",
+      "name": "Sébastien Brault",
       "id": "GMZkedB6bYXQ2J5rJ9aIodIyXV92",
       "feature": false,
-      "name": "Sébastien Brault",
       "company": "Orange",
       "city": "Trégastel, France",
       "photoURL": "/images/speakers/sebastien_brault.png",
@@ -1472,20 +1527,20 @@
     },
     {
       "key": "steve_klabnik",
+      "name": "Steve Klabnik",
       "id": "IVSIqKtM09Zue39kzfFz7b7qPd93",
       "feature": true,
-      "name": "Steve Klabnik",
       "company": "Cloudflare",
-      "city": "Austin, TX",
+      "city": "Austin, TX, USA",
       "photoURL": "/images/speakers/steve_klabnik.jpg",
       "socials": [],
       "description": "Steve is on the core team of Rust, leads the documentation team, and is an author of The Rust Programming Language. Klabnik is a frequent speaker at conferences and is a prolific open source contributor, previously working on projects such as Ruby and Ruby on Rails."
     },
     {
       "key": "sylvain_wallez",
+      "name": "Sylvain Wallez",
       "id": "J2kgJ25uKngYv9G4PSWj0Cw9fcA3",
       "feature": false,
-      "name": "Sylvain Wallez",
       "company": "Elastic",
       "city": "Toulouse, France",
       "photoURL": "/images/speakers/sylvain_wallez.jpg",
@@ -1505,9 +1560,9 @@
     },
     {
       "key": "theophile_wallez",
+      "name": "Theophile Wallez",
       "id": "LuqEI6DZnoeJYQdQ1KHsKrj57Pm1",
       "feature": false,
-      "name": "Theophile Wallez",
       "company": "ENS Ulm",
       "city": "Paris, France",
       "photoURL": "/images/speakers/theophile_wallez.png",
@@ -1527,9 +1582,9 @@
     },
     {
       "key": "tiffany_souterre",
+      "name": "Tiffany Souterre",
       "id": "fEGtvUISb6VrUv4hpaHxRnw8hFZ2",
       "feature": false,
-      "name": "Tiffany Souterre",
       "company": "JEMS Datafactory",
       "city": "Paris, France",
       "photoURL": "/images/speakers/tiffany_souterre.jpg",
@@ -1549,9 +1604,9 @@
     },
     {
       "key": "valeriane_venance",
+      "name": "Valeriane Venance",
       "id": "05FXSY1pHlaP7wK14yGKBaxom6n1",
       "feature": false,
-      "name": "Valeriane Venance",
       "company": "Clever Cloud",
       "city": "Paris, France",
       "photoURL": "/images/speakers/valeriane_venance.png",
@@ -1571,9 +1626,9 @@
     },
     {
       "key": "vincent_ogloblinsky",
+      "name": "Vincent Ogloblinsky",
       "id": "jMUwWI44kuTXsgUt8vLFp3vAe1j1",
       "feature": false,
-      "name": "Vincent Ogloblinsky",
       "company": "SII Ouest",
       "city": "Rennes, France",
       "photoURL": "/images/speakers/vincent_ogloblinsky.jpg",
@@ -1593,9 +1648,9 @@
     },
     {
       "key": "wassim_chegham",
+      "name": "Wassim Chegham",
       "id": "0yzdv6FVFYZWXmWird77HqsY49c2",
       "feature": false,
-      "name": "Wassim Chegham",
       "company": "Microsoft",
       "city": "Paris, France",
       "photoURL": "/images/speakers/wassim_chegham.jpg",
@@ -1616,45 +1671,42 @@
   ],
   "categories": [
     {
+      "key": "big_data___ml___ai",
       "name": "Big Data / ML / AI",
-      "description": "BIg Data / Machine Learning / Artificial Intelligence",
-      "id": "3c7ab24d-59c1-5118-b6fa-ef679a376100",
-      "key": "big_data___ml___ai"
+      "id": "3c7ab24d-59c1-5118-b6fa-ef679a376100"
     },
     {
+      "key": "cloud___infra",
       "name": "Cloud / Infra",
-      "description": "Cloud / Infrastructure /  Container Orchestration ",
-      "id": "e3fdfb05-1630-5c56-bc5d-501217ad62e3",
-      "key": "cloud___infra"
+      "id": "e3fdfb05-1630-5c56-bc5d-501217ad62e3"
     },
     {
-      "id": "a31d8be2-8f03-553d-b07b-ee30e2d13a6e",
+      "key": "iot",
       "name": "IOT",
-      "description": "Internet Of Things",
-      "key": "iot"
+      "id": "a31d8be2-8f03-553d-b07b-ee30e2d13a6e"
     },
     {
       "key": "keynote",
       "name": "Keynote"
     },
     {
-      "id": "b425f929-b026-52e9-87f4-89b30ec542d1",
+      "key": "languages",
       "name": "Languages",
-      "key": "languages"
+      "id": "b425f929-b026-52e9-87f4-89b30ec542d1"
     },
     {
       "key": "lunch",
       "name": "Lunch"
     },
     {
+      "key": "method___tools",
       "name": "Method & Tools",
-      "id": "bb5eeaca-3d8d-5858-b4a9-63d90a11a792",
-      "key": "method___tools"
+      "id": "bb5eeaca-3d8d-5858-b4a9-63d90a11a792"
     },
     {
-      "id": "9edfb0de-db78-5e18-831d-d0c56d751515",
+      "key": "native_mobile_apps",
       "name": "Native mobile apps",
-      "key": "native_mobile_apps"
+      "id": "9edfb0de-db78-5e18-831d-d0c56d751515"
     },
     {
       "key": "office-hours",
@@ -1673,22 +1725,21 @@
       "name": "Pause"
     },
     {
-      "id": "cff3cdbc-52e9-5d5a-8f98-927ee005f59b",
+      "key": "web",
       "name": "Web",
-      "key": "web"
+      "id": "cff3cdbc-52e9-5d5a-8f98-927ee005f59b"
     },
     {
-      "id": "8ab523e2-022d-5d16-924c-da4477ddb881",
+      "key": "wtf",
       "name": "WTF",
-      "key": "wtf"
+      "id": "8ab523e2-022d-5d16-924c-da4477ddb881"
     }
   ],
   "formats": [
     {
-      "id": "4c0d8a93-a0fb-5fe4-ab31-7cc56e05e942",
+      "key": "conference",
       "name": "Conference ",
-      "description": "40min",
-      "key": "conference"
+      "id": "4c0d8a93-a0fb-5fe4-ab31-7cc56e05e942"
     },
     {
       "key": "keynote",
@@ -1715,10 +1766,9 @@
       "name": "Pause"
     },
     {
+      "key": "quickie",
       "name": "Quickie",
-      "description": "15min",
-      "id": "f1f4eb00-ff40-57ea-805a-b3aa3ce5f6e6",
-      "key": "quickie"
+      "id": "f1f4eb00-ff40-57ea-805a-b3aa3ce5f6e6"
     }
   ],
   "rooms": [
@@ -2297,7 +2347,7 @@
             },
             {
               "slot": "slot-7",
-              "talk": "blanc"
+              "talk": "le_jaillissement_de_l_esprit"
             }
           ]
         },
@@ -2343,8 +2393,8 @@
   ],
   "sponsors": [
     {
+      "key": "airbus",
       "title": "Airbus",
-      "type": "platinium",
       "category": "platinium",
       "order": 21,
       "logo": "/images/partners/logo-airbus.png",
@@ -2368,13 +2418,11 @@
           "name": "Airbus"
         }
       ],
-      "draft": false,
-      "description": "Airbus is an international pioneer in the aerospace industry and a leader in designing, manufacturing and delivering aerospace products, services and solutions to customers on a global scale. We believe that it’s not just what we make, but how we make it that counts; promoting responsible, sustainable and inclusive business practices and acting with integrity. Our people work with passion and determination to make the world a more connected, safer and smarter place, on the ground, in the sky and in space.\n",
-      "key": "airbus"
+      "description": "Airbus is an international pioneer in the aerospace industry and a leader in designing, manufacturing and delivering aerospace products, services and solutions to customers on a global scale. We believe that it’s not just what we make, but how we make it that counts; promoting responsible, sustainable and inclusive business practices and acting with integrity. Our people work with passion and determination to make the world a more connected, safer and smarter place, on the ground, in the sky and in space.\n"
     },
     {
+      "key": "apside",
       "title": "APSIDE",
-      "type": "gold",
       "category": "gold",
       "order": 20,
       "logo": "/images/partners/logo-apside.png",
@@ -2393,13 +2441,11 @@
           "name": "ApsideGroupe"
         }
       ],
-      "draft": false,
-      "description": "APSIDE est une société de conseil en ingénierie qui accompagne tous les acteurs de l'écosystème IT sur leurs projets innovants.\nTous nos ingénieurs ont leur spécialité : JAVA, JS, BDD, C#, PHP, C++ ... \nNous sélectionnons rigoureusement les projets sur lesquels peuvent intervenir nos ingénieurs : caractère innovant, phase d'architecture, produits complets, sujets porteurs et utiles...\nC'est ce qui rend totalement satisfaits de leur mission plus de 96% de nos ingénieurs.\nAlors, prêt à tenter l'aventure ?\n\nAPSIDE, c'est un groupe de plus de 2600 collaborateurs à travers la France... tous répartis en équipes d'experts localisées.\n\n",
-      "key": "apside"
+      "description": "APSIDE est une société de conseil en ingénierie qui accompagne tous les acteurs de l'écosystème IT sur leurs projets innovants.\nTous nos ingénieurs ont leur spécialité : JAVA, JS, BDD, C#, PHP, C++ ... \nNous sélectionnons rigoureusement les projets sur lesquels peuvent intervenir nos ingénieurs : caractère innovant, phase d'architecture, produits complets, sujets porteurs et utiles...\nC'est ce qui rend totalement satisfaits de leur mission plus de 96% de nos ingénieurs.\nAlors, prêt à tenter l'aventure ?\n\nAPSIDE, c'est un groupe de plus de 2600 collaborateurs à travers la France... tous répartis en équipes d'experts localisées.\n\n"
     },
     {
+      "key": "axileo",
       "title": "AXILEO",
-      "type": "gold",
       "category": "gold",
       "order": 22,
       "logo": "/images/partners/logo-axileo.png",
@@ -2423,13 +2469,11 @@
           "name": "AXILEO"
         }
       ],
-      "draft": false,
-      "description": "AXILEO est spécialisée dans l'innovation et la transformation digitale des entreprises. La société se distingue par un management innovant, sur le modèle de l'entreprise libérée, où les salariés participent et définissent la stratégie de l'entreprise. \n",
-      "key": "axileo"
+      "description": "AXILEO est spécialisée dans l'innovation et la transformation digitale des entreprises. La société se distingue par un management innovant, sur le modèle de l'entreprise libérée, où les salariés participent et définissent la stratégie de l'entreprise. \n"
     },
     {
+      "key": "berger_levrault",
       "title": "Berger Levrault",
-      "type": "gold",
       "category": "gold",
       "order": 14,
       "logo": "/images/partners/logo-berger_levrault.png",
@@ -2448,13 +2492,36 @@
           "name": "berger-levrault"
         }
       ],
-      "draft": false,
-      "description": "Berger-Levrault, éditeur de logiciel international et multisectoriel, accompagne les professionnels privés et publics à répondre aux exigences croissantes de performance dans leurs métiers et les citoyens dans leur vie quotidienne.\n\nLe Groupe adresse les secteurs suivants : Secteur public local; Social et médico-social; Sanitaire; Entreprises et industrie; Éducation.\n\nPour l’ensemble de ses secteurs d’activité, Berger-Levrault a développé une gamme de logiciels et de services adaptée aux besoins spécifiques de chaque métier. \n\n",
-      "key": "berger_levrault"
+      "description": "Berger-Levrault, éditeur de logiciel international et multisectoriel, accompagne les professionnels privés et publics à répondre aux exigences croissantes de performance dans leurs métiers et les citoyens dans leur vie quotidienne.\n\nLe Groupe adresse les secteurs suivants : Secteur public local; Social et médico-social; Sanitaire; Entreprises et industrie; Éducation.\n\nPour l’ensemble de ses secteurs d’activité, Berger-Levrault a développé une gamme de logiciels et de services adaptée aux besoins spécifiques de chaque métier. \n\n"
     },
     {
+      "key": "capgemini",
+      "title": "Capgemini",
+      "category": "platinium",
+      "order": 33,
+      "logo": "/images/partners/logo-capgemini.png",
+      "website": "https://www.capgemini.com/fr-fr/",
+      "lang": "fr",
+      "why": "Leader mondial du conseil, des services informatiques et de la transformation numérique, le groupe Capgemini est heureux d'accompagner cet évènement local qui rassemble les plus grandes communautés de développeurs toulousaines.\n",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/capgeminifrance "
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/company/capgemini/ "
+        },
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/capgeminifrance"
+        }
+      ],
+      "description": "Capgemini est un leader mondial du conseil, des services informatiques et de la transformation numérique. A la pointe de l’innovation, le Groupe aide ses clients à saisir l’ensemble des opportunités que présentent le cloud, le digital et les plateformes. Fort de 50 ans d’expérience et d’une grande expertise des différents secteurs d’activité, il accompagne les entreprises et organisations dans la réalisation de leurs ambitions, de la définition de leur stratégie à la mise en œuvre de leurs opérations. Pour Capgemini, ce sont les hommes et les femmes qui donnent toute sa valeur à la technologie. \n"
+    },
+    {
+      "key": "cenareo",
       "title": "Cenareo",
-      "type": "platinium",
       "category": "platinium",
       "order": 7,
       "logo": "/images/partners/logo-cenareo.png",
@@ -2468,13 +2535,11 @@
           "name": "https://twitter.com/Cenareo"
         }
       ],
-      "draft": false,
-      "description": "Cenareo, previously CityMeo, is a real “French Tech” success story. Located in Labège within the IoT Valley, we develop a best-in-class digital signage CMS (SaaS mode) to create, manage and broadcast content on remote displays in real-time, from any PC, tablet or smartphone.\nCreated by 4 engineers, Cenareo has experienced exponential growth and rapid development since its inception in 2012, posting triple-digit growth and now counting upwards of 30 employees.\nThe company has ambitious targets and a Global outlook. We promote diversity and welcome multi-cultural and foreign applicants.\n",
-      "key": "cenareo"
+      "description": "Cenareo, previously CityMeo, is a real “French Tech” success story. Located in Labège within the IoT Valley, we develop a best-in-class digital signage CMS (SaaS mode) to create, manage and broadcast content on remote displays in real-time, from any PC, tablet or smartphone.\nCreated by 4 engineers, Cenareo has experienced exponential growth and rapid development since its inception in 2012, posting triple-digit growth and now counting upwards of 30 employees.\nThe company has ambitious targets and a Global outlook. We promote diversity and welcome multi-cultural and foreign applicants.\n"
     },
     {
+      "key": "cirruseo_part_of_accenture",
       "title": "Cirruseo part of Accenture",
-      "type": "gold",
       "category": "gold",
       "order": 19,
       "logo": "/images/partners/logo-cirruseo_part_of_accenture.png",
@@ -2498,13 +2563,11 @@
           "name": "Cirruseo"
         }
       ],
-      "draft": false,
-      "description": "Créé en 2011, Cirruseo est l’un des principaux partenaires de Google Cloud en France et l’un des plus importants acteurs français spécialisés exclusivement dans les services Google Cloud. Cirruseo accompagne ses clients dans leur transformation numérique, de l’expérience collaborateur autour des solutions Chrome et G Suite, à celle des métiers avec les services de Google Cloud Platform. Les solutions digitales de Cirruseo sont mobiles, intègrent la Data et l’Analytics by design, et sont conçues pour et par le Cloud. En 2019, Cirruseo a été classé parmi les 1 000 entreprises les plus dynamiques en Europe par le Financial Times. Depuis sa création, Cirruseo a réalisé 48% de croissance moyenne par an. Elle compte aujourd’hui plus de 600 clients, plus de 100 collaborateurs et deux bureaux à Paris et Toulouse. \n",
-      "key": "cirruseo_part_of_accenture"
+      "description": "Créé en 2011, Cirruseo est l’un des principaux partenaires de Google Cloud en France et l’un des plus importants acteurs français spécialisés exclusivement dans les services Google Cloud. Cirruseo accompagne ses clients dans leur transformation numérique, de l’expérience collaborateur autour des solutions Chrome et G Suite, à celle des métiers avec les services de Google Cloud Platform. Les solutions digitales de Cirruseo sont mobiles, intègrent la Data et l’Analytics by design, et sont conçues pour et par le Cloud. En 2019, Cirruseo a été classé parmi les 1 000 entreprises les plus dynamiques en Europe par le Financial Times. Depuis sa création, Cirruseo a réalisé 48% de croissance moyenne par an. Elle compte aujourd’hui plus de 600 clients, plus de 100 collaborateurs et deux bureaux à Paris et Toulouse. \n"
     },
     {
+      "key": "cnes",
       "title": "CNES",
-      "type": "soutien",
       "category": "soutien",
       "order": 5,
       "logo": "/images/partners/logo-cnes.svg",
@@ -2518,13 +2581,11 @@
           "name": "CNES"
         }
       ],
-      "draft": false,
-      "description": "Le CNES propose aux pouvoirs publics la politique spatiale de la France et la met en oeuvre dans 5 grands domaines stratégiques : Ariane, les Sciences, l’Observation, les Télécommunications et la Défense.\n",
-      "key": "cnes"
+      "description": "Le CNES propose aux pouvoirs publics la politique spatiale de la France et la met en oeuvre dans 5 grands domaines stratégiques : Ariane, les Sciences, l’Observation, les Télécommunications et la Défense.\n"
     },
     {
+      "key": "commit42",
       "title": "commit42",
-      "type": "soutien",
       "category": "soutien",
       "order": 29,
       "logo": "/images/partners/logo-commit42.png",
@@ -2548,13 +2609,11 @@
           "name": "commit42"
         }
       ],
-      "draft": false,
-      "description": "Studio d'innovation web\ncommit42 est spécialisé dans les technologies React, PHP, NodeJS, Magento et PWA.\n\nNos projets peuvent varier de la maintenance d’une boutique en ligne à la réalisation d’applications métiers spécifiques dont des Web App PWA.\n",
-      "key": "commit42"
+      "description": "Studio d'innovation web\ncommit42 est spécialisé dans les technologies React, PHP, NodeJS, Magento et PWA.\n\nNos projets peuvent varier de la maintenance d’une boutique en ligne à la réalisation d’applications métiers spécifiques dont des Web App PWA.\n"
     },
     {
+      "key": "continental",
       "title": "Continental",
-      "type": "gold",
       "category": "gold",
       "order": 10,
       "logo": "/images/partners/logo-continental.png",
@@ -2578,13 +2637,11 @@
           "name": "Continental"
         }
       ],
-      "draft": false,
-      "description": "Continental develops pioneering technologies and services for sustainable and connected mobility of people and their goods. \nFounded in 1871, the technology company offers safe, efficient, intelligent, and affordable solutions for vehicles, machines, traffic and transportation. \nIn 2018, Continental generated sales of €44.4 billion and currently employs around 245,000 people in 60 countries and markets.\n",
-      "key": "continental"
+      "description": "Continental develops pioneering technologies and services for sustainable and connected mobility of people and their goods. \nFounded in 1871, the technology company offers safe, efficient, intelligent, and affordable solutions for vehicles, machines, traffic and transportation. \nIn 2018, Continental generated sales of €44.4 billion and currently employs around 245,000 people in 60 countries and markets.\n"
     },
     {
+      "key": "decasoft",
       "title": "DECASOFT",
-      "type": "soutien",
       "category": "soutien",
       "order": 8,
       "logo": "/images/partners/logo-decasoft.jpg",
@@ -2608,23 +2665,20 @@
           "name": "decasoft"
         }
       ],
-      "draft": false,
-      "description": "Une société à taille humaine spécialisée en développement web et mobile implantée sur la ville lumière et la ville rose – Paris et Toulouse.\nNous assurons l’évolution professionnelle de nos collaborateurs vers de nouvelles technologies afin de calibrer nos postes selon leurs envies.\nPour casser la routine, retrouvez-nous au baby-foot et aux soirées afterwork. Nous pouvons par ailleurs vous garantir une ambiance dynamique et 100% conviviale.  \n",
-      "key": "decasoft"
+      "description": "Une société à taille humaine spécialisée en développement web et mobile implantée sur la ville lumière et la ville rose – Paris et Toulouse.\nNous assurons l’évolution professionnelle de nos collaborateurs vers de nouvelles technologies afin de calibrer nos postes selon leurs envies.\nPour casser la routine, retrouvez-nous au baby-foot et aux soirées afterwork. Nous pouvons par ailleurs vous garantir une ambiance dynamique et 100% conviviale.  \n"
     },
     {
+      "key": "duchess-fr",
       "title": "Duchess FR",
-      "type": "communautes",
       "category": "communautes",
-      "website": "https://www.duchess-france.org/",
       "logo": "/images/partners/community/duchess_fr.svg",
+      "website": "https://www.duchess-france.org/",
       "socials": [],
-      "description": "\nFind Duchess FR on [https://www.duchess-france.org/](https://www.duchess-france.org/)\n\n![Duchess FR](/images/partners/community/duchess_fr.svg)\n",
-      "key": "duchess-fr"
+      "description": "\nFind Duchess FR on [https://www.duchess-france.org/](https://www.duchess-france.org/)\n\n![Duchess FR](/images/partners/community/duchess_fr.svg)\n"
     },
     {
+      "key": "elastic",
       "title": "Elastic",
-      "type": "gold",
       "category": "gold",
       "order": 11,
       "logo": "/images/partners/logo-elastic.png",
@@ -2638,23 +2692,20 @@
           "name": "Elastic"
         }
       ],
-      "draft": false,
-      "description": "Nous sommes les créateurs de la suite Elastic: Elasticsearch, Kibana, Beats et Logstash. Recherchez, analysez et visualisez vos données da façon sécurisée et fiable.\n",
-      "key": "elastic"
+      "description": "Nous sommes les créateurs de la suite Elastic: Elasticsearch, Kibana, Beats et Logstash. Recherchez, analysez et visualisez vos données da façon sécurisée et fiable.\n"
     },
     {
+      "key": "gdg-toulouse",
       "title": "GDG Toulouse",
-      "type": "communautes",
       "category": "communautes",
-      "website": "https://www.gdgtoulouse.fr/",
       "logo": "/images/partners/community/gdgtoulouse.svg",
+      "website": "https://www.gdgtoulouse.fr/",
       "socials": [],
-      "description": "\nFind GDG Toulouse on [https://www.gdgtoulouse.fr/](https://www.gdgtoulouse.fr/)\n\n![GDG Toulouse](/images/partners/community/gdgtoulouse.svg)\n",
-      "key": "gdg-toulouse"
+      "description": "\nFind GDG Toulouse on [https://www.gdgtoulouse.fr/](https://www.gdgtoulouse.fr/)\n\n![GDG Toulouse](/images/partners/community/gdgtoulouse.svg)\n"
     },
     {
+      "key": "github",
       "title": "GitHub",
-      "type": "gold",
       "category": "gold",
       "order": 27,
       "logo": "/images/partners/logo-github.png",
@@ -2668,13 +2719,11 @@
           "name": "github"
         }
       ],
-      "draft": false,
-      "description": "GitHub is the developer company. We make it easier for developers to be developers: to work together, to solve challenging problems, and to create the world’s most important technologies.\n\n",
-      "key": "github"
+      "description": "GitHub is the developer company. We make it easier for developers to be developers: to work together, to solve challenging problems, and to create the world’s most important technologies.\n\n"
     },
     {
+      "key": "groupe_pierre_fabre",
       "title": "Groupe Pierre Fabre",
-      "type": "gold",
       "category": "gold",
       "order": 24,
       "logo": "/images/partners/logo-groupe_pierre_fabre.png",
@@ -2688,13 +2737,11 @@
           "name": "PierreFabre"
         }
       ],
-      "draft": false,
-      "description": "Créé en 1962 par Pierre Fabre, pharmacien d’officine à Castres (Tarn), le Groupe Pierre Fabre est présent depuis plus de 50 ans sur un continuum d’activités allant des médicaments de prescription aux soins dermo-cosmétiques en passant par la santé grand public.\n2ème laboratoire dermo-cosmétique mondial et 2ème groupe pharmaceutique privé français, Pierre Fabre emploie près de 11 000 collaborateurs, détient des filiales dans 47 pays et distribue ses produits dans plus de 130 pays.\nEn 2019, Ecocert Environnement a évalué la démarche de responsabilité sociétale et environnementale du Groupe selon la norme ISO 26000 et lui a attribué le niveau « Excellence ».\n",
-      "key": "groupe_pierre_fabre"
+      "description": "Créé en 1962 par Pierre Fabre, pharmacien d’officine à Castres (Tarn), le Groupe Pierre Fabre est présent depuis plus de 50 ans sur un continuum d’activités allant des médicaments de prescription aux soins dermo-cosmétiques en passant par la santé grand public.\n2ème laboratoire dermo-cosmétique mondial et 2ème groupe pharmaceutique privé français, Pierre Fabre emploie près de 11 000 collaborateurs, détient des filiales dans 47 pays et distribue ses produits dans plus de 130 pays.\nEn 2019, Ecocert Environnement a évalué la démarche de responsabilité sociétale et environnementale du Groupe selon la norme ISO 26000 et lui a attribué le niveau « Excellence ».\n"
     },
     {
+      "key": "informatique_banque_populaire",
       "title": "Informatique Banque Populaire",
-      "type": "gold",
       "category": "gold",
       "order": 3,
       "logo": "/images/partners/logo-informatique_banque_populaire.png",
@@ -2713,13 +2760,11 @@
           "name": "Informatique Banque Populaire"
         }
       ],
-      "draft": false,
-      "description": "Informatique Banque Populaire, filiale du groupe bancaire BPCE, assure le développement informatique du système d’information des Banques Populaires.\n",
-      "key": "informatique_banque_populaire"
+      "description": "Informatique Banque Populaire, filiale du groupe bancaire BPCE, assure le développement informatique du système d’information des Banques Populaires.\n"
     },
     {
+      "key": "infotel",
       "title": "Infotel",
-      "type": "gold",
       "category": "gold",
       "order": 26,
       "logo": "/images/partners/logo-infotel.png",
@@ -2743,13 +2788,11 @@
           "name": "Infotel"
         }
       ],
-      "draft": false,
-      "description": "Acteur européen de la transformation numérique des entreprises, le groupe Infotel est l’interlocuteur privilégié des directions Informatiques et Métiers de Grands Comptes depuis près de 40 ans.\nInfotel leur apporte son expertise reconnue dans la gestion et l’évolution de leur patrimoine informatique mais aussi le conseil auprès des métiers et services innovants intégrant les technologies digitales ainsi qu’une expertise Big Data et mobile.\nInfotel développe son savoir-faire dans les secteurs de la Banque, de l’Assurance, de la Retraite, de l’Industrie et des Transports en s’appuyant sur l’innovation et la R&D.\n\nEditeur de logiciels, Infotel déploie par ailleurs toute une gamme de produits pour les grands serveurs, que ce soit en Europe, aux USA ou dans le reste du Monde.\nEmployant plus de 2 500 personnes, le Groupe, coté sur Euronext Paris, a réalisé en 2018 un chiffre d’affaires de 231 M€ et est en croissance constante.\n\nPour plus d’informations, rendez-vous sur : http://www.infotel.com\nLe groupe est resté fidèle aux valeurs humaines qui ont fait sa réussite : \n\tun recrutement sélectif basé sur les compétences ;\n\tun suivi rigoureux des collaborateurs par des commerciaux-managers ;\n\tune gestion dynamique de la progression de carrière grâce à des missions valorisantes ;\n\n",
-      "key": "infotel"
+      "description": "Acteur européen de la transformation numérique des entreprises, le groupe Infotel est l’interlocuteur privilégié des directions Informatiques et Métiers de Grands Comptes depuis près de 40 ans.\nInfotel leur apporte son expertise reconnue dans la gestion et l’évolution de leur patrimoine informatique mais aussi le conseil auprès des métiers et services innovants intégrant les technologies digitales ainsi qu’une expertise Big Data et mobile.\nInfotel développe son savoir-faire dans les secteurs de la Banque, de l’Assurance, de la Retraite, de l’Industrie et des Transports en s’appuyant sur l’innovation et la R&D.\n\nEditeur de logiciels, Infotel déploie par ailleurs toute une gamme de produits pour les grands serveurs, que ce soit en Europe, aux USA ou dans le reste du Monde.\nEmployant plus de 2 500 personnes, le Groupe, coté sur Euronext Paris, a réalisé en 2018 un chiffre d’affaires de 231 M€ et est en croissance constante.\n\nPour plus d’informations, rendez-vous sur : http://www.infotel.com\nLe groupe est resté fidèle aux valeurs humaines qui ont fait sa réussite : \n\tun recrutement sélectif basé sur les compétences ;\n\tun suivi rigoureux des collaborateurs par des commerciaux-managers ;\n\tune gestion dynamique de la progression de carrière grâce à des missions valorisantes ;\n\n"
     },
     {
+      "key": "intuiface",
       "title": "Intuiface",
-      "type": "startup",
       "category": "startup",
       "order": 18,
       "logo": "/images/partners/logo-intuiface.png",
@@ -2773,13 +2816,11 @@
           "name": "Intuiface"
         }
       ],
-      "draft": false,
-      "description": "Intuiface is the world’s premier platform for creating, deploying, measuring and managing deeply interactive digital experiences without writing code. Over 1500 companies across 70+ countries are connecting people to place using interactive options such as touch, RFID/NFC, beacons, Web APIs, Internet of Things, and much more. For any industry – including retail, hospitality, real estate, tourism, education – and for any intent – from digital signs to self-service kiosks and assisted selling.\n",
-      "key": "intuiface"
+      "description": "Intuiface is the world’s premier platform for creating, deploying, measuring and managing deeply interactive digital experiences without writing code. Over 1500 companies across 70+ countries are connecting people to place using interactive options such as touch, RFID/NFC, beacons, Web APIs, Internet of Things, and much more. For any industry – including retail, hospitality, real estate, tourism, education – and for any intent – from digital signs to self-service kiosks and assisted selling.\n"
     },
     {
+      "key": "ippon",
       "title": "Ippon",
-      "type": "gold",
       "category": "gold",
       "order": 25,
       "logo": "/images/partners/logo-ippon.png",
@@ -2797,13 +2838,11 @@
           "name": "Ippon Technologies"
         }
       ],
-      "draft": false,
-      "description": "Ippon est un cabinet de conseil qui accélère les projets innovants de ses clients de la page blanche au Cloud. Nos équipes dans le monde accompagnent les organisations dans la transformation d'idées innovantes en solutions logicielles de haute qualité avec un focus particulier sur le Time To Market.\n",
-      "key": "ippon"
+      "description": "Ippon est un cabinet de conseil qui accélère les projets innovants de ses clients de la page blanche au Cloud. Nos équipes dans le monde accompagnent les organisations dans la transformation d'idées innovantes en solutions logicielles de haute qualité avec un focus particulier sur le Time To Market.\n"
     },
     {
+      "key": "jfrog",
       "title": "JFrog",
-      "type": "gold",
       "category": "gold",
       "order": 23,
       "logo": "/images/partners/logo-jfrog.png",
@@ -2827,13 +2866,11 @@
           "name": "jfrog"
         }
       ],
-      "draft": false,
-      "description": "JFrog - The Liquid Software Company\n",
-      "key": "jfrog"
+      "description": "JFrog - The Liquid Software Company\n"
     },
     {
+      "key": "liberty_rider",
       "title": "Liberty Rider",
-      "type": "soutien",
       "category": "soutien",
       "order": 17,
       "logo": "/images/partners/logo-liberty_rider.svg",
@@ -2857,13 +2894,11 @@
           "name": "liberty-rider"
         }
       ],
-      "draft": false,
-      "description": "Sauver des vies !\nL'application Liberty Rider est pensée comme un guide sherpa, un carnet de route, un passeport. Elle permet au motard de gagner sa liberté en toute sérénité. Préparation, accompagnement, suivi, et plus que tout, protection. \nNous mettons l’intelligence artificielle au service de l’utilisateur. Grâce à des algorithmes inédits, nous sommes capable d’appeler les secours en cas d’accident et d'émettre une alerte à l’approche d’un virage dangereux pour signaler un danger.\nNotre centre d'assistance couvre 10 pays européens et est ouvert 24/7.\nEn interne nous encourageons une ambiance de travail bienveillante, collaborative, et transparente. Nous progressons ensemble car nous nous faisons confiance. Nous sommes une vingtaine de passionnés, et nous t'attendons.\n",
-      "key": "liberty_rider"
+      "description": "Sauver des vies !\nL'application Liberty Rider est pensée comme un guide sherpa, un carnet de route, un passeport. Elle permet au motard de gagner sa liberté en toute sérénité. Préparation, accompagnement, suivi, et plus que tout, protection. \nNous mettons l’intelligence artificielle au service de l’utilisateur. Grâce à des algorithmes inédits, nous sommes capable d’appeler les secours en cas d’accident et d'émettre une alerte à l’approche d’un virage dangereux pour signaler un danger.\nNotre centre d'assistance couvre 10 pays européens et est ouvert 24/7.\nEn interne nous encourageons une ambiance de travail bienveillante, collaborative, et transparente. Nous progressons ensemble car nous nous faisons confiance. Nous sommes une vingtaine de passionnés, et nous t'attendons.\n"
     },
     {
+      "key": "lyra_network",
       "title": "Lyra Network",
-      "type": "gold",
       "category": "gold",
       "order": 16,
       "logo": "/images/partners/logo-lyra_network.png",
@@ -2882,13 +2917,11 @@
           "name": "Lyra Network"
         }
       ],
-      "draft": false,
-      "description": "LYRA NETWORK est née en 2001 de la rencontre entre des savoir-faire, la technologie et  l’esprit visionnaire de ses fondateurs. Leader en France dans la sécurisation des paiements, Lyra Network offre des services à valeurs ajoutées pour le commerce de proximité et le paiement en ligne (PayZen®).\n\nSa présence internationale, fait de cette société 100% Française, un acteur incontournable du marché de la monétique. Nos clients tels que les banques, les collectivités, les e-commerçants et le commerce de détail s’appuient sur nos outils pour connecter, sécuriser et gérer leurs données sensibles.\n\nInnovation,  anticipation et évolution des habitudes de paiement nous mènent à développer de nouveaux services toujours plus novateurs sur des technologies de pointe telles que le Mpos (mobile payment), les offres SEPA et e-facture via SEPAmail.\n\nForte de sa succès story depuis ses premières heures, LYRA NETWORK renforce continuellement ses équipes en maîtrisant sa croissance afin de préserver l’environnement de travail.\n",
-      "key": "lyra_network"
+      "description": "LYRA NETWORK est née en 2001 de la rencontre entre des savoir-faire, la technologie et  l’esprit visionnaire de ses fondateurs. Leader en France dans la sécurisation des paiements, Lyra Network offre des services à valeurs ajoutées pour le commerce de proximité et le paiement en ligne (PayZen®).\n\nSa présence internationale, fait de cette société 100% Française, un acteur incontournable du marché de la monétique. Nos clients tels que les banques, les collectivités, les e-commerçants et le commerce de détail s’appuient sur nos outils pour connecter, sécuriser et gérer leurs données sensibles.\n\nInnovation,  anticipation et évolution des habitudes de paiement nous mènent à développer de nouveaux services toujours plus novateurs sur des technologies de pointe telles que le Mpos (mobile payment), les offres SEPA et e-facture via SEPAmail.\n\nForte de sa succès story depuis ses premières heures, LYRA NETWORK renforce continuellement ses équipes en maîtrisant sa croissance afin de préserver l’environnement de travail.\n"
     },
     {
+      "key": "monkeypatch",
       "title": "MonkeyPatch",
-      "type": "gold",
       "category": "gold",
       "order": 15,
       "logo": "/images/partners/logo-monkeypatch.png",
@@ -2907,13 +2940,11 @@
           "name": "MonkeyPatch.io"
         }
       ],
-      "draft": false,
-      "description": "MonkeyPatch est avant tout une équipe constituée de développeurs ayant de solides bagages techniques et des références significatives dans les nouvelles technos et les architectures modernes.\n\nAvec au moins 5 ans d’expérience, chacun de nous souhaite rester au plus près du code et partager sa passion de l'informatique avec la communauté de développeurs et les équipes de nos clients.\nExperts en Web, Mobile, Cloud, DevOps et/ou BigData, nous intervenons en tant qu’architecte et développeur senior sur des stacks modernes pour aider nos clients à relever leurs challenges technologiques.\n\nCultivant l’esprit d’équipe et privilégiant l’humain, nous ambitionnons, à terme, d’être une trentaine de Monkeys sur Toulouse.\n\n",
-      "key": "monkeypatch"
+      "description": "MonkeyPatch est avant tout une équipe constituée de développeurs ayant de solides bagages techniques et des références significatives dans les nouvelles technos et les architectures modernes.\n\nAvec au moins 5 ans d’expérience, chacun de nous souhaite rester au plus près du code et partager sa passion de l'informatique avec la communauté de développeurs et les équipes de nos clients.\nExperts en Web, Mobile, Cloud, DevOps et/ou BigData, nous intervenons en tant qu’architecte et développeur senior sur des stacks modernes pour aider nos clients à relever leurs challenges technologiques.\n\nCultivant l’esprit d’équipe et privilégiant l’humain, nous ambitionnons, à terme, d’être une trentaine de Monkeys sur Toulouse.\n\n"
     },
     {
+      "key": "morning",
       "title": "Morning",
-      "type": "soutien",
       "category": "soutien",
       "order": 2,
       "logo": "/images/partners/logo-morning.svg",
@@ -2937,13 +2968,11 @@
           "name": "morning"
         }
       ],
-      "draft": false,
-      "description": "Au pied des Pyrénées, Morning et son équipe (ré)inventent les usages financiers. Dans un cadre authentique, l’équipe imagine et développe des solutions innovantes pour gérer son argent, disposer de moyens de paiement innovants et bénéficier de services sur-mesure.\n \nAujourd’hui Morning c’est :\nPlus 150.000 comptes de paiement Morning\nPlus de 50 millions d’euros collectés sur les cagnottes\nPlus d’un million de transactions traitées avec succès !\n",
-      "key": "morning"
+      "description": "Au pied des Pyrénées, Morning et son équipe (ré)inventent les usages financiers. Dans un cadre authentique, l’équipe imagine et développe des solutions innovantes pour gérer son argent, disposer de moyens de paiement innovants et bénéficier de services sur-mesure.\n \nAujourd’hui Morning c’est :\nPlus 150.000 comptes de paiement Morning\nPlus de 50 millions d’euros collectés sur les cagnottes\nPlus d’un million de transactions traitées avec succès !\n"
     },
     {
+      "key": "neo_soft_groupe",
       "title": "NEO-SOFT Groupe",
-      "type": "gold",
       "category": "gold",
       "order": 12,
       "logo": "/images/partners/logo-neo_soft_groupe.png",
@@ -2967,13 +2996,11 @@
           "name": "Néo-Soft Groupe"
         }
       ],
-      "draft": false,
-      "description": "Créé en 2005 à Rennes par son PDG actuel Soïg, le Groupe Néo-Soft est aujourd’hui reconnu pour l’expertise de ses 1 300 consultants et ses 16 implantations.\nNéo-Soft est une société de Conseil en Informatique et Technologies spécialisée dans 5 domaines : \n- Conseil & Gestion de projet \n- Domaine applicatif\n- Infrastructures & Réseaux \n- Cybersécurité grâce notre filiale dédiée Cogital \n- Data\nIntégrer Néo-Soft c'est la possibilité de développer son expertise dans une entreprise innovante et responsable où la proximité est une réalité.\nNous recrutons sur toute la France et dans divers secteurs d'activités (Banques & Assurances, Aéronautique, Domotique, Télécoms & Médias etc.). \nClient grands comptes, PME ou start-up innovantes, évoluez dans l'environnement de votre choix.\n\n",
-      "key": "neo_soft_groupe"
+      "description": "Créé en 2005 à Rennes par son PDG actuel Soïg, le Groupe Néo-Soft est aujourd’hui reconnu pour l’expertise de ses 1 300 consultants et ses 16 implantations.\nNéo-Soft est une société de Conseil en Informatique et Technologies spécialisée dans 5 domaines : \n- Conseil & Gestion de projet \n- Domaine applicatif\n- Infrastructures & Réseaux \n- Cybersécurité grâce notre filiale dédiée Cogital \n- Data\nIntégrer Néo-Soft c'est la possibilité de développer son expertise dans une entreprise innovante et responsable où la proximité est une réalité.\nNous recrutons sur toute la France et dans divers secteurs d'activités (Banques & Assurances, Aéronautique, Domotique, Télécoms & Médias etc.). \nClient grands comptes, PME ou start-up innovantes, évoluez dans l'environnement de votre choix.\n\n"
     },
     {
+      "key": "onestock",
       "title": "OneStock",
-      "type": "startup",
       "category": "startup",
       "order": 9,
       "logo": "/images/partners/logo-onestock.png",
@@ -2992,13 +3019,11 @@
           "name": "OneStock France"
         }
       ],
-      "draft": false,
-      "description": "Basée en France et au Royaume-Uni, OneStock propose une suite logicielle omnicanale d’Order Management à destination des retailers souhaitant rendre agile la gestion de leurs commandes, offrir la meilleure expérience client et booster leurs ventes.\n",
-      "key": "onestock"
+      "description": "Basée en France et au Royaume-Uni, OneStock propose une suite logicielle omnicanale d’Order Management à destination des retailers souhaitant rendre agile la gestion de leurs commandes, offrir la meilleure expérience client et booster leurs ventes.\n"
     },
     {
+      "key": "openairlines",
       "title": "OpenAirlines",
-      "type": "startup",
       "category": "startup",
       "order": 6,
       "logo": "/images/partners/logo-openairlines.png",
@@ -3022,44 +3047,38 @@
           "name": "openairlines"
         }
       ],
-      "draft": false,
-      "description": "Partant du constat que chaque année près de 660 millions de tonnes de CO2 sont émises par les avions, soit plus de 20 000 kilos de CO2 par seconde, cette clean-tech a décidé d’agir en développant des solutions innovantes pour aider les compagnies aériennes à réduire leurs coûts et leur impact environnemental.\n\nFruit de 7 ans de R&D, le logiciel d’éco-pilotage SkyBreathe® Fuel Efficiency sort sur le marché en 2013. S’appuyant sur des algorithmes de Big Data, d’Intelligence Artificielle et de Machine Learning, le logiciel analyse automatiquement les très nombreuses données disponibles dans les boites noires des avions afin d’évaluer l’efficacité énergétique des vols et émettre des recommandations permettant de réduire la consommation de carburant et les émissions de CO2 des avions. \n\nOpenAirlines est aujourd’hui leader sur son marché et emploie actuellement une quarantaine de collaborateurs à Toulouse et dans ses filiales à Hong Kong et à Miami.\n",
-      "key": "openairlines"
+      "description": "Partant du constat que chaque année près de 660 millions de tonnes de CO2 sont émises par les avions, soit plus de 20 000 kilos de CO2 par seconde, cette clean-tech a décidé d’agir en développant des solutions innovantes pour aider les compagnies aériennes à réduire leurs coûts et leur impact environnemental.\n\nFruit de 7 ans de R&D, le logiciel d’éco-pilotage SkyBreathe® Fuel Efficiency sort sur le marché en 2013. S’appuyant sur des algorithmes de Big Data, d’Intelligence Artificielle et de Machine Learning, le logiciel analyse automatiquement les très nombreuses données disponibles dans les boites noires des avions afin d’évaluer l’efficacité énergétique des vols et émettre des recommandations permettant de réduire la consommation de carburant et les émissions de CO2 des avions. \n\nOpenAirlines est aujourd’hui leader sur son marché et emploie actuellement une quarantaine de collaborateurs à Toulouse et dans ses filiales à Hong Kong et à Miami.\n"
     },
     {
+      "key": "programmez",
       "title": "Programmez",
-      "type": "media",
       "category": "media",
-      "website": "https://www.programmez.com/",
       "logo": "/images/partners/media/logo_programmez.svg",
+      "website": "https://www.programmez.com/",
       "socials": [],
-      "draft": true,
-      "description": "\nFind Programmez on [https://www.programmez.com/](https://www.programmez.com/)\n\n![Programmez](/images/partners/media/logo_programmez.svg)\n",
-      "key": "programmez"
+      "description": "\nFind Programmez on [https://www.programmez.com/](https://www.programmez.com/)\n\n![Programmez](/images/partners/media/logo_programmez.svg)\n"
     },
     {
+      "key": "python-toulouse",
       "title": "Python Toulouse",
-      "type": "communautes",
       "category": "communautes",
-      "website": "https://www.meetup.com/Python-Toulouse/",
       "logo": "/images/partners/community/python_toulouse.jpeg",
+      "website": "https://www.meetup.com/Python-Toulouse/",
       "socials": [],
-      "description": "\nFind Python Toulouse on [https://www.meetup.com/Python-Toulouse/](https://www.meetup.com/Python-Toulouse/)\n\n![Python Toulouse](/images/partners/community/python_toulouse.jpeg)",
-      "key": "python-toulouse"
+      "description": "\nFind Python Toulouse on [https://www.meetup.com/Python-Toulouse/](https://www.meetup.com/Python-Toulouse/)\n\n![Python Toulouse](/images/partners/community/python_toulouse.jpeg)"
     },
     {
+      "key": "rust-toulouse",
       "title": "Rust Toulouse",
-      "type": "communautes",
       "category": "communautes",
-      "website": "https://www.gdgtoulouse.fr/",
       "logo": "/images/partners/community/rust.png",
+      "website": "https://www.gdgtoulouse.fr/",
       "socials": [],
-      "description": "\nFind Rust Toulouse on [meetup](https://www.meetup.com/Toulouse-Rust-Meetup/)\n\n![GDG Toulouse](/images/partners/community/rust.png)\n",
-      "key": "rust-toulouse"
+      "description": "\nFind Rust Toulouse on [meetup](https://www.meetup.com/Toulouse-Rust-Meetup/)\n\n![GDG Toulouse](/images/partners/community/rust.png)\n"
     },
     {
+      "key": "sii",
       "title": "SII",
-      "type": "platinium",
       "category": "platinium",
       "order": 1,
       "logo": "/images/partners/logo-sii.png",
@@ -3083,13 +3102,11 @@
           "name": "Groupe SII"
         }
       ],
-      "draft": false,
-      "description": "After 40 years of partnering with corporations for their engineering needs, the SII Group finds itself at the forefront of innovation and digital transformation. It relies on teams of expert engineers and on methods at the cutting-edge of quality standards for its business centered on engineering consulting (information technology, electronics and telecommunications) and digital services (engineering and network information technology).\nWith nine field offices in France, the Group has built close relationships with local firms and offers a wide spectrum of career opportunities. Its presence in 18 countries and four continents also gives SII the ability to provide support for the international operations of major corporations.\n\n",
-      "key": "sii"
+      "description": "After 40 years of partnering with corporations for their engineering needs, the SII Group finds itself at the forefront of innovation and digital transformation. It relies on teams of expert engineers and on methods at the cutting-edge of quality standards for its business centered on engineering consulting (information technology, electronics and telecommunications) and digital services (engineering and network information technology).\nWith nine field offices in France, the Group has built close relationships with local firms and offers a wide spectrum of career opportunities. Its presence in 18 countries and four continents also gives SII the ability to provide support for the international operations of major corporations.\n\n"
     },
     {
+      "key": "smile",
       "title": "SMILE",
-      "type": "gold",
       "category": "gold",
       "order": 13,
       "logo": "/images/partners/logo-smile.png",
@@ -3108,13 +3125,11 @@
           "name": "GroupeSmile"
         }
       ],
-      "draft": false,
-      "description": "Avec de l’audace et des beaux projets, ajoutez une pincée de culture visionnaire, une bonne dose d’innovation, saupoudrez le tout d’une expertise technique pluridisciplinaire et vous obtenez Smile, le leader européen de l’intégration et de l’infogérance de solutions open source.\n\nAgiles, open et engagés, chez Smile, nous adorons avoir un coup d’avance pour garder notre place sur le podium des acteurs majeurs du digital. Pour cela, nous avons développé 4 offres pour vous accompagner dans votre transformation numérique : Digital, Business App, Embedded & IoT et Infra.\n\nPour finir cette première présentation, une question primordiale… « Que serions-nous sans les femmes et les hommes qui font tourner la jolie machinerie Smile ? ». Au quotidien, ce sont 1700 smiliens présents dans 7 pays qui s’agitent et cogitent pour mener à bien les projets stratégiques de nombreux grands comptes français et européens.\n",
-      "key": "smile"
+      "description": "Avec de l’audace et des beaux projets, ajoutez une pincée de culture visionnaire, une bonne dose d’innovation, saupoudrez le tout d’une expertise technique pluridisciplinaire et vous obtenez Smile, le leader européen de l’intégration et de l’infogérance de solutions open source.\n\nAgiles, open et engagés, chez Smile, nous adorons avoir un coup d’avance pour garder notre place sur le podium des acteurs majeurs du digital. Pour cela, nous avons développé 4 offres pour vous accompagner dans votre transformation numérique : Digital, Business App, Embedded & IoT et Infra.\n\nPour finir cette première présentation, une question primordiale… « Que serions-nous sans les femmes et les hommes qui font tourner la jolie machinerie Smile ? ». Au quotidien, ce sont 1700 smiliens présents dans 7 pays qui s’agitent et cogitent pour mener à bien les projets stratégiques de nombreux grands comptes français et européens.\n"
     },
     {
+      "key": "squoring_technologies",
       "title": "Squoring Technologies",
-      "type": "soutien",
       "category": "soutien",
       "order": 4,
       "logo": "/images/partners/logo-squoring_technologies.jpg",
@@ -3133,13 +3148,11 @@
           "name": "squoring-technologies"
         }
       ],
-      "draft": false,
-      "description": "Créé à Toulouse en 2010, Squoring Technologies s’est imposé comme le spécialiste des solutions de pilotage de la qualité et de la performance des développements logiciels. Son tableau de bord d’analyse décisionnelle « Squore for Software Analytics », collecte, analyse et agrège en indicateurs pertinents et exploitables l’ensemble des données produites pendant le cycle de vie de production des logiciels pour évaluer et optimiser la performance des projets, le respect des processus et la qualité des livrables. Les solutions de Squoring Technologies sont utilisées par de nombreux grands groupes industriels en France et dans le monde. Depuis juin 2018, Squoring Technologies fait partie du groupe Vector Informatik, qui regroupe plus de 2, 500 employés dans le monde.\n",
-      "key": "squoring_technologies"
+      "description": "Créé à Toulouse en 2010, Squoring Technologies s’est imposé comme le spécialiste des solutions de pilotage de la qualité et de la performance des développements logiciels. Son tableau de bord d’analyse décisionnelle « Squore for Software Analytics », collecte, analyse et agrège en indicateurs pertinents et exploitables l’ensemble des données produites pendant le cycle de vie de production des logiciels pour évaluer et optimiser la performance des projets, le respect des processus et la qualité des livrables. Les solutions de Squoring Technologies sont utilisées par de nombreux grands groupes industriels en France et dans le monde. Depuis juin 2018, Squoring Technologies fait partie du groupe Vector Informatik, qui regroupe plus de 2, 500 employés dans le monde.\n"
     },
     {
+      "key": "stack_labs",
       "title": "STACK LABS",
-      "type": "platinium",
       "category": "platinium",
       "order": 0,
       "logo": "/images/partners/logo-stack_labs.svg",
@@ -3158,13 +3171,11 @@
           "name": "stacklabs"
         }
       ],
-      "draft": false,
-      "description": "The new generation tech company. We ❤️ code, and building powerful & secured cloud architectures. We invest in tech watch & work with companies like Google & Amazon as partners.\n",
-      "key": "stack_labs"
+      "description": "The new generation tech company. We ❤️ code, and building powerful & secured cloud architectures. We invest in tech watch & work with companies like Google & Amazon as partners.\n"
     },
     {
+      "key": "sycomore-technologie",
       "title": "Sycomore Technologies",
-      "type": "gold",
       "category": "gold",
       "order": 32,
       "logo": "/images/partners/logo-sycomore-technologie.png",
@@ -3178,49 +3189,43 @@
           "name": " Sycomore-Technologies "
         }
       ],
-      "draft": false,
-      "description": "Sycomore-Technologies offers proprietary and custom software solutions.\n\nOur seasoned team is experienced in new generation technologies as cloud, microservices architectures as well as big data technologies to transform yours data into smart data.",
-      "key": "sycomore-technologie"
+      "description": "Sycomore-Technologies offers proprietary and custom software solutions.\n\nOur seasoned team is experienced in new generation technologies as cloud, microservices architectures as well as big data technologies to transform yours data into smart data."
     },
     {
+      "key": "toulouse-data-science",
       "title": "Toulouse Data Science",
-      "type": "communautes",
       "category": "communautes",
-      "website": "http://www.tlse-data-science.fr/",
       "logo": "/images/partners/community/tds.png",
+      "website": "http://www.tlse-data-science.fr/",
       "socials": [],
-      "description": "\nFind Toulouse Data Science on [http://www.tlse-data-science.fr/](http://www.tlse-data-science.fr/)\n\n![Toulouse Data Science](/images/partners/community/tds.png)\n",
-      "key": "toulouse-data-science"
+      "description": "\nFind Toulouse Data Science on [http://www.tlse-data-science.fr/](http://www.tlse-data-science.fr/)\n\n![Toulouse Data Science](/images/partners/community/tds.png)\n"
     },
     {
+      "key": "toulouse-devops",
       "title": "Toulouse Devops",
-      "type": "communautes",
       "category": "communautes",
-      "website": "http://toulousedevops.org/",
       "logo": "/images/partners/community/toulousedevops.jpg",
+      "website": "http://toulousedevops.org/",
       "socials": [],
-      "description": "\nFind Toulouse Devops on [http://toulousedevops.org/](http://toulousedevops.org/)\n\n![Toulouse Devops](/images/partners/community/toulousedevops.jpg)\n",
-      "key": "toulouse-devops"
+      "description": "\nFind Toulouse Devops on [http://toulousedevops.org/](http://toulousedevops.org/)\n\n![Toulouse Devops](/images/partners/community/toulousedevops.jpg)\n"
     },
     {
+      "key": "toulouse-jug",
       "title": "Toulouse JUG",
-      "type": "communautes",
       "category": "communautes",
-      "website": "https://www.toulousejug.org/",
       "logo": "/images/partners/community/toulouse_jug.png",
+      "website": "https://www.toulousejug.org/",
       "socials": [],
-      "description": "\nFind Toulouse JUG on [https://www.toulousejug.org/](https://www.toulousejug.org/)\n\n![Toulouse JUG](/images/partners/community/toulouse_jug.png)\n",
-      "key": "toulouse-jug"
+      "description": "\nFind Toulouse JUG on [https://www.toulousejug.org/](https://www.toulousejug.org/)\n\n![Toulouse JUG](/images/partners/community/toulouse_jug.png)\n"
     },
     {
+      "key": "toulousejs",
       "title": "ToulouseJS",
-      "type": "communautes",
       "category": "communautes",
-      "website": "https://twitter.com/ToulouseJS",
       "logo": "/images/partners/community/toulousejs.png",
+      "website": "https://twitter.com/ToulouseJS",
       "socials": [],
-      "description": "\nFind ToulouseJS on [https://twitter.com/ToulouseJS](https://twitter.com/ToulouseJS)\n\n![ToulouseJS](/images/partners/community/toulousejs.png)\n",
-      "key": "toulousejs"
+      "description": "\nFind ToulouseJS on [https://twitter.com/ToulouseJS](https://twitter.com/ToulouseJS)\n\n![ToulouseJS](/images/partners/community/toulousejs.png)\n"
     }
   ],
   "team": [

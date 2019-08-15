@@ -1,8 +1,8 @@
 ---
 key: wassim_chegham
+name: Wassim Chegham
 id: 0yzdv6FVFYZWXmWird77HqsY49c2
 feature: false
-name: Wassim Chegham
 company: Microsoft
 city: 'Paris, France'
 photoURL: /images/speakers/wassim_chegham.jpg

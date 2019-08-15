@@ -1,16 +1,16 @@
 ---
-id: Kwery1cbJrx3ZFj6x1JU
 key: l_histoire_de_la_decouverte_d_une_backdoor_signe_oneplus
 title: L'histoire de la découverte d'une backdoor signé Oneplus
-level: intermediate
+id: Kwery1cbJrx3ZFj6x1JU
 format: conference
 tags:
   - native_mobile_apps
+level: intermediate
 speakers:
   - fs0c131y
-draft: false
 videoId: null
 presentation: null
+draft: false
 ---
 ## Résumé
 En Novembre 2017, j'ai découvert "une backdoor" dans tout les téléphones de la marque Oneplus. A l'aide d'une simple ligne de commande, un attaquant ayant un accès physique au téléphone, pouvait devenir root et ainsi obtenir un contrôle total du téléphone de la victime.

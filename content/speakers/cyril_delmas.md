@@ -1,8 +1,8 @@
 ---
 key: cyril_delmas
+name: Cyril Delmas
 id: 1A7LmMXk8EdzhOdUpo6TUAXgBrV2
 feature: false
-name: Cyril Delmas
 company: Lectra
 city: 'Mérignac, France'
 photoURL: /images/speakers/cyril_delmas.jpg

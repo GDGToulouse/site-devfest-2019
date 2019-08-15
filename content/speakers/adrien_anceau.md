@@ -1,8 +1,8 @@
 ---
 key: adrien_anceau
+name: ADRIEN ANCEAU
 id: y0wL4Q9ZnxdOvpCvlaejITZcPBq2
 feature: false
-name: ADRIEN ANCEAU
 company: Airbus
 city: 'Toulouse, France'
 photoURL: /images/speakers/adrien_anceau.jpg

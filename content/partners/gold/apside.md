@@ -1,6 +1,6 @@
 ---
+key: apside
 title: APSIDE
-type: gold
 category: gold
 order: 20
 logo: /images/partners/logo-apside.png
@@ -14,8 +14,6 @@ socials:
   - icon: twitter
     link: 'https://twitter.com/ApsideGroupe'
     name: ApsideGroupe
-draft: false
-key: apside
 ---
 APSIDE est une société de conseil en ingénierie qui accompagne tous les acteurs de l'écosystème IT sur leurs projets innovants.
 Tous nos ingénieurs ont leur spécialité : JAVA, JS, BDD, C#, PHP, C++ ... 

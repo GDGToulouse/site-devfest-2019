@@ -1,6 +1,6 @@
 ---
+key: liberty_rider
 title: Liberty Rider
-type: soutien
 category: soutien
 order: 17
 logo: /images/partners/logo-liberty_rider.svg
@@ -23,8 +23,6 @@ socials:
   - icon: linkedin
     link: 'https://linkedin.com/company/liberty-rider'
     name: liberty-rider
-draft: false
-key: liberty_rider
 ---
 Sauver des vies !
 L'application Liberty Rider est pensée comme un guide sherpa, un carnet de route, un passeport. Elle permet au motard de gagner sa liberté en toute sérénité. Préparation, accompagnement, suivi, et plus que tout, protection. 

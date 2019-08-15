@@ -1,6 +1,6 @@
 ---
+key: neo_soft_groupe
 title: NEO-SOFT Groupe
-type: gold
 category: gold
 order: 12
 logo: /images/partners/logo-neo_soft_groupe.png
@@ -21,8 +21,6 @@ socials:
   - icon: linkedin
     link: 'http://www.linkedin.com/company/neo-soft-services'
     name: Néo-Soft Groupe
-draft: false
-key: neo_soft_groupe
 ---
 Créé en 2005 à Rennes par son PDG actuel Soïg, le Groupe Néo-Soft est aujourd’hui reconnu pour l’expertise de ses 1 300 consultants et ses 16 implantations.
 Néo-Soft est une société de Conseil en Informatique et Technologies spécialisée dans 5 domaines : 

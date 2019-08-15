@@ -1,16 +1,16 @@
 ---
-id: 0MXH99V8NY9xyeurYCmA
 key: the_rise_of_the_web
 title: The rise of the web
-level: beginner
+id: 0MXH99V8NY9xyeurYCmA
 format: conference
 tags:
   - web
+level: beginner
 speakers:
   - loic_ortola
-draft: false
 videoId: null
 presentation: null
+draft: false
 ---
 Il y a 20 ans, personne de **sobre** n’aurait utilisé Javascript pour autre chose que des étoiles filantes qui sortent de ta souris. Non, à l'époque, on préférait les serveurs d'application en Java!  
 Aujourd’hui, non seulement on a des frameworks front, mais il y a même des hipsters qui font du backend avec... Et depuis, on fait des APIs.  

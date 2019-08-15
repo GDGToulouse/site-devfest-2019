@@ -1,11 +1,10 @@
 ---
-title: GDG Toulouse
-type: communautes
-category: communautes
-website: 'https://www.gdgtoulouse.fr/'
-logo: /images/partners/community/gdgtoulouse.svg
-socials: []
 key: gdg-toulouse
+title: GDG Toulouse
+category: communautes
+logo: /images/partners/community/gdgtoulouse.svg
+website: 'https://www.gdgtoulouse.fr/'
+socials: []
 ---
 
 Find GDG Toulouse on [https://www.gdgtoulouse.fr/](https://www.gdgtoulouse.fr/)

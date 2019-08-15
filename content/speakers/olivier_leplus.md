@@ -1,8 +1,8 @@
 ---
 key: olivier_leplus
+name: Olivier Leplus
 id: DNlgKL7C5DNK0y48Lf7ylPB4bmk2
 feature: false
-name: Olivier Leplus
 company: Microsoft
 city: 'Paris, France'
 photoURL: /images/speakers/olivier_leplus.jpg

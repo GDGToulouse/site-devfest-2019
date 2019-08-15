@@ -1,8 +1,8 @@
 ---
 key: guillaume_andrieu
+name: Guillaume Andrieu
 id: NMwgV3lXIOdtAaM8cgu7pIdFECO2
 feature: false
-name: Guillaume Andrieu
 company: MonkeyPatch
 city: 'Toulouse, France'
 photoURL: /images/speakers/guillaume_andrieu.png

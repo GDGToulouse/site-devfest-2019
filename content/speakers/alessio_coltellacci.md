@@ -1,8 +1,8 @@
 ---
 key: alessio_coltellacci
+name: Alessio Coltellacci
 id: EP7LDG2i6YgiNs027aplFVhEbv12
 feature: false
-name: Alessio Coltellacci
 company: Clever Cloud
 city: 'Toulouse, France'
 photoURL: /images/speakers/alessio_coltellacci.jpg

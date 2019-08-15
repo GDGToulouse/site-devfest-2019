@@ -1,8 +1,8 @@
 ---
 key: corentin_wallez
+name: Corentin Wallez
 id: KkCVbJvhE1OL1Dd51U4t9H54iFT2
 feature: true
-name: Corentin Wallez
 company: Google
 city: 'Paris, France'
 photoURL: /images/speakers/corentin_wallez.png

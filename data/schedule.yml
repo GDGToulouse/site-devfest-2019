@@ -144,7 +144,7 @@
         - slot: pause-6
           talk: __pause
         - slot: slot-7
-          talk: blanc
+          talk: le_jaillissement_de_l_esprit
     - room: office-hours
       slots:
         - slot: office-hours-1

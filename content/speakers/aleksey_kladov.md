@@ -1,8 +1,8 @@
 ---
 key: aleksey_kladov
+name: Aleksey Kladov
 id: PZ3g6x42k9cu5e9siNoFQV8Z6jy2
 feature: false
-name: Aleksey Kladov
 company: Ferrous Systems
 city: 'St Petersburg, Russia'
 photoURL: /images/speakers/aleksey_kladov.jpg

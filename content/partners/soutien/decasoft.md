@@ -1,6 +1,6 @@
 ---
+key: decasoft
 title: DECASOFT
-type: soutien
 category: soutien
 order: 8
 logo: /images/partners/logo-decasoft.jpg
@@ -17,8 +17,6 @@ socials:
   - icon: linkedin
     link: 'https://linkedin.com/company/decasoft'
     name: decasoft
-draft: false
-key: decasoft
 ---
 Une société à taille humaine spécialisée en développement web et mobile implantée sur la ville lumière et la ville rose – Paris et Toulouse.
 Nous assurons l’évolution professionnelle de nos collaborateurs vers de nouvelles technologies afin de calibrer nos postes selon leurs envies.

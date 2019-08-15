@@ -1,11 +1,10 @@
 ---
-title: ToulouseJS
-type: communautes
-category: communautes
-website: 'https://twitter.com/ToulouseJS'
-logo: /images/partners/community/toulousejs.png
-socials: []
 key: toulousejs
+title: ToulouseJS
+category: communautes
+logo: /images/partners/community/toulousejs.png
+website: 'https://twitter.com/ToulouseJS'
+socials: []
 ---
 
 Find ToulouseJS on [https://twitter.com/ToulouseJS](https://twitter.com/ToulouseJS)

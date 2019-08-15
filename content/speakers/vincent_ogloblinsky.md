@@ -1,8 +1,8 @@
 ---
 key: vincent_ogloblinsky
+name: Vincent Ogloblinsky
 id: jMUwWI44kuTXsgUt8vLFp3vAe1j1
 feature: false
-name: Vincent Ogloblinsky
 company: SII Ouest
 city: 'Rennes, France'
 photoURL: /images/speakers/vincent_ogloblinsky.jpg

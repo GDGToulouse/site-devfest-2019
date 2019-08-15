@@ -1,6 +1,6 @@
 ---
+key: jfrog
 title: JFrog
-type: gold
 category: gold
 order: 23
 logo: /images/partners/logo-jfrog.png
@@ -23,7 +23,5 @@ socials:
   - icon: linkedin
     link: 'https://linkedin.com/company/455737'
     name: jfrog
-draft: false
-key: jfrog
 ---
 JFrog - The Liquid Software Company

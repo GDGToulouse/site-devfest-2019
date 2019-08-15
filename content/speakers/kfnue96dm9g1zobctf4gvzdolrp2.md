@@ -1,8 +1,8 @@
 ---
 key: kfnue96dm9g1zobctf4gvzdolrp2
+name: Cédric Moulard
 id: KFNUe96DM9g1zobCtf4GVzdoLRp2
 feature: false
-name: Cédric Moulard
 company: Open
 city: 'Aix-en-Provence, France'
 photoURL: /images/speakers/kfnue96dm9g1zobctf4gvzdolrp2.jpg

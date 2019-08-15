@@ -1,8 +1,8 @@
 ---
 key: qj7nbl6wiyug1rhqtxf818a46po1
+name: Yves Boyez
 id: qJ7nBL6wIyUg1RHqtxF818a46po1
 feature: false
-name: 'Yves Boyez'
 company: Continental Digital Service France
 city: 'Toulouse, France'
 photoURL: /images/speakers/qj7nbl6wiyug1rhqtxf818a46po1.jpg

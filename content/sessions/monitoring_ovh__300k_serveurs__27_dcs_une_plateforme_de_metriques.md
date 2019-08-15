@@ -1,16 +1,16 @@
 ---
-id: xwAvvIJJfDdBD7N4oGa5
 key: monitoring_ovh__300k_serveurs__27_dcs_une_plateforme_de_metriques
 title: 'Monitoring OVH: 300k serveurs, 27 DCs une plateforme de métriques '
-level: beginner
+id: xwAvvIJJfDdBD7N4oGa5
 format: conference
 tags:
   - big_data___ml___ai
+level: beginner
 speakers:
   - horacio_gonzalez__lostinbrittany_
-draft: false
 videoId: null
 presentation: null
+draft: false
 ---
 Comment faire quand on doit faire le suivi de toute l'infrastructure du plus grand fournisseur de cloud Européen ?  Comment choisir un outil quand les plus populaires ne tient pas la marée à cette échèle ?  Comment construire une plateforme Metrics pour unifier, concilier et remplacer des années de legacy fragmenté et des solutions partielles ?
 

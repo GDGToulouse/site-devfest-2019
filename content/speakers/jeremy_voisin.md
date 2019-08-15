@@ -1,8 +1,8 @@
 ---
 key: jeremy_voisin
+name: Jérémy Voisin
 id: umDrfx7WeEQRicrwBAbLUu6B5By1
 feature: false
-name: Jérémy Voisin
 company: Apside
 city: 'Le Mans, France'
 photoURL: /images/speakers/jeremy_voisin.jpg

@@ -1,6 +1,6 @@
 ---
+key: openairlines
 title: OpenAirlines
-type: startup
 category: startup
 order: 6
 logo: /images/partners/logo-openairlines.png
@@ -21,8 +21,6 @@ socials:
   - icon: linkedin
     link: 'https://linkedin.com/company/openairlines'
     name: openairlines
-draft: false
-key: openairlines
 ---
 Partant du constat que chaque année près de 660 millions de tonnes de CO2 sont émises par les avions, soit plus de 20 000 kilos de CO2 par seconde, cette clean-tech a décidé d’agir en développant des solutions innovantes pour aider les compagnies aériennes à réduire leurs coûts et leur impact environnemental.
 

@@ -1,8 +1,8 @@
 ---
 key: piotr_przybyl
+name: Piotr Przybyl
 id: D1UJEdrxhHQowlM2LoIusKF26ir2
 feature: false
-name: Piotr Przybyl
 company: '@piotrprz'
 city: 'Wroclaw, Poland'
 photoURL: /images/speakers/piotr_przybyl.png

@@ -1,18 +1,18 @@
 ---
-id: pAMZmFT2wrfqPr9IdeXv
 key: le_design_de_l_erreur
 title: Le design de l'erreur
-level: beginner
+id: pAMZmFT2wrfqPr9IdeXv
+language: French
 format: conference
 tags:
   - method___tools
+level: beginner
 speakers:
   - estelle_landry_
   - francois_teychene
-draft: false
 videoId: null
 presentation: null
-language: French
+draft: false
 ---
 Nos systèmes sont designés de manière optimiste, de la gestion technique des erreurs à la modélisation de nos interfaces.  
 Que ce soit les codes d'erreurs, les exceptions ou les modélisations plus avancées, elles servent pour arrêter un traitement et _potentiellement_ afficher un message d'information à un utilisateur.

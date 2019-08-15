@@ -1,8 +1,8 @@
 ---
 key: sylvain_wallez
+name: Sylvain Wallez
 id: J2kgJ25uKngYv9G4PSWj0Cw9fcA3
 feature: false
-name: Sylvain Wallez
 company: Elastic
 city: 'Toulouse, France'
 photoURL: /images/speakers/sylvain_wallez.jpg

@@ -1,8 +1,8 @@
 ---
 key: francois_guillaume_ribreau
+name: Francois-Guillaume Ribreau
 id: HaMEPZSMBscJU4Adj9VF8brrL5h1
 feature: false
-name: Francois-Guillaume Ribreau
 company: Ouest-France/Image-Charts
 city: 'Rennes, France'
 photoURL: /images/speakers/francois_guillaume_ribreau.jpg

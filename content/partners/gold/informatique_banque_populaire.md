@@ -1,6 +1,6 @@
 ---
+key: informatique_banque_populaire
 title: Informatique Banque Populaire
-type: gold
 category: gold
 order: 3
 logo: /images/partners/logo-informatique_banque_populaire.png
@@ -19,7 +19,5 @@ socials:
   - icon: linkedin
     link: 'https://linkedin.com/company/informatique-banque-populaire'
     name: Informatique Banque Populaire
-draft: false
-key: informatique_banque_populaire
 ---
 Informatique Banque Populaire, filiale du groupe bancaire BPCE, assure le développement informatique du système d’information des Banques Populaires.

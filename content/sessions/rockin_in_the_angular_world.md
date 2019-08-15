@@ -1,18 +1,18 @@
 ---
-id: niiUNFAFhYnPBiOrcDVf
 key: rockin_in_the_angular_world
 title: Rockin’ in the Angular World
-level: intermediate
+id: niiUNFAFhYnPBiOrcDVf
+language: Français
 format: conference
 tags:
   - web
+level: intermediate
 speakers:
   - vincent_ogloblinsky
   - wassim_chegham
-draft: false
 videoId: null
 presentation: null
-language: Français
+draft: false
 ---
 _« Make it work, make it right, make it fast »_ - Kent Beck
 

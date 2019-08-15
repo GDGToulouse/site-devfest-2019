@@ -1,6 +1,6 @@
 ---
+key: elastic
 title: Elastic
-type: gold
 category: gold
 order: 11
 logo: /images/partners/logo-elastic.png
@@ -14,7 +14,5 @@ socials:
   - icon: twitter
     link: 'https://twitter.com/elastic'
     name: Elastic
-draft: false
-key: elastic
 ---
 Nous sommes les créateurs de la suite Elastic: Elasticsearch, Kibana, Beats et Logstash. Recherchez, analysez et visualisez vos données da façon sécurisée et fiable.

@@ -1,11 +1,10 @@
 ---
-title: Rust Toulouse
-type: communautes
-category: communautes
-website: 'https://www.gdgtoulouse.fr/'
-logo: /images/partners/community/rust.png
-socials: []
 key: rust-toulouse
+title: Rust Toulouse
+category: communautes
+logo: /images/partners/community/rust.png
+website: 'https://www.gdgtoulouse.fr/'
+socials: []
 ---
 
 Find Rust Toulouse on [meetup](https://www.meetup.com/Toulouse-Rust-Meetup/)

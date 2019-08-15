@@ -1,6 +1,6 @@
 ---
+key: sycomore-technologie
 title: Sycomore Technologies
-type: gold
 category: gold
 order: 32
 logo: /images/partners/logo-sycomore-technologie.png
@@ -14,8 +14,6 @@ socials:
   - icon: linkedin
     link: 'https://www.linkedin.com/company/sycomore-technologies/'
     name: ' Sycomore-Technologies '
-draft: false
-key: sycomore-technologie
 ---
 Sycomore-Technologies offers proprietary and custom software solutions.
 

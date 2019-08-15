@@ -1,17 +1,17 @@
 ---
-id: RhWn82dKmICiQulwcVJF
 key: the_freedom_of_static_typing
 title: The Freedom of Static Typing
-level: intermediate
+id: RhWn82dKmICiQulwcVJF
+language: English
 format: conference
 tags:
   - languages
+level: intermediate
 speakers:
   - andrew_radev
-draft: false
 videoId: null
 presentation: null
-language: English
+draft: false
 ---
 It's a common idea: Dynamic typing gives you freedom to do whatever you want, but then you suffer mistakes and runtime errors. Static typing limits your freedom, but it leads to fewer bugs, even if it's harder to actually write code.
 

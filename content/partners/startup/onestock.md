@@ -1,6 +1,6 @@
 ---
+key: onestock
 title: OneStock
-type: startup
 category: startup
 order: 9
 logo: /images/partners/logo-onestock.png
@@ -20,7 +20,5 @@ socials:
   - icon: linkedin
     link: 'https://linkedin.com/company/onestock-frances'
     name: OneStock France
-draft: false
-key: onestock
 ---
 Basée en France et au Royaume-Uni, OneStock propose une suite logicielle omnicanale d’Order Management à destination des retailers souhaitant rendre agile la gestion de leurs commandes, offrir la meilleure expérience client et booster leurs ventes.

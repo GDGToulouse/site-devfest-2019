@@ -1,17 +1,17 @@
 ---
-id: iU4EzEThVDvpaHDsGjOO
 key: introduction_a_la_programmation_par_contraintes
 title: Introduction à la programmation par contraintes
-level: beginner
+id: iU4EzEThVDvpaHDsGjOO
+language: Français
 format: conference
 tags:
   - big_data___ml___ai
+level: beginner
 speakers:
   - cyril_delmas
-draft: false
 videoId: null
 presentation: null
-language: Français
+draft: false
 ---
 Quel est le point commun entre un jeu de sudoku, la planification d'une conférence et les déplacements d'un commercial ?
 

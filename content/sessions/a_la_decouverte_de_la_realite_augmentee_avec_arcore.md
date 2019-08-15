@@ -1,18 +1,18 @@
 ---
-id: qXAvodXoMK3db8ZLcVwb
 key: a_la_decouverte_de_la_realite_augmentee_avec_arcore
 title: A la découverte de la réalité augmentée avec ARCore
-level: beginner
+id: qXAvodXoMK3db8ZLcVwb
+language: France
 format: conference
 tags:
   - native_mobile_apps
+level: beginner
 speakers:
   - christophe_jollivet
   - jeremy_voisin
-draft: false
 videoId: null
 presentation: null
-language: France
+draft: false
 ---
 Avec les annonces de l'arrivée de la réalité augmentée (ou RA)  dans Google Maps et Google Search sur Android lors de Google IO 2019, nous constatons que la RA va prendre une place de plus en plus importante dans notre quotidien. La sortie d'ARCore en mars 2018 sur Android a simplifié le développement d’application en RA sur Android.
 

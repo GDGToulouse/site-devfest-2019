@@ -1,8 +1,8 @@
 ---
 key: sebastien_brault
+name: Sébastien Brault
 id: GMZkedB6bYXQ2J5rJ9aIodIyXV92
 feature: false
-name: Sébastien Brault
 company: Orange
 city: 'Trégastel, France'
 photoURL: /images/speakers/sebastien_brault.png

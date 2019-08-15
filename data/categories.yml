@@ -1,28 +1,25 @@
-- name: Big Data / ML / AI
-  description: BIg Data / Machine Learning / Artificial Intelligence
+- key: big_data___ml___ai
+  name: Big Data / ML / AI
   id: 3c7ab24d-59c1-5118-b6fa-ef679a376100
-  key: big_data___ml___ai
-- name: Cloud / Infra
-  description: 'Cloud / Infrastructure /  Container Orchestration '
+- key: cloud___infra
+  name: Cloud / Infra
   id: e3fdfb05-1630-5c56-bc5d-501217ad62e3
-  key: cloud___infra
-- id: a31d8be2-8f03-553d-b07b-ee30e2d13a6e
+- key: iot
   name: IOT
-  description: Internet Of Things
-  key: iot
+  id: a31d8be2-8f03-553d-b07b-ee30e2d13a6e
 - key: keynote
   name: Keynote
-- id: b425f929-b026-52e9-87f4-89b30ec542d1
+- key: languages
   name: Languages
-  key: languages
+  id: b425f929-b026-52e9-87f4-89b30ec542d1
 - key: lunch
   name: Lunch
-- name: Method & Tools
+- key: method___tools
+  name: Method & Tools
   id: bb5eeaca-3d8d-5858-b4a9-63d90a11a792
-  key: method___tools
-- id: 9edfb0de-db78-5e18-831d-d0c56d751515
+- key: native_mobile_apps
   name: Native mobile apps
-  key: native_mobile_apps
+  id: 9edfb0de-db78-5e18-831d-d0c56d751515
 - key: office-hours
   name: Office Hours
 - key: open
@@ -31,9 +28,9 @@
   name: Party
 - key: pause
   name: Pause
-- id: cff3cdbc-52e9-5d5a-8f98-927ee005f59b
+- key: web
   name: Web
-  key: web
-- id: 8ab523e2-022d-5d16-924c-da4477ddb881
+  id: cff3cdbc-52e9-5d5a-8f98-927ee005f59b
+- key: wtf
   name: WTF
-  key: wtf
+  id: 8ab523e2-022d-5d16-924c-da4477ddb881
