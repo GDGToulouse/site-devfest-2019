@@ -4,6 +4,8 @@ menu:
   main:
     weight: 10
 
+horizontal: false
+
 draft: true
 ---
 
