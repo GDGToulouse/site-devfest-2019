@@ -136,7 +136,7 @@
         - slot: slot-lt-2
           talk: machine_learning_avec_des_allumettes_et_des_cotillons
         - slot: slot-5
-          talk: un_distributeur_automatique_d_argent_de_poche_pour_les_enfants
+          talk: a_kotlin_multiplatform_evolution
         - slot: pause-5
           talk: __pause
         - slot: slot-6
