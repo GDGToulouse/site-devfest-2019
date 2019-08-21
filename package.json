@@ -1,0 +1,20 @@
+{
+  "name": "site-devfest-2019",
+  "version": "1.0.0",
+  "repository": "https://gitlab.com/devfest-toulouse/site-devfest-2019",
+  "author": "Igor Laborie <ilaborie@gmail.com>",
+  "license": "Apache-2.0",
+  "scripts": {
+    "generate:pdf": "node tools/pdf.js",
+    "prebuild": "hugo",
+    "build:minify": "node tools/minify.js",
+    "build": "run-p build:*"
+  },
+  "devDependencies": {
+    "glob": "^7.1.4",
+    "html-minifier": "^4.0.0",
+    "npm-run-all": "^4.1.5",
+    "plop-logger": "^2.3.0",
+    "puppeteer": "^1.19.0"
+  }
+}

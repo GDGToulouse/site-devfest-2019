@@ -3,4 +3,5 @@ public/
 node_modules/
 .firebase/
 .idea/
-.firebase/
+.vscode/
+yarn-error.log
