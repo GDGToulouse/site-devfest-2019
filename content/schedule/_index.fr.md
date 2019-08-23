@@ -6,7 +6,6 @@ menu:
 
 horizontal: false
 
-draft: true
 ---
 
 
