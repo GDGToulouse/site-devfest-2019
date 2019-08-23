@@ -15,7 +15,7 @@ horizontal: false
 </a>
 
 <a class="btn primary btn-lg" href="/schedule/schedule.pdf">
-    <svg class="icon icon-pdf"><use xlink:href="#pdf"></use></svg> ICal
+    <svg class="icon icon-pdf"><use xlink:href="#pdf"></use></svg> PDF
 </a>
 
 <!-- TODO: filter and search -->
