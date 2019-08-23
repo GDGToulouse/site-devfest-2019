@@ -1,6 +1,7 @@
 ---
 key: a_kotlin_multiplatform_evolution
 title: A Kotlin multiplatform evolution
+language: English
 format: conference
 tags:
   - languages

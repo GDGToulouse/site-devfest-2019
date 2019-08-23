@@ -9,8 +9,8 @@
         "long_name": "Toulouse"
       },
       "country": {
-        "long_name": "France",
-        "short_name": "FR"
+        "short_name": "FR",
+        "long_name": "France"
       },
       "latLng": {
         "lat": 43.6115538,
@@ -157,6 +157,7 @@
     {
       "key": "a_kotlin_multiplatform_evolution",
       "title": "A Kotlin multiplatform evolution",
+      "language": "English",
       "format": "conference",
       "tags": [
         "languages"
@@ -444,7 +445,6 @@
     {
       "key": "le_jaillissement_de_l_esprit",
       "title": "Le jaillissement de l'esprit",
-      "language": "fr",
       "format": "conference",
       "tags": [
         "method___tools"
@@ -515,6 +515,7 @@
       "key": "modern_forms_in_react",
       "title": "Modern Forms in React",
       "id": "McfMVcKDdZv68NSo2JIJ",
+      "language": "English",
       "format": "conference",
       "tags": [
         "web"
@@ -708,7 +709,7 @@
       "key": "rust__webassembly__and_the_future_of_serverless",
       "title": "Rust, WebAssembly, and the future of Serverless",
       "id": "2S9XtGGq3ouHnkivEDKC",
-      "language": "United States",
+      "language": "English",
       "format": "conference",
       "tags": [
         "cloud___infra"
@@ -797,6 +798,7 @@
       "key": "webgpu__next_generation_3d_graphics_on_the_web",
       "title": "WebGPU: Next-generation 3D Graphics on the Web",
       "id": "5qTyscBWtXLRb04TXEdB",
+      "language": "English",
       "format": "conference",
       "tags": [
         "web"

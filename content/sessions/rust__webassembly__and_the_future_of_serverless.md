@@ -2,7 +2,7 @@
 key: rust__webassembly__and_the_future_of_serverless
 title: 'Rust, WebAssembly, and the future of Serverless'
 id: 2S9XtGGq3ouHnkivEDKC
-language: United States
+language: English
 format: conference
 tags:
   - cloud___infra

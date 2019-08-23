@@ -6,8 +6,8 @@ address:
     short_name: Toulouse
     long_name: Toulouse
   country:
-    long_name: France
     short_name: FR
+    long_name: France
   latLng:
     lat: 43.6115538
     lng: 1.4345827

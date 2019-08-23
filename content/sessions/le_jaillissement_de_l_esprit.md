@@ -1,7 +1,6 @@
 ---
 key: le_jaillissement_de_l_esprit
 title: Le jaillissement de l'esprit
-language: fr
 format: conference
 tags:
   - method___tools
