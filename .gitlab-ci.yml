@@ -7,9 +7,7 @@ before_script:
   - hugo version
   - echo node `node --version`
   - echo yarn `yarn --version`
-  - pushd themes/devfest-theme-hugo
   - yarn
-  - popd
 
 sandbox:
   script:
