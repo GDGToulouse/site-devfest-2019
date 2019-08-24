@@ -87,7 +87,7 @@ async function cleanupBeforePrint(page) {
     const page = await browser.newPage();
     logger.debug("opened new page");
 
-    const file = 'schedule/index.html';
+    const file = 'fr/schedule/index.html';
     const url = `http://localhost:${serverConf.port}/${file}`;
     logger.info("go to", url);
     const pageResponse = await page.goto(url, {waitUntil: 'networkidle2'});

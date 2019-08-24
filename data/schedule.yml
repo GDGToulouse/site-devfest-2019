@@ -45,6 +45,8 @@
           talk: __party
     - room: room2
       slots:
+        - slot: keynote-open
+          talk: keynote_open_overflow
         - slot: slot-1
           talk: a_kotlin_multiplatform_evolution
         - slot: pause-2
@@ -78,6 +80,8 @@
         - slot: slot-7
           talk: >-
             mon_p____de_voyant_moteur_est_encore_allume___comment_debugger_mon_moteur___plongeon_dans_les_entrailles_des_calculateurs_moteur
+        - slot: keynote-close
+          talk: keynote_close_overflow
     - room: room3
       slots:
         - slot: slot-1
