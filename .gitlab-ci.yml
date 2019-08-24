@@ -16,6 +16,7 @@ sandbox:
     - node tools/minify.js
     - firebase use default
     - firebase deploy --token "$FIREBASE_SANDBOX_TOKEN"
+    - ls public/schedule/
   artifacts:
     paths:
       - public
