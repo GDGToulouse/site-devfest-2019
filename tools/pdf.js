@@ -16,6 +16,8 @@ const serverConf = {
   }
 };
 const browserConf = {
+  headless: true,
+  args: ['--no-sandbox', '--disable-setuid-sandbox'],
   defaultViewport: {width: 1280, height: 1700},
   margin: {
     top: "0cm",
