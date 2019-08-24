@@ -9,6 +9,7 @@ Logger.config.defaultLevel = LogLevel.Debug;
 const logger = Logger.getLogger('pdf');
 
 // Configuration
+const output = 'static/schedule/schedule.pdf';
 const serverConf = {
   port: 8765,
   options: {
@@ -93,13 +94,11 @@ async function cleanupBeforePrint(page) {
     logger.debug("done", pageResponse.statusText());
 
     await cleanupBeforePrint(page);
-
-    logger.info('export pdf');
-    const path = 'static/schedule/schedule.pdf';
+    logger.info('export pdf', output);
     const format = 'A3';
     const scale = .4;
     const printBackground = true;
-    await page.pdf({path, format, scale, printBackground});
+    await page.pdf({path:output, format, scale, printBackground});
     logger.debug("pdf done");
 
   } catch (e) {
