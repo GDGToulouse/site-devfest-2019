@@ -13,8 +13,9 @@ before_script:
 
 sandbox:
   script:
+    - npn run build:pdf
     - hugo -F
-    - node themes/devfest-theme-hugo/minify.js
+    - npn run build:minify
     - firebase use default
     - firebase deploy --token "$FIREBASE_SANDBOX_TOKEN"
   artifacts:
@@ -27,8 +28,9 @@ prod:
   variables:
     HUGO_ENV: production
   script:
+    - npn run build:pdf
     - hugo --baseURL https://2019.devfesttoulouse.fr/
-    - node themes/devfest-theme-hugo/minify.js
+    - npn run build:minify
     - firebase use prod
     - firebase deploy --token "$FIREBASE_PROD_TOKEN"
   artifacts:
