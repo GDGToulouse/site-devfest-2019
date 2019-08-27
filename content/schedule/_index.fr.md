@@ -5,7 +5,6 @@ menu:
     weight: 10
 
 horizontal: false
-
 draft: true
 ---
 
@@ -17,7 +16,7 @@ draft: true
 </a>
 
 <a class="btn primary btn-lg" href="/schedule/schedule.pdf">
-    <svg class="icon icon-pdf"><use xlink:href="#pdf"></use></svg> ICal
+    <svg class="icon icon-pdf"><use xlink:href="#pdf"></use></svg> PDF
 </a>
 
 <!-- TODO: filter and search -->

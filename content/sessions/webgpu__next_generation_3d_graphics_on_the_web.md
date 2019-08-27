@@ -2,6 +2,7 @@
 key: webgpu__next_generation_3d_graphics_on_the_web
 title: 'WebGPU: Next-generation 3D Graphics on the Web'
 id: 5qTyscBWtXLRb04TXEdB
+language: English
 format: conference
 tags:
   - web

@@ -8,7 +8,6 @@ tags:
   - method___tools
 level: beginner
 speakers:
-  - estelle_landry_
   - francois_teychene
 videoId: null
 presentation: null

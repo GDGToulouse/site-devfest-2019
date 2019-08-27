@@ -2,6 +2,7 @@
 key: modern_forms_in_react
 title: Modern Forms in React
 id: McfMVcKDdZv68NSo2JIJ
+language: English
 format: conference
 tags:
   - web

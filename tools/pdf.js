@@ -1,50 +1,104 @@
 const puppeteer = require('puppeteer');
 const {Logger, LogLevel} = require('plop-logger');
 const {colorEmojiConfig} = require('plop-logger/lib/extra/colorEmojiConfig');
+const handler = require('serve-handler');
+const http = require('http');
 
 Logger.config = colorEmojiConfig;
 Logger.config.defaultLevel = LogLevel.Debug;
 const logger = Logger.getLogger('pdf');
 
+// Configuration
+const output = 'static/schedule/schedule.pdf';
+const serverConf = {
+  port: 8765,
+  options: {
+    "public": "./public"
+  }
+};
+const browserConf = {
+  headless: true,
+  args: ['--no-sandbox', '--disable-setuid-sandbox'],
+  defaultViewport: {width: 1280, height: 1700},
+  margin: {
+    top: "0cm",
+    right: "0cm",
+    bottom: "0cm",
+    left: "0cm"
+  },
+  devtools: false
+};
+
+async function startServer({port, options}) {
+  return new Promise((resolve, reject) => {
+    const server = http.createServer((request, response) =>
+      handler(request, response, options));
+
+    server.listen(port, err => {
+      if (err) {
+        logger.error('Fail to start server', err);
+        reject(err);
+      } else {
+        logger.info('Server started', () => `http://localhost:${port}`);
+        resolve(server);
+      }
+    });
+  });
+}
+
+async function stopServer(server) {
+  return new Promise((resolve, reject) => {
+    logger.info('Stopping server...');
+    server.close(err => {
+      if (err) {
+        logger.error('Fail to stop server', err);
+        reject(err);
+      } else {
+        logger.info('Server stopped');
+        resolve();
+      }
+    });
+  });
+}
+
+async function cleanupBeforePrint(page) {
+  const toHide = [
+    'body > header',
+    'body > footer',
+    'main .hero',
+  ];
+
+  await page.$$eval(toHide.join(','), elts =>
+    elts.forEach(elt =>
+      elt.parentNode.removeChild(elt)));
+
+  await page.addStyleTag({
+    content: '@page { size: auto; }',
+  });
+}
+
 (async () => {
+  const server = await startServer(serverConf);
+
   logger.info("launch puppeteer browser");
-  const defaultViewport = {width: 1280, height: 1700};
-  const devtools = false;
-  const browser = await puppeteer.launch({devtools, defaultViewport});
+  const browser = await puppeteer.launch(browserConf);
   try {
     logger.info("open new page");
     const page = await browser.newPage();
     logger.debug("opened new page");
 
-    const file = 'schedule/index.html';
-    const url = `http://localhost:1313/${file}`;
+    const file = 'fr/schedule/index.html';
+    const url = `http://localhost:${serverConf.port}/${file}`;
     logger.info("go to", url);
     const pageResponse = await page.goto(url, {waitUntil: 'networkidle2'});
-    logger.debug("gone", pageResponse.statusText());
+    logger.debug("done", pageResponse.statusText());
 
-    const toHide = [
-      'body>header',
-      'body>footer',
-      'main .hero',
-    ];
-    await page.$$eval(toHide.join(','), function (elts) {
-      // debugger;
-      elts.forEach(elt => {
-        elt.parentNode.removeChild(elt);
-        // elt.style.display = 'none';
-      });
-    });
-
-    await page.addStyleTag({
-      content: '@page { size: auto; }',
-    });
-
-    logger.info('export pdf');
-    const path = 'static/schedule/schedule.pdf';
+    await cleanupBeforePrint(page);
+    logger.info('export pdf', output);
     const format = 'A3';
     const scale = .4;
     const printBackground = true;
-    await page.pdf({path, format, scale, printBackground});
+    await page.pdf({path:output, format, scale, printBackground});
     logger.debug("pdf done");
 
   } catch (e) {
@@ -53,5 +107,6 @@ const logger = Logger.getLogger('pdf');
   } finally {
     logger.info('close puppeteer browser');
     await browser.close();
+    await stopServer(server);
   }
 })();

@@ -3,23 +3,23 @@
     "id": "HJRThubF4uYPkb7jSUxi",
     "name": "DevFest Toulouse 2019",
     "address": {
-      "latLng": {
-        "lng": 1.4345827,
-        "lat": 43.6115538
-      },
       "formattedAddress": "11 Espl. Compans Caffarelli, 31000 Toulouse, France",
       "locality": {
         "short_name": "Toulouse",
         "long_name": "Toulouse"
       },
       "country": {
-        "long_name": "France",
-        "short_name": "FR"
+        "short_name": "FR",
+        "long_name": "France"
+      },
+      "latLng": {
+        "lat": 43.6115538,
+        "lng": 1.4345827
       }
     },
     "dates": {
-      "end": "2019-10-03T10:00:00.000Z",
-      "start": "2019-10-03T10:00:00.000Z"
+      "start": "2019-10-03T10:00:00.000Z",
+      "end": "2019-10-03T10:00:00.000Z"
     }
   },
   "sessions": [
@@ -157,6 +157,7 @@
     {
       "key": "a_kotlin_multiplatform_evolution",
       "title": "A Kotlin multiplatform evolution",
+      "language": "English",
       "format": "conference",
       "tags": [
         "languages"
@@ -377,8 +378,30 @@
       "description": "Surprise!"
     },
     {
+      "key": "keynote_close_overflow",
+      "title": "Keynote de fermeture (overflow)",
+      "format": "keynote",
+      "tags": [
+        "keynote"
+      ],
+      "speakers": [],
+      "draft": false,
+      "description": "Surprise!"
+    },
+    {
       "key": "keynote_open",
       "title": "Keynote d'ouverture",
+      "format": "keynote",
+      "tags": [
+        "keynote"
+      ],
+      "speakers": [],
+      "draft": false,
+      "description": "Surprise!"
+    },
+    {
+      "key": "keynote_open_overflow",
+      "title": "Keynote d'ouverture (overflow)",
       "format": "keynote",
       "tags": [
         "keynote"
@@ -415,7 +438,7 @@
       ],
       "level": "intermediate",
       "speakers": [
-        "kfnue96dm9g1zobctf4gvzdolrp2"
+        "cedric_moulard"
       ],
       "videoId": null,
       "presentation": null,
@@ -433,7 +456,6 @@
       ],
       "level": "beginner",
       "speakers": [
-        "estelle_landry_",
         "francois_teychene"
       ],
       "videoId": null,
@@ -444,7 +466,6 @@
     {
       "key": "le_jaillissement_de_l_esprit",
       "title": "Le jaillissement de l'esprit",
-      "language": "fr",
       "format": "conference",
       "tags": [
         "method___tools"
@@ -515,6 +536,7 @@
       "key": "modern_forms_in_react",
       "title": "Modern Forms in React",
       "id": "McfMVcKDdZv68NSo2JIJ",
+      "language": "English",
       "format": "conference",
       "tags": [
         "web"
@@ -708,7 +730,7 @@
       "key": "rust__webassembly__and_the_future_of_serverless",
       "title": "Rust, WebAssembly, and the future of Serverless",
       "id": "2S9XtGGq3ouHnkivEDKC",
-      "language": "United States",
+      "language": "English",
       "format": "conference",
       "tags": [
         "cloud___infra"
@@ -797,6 +819,7 @@
       "key": "webgpu__next_generation_3d_graphics_on_the_web",
       "title": "WebGPU: Next-generation 3D Graphics on the Web",
       "id": "5qTyscBWtXLRb04TXEdB",
+      "language": "English",
       "format": "conference",
       "tags": [
         "web"
@@ -893,6 +916,26 @@
         }
       ],
       "description": "Professional Rails developer with an excessive amount of Vimscript in his Github profile. Teaches a Rust course in Sofia University."
+    },
+    {
+      "key": "cedric_moulard",
+      "name": "Cédric Moulard",
+      "id": "KFNUe96DM9g1zobCtf4GVzdoLRp2",
+      "feature": false,
+      "photoURL": "/images/speakers/cedric_moulard.jpg",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/cedric_moulard",
+          "name": "cedric_moulard"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/cedricmoulard",
+          "name": "cedricmoulard"
+        }
+      ],
+      "description": "Diplômé de Arts & Métiers ParisTech et pas vraiment destiné à faire de l'informatique. \nDéveloppeur autodidacte. \n\n20 ans d'expérience, dont :\n- Architecte Java\n- Développeur Angular\n- Chef de projet\n- ScrumMaster\n- Evaluateur CMMi\n- Responsable Méthodes & Outils"
     },
     {
       "key": "christophe_jollivet",
@@ -1002,23 +1045,6 @@
         }
       ],
       "description": "American expat living in Spain, making awesome Javascript open source."
-    },
-    {
-      "key": "estelle_landry_",
-      "name": "Estelle Landry ☀️",
-      "id": "JkWN4X6967cvBrV2x8vKf1QrHS93",
-      "feature": false,
-      "company": "Elium",
-      "city": "Montpellier, France",
-      "photoURL": "/images/speakers/estelle_landry_.jpg",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/estelandry",
-          "name": "estelandry"
-        }
-      ],
-      "description": "Passionée par mon métier de Product Owner, par l'UX (User eXpérience) et le GameStorming, j'aime participer à l'élaboration d'un produit en étant le lien entre les utilisateurs et les développeurs.\n\nSpeakeuse en conférence tech, membre des Duchess France, de SunnyTech et du MeetUp UX Flupa Montpellier, je continue à me perfectionner et à discuter de nouvelles méthodes ou technologies de l'IT."
     },
     {
       "key": "francois_guillaume_ribreau",
@@ -1233,28 +1259,6 @@
         }
       ],
       "description": "Développeuse Web depuis presque 3 ans, je pratique Vue.js et Koa.js au quotidien chez SchoolMouv à Toulouse. \nCela fait maintenant trois conférences que je coprésente aux DevFest de Toulouse, de Brest puis à MiXiT 2019. Et je m'épanouis totalement dans cette nouvelle activité !"
-    },
-    {
-      "key": "kfnue96dm9g1zobctf4gvzdolrp2",
-      "name": "Cédric Moulard",
-      "id": "KFNUe96DM9g1zobCtf4GVzdoLRp2",
-      "feature": false,
-      "company": "Open",
-      "city": "Aix-en-Provence, France",
-      "photoURL": "/images/speakers/kfnue96dm9g1zobctf4gvzdolrp2.jpg",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/cedric_moulard",
-          "name": "cedric_moulard"
-        },
-        {
-          "icon": "github",
-          "link": "https://github.com/cedricmoulard",
-          "name": "cedricmoulard"
-        }
-      ],
-      "description": "Diplômé de Arts & Métiers ParisTech et pas vraiment destiné à faire de l'informatique. \nDéveloppeur autodidacte. \n\n20 ans d'expérience, dont :\n- Architecte Java\n- Développeur Angular\n- Chef de projet\n- ScrumMaster\n- Evaluateur CMMi\n- Responsable Méthodes & Outils"
     },
     {
       "key": "liliia_abdulina",
@@ -1788,19 +1792,19 @@
     },
     {
       "key": "room1",
-      "label": "Grand amphi."
+      "label": "#1"
     },
     {
       "key": "room2",
-      "label": "Grande salle"
+      "label": "#2"
     },
     {
       "key": "room3",
-      "label": "Salle du haut"
+      "label": "#3"
     },
     {
       "key": "room4",
-      "label": "Petite salle"
+      "label": "#4"
     }
   ],
   "slots": [
@@ -2088,7 +2092,7 @@
             },
             {
               "slot": "slot-1",
-              "talk": "_numerique_et_environnement__ou__on_aurait_pu_sauver_les_abeilles__on_a_prefere_sortir_un_nouvel_iphone_"
+              "talk": "the_rise_of_the_web"
             },
             {
               "slot": "pause-2",
@@ -2096,7 +2100,7 @@
             },
             {
               "slot": "slot-2",
-              "talk": "_votre_api_web_passe_t_elle_le_controle_technique__"
+              "talk": "l_histoire_de_la_decouverte_d_une_backdoor_signe_oneplus"
             },
             {
               "slot": "pause-3",
@@ -2104,7 +2108,7 @@
             },
             {
               "slot": "slot-3",
-              "talk": "a_la_decouverte_de_la_realite_augmentee_avec_arcore"
+              "talk": "webgpu__next_generation_3d_graphics_on_the_web"
             },
             {
               "slot": "slot-lt-1",
@@ -2116,11 +2120,11 @@
             },
             {
               "slot": "slot-lt-2",
-              "talk": "10_est_une_puissance_de_2"
+              "talk": "_47_ans___ils_nont_toujours_pas_remarque__"
             },
             {
               "slot": "slot-4",
-              "talk": "allo_paris__ici_san_francisco__et_si_on_codait_ensemble_avec_vs_code_"
+              "talk": "rust__webassembly__and_the_future_of_serverless"
             },
             {
               "slot": "pause-4",
@@ -2128,7 +2132,7 @@
             },
             {
               "slot": "slot-5",
-              "talk": "authentication_authorization_starters_battle"
+              "talk": "le_design_de_l_erreur"
             },
             {
               "slot": "pause-5",
@@ -2136,7 +2140,7 @@
             },
             {
               "slot": "slot-6",
-              "talk": "brace_yourself__vanilla_is_coming__back__"
+              "talk": "monitoring_ovh__300k_serveurs__27_dcs_une_plateforme_de_metriques"
             },
             {
               "slot": "pause-6",
@@ -2144,7 +2148,7 @@
             },
             {
               "slot": "slot-7",
-              "talk": "comprendre_le_role_du_noyau_d_un_systeme_d_exploitation_en_creant_un_from_scratch"
+              "talk": "_votre_api_web_passe_t_elle_le_controle_technique__"
             },
             {
               "slot": "keynote-close",
@@ -2160,8 +2164,12 @@
           "room": "room2",
           "slots": [
             {
+              "slot": "keynote-open",
+              "talk": "keynote_open_overflow"
+            },
+            {
               "slot": "slot-1",
-              "talk": "de_java_a_un_executable_natif___graalvm_et_quarkus_changent_la_donne"
+              "talk": "a_kotlin_multiplatform_evolution"
             },
             {
               "slot": "pause-2",
@@ -2169,7 +2177,7 @@
             },
             {
               "slot": "slot-2",
-              "talk": "devops_at_scale"
+              "talk": "le_burn_out_agile"
             },
             {
               "slot": "pause-3",
@@ -2177,19 +2185,11 @@
             },
             {
               "slot": "slot-3",
-              "talk": "four_diseases"
-            },
-            {
-              "slot": "pause-4",
-              "talk": "__pause"
-            },
-            {
-              "slot": "slot-4",
-              "talk": "introduction_a_la_programmation_par_contraintes"
+              "talk": "_numerique_et_environnement__ou__on_aurait_pu_sauver_les_abeilles__on_a_prefere_sortir_un_nouvel_iphone_"
             },
             {
               "slot": "slot-lt-1",
-              "talk": "_47_ans___ils_nont_toujours_pas_remarque__"
+              "talk": "machine_learning_avec_des_allumettes_et_des_cotillons"
             },
             {
               "slot": "lunch",
@@ -2197,11 +2197,19 @@
             },
             {
               "slot": "slot-lt-2",
-              "talk": "un_distributeur_automatique_d_argent_de_poche_pour_les_enfants"
+              "talk": "applications_de_brainfuck__langage_minimaliste_mais_turing_complet"
+            },
+            {
+              "slot": "slot-4",
+              "talk": "live_coding_musical___vous_savez_coder___devenez_compositeur_avec_webaudio_et_webmidi__"
+            },
+            {
+              "slot": "pause-4",
+              "talk": "__pause"
             },
             {
               "slot": "slot-5",
-              "talk": "l_histoire_de_la_decouverte_d_une_backdoor_signe_oneplus"
+              "talk": "the_freedom_of_static_typing"
             },
             {
               "slot": "pause-5",
@@ -2209,7 +2217,7 @@
             },
             {
               "slot": "slot-6",
-              "talk": "le_burn_out_agile"
+              "talk": "authentication_authorization_starters_battle"
             },
             {
               "slot": "pause-6",
@@ -2217,7 +2225,11 @@
             },
             {
               "slot": "slot-7",
-              "talk": "le_design_de_l_erreur"
+              "talk": "mon_p____de_voyant_moteur_est_encore_allume___comment_debugger_mon_moteur___plongeon_dans_les_entrailles_des_calculateurs_moteur"
+            },
+            {
+              "slot": "keynote-close",
+              "talk": "keynote_close_overflow"
             }
           ]
         },
@@ -2226,72 +2238,7 @@
           "slots": [
             {
               "slot": "slot-1",
-              "talk": "live_coding_musical___vous_savez_coder___devenez_compositeur_avec_webaudio_et_webmidi__"
-            },
-            {
-              "slot": "pause-2",
-              "talk": "__pause"
-            },
-            {
-              "slot": "slot-2",
-              "talk": "modern_forms_in_react"
-            },
-            {
-              "slot": "pause-3",
-              "talk": "__pause"
-            },
-            {
-              "slot": "slot-3",
-              "talk": "mon_p____de_voyant_moteur_est_encore_allume___comment_debugger_mon_moteur___plongeon_dans_les_entrailles_des_calculateurs_moteur"
-            },
-            {
-              "slot": "pause-4",
-              "talk": "__pause"
-            },
-            {
-              "slot": "slot-4",
-              "talk": "monitoring_ovh__300k_serveurs__27_dcs_une_plateforme_de_metriques"
-            },
-            {
-              "slot": "slot-lt-1",
-              "talk": "applications_de_brainfuck__langage_minimaliste_mais_turing_complet"
-            },
-            {
-              "slot": "lunch",
-              "talk": "__lunch"
-            },
-            {
-              "slot": "slot-lt-2",
-              "talk": "developpeurs_en_reconversion__developpeurs_quand_meme__"
-            },
-            {
-              "slot": "slot-5",
-              "talk": "premiers_pas_avec_un_microcontroleur_et_google_cloud_iot_core"
-            },
-            {
-              "slot": "pause-5",
-              "talk": "__pause"
-            },
-            {
-              "slot": "slot-6",
               "talk": "quand_les_rates_des_ias_nous_renvoient_a_nos_propres_biais_societaux"
-            },
-            {
-              "slot": "pause-6",
-              "talk": "__pause"
-            },
-            {
-              "slot": "slot-7",
-              "talk": "rockin_in_the_angular_world"
-            }
-          ]
-        },
-        {
-          "room": "room4",
-          "slots": [
-            {
-              "slot": "slot-1",
-              "talk": "rust__webassembly__and_the_future_of_serverless"
             },
             {
               "slot": "pause-2",
@@ -2307,15 +2254,7 @@
             },
             {
               "slot": "slot-3",
-              "talk": "the_freedom_of_static_typing"
-            },
-            {
-              "slot": "pause-4",
-              "talk": "__pause"
-            },
-            {
-              "slot": "slot-4",
-              "talk": "the_rise_of_the_web"
+              "talk": "allo_paris__ici_san_francisco__et_si_on_codait_ensemble_avec_vs_code_"
             },
             {
               "slot": "slot-lt-1",
@@ -2327,11 +2266,19 @@
             },
             {
               "slot": "slot-lt-2",
-              "talk": "machine_learning_avec_des_allumettes_et_des_cotillons"
+              "talk": "un_distributeur_automatique_d_argent_de_poche_pour_les_enfants"
+            },
+            {
+              "slot": "slot-4",
+              "talk": "le_jaillissement_de_l_esprit"
+            },
+            {
+              "slot": "pause-4",
+              "talk": "__pause"
             },
             {
               "slot": "slot-5",
-              "talk": "a_kotlin_multiplatform_evolution"
+              "talk": "comprendre_le_role_du_noyau_d_un_systeme_d_exploitation_en_creant_un_from_scratch"
             },
             {
               "slot": "pause-5",
@@ -2339,7 +2286,7 @@
             },
             {
               "slot": "slot-6",
-              "talk": "webgpu__next_generation_3d_graphics_on_the_web"
+              "talk": "devops_at_scale"
             },
             {
               "slot": "pause-6",
@@ -2347,7 +2294,72 @@
             },
             {
               "slot": "slot-7",
-              "talk": "le_jaillissement_de_l_esprit"
+              "talk": "modern_forms_in_react"
+            }
+          ]
+        },
+        {
+          "room": "room4",
+          "slots": [
+            {
+              "slot": "slot-1",
+              "talk": "a_la_decouverte_de_la_realite_augmentee_avec_arcore"
+            },
+            {
+              "slot": "pause-2",
+              "talk": "__pause"
+            },
+            {
+              "slot": "slot-2",
+              "talk": "rockin_in_the_angular_world"
+            },
+            {
+              "slot": "pause-3",
+              "talk": "__pause"
+            },
+            {
+              "slot": "slot-3",
+              "talk": "premiers_pas_avec_un_microcontroleur_et_google_cloud_iot_core"
+            },
+            {
+              "slot": "slot-lt-1",
+              "talk": "developpeurs_en_reconversion__developpeurs_quand_meme__"
+            },
+            {
+              "slot": "lunch",
+              "talk": "__lunch"
+            },
+            {
+              "slot": "slot-lt-2",
+              "talk": "10_est_une_puissance_de_2"
+            },
+            {
+              "slot": "slot-4",
+              "talk": "de_java_a_un_executable_natif___graalvm_et_quarkus_changent_la_donne"
+            },
+            {
+              "slot": "pause-4",
+              "talk": "__pause"
+            },
+            {
+              "slot": "slot-5",
+              "talk": "brace_yourself__vanilla_is_coming__back__"
+            },
+            {
+              "slot": "pause-5",
+              "talk": "__pause"
+            },
+            {
+              "slot": "slot-6",
+              "talk": "four_diseases"
+            },
+            {
+              "slot": "pause-6",
+              "talk": "__pause"
+            },
+            {
+              "slot": "slot-7",
+              "talk": "introduction_a_la_programmation_par_contraintes"
             }
           ]
         },
