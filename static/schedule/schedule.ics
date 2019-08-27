@@ -17,7 +17,7 @@ DESCRIPTION:Il y a 20 ans\, personne de **sobre** n’aurait utilisé Javascri
  and Enjoy!
 DTSTART:20191003T100000
 DURATION:PT40M
-LOCATION:Grand amphi.
+LOCATION:#1
 SUMMARY:The rise of the web
 UID:0MXH99V8NY9xyeurYCmA
 URL:https://devfesttoulouse.fr/sessions/the_rise_of_the_web
@@ -40,7 +40,7 @@ DESCRIPTION:## Résumé\nEn Novembre 2017\, j'ai découvert "une backdoor" dan
  Format\nUne conférence de 40 min
 DTSTART:20191003T110000
 DURATION:PT40M
-LOCATION:Grand amphi.
+LOCATION:#1
 SUMMARY:L'histoire de la découverte d'une backdoor signé Oneplus
 UID:Kwery1cbJrx3ZFj6x1JU
 URL:https://devfesttoulouse.fr/sessions/l_histoire_de_la_decouverte_d_une_b
@@ -56,7 +56,7 @@ DESCRIPTION:This talk will give an overview of the WebGPU API that will pro
  performance of frameworks like Tensorflow.js up to 10x.
 DTSTART:20191003T120000
 DURATION:PT40M
-LOCATION:Grand amphi.
+LOCATION:#1
 SUMMARY:WebGPU: Next-generation 3D Graphics on the Web
 UID:5qTyscBWtXLRb04TXEdB
 URL:https://devfesttoulouse.fr/sessions/webgpu__next_generation_3d_graphics
@@ -75,7 +75,7 @@ DESCRIPTION:Qui ne s’est jamais fait manipulé ? Évidemment\, on est tous al
  (voir même manipuler les autres).
 DTSTART:20191003T125000
 DURATION:PT15M
-LOCATION:Grand amphi.
+LOCATION:#1
 SUMMARY:3 techniques faciles de manipulation
 UID:zVUXQkHQtSiGJeIwVd05
 URL:https://devfesttoulouse.fr/sessions/3_techniques_faciles_de_manipulatio
@@ -96,7 +96,7 @@ DESCRIPTION:L’âgisme dans les fonctions IT\, et en particulier dans le Déve
  tal Digital Services et que personne ne m’ait encore rien dit ?
 DTSTART:20191003T140500
 DURATION:PT15M
-LOCATION:Grand amphi.
+LOCATION:#1
 SUMMARY:« 47 ans : ils n’ont toujours pas remarqué … »
 UID:pY6MCQBMfIYlIKfHdhL4
 URL:https://devfesttoulouse.fr/sessions/_47_ans___ils_nont_toujours_pas_rem
@@ -115,7 +115,7 @@ DESCRIPTION:A lot of things have been said about WebAssembly inside of the\
  ebAssembly\, serverless technologies\, and\nhow it all fits together.
 DTSTART:20191003T143000
 DURATION:PT40M
-LOCATION:Grand amphi.
+LOCATION:#1
 SUMMARY:Rust\, WebAssembly\, and the future of Serverless
 UID:2S9XtGGq3ouHnkivEDKC
 URL:https://devfesttoulouse.fr/sessions/rust__webassembly__and_the_future_o
@@ -140,7 +140,7 @@ DESCRIPTION:Nos systèmes sont designés de manière optimiste\, de la gestion
  teur. Et si on apprenait ensemble à concevoir nos erreurs ?
 DTSTART:20191003T153000
 DURATION:PT40M
-LOCATION:Grand amphi.
+LOCATION:#1
 SUMMARY:Le design de l'erreur
 UID:pAMZmFT2wrfqPr9IdeXv
 URL:https://devfesttoulouse.fr/sessions/le_design_de_l_erreur
@@ -167,7 +167,7 @@ DESCRIPTION:Comment faire quand on doit faire le suivi de toute l'infrastru
  ormantes au monde.
 DTSTART:20191003T163000
 DURATION:PT40M
-LOCATION:Grand amphi.
+LOCATION:#1
 SUMMARY:Monitoring OVH: 300k serveurs\, 27 DCs une plateforme de métriques 
 UID:xwAvvIJJfDdBD7N4oGa5
 URL:https://devfesttoulouse.fr/sessions/monitoring_ovh__300k_serveurs__27_d
@@ -185,7 +185,7 @@ DESCRIPTION:Nous savons tous développer une API mais avons-nous tous bien i
  rovenant de chez Uber\, Stripe\, Facebook\, ...
 DTSTART:20191003T173000
 DURATION:PT40M
-LOCATION:Grand amphi.
+LOCATION:#1
 SUMMARY:⛳️ Votre API web passe-t-elle le contrôle technique ? 
 UID:Gxr3XZR1HEu14tbneJLb
 URL:https://devfesttoulouse.fr/sessions/_votre_api_web_passe_t_elle_le_cont
@@ -206,7 +206,7 @@ DESCRIPTION:Have you heard of the code-sharing feature in Kotlin\, accompan
   use multiplatform?
 DTSTART:20191003T100000
 DURATION:PT40M
-LOCATION:Grande salle
+LOCATION:#2
 SUMMARY:A Kotlin multiplatform evolution
 UID:a_kotlin_multiplatform_evolution
 URL:https://devfesttoulouse.fr/sessions/a_kotlin_multiplatform_evolution
@@ -233,7 +233,7 @@ DESCRIPTION:En 2019 le monde de l’informatique n’a que l’agilité à la bo
  il faut revenir au cycle en V ?
 DTSTART:20191003T110000
 DURATION:PT40M
-LOCATION:Grande salle
+LOCATION:#2
 SUMMARY:Le burn-out agile
 UID:KAH9Lyx0b2TKNSQVZNw2
 URL:https://devfesttoulouse.fr/sessions/le_burn_out_agile
@@ -260,7 +260,7 @@ DESCRIPTION:Le numérique fait-il partie du problème ou de la solution quand
  e notre monde suit.
 DTSTART:20191003T120000
 DURATION:PT40M
-LOCATION:Grande salle
+LOCATION:#2
 SUMMARY:"Numérique et environnement" ou "On aurait pu sauver les abeilles\,
   on a préféré sortir un nouvel iPhone"
 UID:zDbtrtvdLPG1okj07wyI
@@ -278,7 +278,7 @@ DESCRIPTION:Dans ce talk je vous montrerai comment expliquer simplement le
  '"intelligence artificielle" basés sur l'apprentissage.
 DTSTART:20191003T125000
 DURATION:PT15M
-LOCATION:Grande salle
+LOCATION:#2
 SUMMARY:Machine learning avec des allumettes et des cotillons
 UID:cnRUAtQNZybQsQa03lAx
 URL:https://devfesttoulouse.fr/sessions/machine_learning_avec_des_allumette
@@ -296,7 +296,7 @@ DESCRIPTION:Brainfuck est probablement le plus connu des langages de progra
  raphes !
 DTSTART:20191003T140500
 DURATION:PT15M
-LOCATION:Grande salle
+LOCATION:#2
 SUMMARY:Applications de Brainfuck\, langage minimaliste mais Turing-complet
 UID:oiZTE4THbAJeaNVlLc03
 URL:https://devfesttoulouse.fr/sessions/applications_de_brainfuck__langage_
@@ -318,7 +318,7 @@ DESCRIPTION:Sans nécessiter de formation musicale pointue\, tout développeu
  e tenir !
 DTSTART:20191003T143000
 DURATION:PT40M
-LOCATION:Grande salle
+LOCATION:#2
 SUMMARY:Live coding musical : vous savez coder ? Devenez compositeur avec W
  ebAudio et WebMIDI !
 UID:WwHpapkCgEg5IMW5vTId
@@ -349,7 +349,7 @@ DESCRIPTION:It's a common idea: Dynamic typing gives you freedom to do what
  , so come by and let's talk about being (type-safely) free.
 DTSTART:20191003T153000
 DURATION:PT40M
-LOCATION:Grande salle
+LOCATION:#2
 SUMMARY:The Freedom of Static Typing
 UID:RhWn82dKmICiQulwcVJF
 URL:https://devfesttoulouse.fr/sessions/the_freedom_of_static_typing
@@ -368,7 +368,7 @@ DESCRIPTION:When you start a brand new app or service\, you need to think a
  s and their benefits.
 DTSTART:20191003T163000
 DURATION:PT40M
-LOCATION:Grande salle
+LOCATION:#2
 SUMMARY:Authentication/Authorization Starters Battle
 UID:6E03tbU6L5w0IyjMi7yF
 URL:https://devfesttoulouse.fr/sessions/authentication_authorization_starte
@@ -388,7 +388,7 @@ DESCRIPTION:Depuis les années 70 tous les constructeurs autos intégrent des
  plorer la face cachée numérique de nos voitures.
 DTSTART:20191003T173000
 DURATION:PT40M
-LOCATION:Grande salle
+LOCATION:#2
 SUMMARY:Mon p*** de voyant moteur est encore allumé ! Comment debugger mon 
  moteur ? Plongeon dans les entrailles des calculateurs moteur
 UID:fW4yvmVxjXb57vQJhIXu
@@ -423,7 +423,7 @@ DESCRIPTION:Un chatbot créé par Microsoft qui dérive avec des propos antisé
  interprétation de ces explications.
 DTSTART:20191003T100000
 DURATION:PT40M
-LOCATION:Salle du haut
+LOCATION:#3
 SUMMARY:Quand les ratés des IAs nous renvoient à nos propres biais sociétau
  x
 UID:ZsAGxn6UZi1hfzz2bwR7
@@ -452,7 +452,7 @@ DESCRIPTION:The singe most important feature of Rust is memory safety. Writ
  control of error conditions
 DTSTART:20191003T110000
 DURATION:PT40M
-LOCATION:Salle du haut
+LOCATION:#3
 SUMMARY:Rust as a High-Level Langage
 UID:PjQDGsFIQoo1By4Ogv3q
 URL:https://devfesttoulouse.fr/sessions/rust_as_a_high_level_langage
@@ -470,7 +470,7 @@ DESCRIPTION:Vous aimez VS Code car il est simple\, intuitif et qu'il fait c
  e parfait pour faire du code collaboratif.
 DTSTART:20191003T120000
 DURATION:PT40M
-LOCATION:Salle du haut
+LOCATION:#3
 SUMMARY:Allo Paris\, ici San Francisco. Et si on codait ensemble avec VS Co
  de?
 UID:Cej88MtlRVZrJRK0FJ2p
@@ -509,7 +509,7 @@ DESCRIPTION:Jean-Yves Girard\, le génial inventeur des indispensables [mont
  s\, géométrique de l'intéraction\, etc.).
 DTSTART:20191003T125000
 DURATION:PT15M
-LOCATION:Salle du haut
+LOCATION:#3
 SUMMARY:Le troll dans ta machine --- Une courte introduction à la pensée de
   Jean-Yves Girard
 UID:hoiS7Cs5sWwXb632pLh2
@@ -531,7 +531,7 @@ DESCRIPTION:Avec mon épouse nous avons commencer à donner de l'argent de po
  omment j'ai pu les résoudre.
 DTSTART:20191003T140500
 DURATION:PT15M
-LOCATION:Salle du haut
+LOCATION:#3
 SUMMARY:Un distributeur automatique d'argent de poche pour les enfants
 UID:ZmSIPnuidcxjKLVfEKM8
 URL:https://devfesttoulouse.fr/sessions/un_distributeur_automatique_d_argen
@@ -551,7 +551,7 @@ DESCRIPTION:Les enfants sont eux-mêmes les bâtisseurs actifs de leurs propr
   Logo hipster de nos jour\, jusqu’à Groovy et Python. \n
 DTSTART:20191003T143000
 DURATION:PT40M
-LOCATION:Salle du haut
+LOCATION:#3
 SUMMARY:Le jaillissement de l'esprit
 UID:le_jaillissement_de_l_esprit
 URL:https://devfesttoulouse.fr/sessions/le_jaillissement_de_l_esprit
@@ -570,7 +570,7 @@ DESCRIPTION:Programmer le noyau d'un système d'exploitation est un très bon
  de contexte liés à la programmation concurrentielle
 DTSTART:20191003T153000
 DURATION:PT40M
-LOCATION:Salle du haut
+LOCATION:#3
 SUMMARY:Comprendre le rôle du noyau d'un système d'exploitation en créant u
  n from scratch
 UID:tOexEcqeKEztPbNmR4JT
@@ -588,7 +588,7 @@ DESCRIPTION:DevOps is everywhere\, and every new or existing project is at
  le.
 DTSTART:20191003T163000
 DURATION:PT40M
-LOCATION:Salle du haut
+LOCATION:#3
 SUMMARY:DevOps at scale
 UID:aOHds477R7FiM3cnWAXp
 URL:https://devfesttoulouse.fr/sessions/devops_at_scale
@@ -604,7 +604,7 @@ DESCRIPTION:If the new React Context API and Suspense killed Redux (they di
  ilding forms in React easier than ever before.
 DTSTART:20191003T173000
 DURATION:PT40M
-LOCATION:Salle du haut
+LOCATION:#3
 SUMMARY:Modern Forms in React
 UID:McfMVcKDdZv68NSo2JIJ
 URL:https://devfesttoulouse.fr/sessions/modern_forms_in_react
@@ -628,7 +628,7 @@ DESCRIPTION:Avec les annonces de l'arrivée de la réalité augmentée (ou RA)
  lité augmentée.
 DTSTART:20191003T100000
 DURATION:PT40M
-LOCATION:Petite salle
+LOCATION:#4
 SUMMARY:A la découverte de la réalité augmentée avec ARCore
 UID:qXAvodXoMK3db8ZLcVwb
 URL:https://devfesttoulouse.fr/sessions/a_la_decouverte_de_la_realite_augme
@@ -650,7 +650,7 @@ DESCRIPTION:_« Make it work\, make it right\, make it fast »_ - Kent Beck\n
  es d’architecture à adopter pour améliorer tout ça ?
 DTSTART:20191003T110000
 DURATION:PT40M
-LOCATION:Petite salle
+LOCATION:#4
 SUMMARY:Rockin’ in the Angular World
 UID:niiUNFAFhYnPBiOrcDVf
 URL:https://devfesttoulouse.fr/sessions/rockin_in_the_angular_world
@@ -672,7 +672,7 @@ DESCRIPTION:De nombreux services en ligne existent pour gérer en toute sécu
  estant similaires sur les autres plate-formes.
 DTSTART:20191003T120000
 DURATION:PT40M
-LOCATION:Petite salle
+LOCATION:#4
 SUMMARY:Premiers pas avec un microcontrôleur et Google Cloud IoT Core
 UID:R9O1S7M9oRMmwd0cNBaz
 URL:https://devfesttoulouse.fr/sessions/premiers_pas_avec_un_microcontroleu
@@ -693,7 +693,7 @@ DESCRIPTION:Ces dernières années\, les "fabriques de dev" et autres formati
  sein d'une startup Toulousaine.
 DTSTART:20191003T125000
 DURATION:PT15M
-LOCATION:Petite salle
+LOCATION:#4
 SUMMARY:Développeurs en reconversion\, développeurs quand même !
 UID:adcMAUSbsAK27dQJA4Iw
 URL:https://devfesttoulouse.fr/sessions/developpeurs_en_reconversion__devel
@@ -712,7 +712,7 @@ DESCRIPTION:Le code barre est une invention qui a radicalement modifié nos
  rmations.
 DTSTART:20191003T140500
 DURATION:PT15M
-LOCATION:Petite salle
+LOCATION:#4
 SUMMARY:10 est une puissance de 2
 UID:jABRUDzqext8Rx8CmA4j
 URL:https://devfesttoulouse.fr/sessions/10_est_une_puissance_de_2
@@ -736,7 +736,7 @@ DESCRIPTION:Les microservices\, la scalabilité instantanée et les plates-fo
   verbalise\, attendez-vous à une démo détaillée.
 DTSTART:20191003T143000
 DURATION:PT40M
-LOCATION:Petite salle
+LOCATION:#4
 SUMMARY:De Java à un exécutable natif : GraalVM et Quarkus changent la donn
  e
 UID:Qy836EfpA0wC4M6jYcTk
@@ -758,7 +758,7 @@ DESCRIPTION:Dans un monde de saveurs complexes et sofistiquées\, la guerre
  our ton royaume.
 DTSTART:20191003T153000
 DURATION:PT40M
-LOCATION:Petite salle
+LOCATION:#4
 SUMMARY:Brace yourself\, 🍦Vanilla is coming … back 🕶!
 UID:rJDTMZMYX57DCKYhW09c
 URL:https://devfesttoulouse.fr/sessions/brace_yourself__vanilla_is_coming__
@@ -782,7 +782,7 @@ DESCRIPTION:How a developer can tell if the system is sick just by taking a
  s: a sequel of "Passwords. Do you keep them safe?")
 DTSTART:20191003T163000
 DURATION:PT40M
-LOCATION:Petite salle
+LOCATION:#4
 SUMMARY:Four Diseases
 UID:PmoMEVHO3imfUIMXsPai
 URL:https://devfesttoulouse.fr/sessions/four_diseases
@@ -800,7 +800,7 @@ DESCRIPTION:Quel est le point commun entre un jeu de sudoku\, la planificat
  r un cas plus complexe sur lequel je travaille actuellement.
 DTSTART:20191003T173000
 DURATION:PT40M
-LOCATION:Petite salle
+LOCATION:#4
 SUMMARY:Introduction à la programmation par contraintes
 UID:iU4EzEThVDvpaHDsGjOO
 URL:https://devfesttoulouse.fr/sessions/introduction_a_la_programmation_par

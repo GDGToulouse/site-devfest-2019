@@ -438,7 +438,7 @@
       ],
       "level": "intermediate",
       "speakers": [
-        "kfnue96dm9g1zobctf4gvzdolrp2"
+        "cedric_moulard"
       ],
       "videoId": null,
       "presentation": null,
@@ -456,7 +456,6 @@
       ],
       "level": "beginner",
       "speakers": [
-        "estelle_landry_",
         "francois_teychene"
       ],
       "videoId": null,
@@ -919,6 +918,26 @@
       "description": "Professional Rails developer with an excessive amount of Vimscript in his Github profile. Teaches a Rust course in Sofia University."
     },
     {
+      "key": "cedric_moulard",
+      "name": "Cédric Moulard",
+      "id": "KFNUe96DM9g1zobCtf4GVzdoLRp2",
+      "feature": false,
+      "photoURL": "/images/speakers/cedric_moulard.jpg",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/cedric_moulard",
+          "name": "cedric_moulard"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/cedricmoulard",
+          "name": "cedricmoulard"
+        }
+      ],
+      "description": "Diplômé de Arts & Métiers ParisTech et pas vraiment destiné à faire de l'informatique. \nDéveloppeur autodidacte. \n\n20 ans d'expérience, dont :\n- Architecte Java\n- Développeur Angular\n- Chef de projet\n- ScrumMaster\n- Evaluateur CMMi\n- Responsable Méthodes & Outils"
+    },
+    {
       "key": "christophe_jollivet",
       "name": "Christophe Jollivet",
       "id": "CQO7iVm9GWb4jFPi3xmIUnsyY5r2",
@@ -1026,23 +1045,6 @@
         }
       ],
       "description": "American expat living in Spain, making awesome Javascript open source."
-    },
-    {
-      "key": "estelle_landry_",
-      "name": "Estelle Landry ☀️",
-      "id": "JkWN4X6967cvBrV2x8vKf1QrHS93",
-      "feature": false,
-      "company": "Elium",
-      "city": "Montpellier, France",
-      "photoURL": "/images/speakers/estelle_landry_.jpg",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/estelandry",
-          "name": "estelandry"
-        }
-      ],
-      "description": "Passionée par mon métier de Product Owner, par l'UX (User eXpérience) et le GameStorming, j'aime participer à l'élaboration d'un produit en étant le lien entre les utilisateurs et les développeurs.\n\nSpeakeuse en conférence tech, membre des Duchess France, de SunnyTech et du MeetUp UX Flupa Montpellier, je continue à me perfectionner et à discuter de nouvelles méthodes ou technologies de l'IT."
     },
     {
       "key": "francois_guillaume_ribreau",
@@ -1257,28 +1259,6 @@
         }
       ],
       "description": "Développeuse Web depuis presque 3 ans, je pratique Vue.js et Koa.js au quotidien chez SchoolMouv à Toulouse. \nCela fait maintenant trois conférences que je coprésente aux DevFest de Toulouse, de Brest puis à MiXiT 2019. Et je m'épanouis totalement dans cette nouvelle activité !"
-    },
-    {
-      "key": "kfnue96dm9g1zobctf4gvzdolrp2",
-      "name": "Cédric Moulard",
-      "id": "KFNUe96DM9g1zobCtf4GVzdoLRp2",
-      "feature": false,
-      "company": "Open",
-      "city": "Aix-en-Provence, France",
-      "photoURL": "/images/speakers/kfnue96dm9g1zobctf4gvzdolrp2.jpg",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/cedric_moulard",
-          "name": "cedric_moulard"
-        },
-        {
-          "icon": "github",
-          "link": "https://github.com/cedricmoulard",
-          "name": "cedricmoulard"
-        }
-      ],
-      "description": "Diplômé de Arts & Métiers ParisTech et pas vraiment destiné à faire de l'informatique. \nDéveloppeur autodidacte. \n\n20 ans d'expérience, dont :\n- Architecte Java\n- Développeur Angular\n- Chef de projet\n- ScrumMaster\n- Evaluateur CMMi\n- Responsable Méthodes & Outils"
     },
     {
       "key": "liliia_abdulina",
@@ -1812,19 +1792,19 @@
     },
     {
       "key": "room1",
-      "label": "Grand amphi."
+      "label": "#1"
     },
     {
       "key": "room2",
-      "label": "Grande salle"
+      "label": "#2"
     },
     {
       "key": "room3",
-      "label": "Salle du haut"
+      "label": "#3"
     },
     {
       "key": "room4",
-      "label": "Petite salle"
+      "label": "#4"
     }
   ],
   "slots": [

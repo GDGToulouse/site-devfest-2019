@@ -7,10 +7,10 @@
 - key: office-hours
   label: Office-hours
 - key: room1
-  label: Grand amphi.
+  label: '#1'
 - key: room2
-  label: Grande salle
+  label: '#2'
 - key: room3
-  label: Salle du haut
+  label: '#3'
 - key: room4
-  label: Petite salle
+  label: '#4'

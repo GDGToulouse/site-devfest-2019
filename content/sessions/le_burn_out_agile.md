@@ -8,7 +8,7 @@ tags:
   - method___tools
 level: intermediate
 speakers:
-  - kfnue96dm9g1zobctf4gvzdolrp2
+  - cedric_moulard
 videoId: null
 presentation: null
 draft: false
