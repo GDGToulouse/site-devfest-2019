@@ -2185,7 +2185,7 @@
             },
             {
               "slot": "slot-3",
-              "talk": "_numerique_et_environnement__ou__on_aurait_pu_sauver_les_abeilles__on_a_prefere_sortir_un_nouvel_iphone_"
+              "talk": "quand_les_rates_des_ias_nous_renvoient_a_nos_propres_biais_societaux"
             },
             {
               "slot": "slot-lt-1",
@@ -2238,7 +2238,7 @@
           "slots": [
             {
               "slot": "slot-1",
-              "talk": "quand_les_rates_des_ias_nous_renvoient_a_nos_propres_biais_societaux"
+              "talk": "_numerique_et_environnement__ou__on_aurait_pu_sauver_les_abeilles__on_a_prefere_sortir_un_nouvel_iphone_"
             },
             {
               "slot": "pause-2",
