@@ -89,14 +89,14 @@
     },
     {
       "key": "__open",
-      "title": "Acceuil, Thé, Café et Chocolatines",
+      "title": "Accueil, Thé, Café et Chocolatines",
       "format": "open",
       "tags": [
         "open"
       ],
       "speakers": [],
       "draft": false,
-      "description": "Acceuil, Thé, Café et Chocolatines"
+      "description": "Accueil, Thé, Café et Chocolatines"
     },
     {
       "key": "__party",
