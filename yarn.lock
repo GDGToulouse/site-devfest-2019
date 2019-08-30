@@ -199,7 +199,7 @@ balanced-match@^1.0.0:
   resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.0.tgz#89b4d199ab2bee49de164ea02b89ce462d71b767"
   integrity sha1-ibTRmasr7kneFk6gK4nORi1xt2c=
 
-base64-js@^1.0.2:
+base64-js@^1.0.2, base64-js@^1.2.3:
   version "1.3.1"
   resolved "https://registry.yarnpkg.com/base64-js/-/base64-js-1.3.1.tgz#58ece8cb75dd07e71ed08c736abc5fac4dbf8df1"
   integrity sha512-mLQ4i2QO1ytvGWFWmcngKO//JXAQueZvwEKtjgQFM4jIK0kU+ytMfplL8j+n5mspOfjHwoAg+9yhb7BwAHm36g==
@@ -1066,10 +1066,10 @@ finalhandler@1.1.2, finalhandler@~1.1.2:
     statuses "~1.5.0"
     unpipe "~1.0.0"
 
-firebase-tools@^7.2.4:
-  version "7.2.4"
-  resolved "https://registry.yarnpkg.com/firebase-tools/-/firebase-tools-7.2.4.tgz#5473a294d63cb4d8c4f00f74161ad4240fc5a378"
-  integrity sha512-w+iKe3TyLZHkzhLakIle6Z6fRfvl3kqlICcihjriYkRuUmUodXqHlBe4wu/1Oa8oQuGdWotdL+evrmDgsaw3eA==
+firebase-tools@^7.3.0:
+  version "7.3.0"
+  resolved "https://registry.yarnpkg.com/firebase-tools/-/firebase-tools-7.3.0.tgz#5c181528f11d8e771a3a05f5501e839f8f37f396"
+  integrity sha512-U8BXB2ZOw2cLqxapUkElHgWXr8yzJ0+3kCiap6p4HRoz/d+1GYxyi0bJQCQJhrsCwq69kt2qRpaNYeZ/9GkupA==
   dependencies:
     JSONStream "^1.2.1"
     archiver "^3.0.0"
@@ -1100,6 +1100,7 @@ firebase-tools@^7.2.4:
     minimatch "^3.0.4"
     open "^6.3.0"
     ora "^3.4.0"
+    plist "^3.0.1"
     portfinder "^1.0.23"
     progress "^2.0.3"
     request "^2.87.0"
@@ -2370,10 +2371,19 @@ pkginfo@0.3.x:
   resolved "https://registry.yarnpkg.com/pkginfo/-/pkginfo-0.3.1.tgz#5b29f6a81f70717142e09e765bbeab97b4f81e21"
   integrity sha1-Wyn2qB9wcXFC4J52W76rl7T4HiE=
 
-plop-logger@^2.6.0:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/plop-logger/-/plop-logger-2.6.0.tgz#34bba0f7bdb0af80f991f1901c380bfa343645a7"
-  integrity sha512-N1KJ/YxJlLK4flh9tjfiDoYLs1vR/Bssr0k8a9BNJAMq1BYnn1dAqQLI2XSKm9Pc35CjfGHazKxdh4AkAWCprQ==
+plist@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/plist/-/plist-3.0.1.tgz#a9b931d17c304e8912ef0ba3bdd6182baf2e1f8c"
+  integrity sha512-GpgvHHocGRyQm74b6FWEZZVRroHKE1I0/BTjAmySaohK+cUn+hZpbqXkc3KWgW3gQYkqcQej35FohcT0FRlkRQ==
+  dependencies:
+    base64-js "^1.2.3"
+    xmlbuilder "^9.0.7"
+    xmldom "0.1.x"
+
+plop-logger@^2.6.1:
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/plop-logger/-/plop-logger-2.6.1.tgz#04531a4faf4f45b0960a62ebae843e4025cf7f89"
+  integrity sha512-BeXwWa/OkGbX0RGU3ZpbXdJpTVg6iA18N22aOrKThnnMpzwG6V1DufgAjxkXkzM/hnm/iBdn2fh8UbNIW9vi4A==
   dependencies:
     ansi-colors "^4.1.1"
     tslib "^1.10.0"
@@ -3297,6 +3307,16 @@ xdg-basedir@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/xdg-basedir/-/xdg-basedir-3.0.0.tgz#496b2cc109eca8dbacfe2dc72b603c17c5870ad4"
   integrity sha1-SWsswQnsqNus/i3HK2A8F8WHCtQ=
+
+xmlbuilder@^9.0.7:
+  version "9.0.7"
+  resolved "https://registry.yarnpkg.com/xmlbuilder/-/xmlbuilder-9.0.7.tgz#132ee63d2ec5565c557e20f4c22df9aca686b10d"
+  integrity sha1-Ey7mPS7FVlxVfiD0wi35rKaGsQ0=
+
+xmldom@0.1.x:
+  version "0.1.27"
+  resolved "https://registry.yarnpkg.com/xmldom/-/xmldom-0.1.27.tgz#d501f97b3bdb403af8ef9ecc20573187aadac0e9"
+  integrity sha1-1QH5ezvbQDr4757MIFcxh6rawOk=
 
 xtend@~4.0.0, xtend@~4.0.1:
   version "4.0.2"
