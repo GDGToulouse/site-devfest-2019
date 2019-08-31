@@ -9,7 +9,10 @@ Logger.config.defaultLevel = LogLevel.Debug;
 const logger = Logger.getLogger('pdf');
 
 // Configuration
-const output = 'static/schedule/schedule.pdf';
+const outputs = {
+  'schedule/index.html': 'public/schedule/schedule-en.pdf',
+  'fr/schedule/index.html': 'public/schedule/schedule-fr.pdf',
+};
 const serverConf = {
   port: 8765,
   options: {
@@ -70,11 +73,26 @@ async function cleanupBeforePrint(page) {
 
   await page.$$eval(toHide.join(','), elts =>
     elts.forEach(elt =>
-      elt.parentNode.removeChild(elt)));
+      elt && elt.parentNode ? elt.parentNode.removeChild(elt) : elt));
 
   await page.addStyleTag({
     content: '@page { size: auto; }',
   });
+}
+
+async function renderPdf(page, file, output) {
+  const url = `http://localhost:${serverConf.port}/${file}`;
+  logger.info("go to", url);
+  const pageResponse = await page.goto(url, {waitUntil: 'networkidle2'});
+  logger.debug("done", pageResponse.statusText());
+
+  await cleanupBeforePrint(page);
+
+  logger.info('export pdf', output);
+  const format = 'A3';
+  const scale = .4;
+  const printBackground = true;
+  return page.pdf({path: output, format, scale, printBackground});
 }
 
 (async () => {
@@ -87,18 +105,10 @@ async function cleanupBeforePrint(page) {
     const page = await browser.newPage();
     logger.debug("opened new page");
 
-    const file = 'fr/schedule/index.html';
-    const url = `http://localhost:${serverConf.port}/${file}`;
-    logger.info("go to", url);
-    const pageResponse = await page.goto(url, {waitUntil: 'networkidle2'});
-    logger.debug("done", pageResponse.statusText());
+    for (let [file, output] of Object.entries(outputs)) {
+      await renderPdf(page, file, output);
+    }
 
-    await cleanupBeforePrint(page);
-    logger.info('export pdf', output);
-    const format = 'A3';
-    const scale = .4;
-    const printBackground = true;
-    await page.pdf({path:output, format, scale, printBackground});
     logger.debug("pdf done");
 
   } catch (e) {

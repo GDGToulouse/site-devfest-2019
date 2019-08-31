@@ -11,9 +11,8 @@ before_script:
 
 sandbox:
   script:
-    - hugo --quiet
-    - node tools/pdf.js
     - hugo -F
+    - node tools/pdf.js
     - node tools/minify.js
     - firebase use default
     - firebase deploy --token "$FIREBASE_SANDBOX_TOKEN"
@@ -27,9 +26,8 @@ prod:
   variables:
     HUGO_ENV: production
   script:
-    - hugo --quiet
-    - node tools/pdf.js
     - hugo --baseURL https://2019.devfesttoulouse.fr/
+    - node tools/pdf.js
     - node tools/minify.js
     - firebase use prod
     - firebase deploy --token "$FIREBASE_PROD_TOKEN"

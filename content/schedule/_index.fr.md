@@ -15,7 +15,7 @@ horizontal: false
     <svg class="icon icon-calendar"><use xlink:href="#calendar"></use></svg> ICal
 </a>
 
-<a class="btn primary btn-lg" href="/schedule/schedule.pdf">
+<a class="btn primary btn-lg" href="/schedule/schedule-fr.pdf">
     <svg class="icon icon-pdf"><use xlink:href="#pdf"></use></svg> PDF
 </a>
 
