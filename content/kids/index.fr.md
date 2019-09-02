@@ -17,7 +17,7 @@ L'intérêt particulier de cet atelier ludique repose sur le plaisir d'un moment
 
 ## Billeterie
 
-<span class="btn" aria-disabled="true">Ouverture courant septembre</span>
+<a class="btn primary" href="https://www.lacompagnieducode.org/fr/inscriptions/devfest-pitchouns" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg> Billeterie</a>
 
 ## Encadrement
 
