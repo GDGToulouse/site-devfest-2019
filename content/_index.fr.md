@@ -61,7 +61,7 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
 <!-- ... -->
 
 {{% home-tickets %}}
-# Billets <a class="btn primary" href="https://www.billetweb.fr/devfest-toulouse-2019" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Billeterie</a>
+# Billets <a class="btn primary" href="https://www.billetweb.fr/devfest-toulouse-2019" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Billetterie</a>
 
 
 <ul>
