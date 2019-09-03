@@ -15,9 +15,9 @@ draft: false
 
 L'intérêt particulier de cet atelier ludique repose sur le plaisir d'un moment partagé entre les parents et les enfants, dans la découverte du code informatique et des activités créatives qui l'accompagnent. Cette expérimentation guidée de programmation visuelle permettra au tandem parent enfant de réaliser en pleine complicité sa propre application numérique.
 
-## Billeterie
+## Billetterie
 
-<span class="btn" aria-disabled="true">Ouverture courant septembre</span>
+<a class="btn primary" href="https://www.lacompagnieducode.org/fr/inscriptions/devfest-pitchouns" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg> Billetterie</a>
 
 ## Encadrement
 
@@ -61,4 +61,4 @@ Apporte un ordinateur portable ainsi qu'une souris (si tu en as un) et ta bonne 
 * Un seul parent accompagnateur est autorisé, nous avons prévu deux chaises par enfant.
 * Pour des soucis de logistique, nous vous recommandons de venir avec votre propre ordinateur portable ainsi qu'une souris. Si toutefois vous ne pouvez pas, nous pouvons fournir le necessaire.
 
-Nous vous avertirons de l'ouverture de la billeterie sur les réseaux sociaux et mettrons à jour cette page.
+Nous vous avertirons de l'ouverture de la billetterie sur les réseaux sociaux et mettrons à jour cette page.
