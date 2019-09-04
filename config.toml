@@ -35,13 +35,13 @@ googleAnalytics = "UA-37717223-8"
     header = "/images/logos/devfest_color_text.png"
     footer = "/images/logos/devfest_gray_text.png"
 
-#[menu]
-#[[menu.main]]
-#    identifier = "jobs"
-#    name = "Jobs"
-#    url = "https://jobs.devfesttoulouse.fr/"
-#    weight = 200
-#    external = true
+[menu]
+[[menu.main]]
+    identifier = "jobs"
+    name = "Jobs"
+    url = "https://jobs.devfesttoulouse.fr/"
+    weight = 200
+    external = true
 
 [languages]
 [languages.en]

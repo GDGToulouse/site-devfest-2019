@@ -1,5 +1,6 @@
 ---
 title: Accueil
+icon: home
 
 menu:
   main:
