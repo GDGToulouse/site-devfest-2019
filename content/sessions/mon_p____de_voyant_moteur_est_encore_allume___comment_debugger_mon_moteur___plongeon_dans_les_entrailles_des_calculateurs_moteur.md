@@ -19,5 +19,5 @@ Depuis les années 70 tous les constructeurs autos intégrent des calculateurs �
 Les moteurs des voitures modernes sont des systèmes informatiques complexes qui s'appuient sur des dizaines de capteurs... et du code. 
 Comment ça fonctionne ? A quoi ressemble ce code et que fait-il ?
 Qu'est-ce qu'il se passe lorsqu'on fait une "reprog" ? 
-Qu'est-ce que signifie le voyant moteur allumé ? Comment débugger tout ça ?
+Que signifie le voyant moteur allumé ? Comment débugger tout ça ?
 Soulevons le capot (électronique), analysons le matériel mis en oeuvre mais surtout le logiciel grâce aux sources des calculateurs "Megasquirt" et allons explorer la face cachée numérique de nos voitures.

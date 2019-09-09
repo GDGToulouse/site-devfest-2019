@@ -16,4 +16,4 @@ Qui ne s’est jamais fait manipuler ? Évidemment, on est tous allé à une soi
 
 L’idée de cette présentation est de vous ouvrir les yeux sur les relations et les influences entre les gens. Je vous exposerai les mécanismes de prise de décision au travers de 3 techniques simples de manipulation.
 
-A la sortie de ce talk, vous devriez être moins influençable et maître de vos décisions (voir même manipuler les autres).
+A la sortie de ce talk, vous devriez être moins influençable et maître de vos décisions (voire même manipuler les autres).

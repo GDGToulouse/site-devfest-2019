@@ -17,7 +17,7 @@ draft: false
 ---
 Jean-Yves Girard, le génial inventeur des indispensables [montres à moutarde](http://girard.perso.math.cnrs.fr/moutarde.pdf) (1990), est certes un joyeux trublion.
 
-Mais avant d'en arriver à ce sommet indépassable, il a tout même publié deux-trois petites choses en chemin:
+Mais avant d'en arriver à ce sommet indépassable, il a tout de même publié deux-trois petites choses en chemin:
 
 - Rust, vous connaissez? L'idée première du système de typage de Rust est la logique dite "[linéaire](http://girard.perso.math.cnrs.fr/linear.pdf)", due à Jean-Yves Girard (1987).
 - Haskell, ça vous dit quelque chose? Les systèmes de typage de Haskell mais aussi Scala (et d'une certaine manière Java) sont basés sur le "[système F](https://en.wikipedia.org/wiki/System_F)" (ou lambda-calcul de second ordre), dû à... Jean-Yves Girard (1972).

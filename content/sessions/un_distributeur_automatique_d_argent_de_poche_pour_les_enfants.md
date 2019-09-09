@@ -13,10 +13,10 @@ videoId: null
 presentation: null
 draft: false
 ---
-Avec mon épouse nous avons commencer à donner de l'argent de poche à nos enfants.
+Avec mon épouse nous avons commencé à donner de l'argent de poche à nos enfants.
 
 ![Calvin et l'argent de poche](https://i.pinimg.com/originals/ad/47/94/ad47940ca35ce4bd5122a916abf9f589.png)
 
 Pour qu'ils puissent faire comme les grands (et parce que c'est fun aussi :D) j'ai conçu un DAAP (**D**istributeur **A**utomatique d'**A**rgent de **P**oche) qui leur permet, le jour de la distribution de l'argent de poche, d'insérer  leur "carte bleue", saisir leur code et de voir la machine s'ébranler pour distribuer les pièces.
 
-Dans ce talk on parlera d'Arduino, d'impression 3D, de carte à puce, d'électronique et des problèmes que j'ai rencontré et comment j'ai pu les résoudre.
+Dans ce talk on parlera d'Arduino, d'impression 3D, de cartes à puce, d'électronique et des problèmes que j'ai rencontrés et comment j'ai pu les résoudre.
