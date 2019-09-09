@@ -13,8 +13,8 @@ videoId: null
 presentation: null
 draft: false
 ---
-Dans un monde de saveurs complexes et sofistiquées, la guerre du toping fait rage chez les crèmes glacées du Web ! Face au champs de batail, les pronostiques vont bon train pour savoir qui l’emportera entre le crunchy Angulaire, le fondant Reactif et le décoratif Vue.
+Dans un monde de saveurs complexes et sofistiquées, la guerre du toping fait rage chez les crèmes glacées du Web ! Face au champs de bétail, les pronostiques vont bon train pour savoir qui l’emportera entre le crunchy Angulaire, le fondant Reactif et le décoratif Vue.
 
-Durant ce temps, loin de ces vicissitudes, la petite saveur basique vanille fait son bonhomme de chemin. S’agirait-il du héros de la légende, succeptible de renverser le destin de ce monde sans heurt ?
+Durant ce temps, loin de ces vicissitudes, la petite saveur basique vanille fait son bonhomme de chemin. S’agirait-il du héros de la légende, susceptible de renverser le destin de ce monde sans heurt ?
 
 Sache, voyageur, qu’elle est déjà passée par nos contrées. Laisse moi te raconter comment elle nous a permis de renverser notre vieux roi, et tu sauras enfin ce qui se prépare pour ton royaume.
