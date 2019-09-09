@@ -20,5 +20,5 @@ Mais avec les architectures microservices, la distribution des traitements ou un
 
 Que fait-on lorsqu’une erreur intervient ? Peut-on compenser voire gérer l’erreur depuis le système pour l’utilisateur ?
 
-La réponse a ces questions se trouvent autant dans la définition du produit que dans le choix technique.
+La réponse à ces questions se trouvent autant dans la définition du produit que dans le choix technique.
 Un outil bien conçu est un outil intelligent qui peut faire les bons choix au bon moment pour l'utilisateur. Et si on apprenait ensemble à concevoir nos erreurs ?
