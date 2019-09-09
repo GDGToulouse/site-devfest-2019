@@ -25,8 +25,4 @@ Mais avant d'en arriver à ce sommet indépassable, il a tout même publié deux
 
 Très méconnu mais probalement l'un des penseurs les plus influents pour l'informatique de ce début de XXIe siècle, Girard est tout aussi sérieux que fantasque. Son style toujours acéré et polémique s'appuie sur une vision très claire de ce que devrait être la logique: vivante, joyeuse, fertile.
 
-Dans cette courte présentation, on s'attachera à comprendre pourquoi Girard est aussi virulent dans son discours, quels sont les objectifs de sa pensée, et pourquoi elle a déjà porté tant de fruits dans le monde de l'informatique. 
-
-----
-
-Dans le cas d'un créneau à 40min, on pourrait donner quelques pointeurs sur ses travaux plus récents, et expliciter en quoi ils sont porteurs de nouvelles avancées pour les prochaines décennies (réseaux de démonstrations, géométrique de l'intéraction, etc.).
+Dans cette courte présentation, on s'attachera à comprendre pourquoi Girard est aussi virulent dans son discours, quels sont les objectifs de sa pensée, et pourquoi elle a déjà porté tant de fruits dans le monde de l'informatique.
