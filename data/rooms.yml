@@ -1,16 +1,23 @@
 - key: lunchroom
-  label: Salle déjeuner
+  label: Cenareo
+  description: Hall sponsors / Salle déjeuner
   skip: true
 - key: halls
   label: Halls
+  description: Halls
   skip: true
 - key: office-hours
-  label: Office-hours
+  label: Cenareo
+  description: Office-hours
 - key: room1
-  label: '#1'
+  label: Stack Labs
+  description: Auditorium St-Exupéry
 - key: room2
-  label: '#2'
+  label: Airbus
+  description: Cassiopée
 - key: room3
-  label: '#3'
+  label: SII
+  description: Ariane
 - key: room4
-  label: '#4'
+  label: Capgemini
+  description: Guillaumet

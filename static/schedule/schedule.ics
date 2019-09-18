@@ -17,7 +17,7 @@ DESCRIPTION:Il y a 20 ans\, personne de **sobre** n’aurait utilisé Javascri
  and Enjoy!
 DTSTART:20191003T100000
 DURATION:PT40M
-LOCATION:#1
+LOCATION:Stack Labs
 SUMMARY:The rise of the web
 UID:0MXH99V8NY9xyeurYCmA
 URL:https://devfesttoulouse.fr/sessions/the_rise_of_the_web
@@ -26,22 +26,22 @@ CATEGORIES:web
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:## Résumé\nEn Novembre 2017\, j'ai découvert "une backdoor" dan
- s tout les téléphones de la marque Oneplus. A l'aide d'une simple ligne de 
+ s tous les téléphones de la marque OnePlus. À l'aide d'une simple ligne de 
  commande\, un attaquant ayant un accès physique au téléphone\, pouvait deve
  nir root et ainsi obtenir un contrôle total du téléphone de la victime.\n\n
- ## Détails\nDans ce talk\, j'expliquerai le processus qui m'a permit de fai
- re cette découverte:\n1. Extraction du build\n2. Récupération des applicati
- ons dites "systèmes"\n3. Détection de la vulnérabilité dans l'application A
+ ## Détails\nDans ce talk\, j'expliquerai le processus qui m'a permis de fai
+ re cette découverte :\n1. Extraction du build\n2. Récupération des applicat
+ ions dites "système"\n3. Détection de la vulnérabilité dans l'application A
  ndroid "EngineeringMode"\n4. Exploitation de la vulnérabilité\n\n## Sujet a
- bordés\nLors de la détection et l'analyse de cette faille nous aborderons l
- a philosophie du **hacking**\, comment faire du **reverse engineering** sur
-  des applications **Android** et une **librairie native**. Nous analyserons
-  du **Java** ainsi que du **C** \n\n## Categorie\nNative mobile apps\n\n## 
- Format\nUne conférence de 40 min
+ bordés\nLors de la détection et l'analyse de cette faille\, nous aborderons
+  la philosophie du **hacking**\, comment faire du **reverse engineering** s
+ ur des applications **Android** et une **librairie native**. Nous analysero
+ ns du **Java** ainsi que du **C**.\n\n## Categorie\nNative mobile apps\n\n#
+ # Format\nUne conférence de 40 min
 DTSTART:20191003T110000
 DURATION:PT40M
-LOCATION:#1
-SUMMARY:L'histoire de la découverte d'une backdoor signé Oneplus
+LOCATION:Stack Labs
+SUMMARY:L'histoire de la découverte d'une backdoor signée OnePlus
 UID:Kwery1cbJrx3ZFj6x1JU
 URL:https://devfesttoulouse.fr/sessions/l_histoire_de_la_decouverte_d_une_b
  ackdoor_signe_oneplus
@@ -56,7 +56,7 @@ DESCRIPTION:This talk will give an overview of the WebGPU API that will pro
  performance of frameworks like Tensorflow.js up to 10x.
 DTSTART:20191003T120000
 DURATION:PT40M
-LOCATION:#1
+LOCATION:Stack Labs
 SUMMARY:WebGPU: Next-generation 3D Graphics on the Web
 UID:5qTyscBWtXLRb04TXEdB
 URL:https://devfesttoulouse.fr/sessions/webgpu__next_generation_3d_graphics
@@ -65,17 +65,17 @@ TRANSP:TRANSPARENT
 CATEGORIES:web
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Qui ne s’est jamais fait manipulé ? Évidemment\, on est tous al
- lé à une soirée alors qu’on en avait pas envie\, on a tous acheté un truc s
- ans en avoir besoin et on a tous été influencé par ses proches. \n\nL’idée 
- de cette présentation est de vous ouvrir les yeux sur les relations et les 
- influences entre les gens. Je vous exposerai les mécanismes de prise de déc
- ision au travers de 3 techniques simples de manipulation.\n\nA la sortie de
-  ce talk\, vous devriez être moins influençable et maître de vos décisions 
- (voir même manipuler les autres).
+DESCRIPTION:Qui ne s’est jamais fait manipuler ? Évidemment\, on est tous a
+ llé à une soirée alors qu’on en avait pas envie\, on a tous acheté un truc 
+ sans en avoir besoin et on a tous été influencé par nos proches. \n\nL’idée
+  de cette présentation est de vous ouvrir les yeux sur les relations et les
+  influences entre les gens. Je vous exposerai les mécanismes de prise de dé
+ cision au travers de 3 techniques simples de manipulation.\n\nA la sortie d
+ e ce talk\, vous devriez être moins influençable et maître de vos décisions
+  (voire même manipuler les autres).
 DTSTART:20191003T125000
 DURATION:PT15M
-LOCATION:#1
+LOCATION:Stack Labs
 SUMMARY:3 techniques faciles de manipulation
 UID:zVUXQkHQtSiGJeIwVd05
 URL:https://devfesttoulouse.fr/sessions/3_techniques_faciles_de_manipulatio
@@ -96,7 +96,7 @@ DESCRIPTION:L’âgisme dans les fonctions IT\, et en particulier dans le Déve
  tal Digital Services et que personne ne m’ait encore rien dit ?
 DTSTART:20191003T140500
 DURATION:PT15M
-LOCATION:#1
+LOCATION:Stack Labs
 SUMMARY:« 47 ans : ils n’ont toujours pas remarqué … »
 UID:pY6MCQBMfIYlIKfHdhL4
 URL:https://devfesttoulouse.fr/sessions/_47_ans___ils_nont_toujours_pas_rem
@@ -115,7 +115,7 @@ DESCRIPTION:A lot of things have been said about WebAssembly inside of the\
  ebAssembly\, serverless technologies\, and\nhow it all fits together.
 DTSTART:20191003T143000
 DURATION:PT40M
-LOCATION:#1
+LOCATION:Stack Labs
 SUMMARY:Rust\, WebAssembly\, and the future of Serverless
 UID:2S9XtGGq3ouHnkivEDKC
 URL:https://devfesttoulouse.fr/sessions/rust__webassembly__and_the_future_o
@@ -125,22 +125,22 @@ CATEGORIES:cloud___infra
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Nos systèmes sont designés de manière optimiste\, de la gestion
-  technique des erreurs à la modélisation de nos interfaces.  \nQue ce soit 
- les codes d'erreurs\, les exceptions ou les modélisations plus avancées\, e
- lles servent pour arrêter un traitement et _potentiellement_ afficher un me
- ssage d'information à un utilisateur.\n\nMais avec les architectures micros
- ervices\, la distribution des traitements ou une simple volonté de résilien
- ce\, la gestion des erreurs est devenue un enjeu important de tous les syst
- èmes afin qu’ils restent accessibles de tous\, tout le temps tout en mainte
- nant le système dans un état cohérent.\n\nQue fait-on lorsqu’une erreur int
- ervient ? Peut-on compenser voire gérer l’erreur depuis le système pour l’u
- tilisateur ?\n\nLa réponse a ces questions se trouvent autant dans la défin
+  technique des erreurs à la modélisation de nos interfaces.  \nQue ce soien
+ t les codes d'erreurs\, les exceptions ou les modélisations plus avancées\,
+  elles servent pour arrêter un traitement et _potentiellement_ afficher un 
+ message d'information à un utilisateur.\n\nMais avec les architectures micr
+ oservices\, la distribution des traitements ou une simple volonté de résili
+ ence\, la gestion des erreurs est devenue un enjeu important de tous les sy
+ stèmes afin qu’ils restent accessibles de tous\, tout le temps tout en main
+ tenant le système dans un état cohérent.\n\nQue fait-on lorsqu’une erreur i
+ ntervient ? Peut-on compenser voire gérer l’erreur depuis le système pour l
+ ’utilisateur ?\n\nLa réponse à ces questions se trouve autant dans la défin
  ition du produit que dans le choix technique.\nUn outil bien conçu est un o
  util intelligent qui peut faire les bons choix au bon moment pour l'utilisa
  teur. Et si on apprenait ensemble à concevoir nos erreurs ?
 DTSTART:20191003T153000
 DURATION:PT40M
-LOCATION:#1
+LOCATION:Stack Labs
 SUMMARY:Le design de l'erreur
 UID:pAMZmFT2wrfqPr9IdeXv
 URL:https://devfesttoulouse.fr/sessions/le_design_de_l_erreur
@@ -150,24 +150,24 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Comment faire quand on doit faire le suivi de toute l'infrastru
  cture du plus grand fournisseur de cloud Européen ?  Comment choisir un out
- il quand les plus populaires ne tient pas la marée à cette échèle ?  Commen
- t construire une plateforme Metrics pour unifier\, concilier et remplacer d
- es années de legacy fragmenté et des solutions partielles ?\n\nDans ce talk
-  nous racontons notre expérience sur la construction et la maintenance d'OV
- H Metrics\, la plateforme utilisée pour monitorer toute l'infrastructure OV
- H. Nous avions besoin d'aller à des endroits ou la plupart de solutions de 
- monitoring ne sont jamais allées\, opérer à l'échelle du plus grand fournis
- seur Européen de cloud et hosting : 27 data centers\, plus de 300k serveurs
-  (physiques !) et des centaines de produits pour accomplir notre mission av
- ec nos 1\,3 millions de clients.\n\nVenez pour entendre cette histoire de s
- éries temporelles\, de solutions open-sources poussées à l'extreme\, de clu
- sters HBase opérés en limite de capacité\, et de comment une petite équipe 
-  s'est appuyé sur une poignée de solutions open-source et  une bonne dose d
- e code maison pour construire une des solutions de monitoring les plus perf
- ormantes au monde.
+ il quand les plus populaires ne tient pas la marée à cette échelle ?  Comme
+ nt construire une plateforme Metrics pour unifier\, concilier et remplacer 
+ des années de legacy fragmenté et des solutions partielles ?\n\nDans ce tal
+ k nous racontons notre expérience sur la construction et la maintenance d'O
+ VH Metrics\, la plateforme utilisée pour monitorer toute l'infrastructure O
+ VH. Nous avions besoin d'aller à des endroits où la plupart des solutions d
+ e monitoring ne sont jamais allées\, opérer à l'échelle du plus grand fourn
+ isseur Européen de cloud et hosting : 27 data centers\, plus de 300k serveu
+ rs (physiques !) et des centaines de produits pour accomplir notre mission 
+ avec nos 1\,3 millions de clients.\n\nVenez pour entendre cette histoire de
+  séries temporelles\, de solutions open-sources poussées à l'extrême\, de c
+ lusters HBase opérés en limite de capacité\, et de comment une petite équip
+ e  s'est appuyée sur une poignée de solutions open-source et une bonne dose
+  de code maison pour construire une des solutions de monitoring parmi les p
+ lus performantes au monde.
 DTSTART:20191003T163000
 DURATION:PT40M
-LOCATION:#1
+LOCATION:Stack Labs
 SUMMARY:Monitoring OVH: 300k serveurs\, 27 DCs une plateforme de métriques 
 UID:xwAvvIJJfDdBD7N4oGa5
 URL:https://devfesttoulouse.fr/sessions/monitoring_ovh__300k_serveurs__27_d
@@ -180,12 +180,12 @@ DESCRIPTION:Nous savons tous développer une API mais avons-nous tous bien i
  ntégré les problématiques d'environnements et de cycles logiciels multiples
   ? L'opérabilité\, la gouvernance\, le versioning\, la traçabilité\, la séc
  urité — et bien plus encore — de ces API web une fois en production ?\n\nDu
- rant ce talk\, c'est plusieurs dizaines de points d'attentions rarement évo
- qué que je vous propose d'aborder\, à la lumière de retours d'expériences p
+ rant ce talk\, c'est plusieurs dizaines de points d'attention rarement évoq
+ ués que je vous propose d'aborder\, à la lumière de retours d'expériences p
  rovenant de chez Uber\, Stripe\, Facebook\, ...
 DTSTART:20191003T173000
 DURATION:PT40M
-LOCATION:#1
+LOCATION:Stack Labs
 SUMMARY:⛳️ Votre API web passe-t-elle le contrôle technique ? 
 UID:Gxr3XZR1HEu14tbneJLb
 URL:https://devfesttoulouse.fr/sessions/_votre_api_web_passe_t_elle_le_cont
@@ -206,7 +206,7 @@ DESCRIPTION:Have you heard of the code-sharing feature in Kotlin\, accompan
   use multiplatform?
 DTSTART:20191003T100000
 DURATION:PT40M
-LOCATION:#2
+LOCATION:Airbus
 SUMMARY:A Kotlin multiplatform evolution
 UID:a_kotlin_multiplatform_evolution
 URL:https://devfesttoulouse.fr/sessions/a_kotlin_multiplatform_evolution
@@ -214,26 +214,26 @@ TRANSP:TRANSPARENT
 CATEGORIES:languages
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:En 2019 le monde de l’informatique n’a que l’agilité à la bouch
- e. Ca groome à tous les coins de rue\, ça s’excite en daily\, ça colle des 
- post-it et ça empile les serious game en rétro. Bien sûr ça gère la transfo
- rmation numérique (désolé\, même au second degré je ne peux pas employer “d
- igitale”) et au final plus personne ne comprend rien. \n\nDes chefs de proj
- et subitement propulsés ScrumMaster qui ne savent pas ce qu’ils doivent fai
- re. Des PO qui découvrent la priorisation. Des développeurs qui doivent com
- poser avec des specs floues et changeantes sans vision globale du projet. P
- our compléter le tableau\, la subite apparition de coachs agile à peine sor
- ti de l’école qui n’ont jamais vu un projet de leur vie et qui viennent exp
- liquer des concepts qu’ils ne maîtrisent qu’à moitié.\n\nEn 2019 le monde d
- e l’informatique rêve secrètement de cycles en V\, de stabilité\, de spécif
- ications générales et de dossier d’architecture.\n\nEn 2019 le monde de l’i
- nformatique est au bord du burn-out agile.\n\n## Plan du talk  \n\n- Petit 
- historique : l’évolution des pratiques sur les 20 dernières années \n- Pour
- quoi ce bordel agile ? \n- Finalement l’agilité c’est quoi ? \n- Est-ce qu’
- il faut revenir au cycle en V ?
+DESCRIPTION:En 2019\, le monde de l’informatique n’a que l’agilité à la bou
+ che. Ca groome à tous les coins de rue\, ça s’excite en daily\, ça colle de
+ s post-it et ça empile les serious game en rétro. Bien sûr\, ça gère la tra
+ nsformation numérique (désolé\, même au second degré\, je ne peux pas emplo
+ yer “digitale”) et au final plus personne ne comprend rien. \n\nDes chefs d
+ e projet subitement propulsés ScrumMaster qui ne savent pas ce qu’ils doive
+ nt faire. Des PO qui découvrent la priorisation. Des développeurs qui doive
+ nt composer avec des specs floues et changeantes sans vision globale du pro
+ jet. Pour compléter le tableau\, la subite apparition de coachs agile à pei
+ ne sortis de l’école qui n’ont jamais vu un projet de leur vie et qui vienn
+ ent expliquer des concepts qu’ils ne maîtrisent qu’à moitié.\n\nEn 2019 le 
+ monde de l’informatique rêve secrètement de cycles en V\, de stabilité\, de
+  spécifications générales et de dossier d’architecture.\n\nEn 2019 le monde
+  de l’informatique est au bord du burn-out agile.\n\n## Plan du talk  \n\n-
+  Petit historique : l’évolution des pratiques sur les 20 dernières années \
+ n- Pourquoi ce bordel agile ? \n- Finalement l’agilité c’est quoi ? \n- Est
+ -ce qu’il faut revenir au cycle en V ?
 DTSTART:20191003T110000
 DURATION:PT40M
-LOCATION:#2
+LOCATION:Airbus
 SUMMARY:Le burn-out agile
 UID:KAH9Lyx0b2TKNSQVZNw2
 URL:https://devfesttoulouse.fr/sessions/le_burn_out_agile
@@ -246,26 +246,26 @@ DESCRIPTION:Un chatbot créé par Microsoft qui dérive avec des propos antisé
  lancs\, des algorithmes de reconnaissance faciale qui ont du mal avec les p
  ersonnes de couleur noire\, ... Que d'exemples où l'IA a intégré nos propre
  s biais sociétaux. Il est urgent que nous\, développeurs\, prenions nos res
- ponsabilités et mesurons les enjeux éthiques de l'IA pour éviter que les st
- éréotypes\, les inégalités et les préjugés se retrouvent au cœur de nos fut
- urs systèmes.\n\nCette présentation propose des root cause analysis sur des
-  exemples concrets de ces biais et présente des alternatives qui auraient p
- ermis d'éviter ces biais en "production" autant d'un point de vue humain qu
- e technique.\n\nNous verrons notamment que l’éthique peut directement être 
- abordée au niveau des données et de leur préparation à l’apprentissage. Nou
- s nous concentrerons principalement sur l’impact des statistiques des donné
- es d’entraînement et les transformations à appliquer en pré-processing (mét
- riques de fairness\, améliorer la fairness sur des données annotées)\, et n
- ous montrerons comment des benchmarks permettent d'appréhender l’impact des
-  méthodes de fairness sur la précision des modèles entraînés.\n\nLa confian
- ce et l’équité passe avant tout par une compréhension de la prise de décisi
- on par l’utilisateur. Par conséquent\, nous présenterons diverses méthodes 
- pour expliquer la prise de décision d’un modèle boîte noire (principalement
-  des algorithmes de deep learning) et mettons en garde contre une mauvaise 
- interprétation de ces explications.
+ ponsabilités et mesurions les enjeux éthiques de l'IA pour éviter que les s
+ téréotypes\, les inégalités et les préjugés se retrouvent au cœur de nos fu
+ turs systèmes.\n\nCette présentation propose des root cause analysis sur de
+ s exemples concrets de ces biais et présente des alternatives qui auraient 
+ permis d'éviter ces biais en "production" autant d'un point de vue humain q
+ ue technique.\n\nNous verrons notamment que l’éthique peut directement être
+  abordée au niveau des données et de leur préparation à l’apprentissage. No
+ us nous concentrerons principalement sur l’impact des statistiques des donn
+ ées d’entraînement et les transformations à appliquer en pré-processing (mé
+ triques de fairness\, améliorer la fairness sur des données annotées)\, et 
+ nous montrerons comment des benchmarks permettent d'appréhender l’impact de
+ s méthodes de fairness sur la précision des modèles entraînés.\n\nLa confia
+ nce et l’équité passe avant tout par une compréhension de la prise de décis
+ ion par l’utilisateur. Par conséquent\, nous présenterons diverses méthodes
+  pour expliquer la prise de décision d’un modèle boîte noire (principalemen
+ t des algorithmes de deep learning) et mettons en garde contre une mauvaise
+  interprétation de ces explications.
 DTSTART:20191003T120000
 DURATION:PT40M
-LOCATION:#2
+LOCATION:Airbus
 SUMMARY:Quand les ratés des IAs nous renvoient à nos propres biais sociétau
  x
 UID:ZsAGxn6UZi1hfzz2bwR7
@@ -278,12 +278,12 @@ BEGIN:VEVENT
 DESCRIPTION:Dans ce talk je vous montrerai comment expliquer simplement le 
  fonctionnement de l'apprentissage par renforcement. Pour cela pas besoin d'
  ordinateur : quelques allumettes\, des sacs de cotillons et un peu de pédag
- ogie sont suffisant pour mettre en évidence les mécanismes intrinsèques de 
- cette technique et pour aborder les enjeux et les limites des algorithmes d
- '"intelligence artificielle" basés sur l'apprentissage.
+ ogie sont suffisants pour mettre en évidence les mécanismes intrinsèques de
+  cette technique et pour aborder les enjeux et les limites des algorithmes 
+ d'"intelligence artificielle" basés sur l'apprentissage.
 DTSTART:20191003T125000
 DURATION:PT15M
-LOCATION:#2
+LOCATION:Airbus
 SUMMARY:Machine learning avec des allumettes et des cotillons
 UID:cnRUAtQNZybQsQa03lAx
 URL:https://devfesttoulouse.fr/sessions/machine_learning_avec_des_allumette
@@ -301,7 +301,7 @@ DESCRIPTION:Brainfuck est probablement le plus connu des langages de progra
  raphes !
 DTSTART:20191003T140500
 DURATION:PT15M
-LOCATION:#2
+LOCATION:Airbus
 SUMMARY:Applications de Brainfuck\, langage minimaliste mais Turing-complet
 UID:oiZTE4THbAJeaNVlLc03
 URL:https://devfesttoulouse.fr/sessions/applications_de_brainfuck__langage_
@@ -323,7 +323,7 @@ DESCRIPTION:Sans nécessiter de formation musicale pointue\, tout développeu
  e tenir !
 DTSTART:20191003T143000
 DURATION:PT40M
-LOCATION:#2
+LOCATION:Airbus
 SUMMARY:Live coding musical : vous savez coder ? Devenez compositeur avec W
  ebAudio et WebMIDI !
 UID:WwHpapkCgEg5IMW5vTId
@@ -354,7 +354,7 @@ DESCRIPTION:It's a common idea: Dynamic typing gives you freedom to do what
  , so come by and let's talk about being (type-safely) free.
 DTSTART:20191003T153000
 DURATION:PT40M
-LOCATION:#2
+LOCATION:Airbus
 SUMMARY:The Freedom of Static Typing
 UID:RhWn82dKmICiQulwcVJF
 URL:https://devfesttoulouse.fr/sessions/the_freedom_of_static_typing
@@ -373,7 +373,7 @@ DESCRIPTION:When you start a brand new app or service\, you need to think a
  s and their benefits.
 DTSTART:20191003T163000
 DURATION:PT40M
-LOCATION:#2
+LOCATION:Airbus
 SUMMARY:Authentication/Authorization Starters Battle
 UID:6E03tbU6L5w0IyjMi7yF
 URL:https://devfesttoulouse.fr/sessions/authentication_authorization_starte
@@ -386,14 +386,14 @@ DESCRIPTION:Depuis les années 70 tous les constructeurs autos intégrent des
   calculateurs électroniques.\nLes moteurs des voitures modernes sont des sy
  stèmes informatiques complexes qui s'appuient sur des dizaines de capteurs.
  .. et du code. \nComment ça fonctionne ? A quoi ressemble ce code et que fa
- it-il ?\nQu'est-ce qu'il se passe lorsqu'on fait une "reprog" ? \nQu'est-ce
-  que signifie le voyant moteur allumé ? Comment débugger tout ça ?\nSoulevo
- ns le capot (électronique)\, analysons le matériel mis en oeuvre mais surto
- ut le logiciel grâce aux sources des calculateurs "Megasquirt" et allons ex
- plorer la face cachée numérique de nos voitures.
+ it-il ?\nQu'est-ce qu'il se passe lorsqu'on fait une "reprog" ? \nQue signi
+ fie le voyant moteur allumé ? Comment débugger tout ça ?\nSoulevons le capo
+ t (électronique)\, analysons le matériel mis en oeuvre mais surtout le logi
+ ciel grâce aux sources des calculateurs "Megasquirt" et allons explorer la 
+ face cachée numérique de nos voitures.
 DTSTART:20191003T173000
 DURATION:PT40M
-LOCATION:#2
+LOCATION:Airbus
 SUMMARY:Mon p*** de voyant moteur est encore allumé ! Comment debugger mon 
  moteur ? Plongeon dans les entrailles des calculateurs moteur
 UID:fW4yvmVxjXb57vQJhIXu
@@ -423,7 +423,7 @@ DESCRIPTION:Le numérique fait-il partie du problème ou de la solution quand
  e notre monde suit.
 DTSTART:20191003T100000
 DURATION:PT40M
-LOCATION:#3
+LOCATION:SII
 SUMMARY:"Numérique et environnement" ou "On aurait pu sauver les abeilles\,
   on a préféré sortir un nouvel iPhone"
 UID:zDbtrtvdLPG1okj07wyI
@@ -452,7 +452,7 @@ DESCRIPTION:The singe most important feature of Rust is memory safety. Writ
  control of error conditions
 DTSTART:20191003T110000
 DURATION:PT40M
-LOCATION:#3
+LOCATION:SII
 SUMMARY:Rust as a High-Level Langage
 UID:PjQDGsFIQoo1By4Ogv3q
 URL:https://devfesttoulouse.fr/sessions/rust_as_a_high_level_langage
@@ -465,12 +465,12 @@ DESCRIPTION:Vous aimez VS Code car il est simple\, intuitif et qu'il fait c
  ieurs dans VS Code? et même permettre à une personne tierce de jouer avec v
  otre débugger depuis l'autre bout du monde? Saviez-vous que vous pouviez av
  oir un client slack dans VS Code\, et même un chat audio?  \nEt avez-vous e
- xploré toutes les possibilités que VS Code offre quand vous utilisez github
- ?  \nNous verrons dans ce talk tout ce qui fait de VS Code l'éditeur de cod
- e parfait pour faire du code collaboratif.
+ xploré toutes les possibilités que VS Code offre quand vous utilisez GitHub
+ ?\nNous verrons dans ce talk tout ce qui fait de VS Code l'éditeur de code 
+ parfait pour faire du code collaboratif.
 DTSTART:20191003T120000
 DURATION:PT40M
-LOCATION:#3
+LOCATION:SII
 SUMMARY:Allo Paris\, ici San Francisco. Et si on codait ensemble avec VS Co
  de?
 UID:Cej88MtlRVZrJRK0FJ2p
@@ -483,33 +483,29 @@ BEGIN:VEVENT
 DESCRIPTION:Jean-Yves Girard\, le génial inventeur des indispensables [mont
  res à moutarde](http://girard.perso.math.cnrs.fr/moutarde.pdf) (1990)\, est
   certes un joyeux trublion.\n\nMais avant d'en arriver à ce sommet indépass
- able\, il a tout même publié deux-trois petites choses en chemin:\n\n- Rust
- \, vous connaissez? L'idée première du système de typage de Rust est la log
- ique dite "[linéaire](http://girard.perso.math.cnrs.fr/linear.pdf)"\, due à
-  Jean-Yves Girard (1987).\n- Haskell\, ça vous dit quelque chose? Les systè
- mes de typage de Haskell mais aussi Scala (et d'une certaine manière Java) 
- sont basés sur le "[système F](https://en.wikipedia.org/wiki/System_F)" (ou
-  lambda-calcul de second ordre)\, dû à... Jean-Yves Girard (1972).\n- Idris
- \, vous avez entendu parler? Le système de typage d'Idris est basé sur la t
- héorie des types de Per Martin-Löf\, dont la première version a été prouvée
-  incorrecte par... Jean-Yves Girard\, qui depuis possède un [paradoxe](http
- s://en.wikipedia.org/wiki/System_U#Girard's_paradox) à son nom. (Girard et 
- Martin-Löf sont par ailleurs de très bons potes et ont ferraillé sec contre
-  les logiciens classiques dans leur prime jeunesse.)\n\nTrès méconnu mais p
- robalement l'un des penseurs les plus influents pour l'informatique de ce d
- ébut de XXIe siècle\, Girard est tout aussi sérieux que fantasque. Son styl
- e toujours acéré et polémique s'appuie sur une vision très claire de ce que
-  devrait être la logique: vivante\, joyeuse\, fertile.\n\nDans cette courte
-  présentation\, on s'attachera à comprendre pourquoi Girard est aussi virul
- ent dans son discours\, quels sont les objectifs de sa pensée\, et pourquoi
-  elle a déjà porté tant de fruits dans le monde de l'informatique. \n\n----
- \n\nDans le cas d'un créneau à 40min\, on pourrait donner quelques pointeur
- s sur ses travaux plus récents\, et expliciter en quoi ils sont porteurs de
-  nouvelles avancées pour les prochaines décennies (réseaux de démonstration
- s\, géométrique de l'intéraction\, etc.).
+ able\, il a tout de même publié deux-trois petites choses en chemin:\n\n- R
+ ust\, vous connaissez? L'idée première du système de typage de Rust est la 
+ logique dite "[linéaire](http://girard.perso.math.cnrs.fr/linear.pdf)"\, du
+ e à Jean-Yves Girard (1987).\n- Haskell\, ça vous dit quelque chose? Les sy
+ stèmes de typage de Haskell mais aussi Scala (et d'une certaine manière Jav
+ a) sont basés sur le "[système F](https://en.wikipedia.org/wiki/System_F)" 
+ (ou lambda-calcul de second ordre)\, dû à... Jean-Yves Girard (1972).\n- Id
+ ris\, vous avez entendu parler? Le système de typage d'Idris est basé sur l
+ a théorie des types de Per Martin-Löf\, dont la première version a été prou
+ vée incorrecte par... Jean-Yves Girard\, qui depuis possède un [paradoxe](h
+ ttps://en.wikipedia.org/wiki/System_U#Girard's_paradox) à son nom. (Girard 
+ et Martin-Löf sont par ailleurs de très bons potes et ont ferraillé sec con
+ tre les logiciens classiques dans leur prime jeunesse.)\n\nTrès méconnu mai
+ s probalement l'un des penseurs les plus influents pour l'informatique de c
+ e début de XXIe siècle\, Girard est tout aussi sérieux que fantasque. Son s
+ tyle toujours acéré et polémique s'appuie sur une vision très claire de ce 
+ que devrait être la logique: vivante\, joyeuse\, fertile.\n\nDans cette cou
+ rte présentation\, on s'attachera à comprendre pourquoi Girard est aussi vi
+ rulent dans son discours\, quels sont les objectifs de sa pensée\, et pourq
+ uoi elle a déjà porté tant de fruits dans le monde de l'informatique.
 DTSTART:20191003T125000
 DURATION:PT15M
-LOCATION:#3
+LOCATION:SII
 SUMMARY:Le troll dans ta machine --- Une courte introduction à la pensée de
   Jean-Yves Girard
 UID:hoiS7Cs5sWwXb632pLh2
@@ -519,19 +515,19 @@ TRANSP:TRANSPARENT
 CATEGORIES:wtf
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Avec mon épouse nous avons commencer à donner de l'argent de po
- che à nos enfants.\n\n![Calvin et l'argent de poche](https://i.pinimg.com/o
- riginals/ad/47/94/ad47940ca35ce4bd5122a916abf9f589.png)\n\nPour qu'ils puis
- sent faire comme les grands (et parce que c'est fun aussi :D) j'ai conçu un
-  DAAP (**D**istributeur **A**utomatique d'**A**rgent de **P**oche) qui leur
-  permet\, le jour de la distribution de l'argent de poche\, d'insérer  leur
-  "carte bleue"\, saisir leur code et de voir la machine s'ébranler pour dis
- tribuer les pièces.\n\nDans ce talk on parlera d'Arduino\, d'impression 3D\
- , de carte à puce\, d'électronique et des problèmes que j'ai rencontré et c
- omment j'ai pu les résoudre.
+DESCRIPTION:Avec mon épouse nous avons commencé à donner de l'argent de poc
+ he à nos enfants.\n\n![Calvin et l'argent de poche](https://i.pinimg.com/or
+ iginals/ad/47/94/ad47940ca35ce4bd5122a916abf9f589.png)\n\nPour qu'ils puiss
+ ent faire comme les grands (et parce que c'est fun aussi :D) j'ai conçu un 
+ DAAP (**D**istributeur **A**utomatique d'**A**rgent de **P**oche) qui leur 
+ permet\, le jour de la distribution de l'argent de poche\, d'insérer  leur 
+ "carte bleue"\, saisir leur code et de voir la machine s'ébranler pour dist
+ ribuer les pièces.\n\nDans ce talk on parlera d'Arduino\, d'impression 3D\,
+  de cartes à puce\, d'électronique et des problèmes que j'ai rencontrés et 
+ comment j'ai pu les résoudre.
 DTSTART:20191003T140500
 DURATION:PT15M
-LOCATION:#3
+LOCATION:SII
 SUMMARY:Un distributeur automatique d'argent de poche pour les enfants
 UID:ZmSIPnuidcxjKLVfEKM8
 URL:https://devfesttoulouse.fr/sessions/un_distributeur_automatique_d_argen
@@ -548,10 +544,10 @@ DESCRIPTION:Les enfants sont eux-mêmes les bâtisseurs actifs de leurs propr
  omment donner le goût du code à nos enfants et surtout pourquoi est-ce impo
  rtant ?\nAvec Saskia\, Loïs et leur père nous voyagerons à travers le temps
  \, en partant de la tortue sur ce bon vieux M05 en passant par Scratch\, le
-  Logo hipster de nos jour\, jusqu’à Groovy et Python. \n
+  Logo hipster de nos jours\, jusqu’à Groovy et Python.
 DTSTART:20191003T143000
 DURATION:PT40M
-LOCATION:#3
+LOCATION:SII
 SUMMARY:Le jaillissement de l'esprit
 UID:le_jaillissement_de_l_esprit
 URL:https://devfesttoulouse.fr/sessions/le_jaillissement_de_l_esprit
@@ -570,9 +566,9 @@ DESCRIPTION:Programmer le noyau d'un système d'exploitation est un très bon
  de contexte liés à la programmation concurrentielle
 DTSTART:20191003T153000
 DURATION:PT40M
-LOCATION:#3
-SUMMARY:Comprendre le rôle du noyau d'un système d'exploitation en créant u
- n from scratch
+LOCATION:SII
+SUMMARY:Comprendre le rôle du noyau d'un système d'exploitation en en créan
+ t un from scratch
 UID:tOexEcqeKEztPbNmR4JT
 URL:https://devfesttoulouse.fr/sessions/comprendre_le_role_du_noyau_d_un_sy
  steme_d_exploitation_en_creant_un_from_scratch
@@ -588,7 +584,7 @@ DESCRIPTION:DevOps is everywhere\, and every new or existing project is at
  le.
 DTSTART:20191003T163000
 DURATION:PT40M
-LOCATION:#3
+LOCATION:SII
 SUMMARY:DevOps at scale
 UID:aOHds477R7FiM3cnWAXp
 URL:https://devfesttoulouse.fr/sessions/devops_at_scale
@@ -604,7 +600,7 @@ DESCRIPTION:If the new React Context API and Suspense killed Redux (they di
  ilding forms in React easier than ever before.
 DTSTART:20191003T173000
 DURATION:PT40M
-LOCATION:#3
+LOCATION:SII
 SUMMARY:Modern Forms in React
 UID:McfMVcKDdZv68NSo2JIJ
 URL:https://devfesttoulouse.fr/sessions/modern_forms_in_react
@@ -621,14 +617,14 @@ DESCRIPTION:Avec les annonces de l'arrivée de la réalité augmentée (ou RA)
  vigateur\, des applications natives ou des moteurs 3D comme Unity ainsi que
   les CloudAnchors qui permettent la persistance et le partage de positions 
  d’objets dans les scènes de réalité augmentée\, y compris avec des utilisat
- eurs d’iOS.\n\nAprès une initiations aux concepts liés à la RA (meshes\, 6 
- DoF\,...)\, nous présenterons les différentes fonctionnalités d’ARCore. Nou
- s discuterons aussi des différentes approches d’utilisation\, de leurs limi
- tations et avantages au travers d'une application de cartographie 3D en réa
- lité augmentée.
+ eurs d’iOS.\n\nAprès une initiation aux concepts liés à la RA (meshes\, 6 D
+ oF\,...)\, nous présenterons les différentes fonctionnalités d’ARCore. Nous
+  discuterons aussi des différentes approches d’utilisation\, de leurs limit
+ ations et avantages au travers d'une application de cartographie 3D en réal
+ ité augmentée.
 DTSTART:20191003T100000
 DURATION:PT40M
-LOCATION:#4
+LOCATION:Capgemini
 SUMMARY:A la découverte de la réalité augmentée avec ARCore
 UID:qXAvodXoMK3db8ZLcVwb
 URL:https://devfesttoulouse.fr/sessions/a_la_decouverte_de_la_realite_augme
@@ -638,19 +634,19 @@ CATEGORIES:native_mobile_apps
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:_« Make it work\, make it right\, make it fast »_ - Kent Beck\n
- \nNous connaissons tous cette citation. Pourtant nous sommes dès fois trop 
- souvent restés bloqué à l’étape 1 par manque de temps ou de priorisation.\n
- \nL’accueil d’un nouveau développeur·euse dans une équipe est un des meille
- urs moments pour vérifier qu’une base de code est « saine et scalable ».\n\
- nNous vous proposons dans ce talk un retour d’expérience sur quelques année
- s de consulting sur des projets Angular au travers de cas concrets :\n- que
- lles sont les mauvaises pratiques à éviter ?\n- quels sont les choix orient
- és et assumés d’Angular pour vous éviter tout ça ?\n- quelque soit la taill
- e de votre équipe\, l’expérience de vos collègues\, quels sont les  princip
- es d’architecture à adopter pour améliorer tout ça ?
+ \nNous connaissons tous cette citation. Pourtant nous sommes trop souvent r
+ estés bloqué à l’étape 1 par manque de temps ou de priorisation.\n\nL’accue
+ il d’un nouveau développeur·euse dans une équipe est un des meilleurs momen
+ ts pour vérifier qu’une base de code est « saine et scalable ».\n\nNous vou
+ s proposons dans ce talk un retour d’expérience sur quelques années de cons
+ ulting sur des projets Angular au travers de cas concrets :\n- quelles sont
+  les mauvaises pratiques à éviter ?\n- quels sont les choix orientés et ass
+ umés d’Angular pour vous éviter tout ça ?\n- quelle que soit la taille de v
+ otre équipe ou l’expérience de vos collègues\, quels sont les principes d’a
+ rchitecture à adopter pour améliorer tout ça ?
 DTSTART:20191003T110000
 DURATION:PT40M
-LOCATION:#4
+LOCATION:Capgemini
 SUMMARY:Rockin’ in the Angular World
 UID:niiUNFAFhYnPBiOrcDVf
 URL:https://devfesttoulouse.fr/sessions/rockin_in_the_angular_world
@@ -669,10 +665,10 @@ DESCRIPTION:De nombreux services en ligne existent pour gérer en toute sécu
  ers un service Cloud\, pour enfin découvrir ce que permettent ces solutions
   en ligne dédiées à l'IoT.\n\nPour l'exemple\, et parce qu'il faut bien cho
  isir une solution\, nous utiliserons Google Cloud IoT Core\, les concepts r
- estant similaires sur les autres plate-formes.
+ estant similaires sur les autres plates-formes.
 DTSTART:20191003T120000
 DURATION:PT40M
-LOCATION:#4
+LOCATION:Capgemini
 SUMMARY:Premiers pas avec un microcontrôleur et Google Cloud IoT Core
 UID:R9O1S7M9oRMmwd0cNBaz
 URL:https://devfesttoulouse.fr/sessions/premiers_pas_avec_un_microcontroleu
@@ -684,16 +680,16 @@ BEGIN:VEVENT
 DESCRIPTION:Ces dernières années\, les "fabriques de dev" et autres formati
  ons courtes explosent. C'est un fait\, tout dev a été ou sera amené à trava
  iller avec l'un de ces jeunes développeurs.euses. Mais qui sont-ils ? Pourq
- uoi une reconversion dans ce genre de d'organisation ? Qu'ont-ils appris lo
- rs de leurs formation express ? C'est fiable ce genre de dev ? Comment puis
- -je les intégrer au mieux dans ma structure ?\n\nAutant de questions que vo
- us vous êtes sans doute déjà posées. Pendant ces 15 minutes\, je vous prése
- nterai mon retour d'expérience en tant que développeuse provenant de l'une 
- de ces écoles de dev et maintenant développeuse Javascript depuis 2 ans au 
- sein d'une startup Toulousaine.
+ uoi une reconversion dans ce genre d'organisation ? Qu'ont-ils appris lors 
+ de leur formation express ? C'est fiable ce genre de dev ? Comment puis-je 
+ les intégrer au mieux dans ma structure ?\n\nAutant de questions que vous v
+ ous êtes sans doute déjà posées. Pendant ces 15 minutes\, je vous présenter
+ ai mon retour d'expérience en tant que développeuse provenant de l'une de c
+ es écoles de dev et maintenant développeuse Javascript depuis 2 ans au sein
+  d'une startup Toulousaine.
 DTSTART:20191003T125000
 DURATION:PT15M
-LOCATION:#4
+LOCATION:Capgemini
 SUMMARY:Développeurs en reconversion\, développeurs quand même !
 UID:adcMAUSbsAK27dQJA4Iw
 URL:https://devfesttoulouse.fr/sessions/developpeurs_en_reconversion__devel
@@ -712,7 +708,7 @@ DESCRIPTION:Le code barre est une invention qui a radicalement modifié nos
  rmations.
 DTSTART:20191003T140500
 DURATION:PT15M
-LOCATION:#4
+LOCATION:Capgemini
 SUMMARY:10 est une puissance de 2
 UID:jABRUDzqext8Rx8CmA4j
 URL:https://devfesttoulouse.fr/sessions/10_est_une_puissance_de_2
@@ -736,7 +732,7 @@ DESCRIPTION:Les microservices\, la scalabilité instantanée et les plates-fo
   verbalise\, attendez-vous à une démo détaillée.
 DTSTART:20191003T143000
 DURATION:PT40M
-LOCATION:#4
+LOCATION:Capgemini
 SUMMARY:De Java à un exécutable natif : GraalVM et Quarkus changent la donn
  e
 UID:Qy836EfpA0wC4M6jYcTk
@@ -746,19 +742,19 @@ TRANSP:TRANSPARENT
 CATEGORIES:method___tools
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dans un monde de saveurs complexes et sofistiquées\, la guerre 
- du toping fait rage chez les crèmes glacées du Web ! Face au champs de bata
- il\, les pronostiques vont bon train pour savoir qui l’emportera entre le c
- runchy Angulaire\, le fondant Reactifs et le décoratif Vue.\n\nDurant ce te
+DESCRIPTION:Dans un monde de saveurs complexes et sophistiquées\, la guerre
+  du toping fait rage chez les crèmes glacées du Web ! Face au champs de bét
+ ail\, les pronostiques vont bon train pour savoir qui l’emportera entre le 
+ crunchy Angulaire\, le fondant Reactif et le décoratif Vue.\n\nDurant ce te
  mps\, loin de ces vicissitudes\, la petite saveur basique vanille fait son 
- bonhomme de chemin. S’agirait-il du héro de la légende\, succeptible de ren
- verser le destin de ce monde sans heurts ?\n\nSache\, voyageur\, qu’elle es
+ bonhomme de chemin. S’agirait-il du héros de la légende\, susceptible de re
+ nverser le destin de ce monde sans heurt ?\n\nSache\, voyageur\, qu’elle es
  t déjà passée par nos contrées. Laisse moi te raconter comment elle nous a 
- permis de renverser notre vieux roi\, et tu saura enfin ce qui se prépare p
- our ton royaume.
+ permis de renverser notre vieux roi\, et tu sauras enfin ce qui se prépare 
+ pour ton royaume.
 DTSTART:20191003T153000
 DURATION:PT40M
-LOCATION:#4
+LOCATION:Capgemini
 SUMMARY:Brace yourself\, 🍦Vanilla is coming … back 🕶!
 UID:rJDTMZMYX57DCKYhW09c
 URL:https://devfesttoulouse.fr/sessions/brace_yourself__vanilla_is_coming__
@@ -782,7 +778,7 @@ DESCRIPTION:How a developer can tell if the system is sick just by taking a
  s: a sequel of "Passwords. Do you keep them safe?")
 DTSTART:20191003T163000
 DURATION:PT40M
-LOCATION:#4
+LOCATION:Capgemini
 SUMMARY:Four Diseases
 UID:PmoMEVHO3imfUIMXsPai
 URL:https://devfesttoulouse.fr/sessions/four_diseases
@@ -800,7 +796,7 @@ DESCRIPTION:Quel est le point commun entre un jeu de sudoku\, la planificat
  r un cas plus complexe sur lequel je travaille actuellement.
 DTSTART:20191003T173000
 DURATION:PT40M
-LOCATION:#4
+LOCATION:Capgemini
 SUMMARY:Introduction à la programmation par contraintes
 UID:iU4EzEThVDvpaHDsGjOO
 URL:https://devfesttoulouse.fr/sessions/introduction_a_la_programmation_par
