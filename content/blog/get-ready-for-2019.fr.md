@@ -15,7 +15,7 @@ Tout comme l’année dernière, la journée se déroulera en plein coeur de Tou
 ## La suite des réjouissances :
 
 * Ouverture du [CFP](https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi) : 1er Avril
-* Ouverture de la billetterie (environ 900 places disponibles) : en Avril.
+* Ouverture de la billetterie (environ 1000 places disponibles) : en Avril.
 
 Dans les jours/semaines à venir nous communiquerons sur le thème de l'édition 2019. Suivez-nous sur [Twitter](https://twitter.com/devfesttoulouse), [LinkedIn](https://www.linkedin.com/company/devfesttoulouse/) ou sur ce site afin de rester informés ! :-)
 

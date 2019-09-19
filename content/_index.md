@@ -26,7 +26,7 @@ menu:
 
 
 
-{{% home-info what="Participants:900,Day:1,Sessions:36,Parallel Tracks:4" class="primary" %}}
+{{% home-info what="Participants:1000,Day:1,Sessions:36,Parallel Tracks:4" class="primary" %}}
 ## What is DevFest Toulouse?
 
 The DevFest, or 'Developers Festival', is a technical conference for developers. 

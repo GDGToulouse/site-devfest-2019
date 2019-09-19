@@ -15,7 +15,7 @@ As last year, the event will be right in the city center, in the Compans Cafarel
 ## What's next?
 
 * The [CFP](https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi) will open April the 1st
-* Tickets will open in April as well (900 tickets available)
+* Tickets will open in April as well (1000 tickets available)
 
 We will be communicating about this year theme pretty soon on Twitter [@DevFestToulouse](https://twitter.com/DevFestToulouse/), stay tuned!
 
