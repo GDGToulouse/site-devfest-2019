@@ -15,7 +15,7 @@ horizontal: false
     <svg class="icon icon-calendar"><use xlink:href="#calendar"></use></svg> ICal
 </a>
 
-<a class="btn primary btn-lg" href="https://firebasestorage.googleapis.com/v0/b/devfesttoulouse-1f1dc.appspot.com/o/schedule-fr.pdf?alt=media&token=79ee1549-8e30-4c60-874f-57db5ffd058a">
+<a class="btn primary btn-lg" href="https://firebasestorage.googleapis.com/v0/b/devfesttoulouse-1f1dc.appspot.com/o/schedule-fr.pdf?alt=media&token=1c5afbee-38b0-4c71-9e73-f7a7a405373a">
     <svg class="icon icon-pdf"><use xlink:href="#pdf"></use></svg> PDF
 </a>
 
