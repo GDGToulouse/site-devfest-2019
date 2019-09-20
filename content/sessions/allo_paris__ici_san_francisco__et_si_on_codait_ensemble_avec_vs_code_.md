@@ -15,5 +15,5 @@ draft: false
 ---
 Vous aimez VS Code car il est simple, intuitif et qu'il fait ce que vous lui demandez.   
 Mais saviez-vous que vous pouviez coder à plusieurs dans VS Code? et même permettre à une personne tierce de jouer avec votre débugger depuis l'autre bout du monde? Saviez-vous que vous pouviez avoir un client slack dans VS Code, et même un chat audio?  
-Et avez-vous exploré toutes les possibilités que VS Code offre quand vous utilisez github?  
+Et avez-vous exploré toutes les possibilités que VS Code offre quand vous utilisez GitHub?
 Nous verrons dans ce talk tout ce qui fait de VS Code l'éditeur de code parfait pour faire du code collaboratif.

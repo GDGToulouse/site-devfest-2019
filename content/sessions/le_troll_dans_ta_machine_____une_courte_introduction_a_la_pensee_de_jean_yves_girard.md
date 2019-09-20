@@ -17,7 +17,7 @@ draft: false
 ---
 Jean-Yves Girard, le génial inventeur des indispensables [montres à moutarde](http://girard.perso.math.cnrs.fr/moutarde.pdf) (1990), est certes un joyeux trublion.
 
-Mais avant d'en arriver à ce sommet indépassable, il a tout même publié deux-trois petites choses en chemin:
+Mais avant d'en arriver à ce sommet indépassable, il a tout de même publié deux-trois petites choses en chemin:
 
 - Rust, vous connaissez? L'idée première du système de typage de Rust est la logique dite "[linéaire](http://girard.perso.math.cnrs.fr/linear.pdf)", due à Jean-Yves Girard (1987).
 - Haskell, ça vous dit quelque chose? Les systèmes de typage de Haskell mais aussi Scala (et d'une certaine manière Java) sont basés sur le "[système F](https://en.wikipedia.org/wiki/System_F)" (ou lambda-calcul de second ordre), dû à... Jean-Yves Girard (1972).
@@ -25,8 +25,4 @@ Mais avant d'en arriver à ce sommet indépassable, il a tout même publié deux
 
 Très méconnu mais probalement l'un des penseurs les plus influents pour l'informatique de ce début de XXIe siècle, Girard est tout aussi sérieux que fantasque. Son style toujours acéré et polémique s'appuie sur une vision très claire de ce que devrait être la logique: vivante, joyeuse, fertile.
 
-Dans cette courte présentation, on s'attachera à comprendre pourquoi Girard est aussi virulent dans son discours, quels sont les objectifs de sa pensée, et pourquoi elle a déjà porté tant de fruits dans le monde de l'informatique. 
-
-----
-
-Dans le cas d'un créneau à 40min, on pourrait donner quelques pointeurs sur ses travaux plus récents, et expliciter en quoi ils sont porteurs de nouvelles avancées pour les prochaines décennies (réseaux de démonstrations, géométrique de l'intéraction, etc.).
+Dans cette courte présentation, on s'attachera à comprendre pourquoi Girard est aussi virulent dans son discours, quels sont les objectifs de sa pensée, et pourquoi elle a déjà porté tant de fruits dans le monde de l'informatique.

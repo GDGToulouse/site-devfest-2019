@@ -18,4 +18,4 @@ Avec les annonces de l'arrivée de la réalité augmentée (ou RA)  dans Google 
 
 Au cours de cette session, nous vous proposons de découvrir ARCore, via l’utilisation dans un navigateur, des applications natives ou des moteurs 3D comme Unity ainsi que les CloudAnchors qui permettent la persistance et le partage de positions d’objets dans les scènes de réalité augmentée, y compris avec des utilisateurs d’iOS.
 
-Après une initiations aux concepts liés à la RA (meshes, 6 DoF,...), nous présenterons les différentes fonctionnalités d’ARCore. Nous discuterons aussi des différentes approches d’utilisation, de leurs limitations et avantages au travers d'une application de cartographie 3D en réalité augmentée.
+Après une initiation aux concepts liés à la RA (meshes, 6 DoF,...), nous présenterons les différentes fonctionnalités d’ARCore. Nous discuterons aussi des différentes approches d’utilisation, de leurs limitations et avantages au travers d'une application de cartographie 3D en réalité augmentée.

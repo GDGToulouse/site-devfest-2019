@@ -18,4 +18,4 @@ Google propose également sa solution : "Cloud IoT" basée sur la plate-forme Go
 Dans ce talk, nous partirons d'un microcontrôleur neuf ultra connu et abordable, et notre but sera tout d'abord de découvrir comment écrire du code pour ce composant nous permettant de récupérer des informations sur notre environnement.
 Ensuite, nous ferons en sorte que ce composant envoie ses données vers un service Cloud, pour enfin découvrir ce que permettent ces solutions en ligne dédiées à l'IoT.
 
-Pour l'exemple, et parce qu'il faut bien choisir une solution, nous utiliserons Google Cloud IoT Core, les concepts restant similaires sur les autres plate-formes.
+Pour l'exemple, et parce qu'il faut bien choisir une solution, nous utiliserons Google Cloud IoT Core, les concepts restant similaires sur les autres plates-formes.

@@ -26,7 +26,7 @@ menu:
 
 
 
-{{% home-info what="Participants:900,Day:1,Sessions:36,Parallel Tracks:4" class="primary" %}}
+{{% home-info what="Participants:1000,Day:1,Sessions:36,Parallel Tracks:4" class="primary" %}}
 ## What is DevFest Toulouse?
 
 The DevFest, or 'Developers Festival', is a technical conference for developers. 
@@ -67,7 +67,11 @@ It is aimed at students, professionals or simply curious technophiles.
 <!-- ... -->
 
 {{% home-tickets %}}
-# Tickets <a class="btn primary" href="https://www.billetweb.fr/devfest-toulouse-2019" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
+# Tickets
+
+<!--
+<a class="btn primary" href="https://www.billetweb.fr/devfest-toulouse-2019" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
+-->
 
 <ul>
 <li>{{< ticket name="Blind Birds"

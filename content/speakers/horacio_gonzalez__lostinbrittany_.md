@@ -20,4 +20,4 @@ Après quelques années comme tech leader de la partie frontend de [@warp10io](h
 
 Passionné par le développement web et tout ce qui gravite autour des composants web, Horacio est [Google Developer Expert (GDE)](https://developers.google.com/experts/people/horacio-gonzalez) en Web Technologies et Flutter.
 
-Vous pouvez voir mes dernières talks sur [mon profil Notist](https://noti.st/lostinbrittany)
+Vous pouvez voir mes derniers talks sur [mon profil Notist](https://noti.st/lostinbrittany)

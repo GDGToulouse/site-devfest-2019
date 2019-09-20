@@ -9,4 +9,4 @@ socials:
   - icon: twitter
     link: 'https://twitter.com/sebi2706'
 ---
-Sébastien travaille actuellement pour Red Hat, il fait partie de l’équipe KeyCloak qui délivre un serveur Open Source d'authentification et de gestion d'identité. Il aime également partager sa passion du code et notamment sur la façon de transmettre cette passion aux générations futures. 
+Sébastien travaille actuellement pour Red Hat, il fait partie de l’équipe KeyCloak qui délivre un serveur Open Source d'authentification et de gestion d'identité. Il aime également partager sa passion du code et notamment sur la façon de transmettre cette passion aux générations futures.

@@ -6,7 +6,7 @@ date: 2019-03-23
 draft: false
 ---
 
-Le DevFest Toulouse aura lieu, pour sa 4ème édition, le 03 Octobre 2019 au Centre des Congrès Pierre Baudis de Toulouse et réunira 900 développeurs, personnes travaillant dans les métiers techniques de l’informatique et étudiants.
+Le DevFest Toulouse aura lieu, pour sa 4ème édition, le 03 Octobre 2019 au Centre des Congrès Pierre Baudis de Toulouse et réunira 1000 développeurs, personnes travaillant dans les métiers techniques de l’informatique et étudiants.
 
 En attendant le jour J, le [CFP](https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi) (Call For Papers / Appel à Orateurs) du DevFest Toulouse est désormais ouvert ! Cette année, vous pouvez soumettre du 25 Mars jusqu’au 25 Mai (2 mois).
 

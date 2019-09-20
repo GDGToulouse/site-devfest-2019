@@ -16,11 +16,11 @@ draft: false
 ---
 _« Make it work, make it right, make it fast »_ - Kent Beck
 
-Nous connaissons tous cette citation. Pourtant nous sommes dès fois trop souvent restés bloqué à l’étape 1 par manque de temps ou de priorisation.
+Nous connaissons tous cette citation. Pourtant nous sommes trop souvent restés bloqué à l’étape 1 par manque de temps ou de priorisation.
 
 L’accueil d’un nouveau développeur·euse dans une équipe est un des meilleurs moments pour vérifier qu’une base de code est « saine et scalable ».
 
 Nous vous proposons dans ce talk un retour d’expérience sur quelques années de consulting sur des projets Angular au travers de cas concrets :
 - quelles sont les mauvaises pratiques à éviter ?
 - quels sont les choix orientés et assumés d’Angular pour vous éviter tout ça ?
-- quelque soit la taille de votre équipe, l’expérience de vos collègues, quels sont les  principes d’architecture à adopter pour améliorer tout ça ?
+- quelle que soit la taille de votre équipe ou l’expérience de vos collègues, quels sont les principes d’architecture à adopter pour améliorer tout ça ?

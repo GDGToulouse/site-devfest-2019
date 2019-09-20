@@ -9,4 +9,4 @@ socials:
     link: 'https://twitter.com/SaskiaLois'
 ---
 Saskia est en troisième et est passionnée par la programmation. 
-Elle a déjà 3 keynotes à son actif ainsi qu’un talk à DevoxxFR. 
+Elle a déjà 3 keynotes à son actif ainsi qu’un talk à DevoxxFR.

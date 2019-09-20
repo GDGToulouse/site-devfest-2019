@@ -151,6 +151,8 @@
           talk: introduction_a_la_programmation_par_contraintes
     - room: office-hours
       slots:
+        - slot: office-hours-0
+          talk: office-hour-00
         - slot: office-hours-1
           talk: office-hour-01
         - slot: office-hours-2

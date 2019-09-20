@@ -13,7 +13,7 @@ videoId: null
 presentation: null
 draft: false
 ---
-Un chatbot créé par Microsoft qui dérive avec des propos antisémites, Amazon qui scanne des CVs et finit par ne recruter que des hommes blancs, des algorithmes de reconnaissance faciale qui ont du mal avec les personnes de couleur noire, ... Que d'exemples où l'IA a intégré nos propres biais sociétaux. Il est urgent que nous, développeurs, prenions nos responsabilités et mesurons les enjeux éthiques de l'IA pour éviter que les stéréotypes, les inégalités et les préjugés se retrouvent au cœur de nos futurs systèmes.
+Un chatbot créé par Microsoft qui dérive avec des propos antisémites, Amazon qui scanne des CVs et finit par ne recruter que des hommes blancs, des algorithmes de reconnaissance faciale qui ont du mal avec les personnes de couleur noire, ... Que d'exemples où l'IA a intégré nos propres biais sociétaux. Il est urgent que nous, développeurs, prenions nos responsabilités et mesurions les enjeux éthiques de l'IA pour éviter que les stéréotypes, les inégalités et les préjugés se retrouvent au cœur de nos futurs systèmes.
 
 Cette présentation propose des root cause analysis sur des exemples concrets de ces biais et présente des alternatives qui auraient permis d'éviter ces biais en "production" autant d'un point de vue humain que technique.
 

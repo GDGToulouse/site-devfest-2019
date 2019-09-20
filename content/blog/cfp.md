@@ -6,7 +6,7 @@ date: 2019-03-23
 draft: false
 ---
 
-DevFest Toulouse will take place on October 3rd, 2019 at Pierre Baudis congress center. Our fourth edition will gather 900 attendees!
+DevFest Toulouse will take place on October 3rd, 2019 at Pierre Baudis congress center. Our fourth edition will gather 1000 attendees!
 
 While waiting for the D-day do not hesitate to propose a talk at [DevFest Toulouse CFP](https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi). It is now open and this year it will be for 2 months only (from March the 25th to Mai the 25th.) 
 

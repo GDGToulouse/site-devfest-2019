@@ -10,6 +10,12 @@
   row:
     start: 3
     end: 6
+- key: office-hours-0
+  start: '09:40'
+  duration: 30
+  row:
+    start: 6
+    end: 8
 - key: pause-1
   start: '09:40'
   duration: 20
