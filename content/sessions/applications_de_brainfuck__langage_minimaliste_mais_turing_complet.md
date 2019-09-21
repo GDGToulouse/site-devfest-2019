@@ -5,7 +5,7 @@ id: oiZTE4THbAJeaNVlLc03
 language: Français
 format: quickie
 tags:
-  - wtf
+  - _wtf
 level: beginner
 speakers:
   - theophile_wallez

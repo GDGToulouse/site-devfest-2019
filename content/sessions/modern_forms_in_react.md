@@ -5,7 +5,7 @@ id: McfMVcKDdZv68NSo2JIJ
 language: English
 format: conference
 tags:
-  - web
+  - _web
 level: intermediate
 speakers:
   - erik_rasmussen

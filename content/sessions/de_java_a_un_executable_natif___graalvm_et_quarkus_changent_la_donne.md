@@ -5,7 +5,7 @@ id: Qy836EfpA0wC4M6jYcTk
 language: French
 format: conference
 tags:
-  - method___tools
+  - _method___tools
 level: beginner
 speakers:
   - guillaume_smet

@@ -4,7 +4,7 @@ title: '⛳️ Votre API web passe-t-elle le contrôle technique ? '
 id: Gxr3XZR1HEu14tbneJLb
 format: conference
 tags:
-  - method___tools
+  - _method___tools
 level: intermediate
 speakers:
   - francois_guillaume_ribreau

@@ -5,7 +5,7 @@ id: niiUNFAFhYnPBiOrcDVf
 language: Français
 format: conference
 tags:
-  - web
+  - _web
 level: intermediate
 speakers:
   - vincent_ogloblinsky

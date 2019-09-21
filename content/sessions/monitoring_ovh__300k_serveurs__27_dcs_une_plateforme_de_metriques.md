@@ -4,7 +4,7 @@ title: 'Monitoring OVH: 300k serveurs, 27 DCs une plateforme de métriques '
 id: xwAvvIJJfDdBD7N4oGa5
 format: conference
 tags:
-  - big_data___ml___ai
+  - _big_data___ml___ai
 level: beginner
 speakers:
   - horacio_gonzalez__lostinbrittany_

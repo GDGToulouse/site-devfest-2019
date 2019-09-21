@@ -5,7 +5,7 @@ id: adcMAUSbsAK27dQJA4Iw
 language: Français
 format: quickie
 tags:
-  - wtf
+  - _wtf
 level: beginner
 speakers:
   - juliane_blier

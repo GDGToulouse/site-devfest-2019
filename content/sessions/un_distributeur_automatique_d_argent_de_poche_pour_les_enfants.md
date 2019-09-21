@@ -5,7 +5,7 @@ id: ZmSIPnuidcxjKLVfEKM8
 language: Français
 format: quickie
 tags:
-  - wtf
+  - _wtf
 level: beginner
 speakers:
   - richard_fagot

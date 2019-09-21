@@ -5,7 +5,7 @@ id: qXAvodXoMK3db8ZLcVwb
 language: France
 format: conference
 tags:
-  - native_mobile_apps
+  - _native_mobile_apps
 level: beginner
 speakers:
   - christophe_jollivet

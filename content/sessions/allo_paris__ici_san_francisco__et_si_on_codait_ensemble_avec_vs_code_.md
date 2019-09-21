@@ -4,7 +4,7 @@ title: 'Allo Paris, ici San Francisco. Et si on codait ensemble avec VS Code?'
 id: Cej88MtlRVZrJRK0FJ2p
 format: conference
 tags:
-  - method___tools
+  - _method___tools
 level: beginner
 speakers:
   - olivier_leplus

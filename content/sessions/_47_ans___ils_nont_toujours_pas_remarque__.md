@@ -5,7 +5,7 @@ id: pY6MCQBMfIYlIKfHdhL4
 language: French
 format: quickie
 tags:
-  - wtf
+  - _wtf
 level: beginner
 speakers:
   - qj7nbl6wiyug1rhqtxf818a46po1

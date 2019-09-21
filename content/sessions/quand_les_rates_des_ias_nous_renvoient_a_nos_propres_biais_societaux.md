@@ -4,7 +4,7 @@ title: Quand les ratés des IAs nous renvoient à nos propres biais sociétaux
 id: ZsAGxn6UZi1hfzz2bwR7
 format: conference
 tags:
-  - big_data___ml___ai
+  - _big_data___ml___ai
 level: beginner
 speakers:
   - clement_duffau

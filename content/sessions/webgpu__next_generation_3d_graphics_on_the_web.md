@@ -5,7 +5,7 @@ id: 5qTyscBWtXLRb04TXEdB
 language: English
 format: conference
 tags:
-  - web
+  - _web
 level: intermediate
 speakers:
   - corentin_wallez

@@ -7,7 +7,7 @@ title: >-
 id: zDbtrtvdLPG1okj07wyI
 format: conference
 tags:
-  - wtf
+  - _wtf
 level: beginner
 speakers:
   - sebastien_brault

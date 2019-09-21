@@ -3,7 +3,7 @@ key: le_jaillissement_de_l_esprit
 title: Le jaillissement de l'esprit
 format: conference
 tags:
-  - method___tools
+  - _method___tools
 level: beginner
 speakers:
   - lois_blanc

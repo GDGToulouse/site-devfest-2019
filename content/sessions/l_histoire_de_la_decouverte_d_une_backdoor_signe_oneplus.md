@@ -4,7 +4,7 @@ title: L'histoire de la découverte d'une backdoor signée OnePlus
 id: Kwery1cbJrx3ZFj6x1JU
 format: conference
 tags:
-  - native_mobile_apps
+  - _native_mobile_apps
 level: intermediate
 speakers:
   - fs0c131y
