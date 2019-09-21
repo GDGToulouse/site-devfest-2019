@@ -5,7 +5,7 @@ id: jABRUDzqext8Rx8CmA4j
 language: Français approximatif
 format: quickie
 tags:
-  - wtf
+  - _wtf
 level: beginner
 speakers:
   - gilles_debunne

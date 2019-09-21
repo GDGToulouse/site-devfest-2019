@@ -7,7 +7,7 @@ title: >-
 id: hoiS7Cs5sWwXb632pLh2
 format: quickie
 tags:
-  - wtf
+  - _wtf
 level: intermediate
 speakers:
   - guillaume_andrieu

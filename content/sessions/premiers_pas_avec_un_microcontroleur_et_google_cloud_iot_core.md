@@ -4,7 +4,7 @@ title: Premiers pas avec un microcontrôleur et Google Cloud IoT Core
 id: R9O1S7M9oRMmwd0cNBaz
 format: conference
 tags:
-  - iot
+  - _iot
 level: beginner
 speakers:
   - gautier_mechling

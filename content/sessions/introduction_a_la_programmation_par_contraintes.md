@@ -5,7 +5,7 @@ id: iU4EzEThVDvpaHDsGjOO
 language: Français
 format: conference
 tags:
-  - big_data___ml___ai
+  - _big_data___ml___ai
 level: beginner
 speakers:
   - cyril_delmas

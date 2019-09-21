@@ -22,7 +22,7 @@ SUMMARY:The rise of the web
 UID:0MXH99V8NY9xyeurYCmA
 URL:https://devfesttoulouse.fr/sessions/the_rise_of_the_web
 TRANSP:TRANSPARENT
-CATEGORIES:web
+CATEGORIES:_web
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:## Résumé\nEn Novembre 2017\, j'ai découvert "une backdoor" dan
@@ -46,7 +46,7 @@ UID:Kwery1cbJrx3ZFj6x1JU
 URL:https://devfesttoulouse.fr/sessions/l_histoire_de_la_decouverte_d_une_b
  ackdoor_signe_oneplus
 TRANSP:TRANSPARENT
-CATEGORIES:native_mobile_apps
+CATEGORIES:_native_mobile_apps
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:This talk will give an overview of the WebGPU API that will pro
@@ -62,7 +62,7 @@ UID:5qTyscBWtXLRb04TXEdB
 URL:https://devfesttoulouse.fr/sessions/webgpu__next_generation_3d_graphics
  _on_the_web
 TRANSP:TRANSPARENT
-CATEGORIES:web
+CATEGORIES:_web
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Qui ne s’est jamais fait manipuler ? Évidemment\, on est tous a
@@ -81,7 +81,7 @@ UID:zVUXQkHQtSiGJeIwVd05
 URL:https://devfesttoulouse.fr/sessions/3_techniques_faciles_de_manipulatio
  n
 TRANSP:TRANSPARENT
-CATEGORIES:wtf
+CATEGORIES:_wtf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:L’âgisme dans les fonctions IT\, et en particulier dans le Déve
@@ -102,7 +102,7 @@ UID:pY6MCQBMfIYlIKfHdhL4
 URL:https://devfesttoulouse.fr/sessions/_47_ans___ils_nont_toujours_pas_rem
  arque__
 TRANSP:TRANSPARENT
-CATEGORIES:wtf
+CATEGORIES:_wtf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A lot of things have been said about WebAssembly inside of the\
@@ -121,7 +121,7 @@ UID:2S9XtGGq3ouHnkivEDKC
 URL:https://devfesttoulouse.fr/sessions/rust__webassembly__and_the_future_o
  f_serverless
 TRANSP:TRANSPARENT
-CATEGORIES:cloud___infra
+CATEGORIES:_cloud___infra
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Nos systèmes sont designés de manière optimiste\, de la gestion
@@ -145,7 +145,7 @@ SUMMARY:Le design de l'erreur
 UID:pAMZmFT2wrfqPr9IdeXv
 URL:https://devfesttoulouse.fr/sessions/le_design_de_l_erreur
 TRANSP:TRANSPARENT
-CATEGORIES:method___tools
+CATEGORIES:_method___tools
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Comment faire quand on doit faire le suivi de toute l'infrastru
@@ -173,7 +173,7 @@ UID:xwAvvIJJfDdBD7N4oGa5
 URL:https://devfesttoulouse.fr/sessions/monitoring_ovh__300k_serveurs__27_d
  cs_une_plateforme_de_metriques
 TRANSP:TRANSPARENT
-CATEGORIES:big_data___ml___ai
+CATEGORIES:_big_data___ml___ai
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Nous savons tous développer une API mais avons-nous tous bien i
@@ -191,7 +191,7 @@ UID:Gxr3XZR1HEu14tbneJLb
 URL:https://devfesttoulouse.fr/sessions/_votre_api_web_passe_t_elle_le_cont
  role_technique__
 TRANSP:TRANSPARENT
-CATEGORIES:method___tools
+CATEGORIES:_method___tools
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Have you heard of the code-sharing feature in Kotlin\, accompan
@@ -211,7 +211,7 @@ SUMMARY:A Kotlin multiplatform evolution
 UID:a_kotlin_multiplatform_evolution
 URL:https://devfesttoulouse.fr/sessions/a_kotlin_multiplatform_evolution
 TRANSP:TRANSPARENT
-CATEGORIES:languages
+CATEGORIES:_languages
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:En 2019\, le monde de l’informatique n’a que l’agilité à la bou
@@ -238,7 +238,7 @@ SUMMARY:Le burn-out agile
 UID:KAH9Lyx0b2TKNSQVZNw2
 URL:https://devfesttoulouse.fr/sessions/le_burn_out_agile
 TRANSP:TRANSPARENT
-CATEGORIES:method___tools
+CATEGORIES:_method___tools
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Un chatbot créé par Microsoft qui dérive avec des propos antisé
@@ -272,7 +272,7 @@ UID:ZsAGxn6UZi1hfzz2bwR7
 URL:https://devfesttoulouse.fr/sessions/quand_les_rates_des_ias_nous_renvoi
  ent_a_nos_propres_biais_societaux
 TRANSP:TRANSPARENT
-CATEGORIES:big_data___ml___ai
+CATEGORIES:_big_data___ml___ai
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Dans ce talk je vous montrerai comment expliquer simplement le 
@@ -289,7 +289,7 @@ UID:cnRUAtQNZybQsQa03lAx
 URL:https://devfesttoulouse.fr/sessions/machine_learning_avec_des_allumette
  s_et_des_cotillons
 TRANSP:TRANSPARENT
-CATEGORIES:big_data___ml___ai
+CATEGORIES:_big_data___ml___ai
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Brainfuck est probablement le plus connu des langages de progra
@@ -307,7 +307,7 @@ UID:oiZTE4THbAJeaNVlLc03
 URL:https://devfesttoulouse.fr/sessions/applications_de_brainfuck__langage_
  minimaliste_mais_turing_complet
 TRANSP:TRANSPARENT
-CATEGORIES:wtf
+CATEGORIES:_wtf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sans nécessiter de formation musicale pointue\, tout développeu
@@ -330,7 +330,7 @@ UID:WwHpapkCgEg5IMW5vTId
 URL:https://devfesttoulouse.fr/sessions/live_coding_musical___vous_savez_co
  der___devenez_compositeur_avec_webaudio_et_webmidi__
 TRANSP:TRANSPARENT
-CATEGORIES:web
+CATEGORIES:_web
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:It's a common idea: Dynamic typing gives you freedom to do what
@@ -359,7 +359,7 @@ SUMMARY:The Freedom of Static Typing
 UID:RhWn82dKmICiQulwcVJF
 URL:https://devfesttoulouse.fr/sessions/the_freedom_of_static_typing
 TRANSP:TRANSPARENT
-CATEGORIES:languages
+CATEGORIES:_languages
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:When you start a brand new app or service\, you need to think a
@@ -379,7 +379,7 @@ UID:6E03tbU6L5w0IyjMi7yF
 URL:https://devfesttoulouse.fr/sessions/authentication_authorization_starte
  rs_battle
 TRANSP:TRANSPARENT
-CATEGORIES:method___tools
+CATEGORIES:_method___tools
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Depuis les années 70 tous les constructeurs autos intégrent des
@@ -401,7 +401,7 @@ URL:https://devfesttoulouse.fr/sessions/mon_p____de_voyant_moteur_est_encor
  e_allume___comment_debugger_mon_moteur___plongeon_dans_les_entrailles_des_c
  alculateurs_moteur
 TRANSP:TRANSPARENT
-CATEGORIES:wtf
+CATEGORIES:_wtf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Le numérique fait-il partie du problème ou de la solution quand
@@ -430,26 +430,15 @@ UID:zDbtrtvdLPG1okj07wyI
 URL:https://devfesttoulouse.fr/sessions/_numerique_et_environnement__ou__on
  _aurait_pu_sauver_les_abeilles__on_a_prefere_sortir_un_nouvel_iphone_
 TRANSP:TRANSPARENT
-CATEGORIES:wtf
+CATEGORIES:_wtf
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The singe most important feature of Rust is memory safety. Writ
- ing code with performance of C++\, at a typical development cost\, and with
-  guaranteed absence of certain classes of memory safety related vulnerabili
- ties is something that was not possible before. \n\nHowever\, all popular m
- anaged languages with garbage collection take memory safety for granted\, s
- o this aspect of Rust doesn't bring anything new to the table\, if you alre
- ady use Java or Go. Nevertheless\, Rust can be an interesting choice as a h
- igh-level language\, and this talks explains way.  \n\nThe focus of the tal
- k is fearless concurrency. Data races are a pervasive and unsolved problem 
- in languages like Java and Rust's guaranteed thread safety is a liberating 
- experience for application development. We also touch on some other benefit
- s of the language for high-level tasks:\n\n* predictable performance due to
-  absence of garbage  collection\n*  control over the memory layout of objec
- ts\, which gives you extra performance if you need it\n*  module (crate) sy
- stem that\, at the language level\, prevents dependency hell\n* additional 
- correctness guarantees\, like the absence of iterator validation or strict 
- control of error conditions
+DESCRIPTION:If the new React Context API and Suspense killed Redux (they di
+ dn't)\, surely Hooks kill the need for a form library\, right? Well\, not e
+ xactly. Managing form state is more than just holding your current values i
+ n state\; it's about sync and async validation errors\, and much more! But 
+ that doesn't mean that Hooks are irrelevant to the situation. Hooks make bu
+ ilding forms in React easier than ever before.
 DTSTART:20191003T110000
 DURATION:PT40M
 LOCATION:SII
@@ -457,7 +446,7 @@ SUMMARY:Rust as a High-Level Langage
 UID:PjQDGsFIQoo1By4Ogv3q
 URL:https://devfesttoulouse.fr/sessions/rust_as_a_high_level_langage
 TRANSP:TRANSPARENT
-CATEGORIES:languages
+CATEGORIES:_languages
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Vous aimez VS Code car il est simple\, intuitif et qu'il fait c
@@ -477,7 +466,7 @@ UID:Cej88MtlRVZrJRK0FJ2p
 URL:https://devfesttoulouse.fr/sessions/allo_paris__ici_san_francisco__et_s
  i_on_codait_ensemble_avec_vs_code_
 TRANSP:TRANSPARENT
-CATEGORIES:method___tools
+CATEGORIES:_method___tools
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Jean-Yves Girard\, le génial inventeur des indispensables [mont
@@ -512,7 +501,7 @@ UID:hoiS7Cs5sWwXb632pLh2
 URL:https://devfesttoulouse.fr/sessions/le_troll_dans_ta_machine_____une_co
  urte_introduction_a_la_pensee_de_jean_yves_girard
 TRANSP:TRANSPARENT
-CATEGORIES:wtf
+CATEGORIES:_wtf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Avec mon épouse nous avons commencé à donner de l'argent de poc
@@ -533,7 +522,7 @@ UID:ZmSIPnuidcxjKLVfEKM8
 URL:https://devfesttoulouse.fr/sessions/un_distributeur_automatique_d_argen
  t_de_poche_pour_les_enfants
 TRANSP:TRANSPARENT
-CATEGORIES:wtf
+CATEGORIES:_wtf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Les enfants sont eux-mêmes les bâtisseurs actifs de leurs propr
@@ -552,7 +541,7 @@ SUMMARY:Le jaillissement de l'esprit
 UID:le_jaillissement_de_l_esprit
 URL:https://devfesttoulouse.fr/sessions/le_jaillissement_de_l_esprit
 TRANSP:TRANSPARENT
-CATEGORIES:method___tools
+CATEGORIES:_method___tools
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Programmer le noyau d'un système d'exploitation est un très bon
@@ -573,7 +562,7 @@ UID:tOexEcqeKEztPbNmR4JT
 URL:https://devfesttoulouse.fr/sessions/comprendre_le_role_du_noyau_d_un_sy
  steme_d_exploitation_en_creant_un_from_scratch
 TRANSP:TRANSPARENT
-CATEGORIES:cloud___infra
+CATEGORIES:_cloud___infra
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:DevOps is everywhere\, and every new or existing project is at 
@@ -589,7 +578,7 @@ SUMMARY:DevOps at scale
 UID:aOHds477R7FiM3cnWAXp
 URL:https://devfesttoulouse.fr/sessions/devops_at_scale
 TRANSP:TRANSPARENT
-CATEGORIES:method___tools
+CATEGORIES:_method___tools
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:If the new React Context API and Suspense killed Redux (they di
@@ -605,7 +594,7 @@ SUMMARY:Modern Forms in React
 UID:McfMVcKDdZv68NSo2JIJ
 URL:https://devfesttoulouse.fr/sessions/modern_forms_in_react
 TRANSP:TRANSPARENT
-CATEGORIES:web
+CATEGORIES:_web
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Avec les annonces de l'arrivée de la réalité augmentée (ou RA) 
@@ -630,7 +619,7 @@ UID:qXAvodXoMK3db8ZLcVwb
 URL:https://devfesttoulouse.fr/sessions/a_la_decouverte_de_la_realite_augme
  ntee_avec_arcore
 TRANSP:TRANSPARENT
-CATEGORIES:native_mobile_apps
+CATEGORIES:_native_mobile_apps
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:_« Make it work\, make it right\, make it fast »_ - Kent Beck\n
@@ -651,7 +640,7 @@ SUMMARY:Rockin’ in the Angular World
 UID:niiUNFAFhYnPBiOrcDVf
 URL:https://devfesttoulouse.fr/sessions/rockin_in_the_angular_world
 TRANSP:TRANSPARENT
-CATEGORIES:web
+CATEGORIES:_web
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:De nombreux services en ligne existent pour gérer en toute sécu
@@ -674,7 +663,7 @@ UID:R9O1S7M9oRMmwd0cNBaz
 URL:https://devfesttoulouse.fr/sessions/premiers_pas_avec_un_microcontroleu
  r_et_google_cloud_iot_core
 TRANSP:TRANSPARENT
-CATEGORIES:iot
+CATEGORIES:_iot
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ces dernières années\, les "fabriques de dev" et autres formati
@@ -695,7 +684,7 @@ UID:adcMAUSbsAK27dQJA4Iw
 URL:https://devfesttoulouse.fr/sessions/developpeurs_en_reconversion__devel
  oppeurs_quand_meme__
 TRANSP:TRANSPARENT
-CATEGORIES:wtf
+CATEGORIES:_wtf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Le code barre est une invention qui a radicalement modifié nos 
@@ -713,7 +702,7 @@ SUMMARY:10 est une puissance de 2
 UID:jABRUDzqext8Rx8CmA4j
 URL:https://devfesttoulouse.fr/sessions/10_est_une_puissance_de_2
 TRANSP:TRANSPARENT
-CATEGORIES:wtf
+CATEGORIES:_wtf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Les microservices\, la scalabilité instantanée et les plates-fo
@@ -739,7 +728,7 @@ UID:Qy836EfpA0wC4M6jYcTk
 URL:https://devfesttoulouse.fr/sessions/de_java_a_un_executable_natif___gra
  alvm_et_quarkus_changent_la_donne
 TRANSP:TRANSPARENT
-CATEGORIES:method___tools
+CATEGORIES:_method___tools
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Dans un monde de saveurs complexes et sophistiquées\, la guerre
@@ -760,7 +749,7 @@ UID:rJDTMZMYX57DCKYhW09c
 URL:https://devfesttoulouse.fr/sessions/brace_yourself__vanilla_is_coming__
  back__
 TRANSP:TRANSPARENT
-CATEGORIES:web
+CATEGORIES:_web
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:How a developer can tell if the system is sick just by taking a
@@ -783,7 +772,7 @@ SUMMARY:Four Diseases
 UID:PmoMEVHO3imfUIMXsPai
 URL:https://devfesttoulouse.fr/sessions/four_diseases
 TRANSP:TRANSPARENT
-CATEGORIES:wtf
+CATEGORIES:_wtf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Quel est le point commun entre un jeu de sudoku\, la planificat
@@ -802,6 +791,146 @@ UID:iU4EzEThVDvpaHDsGjOO
 URL:https://devfesttoulouse.fr/sessions/introduction_a_la_programmation_par
  _contraintes
 TRANSP:TRANSPARENT
-CATEGORIES:big_data___ml___ai
+CATEGORIES:_big_data___ml___ai
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Venez poser vos questions aux speakers de manière plus calme et
+  détendue.\n\n* ["Numérique et environnement" ou "On aurait pu sauver les a
+ beilles\, on a préféré sortir un nouvel iPhone"](../_numerique_et_environne
+ ment__ou__on_aurait_pu_sauver_les_abeilles__on_a_prefere_sortir_un_nouvel_i
+ phone_)\n* [A Kotlin multiplatform evolution](../a_kotlin_multiplatform_evo
+ lution)\n* [A la découverte de la réalité augmentée avec ARCore](../a_la_de
+ couverte_de_la_realite_augmentee_avec_arcore)\n* [The rise of the web](../t
+ he_rise_of_the_web)
+DTSTART:20191003T104000
+DURATION:PT30M
+LOCATION:Cenareo
+SUMMARY:Office Hours
+UID:office-hour-01
+URL:https://devfesttoulouse.fr/sessions/office-hour-01
+TRANSP:TRANSPARENT
+CATEGORIES:office-hours
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Venez poser vos questions aux speakers de manière plus calme et
+  détendue.\n\n* [L'histoire de la découverte d'une backdoor signée OnePlus]
+ (../l_histoire_de_la_decouverte_d_une_backdoor_signe_oneplus)\n* [Le burn-o
+ ut agile](../le_burn_out_agile)\n* [Rockin’ in the Angular World](../rockin
+ _in_the_angular_world)\n* [Rust as a High-Level Langage](../rust_as_a_high_
+ level_langage)
+DTSTART:20191003T114000
+DURATION:PT30M
+LOCATION:Cenareo
+SUMMARY:Office Hours
+UID:office-hour-02
+URL:https://devfesttoulouse.fr/sessions/office-hour-02
+TRANSP:TRANSPARENT
+CATEGORIES:office-hours
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Venez poser vos questions aux speakers de manière plus calme et
+  détendue.\n\n* [Allo Paris\, ici San Francisco. Et si on codait ensemble a
+ vec VS Code?](../allo_paris__ici_san_francisco__et_si_on_codait_ensemble_av
+ ec_vs_code_)\n* [Premiers pas avec un microcontrôleur et Google Cloud IoT C
+ ore](../premiers_pas_avec_un_microcontroleur_et_google_cloud_iot_core)\n* [
+ Quand les ratés des IAs nous renvoient à nos propres biais sociétaux](../qu
+ and_les_rates_des_ias_nous_renvoient_a_nos_propres_biais_societaux)\n* [Web
+ GPU: Next-generation 3D Graphics on the Web](../webgpu__next_generation_3d_
+ graphics_on_the_web)
+DTSTART:20191003T124000
+DURATION:PT30M
+LOCATION:Cenareo
+SUMMARY:Office Hours
+UID:office-hour-03
+URL:https://devfesttoulouse.fr/sessions/office-hour-03
+TRANSP:TRANSPARENT
+CATEGORIES:office-hours
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Venez poser vos questions aux speakers de manière plus calme et
+  détendue.\n\n* [3 techniques faciles de manipulation](../3_techniques_faci
+ les_de_manipulation)\n* [Développeurs en reconversion\, développeurs quand 
+ même !](../developpeurs_en_reconversion__developpeurs_quand_meme__)\n* [Le 
+ troll dans ta machine --- Une courte introduction à la pensée de Jean-Yves 
+ Girard](../le_troll_dans_ta_machine_____une_courte_introduction_a_la_pensee
+ _de_jean_yves_girard)\n* [Machine learning avec des allumettes et des cotil
+ lons](../machine_learning_avec_des_allumettes_et_des_cotillons)
+DTSTART:20191003T130500
+DURATION:PT30M
+LOCATION:Cenareo
+SUMMARY:Office Hours
+UID:office-hour-11
+URL:https://devfesttoulouse.fr/sessions/office-hour-11
+TRANSP:TRANSPARENT
+CATEGORIES:office-hours
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Venez poser vos questions aux speakers de manière plus calme et
+  détendue.\n\n* [10 est une puissance de 2](../10_est_une_puissance_de_2)\n
+ * [« 47 ans : ils n’ont toujours pas remarqué … »](../_47_ans___ils_nont_to
+ ujours_pas_remarque__)\n* [Applications de Brainfuck\, langage minimaliste 
+ mais Turing-complet](../applications_de_brainfuck__langage_minimaliste_mais
+ _turing_complet)\n* [Un distributeur automatique d'argent de poche pour les
+  enfants](../un_distributeur_automatique_d_argent_de_poche_pour_les_enfants
+ )
+DTSTART:20191003T142000
+DURATION:PT30M
+LOCATION:Cenareo
+SUMMARY:Office Hours
+UID:office-hour-12
+URL:https://devfesttoulouse.fr/sessions/office-hour-12
+TRANSP:TRANSPARENT
+CATEGORIES:office-hours
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Venez poser vos questions aux speakers de manière plus calme et
+  détendue.\n\n* [De Java à un exécutable natif : GraalVM et Quarkus changen
+ t la donne](../de_java_a_un_executable_natif___graalvm_et_quarkus_changent_
+ la_donne)\n* [Le jaillissement de l'esprit](../le_jaillissement_de_l_esprit
+ )\n* [Live coding musical : vous savez coder ? Devenez compositeur avec Web
+ Audio et WebMIDI !](../live_coding_musical___vous_savez_coder___devenez_com
+ positeur_avec_webaudio_et_webmidi__)\n* [Rust\, WebAssembly\, and the futur
+ e of Serverless](../rust__webassembly__and_the_future_of_serverless)
+DTSTART:20191003T151000
+DURATION:PT30M
+LOCATION:Cenareo
+SUMMARY:Office Hours
+UID:office-hour-04
+URL:https://devfesttoulouse.fr/sessions/office-hour-04
+TRANSP:TRANSPARENT
+CATEGORIES:office-hours
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Venez poser vos questions aux speakers de manière plus calme et
+  détendue.\n\n* [Brace yourself\, 🍦Vanilla is coming … back 🕶!](../brace_
+ yourself__vanilla_is_coming__back__)\n* [Comprendre le rôle du noyau d'un s
+ ystème d'exploitation en en créant un from scratch](../comprendre_le_role_d
+ u_noyau_d_un_systeme_d_exploitation_en_creant_un_from_scratch)\n* [Le desig
+ n de l'erreur](../le_design_de_l_erreur)\n* [The Freedom of Static Typing](
+ ../the_freedom_of_static_typing)
+DTSTART:20191003T161000
+DURATION:PT30M
+LOCATION:Cenareo
+SUMMARY:Office Hours
+UID:office-hour-05
+URL:https://devfesttoulouse.fr/sessions/office-hour-05
+TRANSP:TRANSPARENT
+CATEGORIES:office-hours
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Venez poser vos questions aux speakers de manière plus calme et
+  détendue.\n\n* [Authentication/Authorization Starters Battle](../authentic
+ ation_authorization_starters_battle)\n* [DevOps at scale](../devops_at_scal
+ e)\n* [Four Diseases](../four_diseases)\n* [Monitoring OVH: 300k serveurs\,
+  27 DCs une plateforme de métriques ](../monitoring_ovh__300k_serveurs__27_
+ dcs_une_plateforme_de_metriques)
+DTSTART:20191003T171000
+DURATION:PT30M
+LOCATION:Cenareo
+SUMMARY:Office Hours
+UID:office-hour-06
+URL:https://devfesttoulouse.fr/sessions/office-hour-06
+TRANSP:TRANSPARENT
+CATEGORIES:office-hours
 END:VEVENT
 END:VCALENDAR

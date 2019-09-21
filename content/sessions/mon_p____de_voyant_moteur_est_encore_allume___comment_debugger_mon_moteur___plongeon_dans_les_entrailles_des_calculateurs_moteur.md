@@ -7,7 +7,7 @@ title: >-
 id: fW4yvmVxjXb57vQJhIXu
 format: conference
 tags:
-  - wtf
+  - _wtf
 level: beginner
 speakers:
   - mathieu_passenaud

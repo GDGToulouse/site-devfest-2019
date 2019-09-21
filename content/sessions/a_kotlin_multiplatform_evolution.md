@@ -4,7 +4,7 @@ title: A Kotlin multiplatform evolution
 language: English
 format: conference
 tags:
-  - languages
+  - _languages
 level: advanced
 speakers:
   - liliia_abdulina

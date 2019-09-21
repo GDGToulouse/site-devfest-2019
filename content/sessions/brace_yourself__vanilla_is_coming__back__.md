@@ -5,7 +5,7 @@ id: rJDTMZMYX57DCKYhW09c
 language: français
 format: conference
 tags:
-  - web
+  - _web
 level: intermediate
 speakers:
   - noel_mace

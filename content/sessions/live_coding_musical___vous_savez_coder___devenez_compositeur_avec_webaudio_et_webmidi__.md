@@ -8,7 +8,7 @@ id: WwHpapkCgEg5IMW5vTId
 language: Français
 format: conference
 tags:
-  - web
+  - _web
 level: intermediate
 speakers:
   - sylvain_wallez

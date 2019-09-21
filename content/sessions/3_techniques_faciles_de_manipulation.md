@@ -4,7 +4,7 @@ title: 3 techniques faciles de manipulation
 id: zVUXQkHQtSiGJeIwVd05
 format: quickie
 tags:
-  - wtf
+  - _wtf
 level: beginner
 speakers:
   - marie_viley

@@ -5,7 +5,7 @@ id: 2S9XtGGq3ouHnkivEDKC
 language: English
 format: conference
 tags:
-  - cloud___infra
+  - _cloud___infra
 level: intermediate
 speakers:
   - steve_klabnik

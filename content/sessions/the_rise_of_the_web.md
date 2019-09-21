@@ -4,7 +4,7 @@ title: The rise of the web
 id: 0MXH99V8NY9xyeurYCmA
 format: conference
 tags:
-  - web
+  - _web
 level: beginner
 speakers:
   - loic_ortola

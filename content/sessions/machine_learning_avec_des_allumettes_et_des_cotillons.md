@@ -5,7 +5,7 @@ id: cnRUAtQNZybQsQa03lAx
 language: Français
 format: quickie
 tags:
-  - big_data___ml___ai
+  - _big_data___ml___ai
 level: beginner
 speakers:
   - nicolas_decoster

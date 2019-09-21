@@ -4,7 +4,7 @@ title: DevOps at scale
 id: aOHds477R7FiM3cnWAXp
 format: conference
 tags:
-  - method___tools
+  - _method___tools
 level: beginner
 speakers:
   - adrien_anceau

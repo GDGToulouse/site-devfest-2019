@@ -5,7 +5,7 @@ id: PmoMEVHO3imfUIMXsPai
 language: English
 format: conference
 tags:
-  - wtf
+  - _wtf
 level: beginner
 speakers:
   - piotr_przybyl

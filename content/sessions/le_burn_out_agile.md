@@ -5,7 +5,7 @@ id: KAH9Lyx0b2TKNSQVZNw2
 language: Français
 format: conference
 tags:
-  - method___tools
+  - _method___tools
 level: intermediate
 speakers:
   - cedric_moulard
