@@ -436,24 +436,24 @@ BEGIN:VEVENT
 DESCRIPTION:The singe most important feature of Rust is memory safety. Writ
  ing code with performance of C++\, at a typical development cost\, and with
   guaranteed absence of certain classes of memory safety related vulnerabili
- ties is something that was not possible before. \n\nHowever\, all popular m
- anaged languages with garbage collection take memory safety for granted\, s
- o this aspect of Rust doesn't bring anything new to the table\, if you alre
- ady use Java or Go. Nevertheless\, Rust can be an interesting choice as a h
- igh-level language\, and this talks explains way.  \n\nThe focus of the tal
- k is fearless concurrency. Data races are a pervasive and unsolved problem 
- in languages like Java and Rust's guaranteed thread safety is a liberating 
- experience for application development. We also touch on some other benefit
- s of the language for high-level tasks:\n\n* predictable performance due to
-  absence of garbage  collection\n*  control over the memory layout of objec
- ts\, which gives you extra performance if you need it\n*  module (crate) sy
- stem that\, at the language level\, prevents dependency hell\n* additional 
- correctness guarantees\, like the absence of iterator validation or strict 
- control of error conditions
+ ties is something that was not possible before.\n\nHowever\, all popular ma
+ naged languages with garbage collection take memory safety for granted\, so
+  this aspect of Rust doesn't bring anything new to the table\, if you alrea
+ dy use Java or Go. Nevertheless\, Rust can be an interesting choice as a hi
+ gh-level language\, and this talks explains way.\n\nThe focus of the talk i
+ s fearless concurrency. Data races are a pervasive and unsolved problem in 
+ languages like Java and Rust's guaranteed thread safety is a liberating exp
+ erience for application development. We also touch on some other benefits o
+ f the language for high-level tasks:\n\n* predictable performance due to ab
+ sence of garbage collection\n* control over the memory layout of objects\, 
+ which gives you extra performance if you need it\n* module (crate) system t
+ hat\, at the language level\, prevents dependency hell\n* additional correc
+ tness guarantees\, like the absence of iterator validation or strict contro
+ l of error conditions
 DTSTART:20191003T110000
 DURATION:PT40M
 LOCATION:SII
-SUMMARY:Rust as a High-Level Langage
+SUMMARY:Rust as a High-Level Language
 UID:PjQDGsFIQoo1By4Ogv3q
 URL:https://devfesttoulouse.fr/sessions/rust_as_a_high_level_langage
 TRANSP:TRANSPARENT
@@ -827,8 +827,8 @@ DESCRIPTION:Venez poser vos questions aux speakers de manière plus calme et
   détendue.\n\n* [L'histoire de la découverte d'une backdoor signée OnePlus]
  (../l_histoire_de_la_decouverte_d_une_backdoor_signe_oneplus)\n* [Le burn-o
  ut agile](../le_burn_out_agile)\n* [Rockin’ in the Angular World](../rockin
- _in_the_angular_world)\n* [Rust as a High-Level Langage](../rust_as_a_high_
- level_langage)
+ _in_the_angular_world)\n* [Rust as a High-Level Language](../rust_as_a_high
+ _level_langage)
 DTSTART:20191003T114000
 DURATION:PT30M
 LOCATION:Cenareo
