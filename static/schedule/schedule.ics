@@ -433,12 +433,23 @@ TRANSP:TRANSPARENT
 CATEGORIES:_wtf
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:If the new React Context API and Suspense killed Redux (they di
- dn't)\, surely Hooks kill the need for a form library\, right? Well\, not e
- xactly. Managing form state is more than just holding your current values i
- n state\; it's about sync and async validation errors\, and much more! But 
- that doesn't mean that Hooks are irrelevant to the situation. Hooks make bu
- ilding forms in React easier than ever before.
+DESCRIPTION:The singe most important feature of Rust is memory safety. Writ
+ ing code with performance of C++\, at a typical development cost\, and with
+  guaranteed absence of certain classes of memory safety related vulnerabili
+ ties is something that was not possible before. \n\nHowever\, all popular m
+ anaged languages with garbage collection take memory safety for granted\, s
+ o this aspect of Rust doesn't bring anything new to the table\, if you alre
+ ady use Java or Go. Nevertheless\, Rust can be an interesting choice as a h
+ igh-level language\, and this talks explains way.  \n\nThe focus of the tal
+ k is fearless concurrency. Data races are a pervasive and unsolved problem 
+ in languages like Java and Rust's guaranteed thread safety is a liberating 
+ experience for application development. We also touch on some other benefit
+ s of the language for high-level tasks:\n\n* predictable performance due to
+  absence of garbage  collection\n*  control over the memory layout of objec
+ ts\, which gives you extra performance if you need it\n*  module (crate) sy
+ stem that\, at the language level\, prevents dependency hell\n* additional 
+ correctness guarantees\, like the absence of iterator validation or strict 
+ control of error conditions
 DTSTART:20191003T110000
 DURATION:PT40M
 LOCATION:SII
