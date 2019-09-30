@@ -3,7 +3,7 @@ key: decasoft
 title: DECASOFT
 category: soutien
 order: 8
-logo: /images/partners/logo-decasoft.jpg
+logo: /images/partners/logo-decasoft.png
 website: 'http://www.decasoft.fr/'
 lang: fr
 why: Pour rencontrer les acteurs du marché et s'investir sur l'avenir du numérique

@@ -5,6 +5,19 @@ X-WR-CALDESC:DevFest Toulouse 2019
 X-WR-CALNAME:DevFest Toulouse 2019
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+DESCRIPTION:...où l'on parle aussi de la Pascaline\, de table de logarithme
+ s et d'éviter les erreurs. Et d'en faire.\n
+DTSTART:20191003T090000
+DURATION:PT40M
+LOCATION:Stack Labs
+SUMMARY:Une histoire de l'informatique\, du métier à tisser à la machine de
+  Babbage...
+UID:keynote_open
+URL:https://devfesttoulouse.fr/sessions/keynote_open
+TRANSP:TRANSPARENT
+CATEGORIES:keynote
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Il y a 20 ans\, personne de **sobre** n’aurait utilisé Javascri
  pt pour autre chose que des étoiles filantes qui sortent de ta souris. Non\
  , à l'époque\, on préférait les serveurs d'application en Java!  \nAujourd’
@@ -192,6 +205,30 @@ URL:https://devfesttoulouse.fr/sessions/_votre_api_web_passe_t_elle_le_cont
  role_technique__
 TRANSP:TRANSPARENT
 CATEGORIES:_method___tools
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: Notre secteur d'activité est régulièrement abreuvé de prévisio
+ ns et de tendances : quel sera le prochain langage\, le prochain framework\
+ , la nouvelle architecture\, les nouveaux "use cases"\, les prochaines tech
+ nologies disruptives ? Etc.\n\nDe nombreuses sociétés publient des "tech tr
+ ends" et certaines ont même fait de cette publication un coeur de métier (n
+ otamment les grands cabinets d'analystes). En marge du discours très "marke
+ ting oriented" des entreprises\, il y a également l'omni-présence de nombre
+ ux gourous\, futurologues ou prospectivistes qui jouent aux oracles. Mais i
+ l y a aussi de nombreuses personnalités indépendantes qui ont un discours s
+ ur l'innovation technologique plus libre\, comme par exemple Kevin Kelly ou
+  Simon Wardley.\n\nJe vous propose non pas une vision du futur de plus\, ma
+ is de vous faire part des résultats d'une étude\, que j'ai mené avec d'autr
+ es\, qui analyse et compare les différentes méthodes et approches utilisées
+  pour prédire l'avenir des technologies informatiques.
+DTSTART:20191003T182000
+DURATION:PT40M
+LOCATION:Stack Labs
+SUMMARY:Une analyse critique des "Tech Trends"
+UID:keynote_close
+URL:https://devfesttoulouse.fr/sessions/keynote_close
+TRANSP:TRANSPARENT
+CATEGORIES:keynote
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Have you heard of the code-sharing feature in Kotlin\, accompan
@@ -803,6 +840,20 @@ URL:https://devfesttoulouse.fr/sessions/introduction_a_la_programmation_par
  _contraintes
 TRANSP:TRANSPARENT
 CATEGORIES:_big_data___ml___ai
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Venez poser vos questions aux speakers de manière plus calme et
+  détendue.\n\n* [Une histoire de l'informatique\, du métier à tisser à la m
+ achine de Babbage...](../keynote_open)\n* [Keynote d'ouverture (overflow)](
+ ../keynote_open_overflow)
+DTSTART:20191003T094000
+DURATION:PT30M
+LOCATION:Cenareo
+SUMMARY:Office Hours
+UID:office-hour-00
+URL:https://devfesttoulouse.fr/sessions/office-hour-00
+TRANSP:TRANSPARENT
+CATEGORIES:office-hours
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Venez poser vos questions aux speakers de manière plus calme et

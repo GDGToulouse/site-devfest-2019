@@ -7,4 +7,4 @@ tags:
 speakers: []
 draft: false
 ---
-Surprise!
+[Keynote de fermeture](../keynote_close)

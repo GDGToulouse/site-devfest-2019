@@ -1,10 +1,11 @@
 ---
 key: keynote_open
-title: Keynote d'ouverture
+title: 'Une histoire de l''informatique, du métier à tisser à la machine de Babbage...'
 format: keynote
 tags:
   - keynote
-speakers: []
+speakers:
+  - fabien_tregan
 draft: false
 ---
-Surprise!
+...où l'on parle aussi de la Pascaline, de table de logarithmes et d'éviter les erreurs. Et d'en faire.

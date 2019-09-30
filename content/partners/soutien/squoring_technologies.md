@@ -3,7 +3,7 @@ key: squoring_technologies
 title: Squoring Technologies
 category: soutien
 order: 4
-logo: /images/partners/logo-squoring_technologies.jpg
+logo: /images/partners/logo-squoring_technologies.png
 website: www.squoring.com / www.vector.com/
 lang: fr
 why: >-

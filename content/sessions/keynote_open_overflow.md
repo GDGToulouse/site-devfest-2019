@@ -7,4 +7,4 @@ tags:
 speakers: []
 draft: false
 ---
-Surprise!
+[Keynote d'ouverture](../keynote_open)
