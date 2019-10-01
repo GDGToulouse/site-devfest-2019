@@ -3,7 +3,7 @@ key: cyril_delmas
 name: Cyril Delmas
 id: 1A7LmMXk8EdzhOdUpo6TUAXgBrV2
 feature: false
-company: Lectra
+company: Blue Valet
 city: 'Mérignac, France'
 photoURL: /images/speakers/cyril_delmas.jpg
 socials:
