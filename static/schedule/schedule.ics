@@ -5,6 +5,17 @@ X-WR-CALDESC:DevFest Toulouse 2019
 X-WR-CALNAME:DevFest Toulouse 2019
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+DESCRIPTION:Accueil, thé, café et chocolatines
+DTSTART:20191003T080000
+DURATION:PT60M
+SUMMARY:Accueil
+UID:6gj3q7eh9tefp7jti9brolurui
+URL:https://devfesttoulouse.fr/sessions/__open/
+TRANSP:TRANSPARENT
+CATEGORIES:open
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Il y a 20 ans\, personne de **sobre** n’aurait utilisé Javascri
  pt pour autre chose que des étoiles filantes qui sortent de ta souris. Non\
  , à l'époque\, on préférait les serveurs d'application en Java!  \nAujourd’
@@ -698,6 +709,17 @@ TRANSP:TRANSPARENT
 CATEGORIES:_wtf
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Bon appétit
+DTSTART:20191003T130500
+DURATION:PT60M
+SUMMARY:Déjeuner
+UID:7khi38t5e1g55o1m8ndu1oiarq
+URL:https://devfesttoulouse.fr/sessions/__lunch/
+TRANSP:TRANSPARENT
+CATEGORIES:lunch
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Le code barre est une invention qui a radicalement modifié nos 
  sociétés. Sans elle\, pas d'inventaire efficace\, de supermarchés ou de ven
  te en ligne.\n\nMais comment coder les chiffres de façon fiable avec des pe
@@ -943,5 +965,16 @@ UID:office-hour-06
 URL:https://devfesttoulouse.fr/sessions/office-hour-06
 TRANSP:TRANSPARENT
 CATEGORIES:office-hours
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🎉 Party time
+DTSTART:20191003T193000
+DURATION:PT4H29M
+SUMMARY:Party time
+UID:3dvoj78dodqgaqfr1027rujnu9
+URL:https://devfesttoulouse.fr/sessions/__party/
+TRANSP:TRANSPARENT
+CATEGORIES:party
+LOCATION:
 END:VEVENT
 END:VCALENDAR
