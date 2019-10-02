@@ -16,6 +16,28 @@ CATEGORIES:open
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Surprise!
+DTSTART:20191003T090000
+DURATION:PT30M
+SUMMARY:Keynote d'ouverture
+UID:6r8o3grhmi41cm4h8jq4griin2
+URL:https://devfesttoulouse.fr/sessions/keynote_open/
+TRANSP:TRANSPARENT
+CATEGORIES:keynote
+LOCATION:Stack Labs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Surprise!
+DTSTART:20191003T090000
+DURATION:PT30M
+SUMMARY:Keynote d'ouverture (overflow)
+UID:2p666l6vqe9dol2ruk19133gdt
+URL:https://devfesttoulouse.fr/sessions/keynote_open_overflow/
+TRANSP:TRANSPARENT
+CATEGORIES:keynote
+LOCATION:Airbus
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Il y a 20 ans\, personne de **sobre** n’aurait utilisé Javascri
  pt pour autre chose que des étoiles filantes qui sortent de ta souris. Non\
  , à l'époque\, on préférait les serveurs d'application en Java!  \nAujourd’
@@ -965,6 +987,28 @@ UID:office-hour-06
 URL:https://devfesttoulouse.fr/sessions/office-hour-06
 TRANSP:TRANSPARENT
 CATEGORIES:office-hours
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Surprise!
+DTSTART:20191003T182000
+DURATION:PT30M
+SUMMARY:Keynote de fermeture
+UID:6atl5v1ipdpr9eanph6m72u90k
+URL:https://devfesttoulouse.fr/sessions/keynote_close/
+TRANSP:TRANSPARENT
+CATEGORIES:keynote
+LOCATION:Stack Labs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Surprise!
+DTSTART:20191003T182000
+DURATION:PT30M
+SUMMARY:Keynote de fermeture (overflow)
+UID:55qt0v6nvo5n54ffgau6gdm10k
+URL:https://devfesttoulouse.fr/sessions/keynote_close_overflow/
+TRANSP:TRANSPARENT
+CATEGORIES:keynote
+LOCATION:Airbus
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🎉 Party time
