@@ -4,7 +4,8 @@ title: Office Hours
 format: office-hours
 tags:
   - office-hours
-speakers: []
+speakers:
+  - fabien_tregan
 draft: false
 officeHours:
   - keynote_open
@@ -12,5 +13,5 @@ officeHours:
 ---
 Venez poser vos questions aux speakers de manière plus calme et détendue.
 
-* [Keynote d'ouverture](../keynote_open)
+* [Une histoire de l'informatique, du métier à tisser à la machine de Babbage...](../keynote_open)
 * [Keynote d'ouverture (overflow)](../keynote_open_overflow)
