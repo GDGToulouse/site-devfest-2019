@@ -9,7 +9,7 @@ level: intermediate
 speakers:
   - fs0c131y
 videoId: null
-presentation: null
+presentation: https://github.com/fs0c131y/ConPresentations/blob/master/DevfestToulouse2019.BackdoorOnePlus.pdf
 draft: false
 ---
 ## Résumé
@@ -30,3 +30,10 @@ Native mobile apps
 
 ## Format
 Une conférence de 40 min
+
+---
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">It was a pleasure for me to speak at <a href="https://twitter.com/hashtag/DevFestToulouse?src=hash&amp;ref_src=twsrc%5Etfw">#DevFestToulouse</a>! Thank you all for your very nice feedbacks 🥰<br><br>The video will be available soon and I will publish the slides tomorrow <a href="https://t.co/CCJXQL03Bp">pic.twitter.com/CCJXQL03Bp</a></p>&mdash; Elliot Alderson (@fs0c131y) <a href="https://twitter.com/fs0c131y/status/1179807694041108480?ref_src=twsrc%5Etfw">October 3, 2019</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 

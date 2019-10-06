@@ -11,7 +11,7 @@ speakers:
   - vincent_ogloblinsky
   - wassim_chegham
 videoId: null
-presentation: null
+presentation: https://slides.com/wassimchegham/how-to-be-successful-with-your-next-angular-projects/#/
 draft: false
 ---
 _« Make it work, make it right, make it fast »_ - Kent Beck

@@ -7,9 +7,6 @@ company: Continental Digital Service France
 city: 'Toulouse, France'
 photoURL: /images/speakers/qj7nbl6wiyug1rhqtxf818a46po1.jpg
 socials:
-  - icon: twitter
-    link: 'https://twitter.com/none'
-    name: none
   - icon: github
     link: 'https://github.com/Zorkbomb'
     name: Zorkbomb

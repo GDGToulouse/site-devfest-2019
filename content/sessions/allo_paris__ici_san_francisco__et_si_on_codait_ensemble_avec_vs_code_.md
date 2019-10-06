@@ -10,7 +10,7 @@ speakers:
   - olivier_leplus
   - tiffany_souterre
 videoId: null
-presentation: null
+presentation: https://slides.com/olivierleplus/vscode-collaboration#/3
 draft: false
 ---
 Vous aimez VS Code car il est simple, intuitif et qu'il fait ce que vous lui demandez.   
