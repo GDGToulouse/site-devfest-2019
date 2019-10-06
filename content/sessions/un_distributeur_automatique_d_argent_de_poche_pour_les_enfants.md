@@ -10,7 +10,7 @@ level: beginner
 speakers:
   - richard_fagot
 videoId: null
-presentation: null
+presentation: https://github.com/richard-fagot/distributeur-argent-de-poche/tree/master/Presentation/devfest-2019
 draft: false
 ---
 Avec mon épouse nous avons commencé à donner de l'argent de poche à nos enfants.

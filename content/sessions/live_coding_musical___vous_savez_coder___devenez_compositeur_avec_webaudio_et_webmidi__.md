@@ -23,3 +23,9 @@ Après un rapide tour d'horizon des environnements de codage musical comme Sonic
 Quelques samples bien choisis, une pincée de séquences harmonieuses, une bonne dose d'aléatoire encadré, et hop, tout le monde se mettra à danser ! Et puisque la musique c'est aussi des maths, on parlera de musique générative avec des chaînes de Markov et des L-Systems.
 
 David Guetta n'a qu'à bien se tenir !
+
+---
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">The code for my music live coding talk at <a href="https://twitter.com/DevFestToulouse?ref_src=twsrc%5Etfw">@DevFestToulouse</a> and the code used on stage are available at <a href="https://t.co/DCT1k4UQss">https://t.co/DCT1k4UQss</a><br><br>And here&#39;s a quick recording of the &quot;grand finale&quot;<br>🎶 <a href="https://t.co/TXPrfnHRXG">https://t.co/TXPrfnHRXG</a></p>&mdash; Sylvain Wallez (@bluxte) <a href="https://twitter.com/bluxte/status/1180535831477530624?ref_src=twsrc%5Etfw">October 5, 2019</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 

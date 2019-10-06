@@ -10,7 +10,7 @@ level: beginner
 speakers:
   - piotr_przybyl
 videoId: null
-presentation: null
+presentation: http://przybyl.org/pres/2019/DevFestToulouse-4Diseases/#/title-slide
 draft: false
 ---
 How a developer can tell if the system is sick just by taking a look at the input and the output? If you'd like to know that (plus you like standup comedy), come an see! The treatment is safe ;-)

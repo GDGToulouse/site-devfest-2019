@@ -11,7 +11,7 @@ speakers:
   - christophe_jollivet
   - jeremy_voisin
 videoId: null
-presentation: null
+presentation: https://github.com/JeremyVoisin/discovering-arcore
 draft: false
 ---
 Avec les annonces de l'arrivée de la réalité augmentée (ou RA)  dans Google Maps et Google Search sur Android lors de Google IO 2019, nous constatons que la RA va prendre une place de plus en plus importante dans notre quotidien. La sortie d'ARCore en mars 2018 sur Android a simplifié le développement d’application en RA sur Android.
