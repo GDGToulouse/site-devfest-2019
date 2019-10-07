@@ -9,7 +9,7 @@ tags:
 level: intermediate
 speakers:
   - andrew_radev
-videoId: null
+videoId: qfyhzwYWVn8
 presentation: https://speakerdeck.com/andrewradev/the-freedom-of-static-typing
 draft: false
 ---
