@@ -9,7 +9,7 @@ tags:
 level: beginner
 speakers:
   - nicolas_decoster
-videoId: null
+videoId: KrKEAaNQVTQ
 presentation: null
 draft: false
 ---

@@ -8,7 +8,7 @@ tags:
 level: intermediate
 speakers:
   - francois_guillaume_ribreau
-videoId: null
+videoId: k7IIz7Z1MxM
 presentation: https://www.slideshare.net/FGRibreau/votre-api-passetelle-le-contrle-technique
 draft: false
 ---

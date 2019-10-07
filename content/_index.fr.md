@@ -31,7 +31,7 @@ menu:
 Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants qu'aux professionnels ou tout simplement aux curieux technophiles.
 {{% /home-info %}}
 
-{{< youtube-section link="ZQGRMJzi6yU" title="Les meilleurs moments 2018" class="" >}}
+{{< youtube-section link="AFhHrQIAw3g" title="L'introduction de 2019" class="" >}}
 
 <!-- ... -->
 

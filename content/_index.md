@@ -34,7 +34,7 @@ It is aimed at students, professionals or simply curious technophiles.
 {{% /home-info %}}
 
 
-{{< youtube-section link="ZQGRMJzi6yU" title="Watch 2018 best moments" class="" >}}
+{{< youtube-section link="AFhHrQIAw3g" title="Watch 2019 into" class="" >}}
 
 <!-- ... -->
 

@@ -9,7 +9,7 @@ level: beginner
 speakers:
   - clement_duffau
   - melanie_ducoffe
-videoId: null
+videoId: gB5qsODoGhU
 presentation: null
 draft: false
 ---

@@ -8,7 +8,7 @@ tags:
 level: beginner
 speakers:
   - loic_ortola
-videoId: null
+videoId: wPRwD4rLOVo
 presentation: null
 draft: false
 ---
