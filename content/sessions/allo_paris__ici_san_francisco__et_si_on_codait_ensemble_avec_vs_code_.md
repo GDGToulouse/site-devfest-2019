@@ -9,7 +9,7 @@ level: beginner
 speakers:
   - olivier_leplus
   - tiffany_souterre
-videoId: null
+videoId: oh6o499ktMU
 presentation: https://slides.com/olivierleplus/vscode-collaboration#/3
 draft: false
 ---

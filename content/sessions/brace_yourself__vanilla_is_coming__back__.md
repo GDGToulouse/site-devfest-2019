@@ -9,7 +9,7 @@ tags:
 level: intermediate
 speakers:
   - noel_mace
-videoId: null
+videoId: "-d_Ka7OE4Xk"
 presentation: https://modern-vanilla.wof.show/
 draft: false
 ---

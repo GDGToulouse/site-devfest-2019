@@ -10,7 +10,7 @@ level: beginner
 speakers:
   - christophe_jollivet
   - jeremy_voisin
-videoId: null
+videoId: MPnesJY8f0s
 presentation: https://github.com/JeremyVoisin/discovering-arcore
 draft: false
 ---

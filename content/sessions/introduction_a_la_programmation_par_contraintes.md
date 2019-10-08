@@ -9,7 +9,7 @@ tags:
 level: beginner
 speakers:
   - cyril_delmas
-videoId: null
+videoId: l44o4gt62GM
 presentation: https://cyrildelmas-drive.mycozy.cloud/public?sharecode=SbIDrGv5mU9h
 draft: false
 ---

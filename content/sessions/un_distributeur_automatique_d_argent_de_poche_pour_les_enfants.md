@@ -9,7 +9,7 @@ tags:
 level: beginner
 speakers:
   - richard_fagot
-videoId: null
+videoId: z72VgzUirL4
 presentation: https://github.com/richard-fagot/distributeur-argent-de-poche/tree/master/Presentation/devfest-2019
 draft: false
 ---

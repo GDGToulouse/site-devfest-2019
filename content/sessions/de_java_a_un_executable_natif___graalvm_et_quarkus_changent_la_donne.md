@@ -9,7 +9,7 @@ tags:
 level: beginner
 speakers:
   - guillaume_smet
-videoId: null
+videoId: cLyw7vPr3mo
 presentation: null
 draft: false
 ---
