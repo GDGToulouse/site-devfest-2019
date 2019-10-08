@@ -9,7 +9,7 @@ tags:
 level: beginner
 speakers:
   - aleksey_kladov
-videoId: null
+videoId: AAr6uALbYY0
 presentation: null
 draft: false
 ---

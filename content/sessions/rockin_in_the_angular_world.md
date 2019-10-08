@@ -10,7 +10,7 @@ level: intermediate
 speakers:
   - vincent_ogloblinsky
   - wassim_chegham
-videoId: null
+videoId: OA4-sHevu9s
 presentation: https://slides.com/wassimchegham/how-to-be-successful-with-your-next-angular-projects/#/
 draft: false
 ---

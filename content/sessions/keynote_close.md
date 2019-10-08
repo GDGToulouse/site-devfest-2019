@@ -7,6 +7,7 @@ tags:
 speakers:
   - christian_faure
 draft: false
+videoId: aYA_a0-bplY
 ---
  Notre secteur d'activité est régulièrement abreuvé de prévisions et de tendances : quel sera le prochain langage, le prochain framework, la nouvelle architecture, les nouveaux "use cases", les prochaines technologies disruptives ? Etc.
 
