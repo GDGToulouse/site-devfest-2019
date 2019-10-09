@@ -9,7 +9,7 @@ tags:
 level: intermediate
 speakers:
   - steve_klabnik
-videoId: null
+videoId: qZGimWMYc2E
 presentation: null
 draft: false
 ---
