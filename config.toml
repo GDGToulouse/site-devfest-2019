@@ -29,7 +29,7 @@ googleAnalytics = "UA-37717223-8"
     manifest = "/manifest.json"
     safariPinnedTab = "/safari-pinned-tab.svg"
     themeColor = "#673ab7"
-    googleWebmasterKey = "google80fa308c34b06ee6"
+    googleWebmasterKey = "BcIJYWDHoblML5DO66_b1BGBne9J_7Oq3GjC5SDCKK8"
 
 [params.logos]
     jumbo = "/images/logos/devfest_color_text.png"
