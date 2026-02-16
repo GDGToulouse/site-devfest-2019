@@ -1,10 +1,7 @@
 /resources/
 public/
 node_modules/
-.firebase/
 .idea/
 .vscode/
 yarn-error.log
-
-static/schedule/schedule*.pdf
 .claude/settings.local.json

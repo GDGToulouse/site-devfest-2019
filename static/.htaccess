@@ -1,0 +1,24 @@
+# Page d'erreur 404 personnalisee
+ErrorDocument 404 /404.html
+
+# Compression gzip
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/html text/css text/javascript application/javascript application/json image/svg+xml
+</IfModule>
+
+# Cache longue duree (site archive, contenu immuable)
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType text/html "access plus 1 day"
+    ExpiresByType text/css "access plus 1 year"
+    ExpiresByType application/javascript "access plus 1 year"
+    ExpiresByType image/png "access plus 1 year"
+    ExpiresByType image/jpeg "access plus 1 year"
+    ExpiresByType image/svg+xml "access plus 1 year"
+    ExpiresByType application/pdf "access plus 1 year"
+    ExpiresByType text/calendar "access plus 1 year"
+    ExpiresByType application/json "access plus 1 year"
+</IfModule>
+
+# Type MIME pour les fichiers .ics
+AddType text/calendar .ics

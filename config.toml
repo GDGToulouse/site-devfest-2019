@@ -1,4 +1,4 @@
-baseURL = "https://sandbox-devfesttoulouse.firebaseapp.com/"
+baseURL = "https://2019.devfesttoulouse.fr/"
 languageCode = "en"
 title = "Devfest Toulouse 2019"
 
@@ -11,7 +11,6 @@ enableEmoji = true
 enableRobotsTXT = true
 enableMissingTranslationPlaceholders = true
 
-googleAnalytics = "UA-37717223-8"
 
 [params]
     title = "DevFest Toulouse 2019"
@@ -29,7 +28,6 @@ googleAnalytics = "UA-37717223-8"
     manifest = "/manifest.json"
     safariPinnedTab = "/safari-pinned-tab.svg"
     themeColor = "#673ab7"
-    googleWebmasterKey = "BcIJYWDHoblML5DO66_b1BGBne9J_7Oq3GjC5SDCKK8"
 
 [params.logos]
     jumbo = "/images/logos/devfest_color_text.png"
