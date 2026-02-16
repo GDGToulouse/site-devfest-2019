@@ -1,9 +1,8 @@
 /resources/
 public/
 node_modules/
-.firebase/
 .idea/
 .vscode/
 yarn-error.log
-
-static/schedule/schedule*.pdf
+.hugo_build.lock
+.claude/settings.local.json
